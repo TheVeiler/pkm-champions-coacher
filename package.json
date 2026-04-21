@@ -7,19 +7,29 @@
 		"db:destroy": "docker rm pkm_champions_coach-database",
 		"db:dev": "npm run db:destroy && docker compose --env-file .env.development up",
 		"db:start": "docker compose --env-file .env.production up",
-		"server:install": "cd server && npm run install",
+		"server:install": "cd server && npm install",
 		"server:dev": "cd server && npm run dev",
 		"server:build": "cd server && npm run build",
 		"server:start": "cd server && npm run start",
-		"client:install": "cd client && npm run install",
+		"client:install": "cd client && npm install",
 		"client:dev": "cd client && npm run dev",
 		"client:build": "cd client && npm run build",
 		"client:preview": "cd client && npm run preview",
+		"lint": "eslint",
+		"format": "prettier . --write",
 		"postinstall": "npm run server:install && npm run client:install",
 		"dev": "concurrently 'npm run db:dev' 'npm run server:dev' 'npm run client:dev'",
 		"start": "npm run client:build && concurrently 'npm run db:start' 'npm run server:start'"
 	},
 	"devDependencies": {
-		"concurrently": "^9.2.1"
+		"@eslint/css": "^1.1.0",
+		"@eslint/js": "^10.0.1",
+		"@eslint/json": "^1.2.0",
+		"@eslint/markdown": "^8.0.1",
+		"concurrently": "^9.2.1",
+		"eslint": "^10.2.1",
+		"globals": "^17.5.0",
+		"prettier": "^3.8.3",
+		"typescript-eslint": "^8.59.0"
 	}
 }

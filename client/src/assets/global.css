@@ -47,7 +47,7 @@ body {
 	--glow-purple: rgba(124, 58, 237, 0.4);
 
 	background: radial-gradient(circle at top, #101633, var(--bg-main));
-    box-sizing: border-box;
+	box-sizing: border-box;
 	color: var(--text-main);
 	display: flex;
 	flex-direction: column;
