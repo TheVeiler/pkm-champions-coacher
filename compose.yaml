@@ -1,0 +1,17 @@
+services:
+  database:
+    image: postgres:latest
+    container_name: pkm_champions_coach-database
+    restart: "no"
+    ports:
+      - ${PG_PRT}:5432
+    environment:
+      POSTGRES_HOST: ${PG_HST}
+      POSTGRES_PORT: 5432
+      POSTGRES_USER: ${PG_USR}
+      POSTGRES_PASSWORD: ${PG_PWD}
+      POSTGRES_DB: ${PG_DB}
+    volumes:
+      - ${PATH_TO_APP}/database/init/:/docker-entrypoint-initdb.d
+      - ${PATH_TO_APP}/database/data/:/etc/data
+    command: ["postgres", "-c", "log_statement=all"]
