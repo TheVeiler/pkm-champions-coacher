@@ -1,0 +1,150 @@
+[
+	{
+		"name": "Hardi",
+		"name_en": "Hardy"
+	},
+	{
+		"name": "Solo",
+		"name_en": "Lonely",
+		"increase": "atk",
+		"decrease": "def"
+	},
+	{
+		"name": "Brave",
+		"name_en": "Brave",
+		"increase": "atk",
+		"decrease": "spe"
+	},
+	{
+		"name": "Rigide",
+		"name_en": "Adamant",
+		"increase": "atk",
+		"decrease": "spatk"
+	},
+	{
+		"name": "Mauvais",
+		"name_en": "Naughty",
+		"increase": "atk",
+		"decrease": "spdef"
+	},
+	{
+		"name": "Assuré",
+		"name_en": "Bold",
+		"increase": "def",
+		"decrease": "atk"
+	},
+	{
+		"name": "Docile",
+		"name_en": "Docile",
+		"increase": "def",
+		"decrease": "def"
+	},
+	{
+		"name": "Relax",
+		"name_en": "Relaxed",
+		"increase": "def",
+		"decrease": "spe"
+	},
+	{
+		"name": "Malin",
+		"name_en": "Impish",
+		"increase": "def",
+		"decrease": "spatk"
+	},
+	{
+		"name": "Lâche",
+		"name_en": "Lax",
+		"increase": "def",
+		"decrease": "spdef"
+	},
+	{
+		"name": "Timide",
+		"name_en": "Timid",
+		"increase": "spe",
+		"decrease": "atk"
+	},
+	{
+		"name": "Pressé",
+		"name_en": "Hasty",
+		"increase": "spe",
+		"decrease": "def"
+	},
+	{
+		"name": "Sérieux",
+		"name_en": "Serious",
+		"increase": "spe",
+		"decrease": "spe"
+	},
+	{
+		"name": "Jovial",
+		"name_en": "Jolly",
+		"increase": "spe",
+		"decrease": "spatk"
+	},
+	{
+		"name": "Naïf",
+		"name_en": "Naive",
+		"increase": "spe",
+		"decrease": "spdef"
+	},
+	{
+		"name": "Modeste",
+		"name_en": "Modest",
+		"increase": "spatk",
+		"decrease": "atk"
+	},
+	{
+		"name": "Doux",
+		"name_en": "Mild",
+		"increase": "spatk",
+		"decrease": "def"
+	},
+	{
+		"name": "Discret",
+		"name_en": "Quiet",
+		"increase": "spatk",
+		"decrease": "spe"
+	},
+	{
+		"name": "Pudique",
+		"name_en": "Bashful",
+		"increase": "spatk",
+		"decrease": "spatk"
+	},
+	{
+		"name": "Foufou",
+		"name_en": "Rash",
+		"increase": "spatk",
+		"decrease": "spdef"
+	},
+	{
+		"name": "Calme",
+		"name_en": "Calm",
+		"increase": "spdef",
+		"decrease": "atk"
+	},
+	{
+		"name": "Gentil",
+		"name_en": "Gentle",
+		"increase": "spdef",
+		"decrease": "def"
+	},
+	{
+		"name": "Malpoli",
+		"name_en": "Sassy",
+		"increase": "spdef",
+		"decrease": "spe"
+	},
+	{
+		"name": "Prudent",
+		"name_en": "Careful",
+		"increase": "spdef",
+		"decrease": "spatk"
+	},
+	{
+		"name": "Bizarre",
+		"name_en": "Quirky",
+		"increase": "spdef",
+		"decrease": "spdef"
+	}
+]

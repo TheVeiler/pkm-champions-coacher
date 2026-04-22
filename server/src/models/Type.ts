@@ -1,7 +1,16 @@
 import { DataTypes, Model } from "sequelize";
+
 import sequelize from "../sequelize.js";
 
-class Type extends Model {}
+class Type extends Model {
+	declare name: string;
+}
+
+class TypeEfficiency extends Model {
+	declare defending: string;
+	declare attacking: string;
+	declare efficiency: number;
+}
 
 Type.init(
 	{
@@ -11,34 +20,33 @@ Type.init(
 			primaryKey: true,
 		},
 	},
-	{ sequelize, modelName: "Type" },
+	{ sequelize, timestamps: false },
 );
 
-await Type.sync();
+TypeEfficiency.init(
+	{
+		defending: {
+			type: DataTypes.STRING,
+			allowNull: false,
+			primaryKey: true,
+		},
+		attacking: {
+			type: DataTypes.STRING,
+			allowNull: false,
+			primaryKey: true,
+		},
+		efficiency: {
+			type: DataTypes.FLOAT,
+			allowNull: false,
+			defaultValue: 1,
+		},
+	},
+	{ sequelize, timestamps: false },
+);
 
-const typesList = [
-	{ name: "acier" },
-	{ name: "combat" },
-	{ name: "dragon" },
-	{ name: "eau" },
-	{ name: "électrik" },
-	{ name: "fée" },
-	{ name: "feu" },
-	{ name: "glace" },
-	{ name: "insecte" },
-	{ name: "normal" },
-	{ name: "plante" },
-	{ name: "poison" },
-	{ name: "psy" },
-	{ name: "roche" },
-	{ name: "sol" },
-	{ name: "spectre" },
-	{ name: "ténèbres" },
-	{ name: "vol" },
-];
+Type.belongsToMany(Type, { as: "Defending", through: TypeEfficiency, foreignKey: "defending" });
+Type.belongsToMany(Type, { as: "Attacking", through: TypeEfficiency, foreignKey: "attacking" });
 
-for (const { name } of typesList) {
-	new Type({ name });
-}
+await sequelize.sync();
 
-export default Type;
+export { Type, TypeEfficiency };
