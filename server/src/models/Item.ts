@@ -34,6 +34,6 @@ Item.init(
 	{ sequelize, timestamps: false },
 );
 
-await sequelize.sync();
+await Item.sync({ force: true });
 
 export { Item };

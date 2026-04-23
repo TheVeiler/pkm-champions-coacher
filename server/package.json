@@ -4,6 +4,8 @@
 	"private": true,
 	"type": "module",
 	"scripts": {
+        "seed:dev": "npm run build && node --env-file=../.env.development dist/seed.js",
+        "seed:prod": "npm run build && node --env-file=../.env.production dist/seed.js",
 		"dev": "concurrently 'tsc -w' 'node --watch --env-file=../.env.development dist/index.js'",
 		"build": "tsc",
 		"quickstart": "node --env-file=../.env.production dist/index.js",

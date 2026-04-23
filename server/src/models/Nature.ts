@@ -33,6 +33,6 @@ Nature.init(
 	{ sequelize, timestamps: false },
 );
 
-await sequelize.sync();
+await Nature.sync({ force: true });
 
 export { Nature };

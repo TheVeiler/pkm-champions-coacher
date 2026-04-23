@@ -28,6 +28,6 @@ Ability.init(
 	{ sequelize, tableName: "Abilities", timestamps: false },
 );
 
-await sequelize.sync();
+await Ability.sync({ force: true });
 
 export { Ability };

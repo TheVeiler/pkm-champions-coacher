@@ -47,6 +47,7 @@ TypeEfficiency.init(
 Type.belongsToMany(Type, { as: "Defending", through: TypeEfficiency, foreignKey: "defending" });
 Type.belongsToMany(Type, { as: "Attacking", through: TypeEfficiency, foreignKey: "attacking" });
 
-await sequelize.sync();
+await Type.sync({ force: true });
+await TypeEfficiency.sync({ force: true });
 
 export { Type, TypeEfficiency };

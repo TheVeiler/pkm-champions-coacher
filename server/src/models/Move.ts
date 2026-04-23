@@ -55,6 +55,6 @@ Move.init(
 	{ sequelize, timestamps: false },
 );
 
-await sequelize.sync();
+await Move.sync({ force: true });
 
 export { Move };

@@ -66,6 +66,6 @@ Pokemon.init(
 	{ sequelize, timestamps: false },
 );
 
-await sequelize.sync();
+await Pokemon.sync({ force: true });
 
 export { Pokemon };
