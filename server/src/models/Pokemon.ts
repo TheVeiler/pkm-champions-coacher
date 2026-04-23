@@ -8,12 +8,19 @@ class Pokemon extends Model {
 	declare image: string;
 	declare no: number;
 
-	declare hp: number;
-	declare atk: number;
-	declare def: number;
-	declare spatk: number;
-	declare spdef: number;
-	declare spe: number;
+	declare base_hp: number;
+	declare base_atk: number;
+	declare base_def: number;
+	declare base_spatk: number;
+	declare base_spdef: number;
+	declare base_spe: number;
+
+	declare real_hp: number;
+	declare real_atk: number;
+	declare real_def: number;
+	declare real_spatk: number;
+	declare real_spdef: number;
+	declare real_spe: number;
 }
 
 Pokemon.init(
@@ -38,27 +45,52 @@ Pokemon.init(
 			allowNull: false,
 		},
 
-		hp: {
+		base_hp: {
 			type: DataTypes.INTEGER,
 			allowNull: false,
 		},
-		atk: {
+		base_atk: {
 			type: DataTypes.INTEGER,
 			allowNull: false,
 		},
-		def: {
+		base_def: {
 			type: DataTypes.INTEGER,
 			allowNull: false,
 		},
-		spatk: {
+		base_spatk: {
 			type: DataTypes.INTEGER,
 			allowNull: false,
 		},
-		spdef: {
+		base_spdef: {
 			type: DataTypes.INTEGER,
 			allowNull: false,
 		},
-		spe: {
+		base_spe: {
+			type: DataTypes.INTEGER,
+			allowNull: false,
+		},
+
+		real_hp: {
+			type: DataTypes.INTEGER,
+			allowNull: false,
+		},
+		real_atk: {
+			type: DataTypes.INTEGER,
+			allowNull: false,
+		},
+		real_def: {
+			type: DataTypes.INTEGER,
+			allowNull: false,
+		},
+		real_spatk: {
+			type: DataTypes.INTEGER,
+			allowNull: false,
+		},
+		real_spdef: {
+			type: DataTypes.INTEGER,
+			allowNull: false,
+		},
+		real_spe: {
 			type: DataTypes.INTEGER,
 			allowNull: false,
 		},
