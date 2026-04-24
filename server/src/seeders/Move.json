@@ -1,1 +1,8125 @@
-[]
+[
+	{
+		"name": "Abri",
+		"name_en": "Protect",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Bluff",
+		"name_en": "Fake Out",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Éboulement",
+		"name_en": "Rock Slide",
+		"type": "Roche",
+		"category": "Physique",
+		"pp": 12,
+		"power": 75,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Close Combat",
+		"name_en": "Close Combat",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vent Arrière",
+		"name_en": "Tailwind",
+		"type": "Vol",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Griffes Funestes",
+		"name_en": "Dire Claw",
+		"type": "Poison",
+		"category": "Physique",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Boutefeu",
+		"name_en": "Flare Blitz",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 16,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Dernier Mot",
+		"name_en": "Parting Shot",
+		"type": "Ténèbres",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Coup Bas",
+		"name_en": "Sucker Punch",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 8,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Draco-Griffe",
+		"name_en": "Dragon Claw",
+		"type": "Dragon",
+		"category": "Physique",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Séisme",
+		"name_en": "Earthquake",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Tête de Fer",
+		"name_en": "Iron Head",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Pouvoir Lunaire",
+		"name_en": "Moonblast",
+		"type": "Fée",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 95,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Distorsion",
+		"name_en": "Trick Room",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Génusection",
+		"name_en": "Kowtow Cleave",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 12,
+		"power": 85,
+		"description": ""
+	},
+	{
+		"name": "Aqua-Jet",
+		"name_en": "Aqua Jet",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Hommage Posthume",
+		"name_en": "Last Respects",
+		"type": "Spectre",
+		"category": "Physique",
+		"pp": 12,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Poudre Fureur",
+		"name_en": "Rage Powder",
+		"type": "Insecte",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Aquatacle",
+		"name_en": "Wave Crash",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 12,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Ball'Météo",
+		"name_en": "Weather Ball",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Éclat Magique",
+		"name_en": "Dazzling Gleam",
+		"type": "Fée",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Canicule",
+		"name_en": "Heat Wave",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 95,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Mortier Matcha",
+		"name_en": "Matcha Gotcha",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Ball'Ombre",
+		"name_en": "Shadow Ball",
+		"type": "Spectre",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Plénitude",
+		"name_en": "Calm Mind",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Double Volée",
+		"name_en": "Dual Wingbeat",
+		"type": "Vol",
+		"category": "Physique",
+		"pp": 12,
+		"power": 40,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Eau Revoir",
+		"name_en": "Flip Turn",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Exécu-Son",
+		"name_en": "Throat Chop",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Psyko",
+		"name_en": "Psychic",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Trépignement",
+		"name_en": "Stomping Tantrum",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 12,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Feu Follet",
+		"name_en": "Will-O-Wisp",
+		"type": "Feu",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Encore",
+		"name_en": "Encore",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 8,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Hydrocanon",
+		"name_en": "Hydro Pump",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 110,
+		"accuracy": 80,
+		"description": ""
+	},
+	{
+		"name": "Mégaphone",
+		"name_en": "Hyper Voice",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Lance-Soleil",
+		"name_en": "Solar Beam",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Danse Lames",
+		"name_en": "Swords Dance",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Tonnerre",
+		"name_en": "Thunderbolt",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Coup d'Main",
+		"name_en": "Helping Hand",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Fontaine de Vie",
+		"name_en": "Life Dew",
+		"type": "Eau",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Balayage",
+		"name_en": "Low Kick",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Dark Lariat",
+		"name_en": "Darkest Lariat",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 12,
+		"power": 85,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vent Violent",
+		"name_en": "Hurricane",
+		"type": "Vol",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 110,
+		"accuracy": 70,
+		"description": ""
+	},
+	{
+		"name": "Bombe Beurk",
+		"name_en": "Sludge Bomb",
+		"type": "Poison",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Change-Éclair",
+		"name_en": "Volt Switch",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vent Glace",
+		"name_en": "Icy Wind",
+		"type": "Glace",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 55,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Aurasphère",
+		"name_en": "Aura Sphere",
+		"type": "Combat",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 80,
+		"description": ""
+	},
+	{
+		"name": "Blizzard",
+		"name_en": "Blizzard",
+		"type": "Glace",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 110,
+		"accuracy": 70,
+		"description": ""
+	},
+	{
+		"name": "Draco-Météore",
+		"name_en": "Draco Meteor",
+		"type": "Dragon",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 130,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Telluriforce",
+		"name_en": "Earth Power",
+		"type": "Sol",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Luminocanon",
+		"name_en": "Flash Cannon",
+		"type": "Acier",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Sabotage",
+		"name_en": "Knock Off",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 20,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Rapace",
+		"name_en": "Brave Bird",
+		"type": "Vol",
+		"category": "Physique",
+		"pp": 16,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Pisto-Poing",
+		"name_en": "Bullet Punch",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Fulgurayon",
+		"name_en": "Electro Shot",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 130,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Toile Élek",
+		"name_en": "Electroweb",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 55,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Par Ici",
+		"name_en": "Follow Me",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Requiem",
+		"name_en": "Perish Song",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Esprit Frappeur",
+		"name_en": "Poltergeist",
+		"type": "Spectre",
+		"category": "Physique",
+		"pp": 8,
+		"power": 110,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Clonage",
+		"name_en": "Substitute",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Provoc",
+		"name_en": "Taunt",
+		"type": "Ténèbres",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Voile Aurore",
+		"name_en": "Aurora Veil",
+		"type": "Glace",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Big Splash",
+		"name_en": "Body Press",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vibrécaille",
+		"name_en": "Clanging Scales",
+		"type": "Dragon",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 110,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Dracacophonie",
+		"name_en": "Clangorous Soul",
+		"type": "Dragon",
+		"category": "Statut",
+		"pp": 8,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Entrave",
+		"name_en": "Disable",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Draco-Choc",
+		"name_en": "Dragon Pulse",
+		"type": "Dragon",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 85,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vampibaiser",
+		"name_en": "Draining Kiss",
+		"type": "Fée",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vitesse Extrême",
+		"name_en": "Extreme Speed",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 8,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Laser Glace",
+		"name_en": "Ice Beam",
+		"type": "Glace",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Surchauffe",
+		"name_en": "Overheat",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 130,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Ébullition",
+		"name_en": "Scald",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Ombre Portée",
+		"name_en": "Shadow Sneak",
+		"type": "Spectre",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Poudre Dodo",
+		"name_en": "Sleep Powder",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 75,
+		"description": ""
+	},
+	{
+		"name": "Croc Fatal",
+		"name_en": "Super Fang",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Garde Large",
+		"name_en": "Wide Guard",
+		"type": "Roche",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Lame d'Air",
+		"name_en": "Air Slash",
+		"type": "Vol",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 75,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Piqûre",
+		"name_en": "Bug Bite",
+		"type": "Insecte",
+		"category": "Physique",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Coaching",
+		"name_en": "Coaching",
+		"type": "Combat",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Danse Draco",
+		"name_en": "Dragon Dance",
+		"type": "Dragon",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Vampi-Poing",
+		"name_en": "Drain Punch",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Éruption",
+		"name_en": "Eruption",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 150,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Cavalerie Lourde",
+		"name_en": "High Horsepower",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 12,
+		"power": 95,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Poing Glace",
+		"name_en": "Ice Punch",
+		"type": "Glace",
+		"category": "Physique",
+		"pp": 16,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Mur de Fer",
+		"name_en": "Iron Defense",
+		"type": "Acier",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Poing Sonique",
+		"name_en": "Jet Punch",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 16,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Tempête Verte",
+		"name_en": "Leaf Storm",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 130,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Lumière du Néant",
+		"name_en": "Light of Ruin",
+		"type": "Fée",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 140,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Ocroupi",
+		"name_en": "Muddy Water",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Choc Psy",
+		"name_en": "Psyshock",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Soin",
+		"name_en": "Recover",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Atterrissage",
+		"name_en": "Roost",
+		"type": "Vol",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Aboiement",
+		"name_en": "Snarl",
+		"type": "Ténèbres",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 55,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Vole-Force",
+		"name_en": "Strength Sap",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Zénith",
+		"name_en": "Sunny Day",
+		"type": "Feu",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Acrobatie",
+		"name_en": "Acrobatics",
+		"type": "Vol",
+		"category": "Physique",
+		"pp": 16,
+		"power": 55,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Assurance",
+		"name_en": "Assurance",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 12,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Cognobidon",
+		"name_en": "Belly Drum",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Abattage",
+		"name_en": "Breaking Swipe",
+		"type": "Dragon",
+		"category": "Physique",
+		"pp": 16,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Gonflette",
+		"name_en": "Bulk Up",
+		"type": "Combat",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Piétisol",
+		"name_en": "Bulldoze",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Enroulement",
+		"name_en": "Coil",
+		"type": "Poison",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Mâchouille",
+		"name_en": "Crunch",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vibrobscur",
+		"name_en": "Dark Pulse",
+		"type": "Ténèbres",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Détection",
+		"name_en": "Detect",
+		"type": "Combat",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Damoclès",
+		"name_en": "Double-Edge",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 16,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Draco-Flèches",
+		"name_en": "Dragon Darts",
+		"type": "Dragon",
+		"category": "Physique",
+		"pp": 12,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Éco-Sphère",
+		"name_en": "Energy Ball",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Croco Larme",
+		"name_en": "Fake Tears",
+		"type": "Ténèbres",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Ruse",
+		"name_en": "Feint",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"power": 30,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Lance-Flammes",
+		"name_en": "Flamethrower",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Tricherie",
+		"name_en": "Foul Play",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 16,
+		"power": 95,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Lyophilisation",
+		"name_en": "Freeze-Dry",
+		"type": "Glace",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Giga-Sangsue",
+		"name_en": "Giga Drain",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Détricanon",
+		"name_en": "Gunk Shot",
+		"type": "Poison",
+		"category": "Physique",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 80,
+		"description": ""
+	},
+	{
+		"name": "Tacle Lourd",
+		"name_en": "Heavy Slam",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Ultralaser",
+		"name_en": "Hyper Beam",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 150,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Hypnose",
+		"name_en": "Hypnosis",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 60,
+		"description": ""
+	},
+	{
+		"name": "Possessif",
+		"name_en": "Imprison",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Vampigraine",
+		"name_en": "Leech Seed",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Mur Lumière",
+		"name_en": "Light Screen",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Aqua-Brèche",
+		"name_en": "Liquidation",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 12,
+		"power": 85,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Machination",
+		"name_en": "Nasty Plot",
+		"type": "Ténèbres",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Hantise",
+		"name_en": "Phantom Force",
+		"type": "Spectre",
+		"category": "Physique",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Câlinerie",
+		"name_en": "Play Rough",
+		"type": "Fée",
+		"category": "Physique",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Direct Toxik",
+		"name_en": "Poison Jab",
+		"type": "Poison",
+		"category": "Physique",
+		"pp": 20,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Rayon Gemme",
+		"name_en": "Power Gem",
+		"type": "Roche",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Psycho-Croc",
+		"name_en": "Psychic Fangs",
+		"type": "Psy",
+		"category": "Physique",
+		"pp": 12,
+		"power": 85,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Coupe Psycho",
+		"name_en": "Psycho Cut",
+		"type": "Psy",
+		"category": "Physique",
+		"pp": 20,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vive-Attaque",
+		"name_en": "Quick Attack",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Danse Pluie",
+		"name_en": "Rain Dance",
+		"type": "Eau",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Tomberoche",
+		"name_en": "Rock Tomb",
+		"type": "Roche",
+		"category": "Physique",
+		"pp": 16,
+		"power": 60,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Lame Sainte",
+		"name_en": "Sacred Sword",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 16,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Rafale Écailles",
+		"name_en": "Scale Shot",
+		"type": "Dragon",
+		"category": "Physique",
+		"pp": 20,
+		"power": 25,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Queulonage",
+		"name_en": "Shed Tail",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"power": 0,
+		"description": ""
+	},
+	{
+		"name": "Pico-Défense",
+		"name_en": "Spiky Shield",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Lame de Roc",
+		"name_en": "Stone Edge",
+		"type": "Roche",
+		"category": "Physique",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 80,
+		"description": ""
+	},
+	{
+		"name": "Survinsecte",
+		"name_en": "Struggle Bug",
+		"type": "Insecte",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Fatal-Foudre",
+		"name_en": "Thunder",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 110,
+		"accuracy": 70,
+		"description": ""
+	},
+	{
+		"name": "Cage Éclair",
+		"name_en": "Thunder Wave",
+		"type": "Électrik",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Tour de Magie",
+		"name_en": "Trick",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Triple Axel",
+		"name_en": "Triple Axel",
+		"type": "Glace",
+		"category": "Physique",
+		"pp": 12,
+		"power": 20,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Botte Sucrette",
+		"name_en": "Trop Kick",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 16,
+		"power": 85,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Demi-Tour",
+		"name_en": "U-turn",
+		"type": "Insecte",
+		"category": "Physique",
+		"pp": 20,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Giclédo",
+		"name_en": "Water Spout",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 150,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Cascade",
+		"name_en": "Waterfall",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Psykoud'Boul",
+		"name_en": "Zen Headbutt",
+		"type": "Psy",
+		"category": "Physique",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Vif Roc",
+		"name_en": "Accelerock",
+		"type": "Roche",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Bombe Acide",
+		"name_en": "Acid Spray",
+		"type": "Poison",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Aéropique",
+		"name_en": "Aerial Ace",
+		"type": "Vol",
+		"category": "Physique",
+		"pp": 20,
+		"power": 60,
+		"description": ""
+	},
+	{
+		"name": "Après Vous",
+		"name_en": "After You",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Voix Envoûtante",
+		"name_en": "Alluring Voice",
+		"type": "Fée",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Pouvoir Antique",
+		"name_en": "Ancient Power",
+		"type": "Roche",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Tranch'Aqua",
+		"name_en": "Aqua Cutter",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 20,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Danse Aquatique",
+		"name_en": "Aqua Step",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Avalanche",
+		"name_en": "Avalanche",
+		"type": "Glace",
+		"category": "Physique",
+		"pp": 12,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Relais",
+		"name_en": "Baton Pass",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Baston",
+		"name_en": "Beat Up",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Morsure",
+		"name_en": "Bite",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Lame en Peine",
+		"name_en": "Bitter Blade",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Cœur de Rancœur",
+		"name_en": "Bitter Malice",
+		"type": "Spectre",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Rafale Feu",
+		"name_en": "Blast Burn",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 150,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Pied Brûleur",
+		"name_en": "Blaze Kick",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 12,
+		"power": 85,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Plaquage",
+		"name_en": "Body Slam",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 16,
+		"power": 85,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Casse-Brique",
+		"name_en": "Brick Break",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 16,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Bourdon",
+		"name_en": "Bug Buzz",
+		"type": "Insecte",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Flamme Ultime",
+		"name_en": "Burn Up",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 130,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Charme",
+		"name_en": "Charm",
+		"type": "Fée",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Douche Froide",
+		"name_en": "Chilling Water",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Cotogarde",
+		"name_en": "Cotton Guard",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Malédiction",
+		"name_en": "Curse",
+		"type": "Spectre",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Coup d'Jus",
+		"name_en": "Discharge",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Tunnelier",
+		"name_en": "Drill Run",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Ondes Étranges",
+		"name_en": "Eerie Impulse",
+		"type": "Électrik",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Effort",
+		"name_en": "Endeavor",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 8,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Ten-Danse",
+		"name_en": "Entrainment",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vaste Pouvoir",
+		"name_en": "Expanding Force",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Extrasenseur",
+		"name_en": "Extrasensory",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Façade",
+		"name_en": "Facade",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Danse Plumes",
+		"name_en": "Feather Dance",
+		"type": "Vol",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Laser Hasard",
+		"name_en": "Fickle Beam",
+		"type": "Dragon",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Danse du Feu",
+		"name_en": "Fiery Dance",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Poing Feu",
+		"name_en": "Fire Punch",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 16,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Danse Flammes",
+		"name_en": "Fire Spin",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 35,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Abîme",
+		"name_en": "Fissure",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 8,
+		"accuracy": 30,
+		"description": ""
+	},
+	{
+		"name": "Nitrocharge",
+		"name_en": "Flame Charge",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 20,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Dégommage",
+		"name_en": "Fling",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Magie Florale",
+		"name_en": "Flower Trick",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 12,
+		"power": 70,
+		"description": ""
+	},
+	{
+		"name": "Flying Press",
+		"name_en": "Flying Press",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Exploforce",
+		"name_en": "Focus Blast",
+		"type": "Combat",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 70,
+		"description": ""
+	},
+	{
+		"name": "Puissance",
+		"name_en": "Focus Energy",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Marteau Mastoc",
+		"name_en": "Gigaton Hammer",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 8,
+		"power": 160,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Nœud Herbe",
+		"name_en": "Grass Knot",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Gravité",
+		"name_en": "Gravity",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Marto-Poing",
+		"name_en": "Hammer Arm",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Buée Noire",
+		"name_en": "Haze",
+		"type": "Glace",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Fracass'Tête",
+		"name_en": "Head Smash",
+		"type": "Roche",
+		"category": "Physique",
+		"pp": 8,
+		"power": 150,
+		"accuracy": 80,
+		"description": ""
+	},
+	{
+		"name": "Assaut Frontal",
+		"name_en": "Headlong Rush",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Tacle Feu",
+		"name_en": "Heat Crash",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Châtiment",
+		"name_en": "Hex",
+		"type": "Spectre",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Pied Voltige",
+		"name_en": "High Jump Kick",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 130,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Grondement",
+		"name_en": "Howl",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Hydroblast",
+		"name_en": "Hydro Cannon",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 150,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Crocs Givre",
+		"name_en": "Ice Fang",
+		"type": "Glace",
+		"category": "Physique",
+		"pp": 16,
+		"power": 65,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Marteau de Glace",
+		"name_en": "Ice Hammer",
+		"type": "Glace",
+		"category": "Physique",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Éclats Glace",
+		"name_en": "Ice Shard",
+		"type": "Glace",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Cryo-Pirouette",
+		"name_en": "Ice Spinner",
+		"type": "Glace",
+		"category": "Physique",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Chute Glace",
+		"name_en": "Icicle Crash",
+		"type": "Glace",
+		"category": "Physique",
+		"pp": 12,
+		"power": 85,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Stalagtite",
+		"name_en": "Icicle Spear",
+		"type": "Glace",
+		"category": "Physique",
+		"pp": 20,
+		"power": 25,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Sommation",
+		"name_en": "Instruct",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Cent Rancunes",
+		"name_en": "Lash Out",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 8,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Dernier Recours",
+		"name_en": "Last Resort",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 8,
+		"power": 140,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Lame Feuille",
+		"name_en": "Leaf Blade",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 16,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vampirisme",
+		"name_en": "Leech Life",
+		"type": "Insecte",
+		"category": "Physique",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Lumino-Impact",
+		"name_en": "Lumina Crash",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Furie-Bond",
+		"name_en": "Lunge",
+		"type": "Insecte",
+		"category": "Physique",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Mach Punch",
+		"name_en": "Mach Punch",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Poudre Magique",
+		"name_en": "Magic Powder",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Ultimawashi",
+		"name_en": "Mega Kick",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 75,
+		"description": ""
+	},
+	{
+		"name": "Poing Météore",
+		"name_en": "Meteor Mash",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Aurore",
+		"name_en": "Morning Sun",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Feu Ensorcelé",
+		"name_en": "Mystical Fire",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Tranche-Nuit",
+		"name_en": "Night Slash",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 16,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Frotte-Frimousse",
+		"name_en": "Nuzzle",
+		"type": "Électrik",
+		"category": "Physique",
+		"pp": 20,
+		"power": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Colère",
+		"name_en": "Outrage",
+		"type": "Dragon",
+		"category": "Physique",
+		"pp": 12,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Représailles",
+		"name_en": "Payback",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 12,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Boule Pollen",
+		"name_en": "Pollen Puff",
+		"type": "Insecte",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Prolifération",
+		"name_en": "Population Bomb",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"power": 20,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Mégafouet",
+		"name_en": "Power Whip",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 12,
+		"power": 120,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Lame Pangéenne",
+		"name_en": "Precipice Blades",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 12,
+		"power": 120,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Dissonance Psy",
+		"name_en": "Psychic Noise",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Champ Psychique",
+		"name_en": "Psychic Terrain",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "À la Queue",
+		"name_en": "Quash",
+		"type": "Ténèbres",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Prévention",
+		"name_en": "Quick Guard",
+		"type": "Combat",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Papillodanse",
+		"name_en": "Quiver Dance",
+		"type": "Insecte",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Frénésie",
+		"name_en": "Rage",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Protection",
+		"name_en": "Reflect",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Hurlement",
+		"name_en": "Roar",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Salaison",
+		"name_en": "Salt Cure",
+		"type": "Roche",
+		"category": "Physique",
+		"pp": 16,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Sable Ardent",
+		"name_en": "Scorching Sands",
+		"type": "Sol",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Griffe Ombre",
+		"name_en": "Shadow Claw",
+		"type": "Spectre",
+		"category": "Physique",
+		"pp": 16,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Exuviation",
+		"name_en": "Shell Smash",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Paresse",
+		"name_en": "Slack Off",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Permuvitesse",
+		"name_en": "Speed Swap",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Hache de Pierre",
+		"name_en": "Stone Axe",
+		"type": "Roche",
+		"category": "Physique",
+		"pp": 16,
+		"power": 65,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Vapeur Féérique",
+		"name_en": "Strange Steam",
+		"type": "Fée",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Surpuissance",
+		"name_en": "Superpower",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vantardise",
+		"name_en": "Swagger",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Synthèse",
+		"name_en": "Synthesis",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Indignition",
+		"name_en": "Temper Flare",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 12,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Larcin",
+		"name_en": "Thief",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Poing Éclair",
+		"name_en": "Thunder Punch",
+		"type": "Électrik",
+		"category": "Physique",
+		"pp": 16,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Chant Flamboyant",
+		"name_en": "Torch Song",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Morphing",
+		"name_en": "Transform",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Triple Flèche",
+		"name_en": "Triple Arrows",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Double Laser",
+		"name_en": "Twin Beam",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Prio-Parade",
+		"name_en": "Upper Hand",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 16,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Onde Vide",
+		"name_en": "Vacuum Wave",
+		"type": "Combat",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Électacle",
+		"name_en": "Volt Tackle",
+		"type": "Électrik",
+		"category": "Physique",
+		"pp": 16,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vibraqua",
+		"name_en": "Water Pulse",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Sheauriken",
+		"name_en": "Water Shuriken",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 15,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Cyclone",
+		"name_en": "Whirlwind",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Éclair Fou",
+		"name_en": "Wild Charge",
+		"type": "Électrik",
+		"category": "Physique",
+		"pp": 16,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Martobois",
+		"name_en": "Wood Hammer",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 16,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Bâillement",
+		"name_en": "Yawn",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Vole-Vie",
+		"name_en": "Absorb",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Acide",
+		"name_en": "Acid",
+		"type": "Poison",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Acidarmure",
+		"name_en": "Acid Armor",
+		"type": "Poison",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Acupression",
+		"name_en": "Acupressure",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Aéroblast",
+		"name_en": "Aeroblast",
+		"type": "Vol",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Hâte",
+		"name_en": "Agility",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Tranch'Air",
+		"name_en": "Air Cutter",
+		"type": "Vol",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Interversion",
+		"name_en": "Ally Switch",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Amnésie",
+		"name_en": "Amnesia",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Ancrage",
+		"name_en": "Anchor Shot",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 20,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Acide Malique",
+		"name_en": "Apple Acid",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Anneau Hydro",
+		"name_en": "Aqua Ring",
+		"type": "Eau",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Hydro-Queue",
+		"name_en": "Aqua Tail",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Cogne",
+		"name_en": "Arm Thrust",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 20,
+		"power": 15,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Canon Blindé",
+		"name_en": "Armor Cannon",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Aromathérapie",
+		"name_en": "Aromatherapy",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Brume Capiteuse",
+		"name_en": "Aromatic Mist",
+		"type": "Fée",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Assistance",
+		"name_en": "Assist",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Étonnement",
+		"name_en": "Astonish",
+		"type": "Spectre",
+		"category": "Physique",
+		"pp": 16,
+		"power": 30,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Éclat Spectral",
+		"name_en": "Astral Barrage",
+		"type": "Spectre",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Appel Attaque",
+		"name_en": "Attack Order",
+		"type": "Insecte",
+		"category": "Physique",
+		"pp": 16,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Attraction",
+		"name_en": "Attract",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Roue Libre",
+		"name_en": "Aura Wheel",
+		"type": "Électrik",
+		"category": "Physique",
+		"pp": 12,
+		"power": 110,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Onde Boréale",
+		"name_en": "Aurora Beam",
+		"type": "Glace",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Allègement",
+		"name_en": "Autotomize",
+		"type": "Acier",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Talon-Marteau",
+		"name_en": "Axe Kick",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 120,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Regard Touchant",
+		"name_en": "Baby-Doll Eyes",
+		"type": "Fée",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Évo-Ténébro",
+		"name_en": "Baddy Bad",
+		"type": "Ténèbres",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Blockhaus",
+		"name_en": "Baneful Bunker",
+		"type": "Poison",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Multitoxik",
+		"name_en": "Barb Barrage",
+		"type": "Poison",
+		"category": "Physique",
+		"pp": 12,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Pilonnage",
+		"name_en": "Barrage",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 15,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Bouclier",
+		"name_en": "Barrier",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Bec-Canon",
+		"name_en": "Beak Blast",
+		"type": "Vol",
+		"category": "Physique",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Aegis Maxima",
+		"name_en": "Behemoth Bash",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Gladius Maximus",
+		"name_en": "Behemoth Blade",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Éructation",
+		"name_en": "Belch",
+		"type": "Poison",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 120,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Passe-Cadeau",
+		"name_en": "Bestow",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Patience",
+		"name_en": "Bide",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Étreinte",
+		"name_en": "Bind",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 15,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "",
+		"name_en": "Blazing Torque",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Typhon Hivernal",
+		"name_en": "Bleakwind Storm",
+		"type": "Vol",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 80,
+		"description": ""
+	},
+	{
+		"name": "Barrage",
+		"name_en": "Block",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Lune Rouge",
+		"name_en": "Blood Moon",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 140,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Flamme Bleue",
+		"name_en": "Blue Flare",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 130,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Prise de Bec",
+		"name_en": "Bolt Beak",
+		"type": "Électrik",
+		"category": "Physique",
+		"pp": 12,
+		"power": 85,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Charge Foudre",
+		"name_en": "Bolt Strike",
+		"type": "Électrik",
+		"category": "Physique",
+		"pp": 8,
+		"power": 130,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Massd'Os",
+		"name_en": "Bone Club",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 20,
+		"power": 65,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Charge Os",
+		"name_en": "Bone Rush",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 12,
+		"power": 30,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Osmerang",
+		"name_en": "Bonemerang",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 12,
+		"power": 50,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Bang Sonique",
+		"name_en": "Boomburst",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 140,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Rebond",
+		"name_en": "Bounce",
+		"type": "Vol",
+		"category": "Physique",
+		"pp": 8,
+		"power": 85,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Évo-Thalasso",
+		"name_en": "Bouncy Bubble",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Tapotige",
+		"name_en": "Branch Poke",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Saumure",
+		"name_en": "Brine",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Centrifugifle",
+		"name_en": "Brutal Swing",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Écume",
+		"name_en": "Bubble",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Bulles d'O",
+		"name_en": "Bubble Beam",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Balle Graine",
+		"name_en": "Bullet Seed",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 20,
+		"power": 25,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Rempart Brûlant",
+		"name_en": "Burning Bulwark",
+		"type": "Feu",
+		"category": "Statut",
+		"pp": 12,
+		"power": 0,
+		"description": ""
+	},
+	{
+		"name": "Feu Envieux",
+		"name_en": "Burning Jealousy",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Évo-Dynamo",
+		"name_en": "Buzzy Buzz",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Camouflage",
+		"name_en": "Camouflage",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Séduction",
+		"name_en": "Captivate",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vagues à Lames",
+		"name_en": "Ceaseless Edge",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 16,
+		"power": 65,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Célébration",
+		"name_en": "Celebrate",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Chargeur",
+		"name_en": "Charge",
+		"type": "Électrik",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Rayon Chargé",
+		"name_en": "Charge Beam",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 50,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Babil",
+		"name_en": "Chatter",
+		"type": "Vol",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Neigeux de Mots",
+		"name_en": "Chilly Reception",
+		"type": "Glace",
+		"category": "Statut",
+		"pp": 12,
+		"power": 0,
+		"description": ""
+	},
+	{
+		"name": "Attrition",
+		"name_en": "Chip Away",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Herblast",
+		"name_en": "Chloroblast",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 150,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Projection",
+		"name_en": "Circle Throw",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 60,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Claquoir",
+		"name_en": "Clamp",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 16,
+		"power": 35,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Bain de Smog",
+		"name_en": "Clear Smog",
+		"type": "Poison",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 50,
+		"description": ""
+	},
+	{
+		"name": "Nitro Crash",
+		"name_en": "Collision Course",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "",
+		"name_en": "Combat Torque",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Poing Comète",
+		"name_en": "Comet Punch",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 16,
+		"power": 18,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Vindicte",
+		"name_en": "Comeuppance",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 12,
+		"power": 1,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Confidence",
+		"name_en": "Confide",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Onde Folie",
+		"name_en": "Confuse Ray",
+		"type": "Spectre",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Choc Mental",
+		"name_en": "Confusion",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Constriction",
+		"name_en": "Constrict",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 10,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Conversion",
+		"name_en": "Conversion",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Conversion 2",
+		"name_en": "Conversion 2",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Photocopie",
+		"name_en": "Copycat",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Sanction Suprême",
+		"name_en": "Core Enforcer",
+		"type": "Dragon",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Gaz Corrosif",
+		"name_en": "Corrosive Gas",
+		"type": "Poison",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Force Cosmique",
+		"name_en": "Cosmic Power",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Spore Coton",
+		"name_en": "Cotton Spore",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Riposte",
+		"name_en": "Counter",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Change-Côté",
+		"name_en": "Court Change",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Implore",
+		"name_en": "Covet",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Pince-Masse",
+		"name_en": "Crabhammer",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Vigilance",
+		"name_en": "Crafty Shield",
+		"type": "Fée",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Coup Croix",
+		"name_en": "Cross Chop",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 80,
+		"description": ""
+	},
+	{
+		"name": "Poison Croix",
+		"name_en": "Cross Poison",
+		"type": "Poison",
+		"category": "Physique",
+		"pp": 20,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Éclate Griffe",
+		"name_en": "Crush Claw",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"power": 75,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Presse",
+		"name_en": "Crush Grip",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 8,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Coupe",
+		"name_en": "Cut",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 50,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Trou Noir",
+		"name_en": "Dark Void",
+		"type": "Ténèbres",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 50,
+		"description": ""
+	},
+	{
+		"name": "Nappage",
+		"name_en": "Decorate",
+		"type": "Fée",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Appel Défense",
+		"name_en": "Defend Order",
+		"type": "Insecte",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Boul’Armure",
+		"name_en": "Defense Curl",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Anti-Brume",
+		"name_en": "Defog",
+		"type": "Vol",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Lien du Destin",
+		"name_en": "Destiny Bond",
+		"type": "Spectre",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Orage Adamantin",
+		"name_en": "Diamond Storm",
+		"type": "Roche",
+		"category": "Physique",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Tunnel",
+		"name_en": "Dig",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Voix Enjôleuse",
+		"name_en": "Disarming Voice",
+		"type": "Fée",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 40,
+		"description": ""
+	},
+	{
+		"name": "Plongée",
+		"name_en": "Dive",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Uppercut",
+		"name_en": "Dizzy Punch",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Décalquage",
+		"name_en": "Doodle",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"power": 0,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vœu Destructeur",
+		"name_en": "Doom Desire",
+		"type": "Acier",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 140,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Coup Double",
+		"name_en": "Double Hit",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"power": 35,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Écrous d'Poing",
+		"name_en": "Double Iron Bash",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 8,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Double Pied",
+		"name_en": "Double Kick",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 20,
+		"power": 30,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Double Décharge",
+		"name_en": "Double Shock",
+		"type": "Électrik",
+		"category": "Physique",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Torgnoles",
+		"name_en": "Double Slap",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"power": 15,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Reflet",
+		"name_en": "Double Team",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Draco-Ascension",
+		"name_en": "Dragon Ascent",
+		"type": "Vol",
+		"category": "Physique",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Draco-Souffle",
+		"name_en": "Dragon Breath",
+		"type": "Dragon",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Cri Draconique",
+		"name_en": "Dragon Cheer",
+		"type": "Dragon",
+		"category": "Statut",
+		"pp": 16,
+		"power": 0,
+		"description": ""
+	},
+	{
+		"name": "Draco-Énergie",
+		"name_en": "Dragon Energy",
+		"type": "Dragon",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 150,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Draco-Marteau",
+		"name_en": "Dragon Hammer",
+		"type": "Dragon",
+		"category": "Physique",
+		"pp": 16,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Draco-Rage",
+		"name_en": "Dragon Rage",
+		"type": "Dragon",
+		"category": "Spécial",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Draco-Charge",
+		"name_en": "Dragon Rush",
+		"type": "Dragon",
+		"category": "Physique",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 75,
+		"description": ""
+	},
+	{
+		"name": "Draco-Queue",
+		"name_en": "Dragon Tail",
+		"type": "Dragon",
+		"category": "Physique",
+		"pp": 12,
+		"power": 60,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Dévorêve",
+		"name_en": "Dream Eater",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Bec Vrille",
+		"name_en": "Drill Peck",
+		"type": "Vol",
+		"category": "Physique",
+		"pp": 20,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Tambour Battant",
+		"name_en": "Drum Beating",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Double Baffe",
+		"name_en": "Dual Chop",
+		"type": "Dragon",
+		"category": "Physique",
+		"pp": 16,
+		"power": 40,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Canon Dynamax",
+		"name_en": "Dynamax Cannon",
+		"type": "Dragon",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Dynamo-Poing",
+		"name_en": "Dynamic Punch",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 50,
+		"description": ""
+	},
+	{
+		"name": "Écho",
+		"name_en": "Echoed Voice",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Sort Sinistre",
+		"name_en": "Eerie Spell",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Bombe Œuf",
+		"name_en": "Egg Bomb",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 75,
+		"description": ""
+	},
+	{
+		"name": "Champ Électrifié",
+		"name_en": "Electric Terrain",
+		"type": "Électrik",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Électrisation",
+		"name_en": "Electrify",
+		"type": "Électrik",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Boule Élek",
+		"name_en": "Electro Ball",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Turbo Volt",
+		"name_en": "Electro Drift",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Embargo",
+		"name_en": "Embargo",
+		"type": "Ténèbres",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Flammèche",
+		"name_en": "Ember",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Ténacité",
+		"name_en": "Endure",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Ailes Psycho",
+		"name_en": "Esper Wing",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Laser Infinimax",
+		"name_en": "Eternabeam",
+		"type": "Dragon",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 160,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Explosion",
+		"name_en": "Explosion",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 8,
+		"power": 250,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Verrou Enchanté",
+		"name_en": "Fairy Lock",
+		"type": "Fée",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Vent Féérique",
+		"name_en": "Fairy Wind",
+		"type": "Fée",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Fourbette",
+		"name_en": "False Surrender",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 12,
+		"power": 80,
+		"description": ""
+	},
+	{
+		"name": "Faux-Chage",
+		"name_en": "False Swipe",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Feinte",
+		"name_en": "Feint Attack",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 20,
+		"power": 60,
+		"description": ""
+	},
+	{
+		"name": "Dard Mortel",
+		"name_en": "Fell Stinger",
+		"type": "Insecte",
+		"category": "Physique",
+		"pp": 20,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Fureur Ardente",
+		"name_en": "Fiery Wrath",
+		"type": "Ténèbres",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Décharnement",
+		"name_en": "Fillet Away",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"power": 0,
+		"description": ""
+	},
+	{
+		"name": "Tout ou Rien",
+		"name_en": "Final Gambit",
+		"type": "Combat",
+		"category": "Spécial",
+		"pp": 8,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Déflagration",
+		"name_en": "Fire Blast",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 110,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Crocs Feu",
+		"name_en": "Fire Fang",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 16,
+		"power": 65,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Fouet de Feu",
+		"name_en": "Fire Lash",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 16,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Aire de Feu",
+		"name_en": "Fire Pledge",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Escarmouche",
+		"name_en": "First Impression",
+		"type": "Insecte",
+		"category": "Physique",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Branchicrok",
+		"name_en": "Fishious Rend",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 12,
+		"power": 85,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Gigotage",
+		"name_en": "Flail",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Rebondifeu",
+		"name_en": "Flame Burst",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Roue de Feu",
+		"name_en": "Flame Wheel",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Flash",
+		"name_en": "Flash",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Flatterie",
+		"name_en": "Flatter",
+		"type": "Ténèbres",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Canon Floral",
+		"name_en": "Fleur Cannon",
+		"type": "Fée",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 130,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Pika-Piqué",
+		"name_en": "Floaty Fall",
+		"type": "Vol",
+		"category": "Physique",
+		"pp": 16,
+		"power": 90,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Soin Floral",
+		"name_en": "Floral Healing",
+		"type": "Fée",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Garde Florale",
+		"name_en": "Flower Shield",
+		"type": "Fée",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Vol",
+		"name_en": "Fly",
+		"type": "Vol",
+		"category": "Physique",
+		"pp": 16,
+		"power": 90,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Mitra-Poing",
+		"name_en": "Focus Punch",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 20,
+		"power": 150,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Forte-Paume",
+		"name_en": "Force Palm",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Clairvoyance",
+		"name_en": "Foresight",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "",
+		"name_en": "Forest’s Curse",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Éclair Gelé",
+		"name_en": "Freeze Shock",
+		"type": "Glace",
+		"category": "Physique",
+		"pp": 8,
+		"power": 140,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Regard Glaçant",
+		"name_en": "Freezing Glare",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Évo-Congélo",
+		"name_en": "Freezy Frost",
+		"type": "Glace",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Végé-Attaque",
+		"name_en": "Frenzy Plant",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 150,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Souffle Glacé",
+		"name_en": "Frost Breath",
+		"type": "Glace",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 60,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Frustration",
+		"name_en": "Frustration",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Furie",
+		"name_en": "Fury Attack",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 15,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Taillade",
+		"name_en": "Fury Cutter",
+		"type": "Insecte",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Combo-Griffe",
+		"name_en": "Fury Swipes",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 16,
+		"power": 18,
+		"accuracy": 80,
+		"description": ""
+	},
+	{
+		"name": "Éclair Croix",
+		"name_en": "Fusion Bolt",
+		"type": "Électrik",
+		"category": "Physique",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Flamme Croix",
+		"name_en": "Fusion Flare",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Prescience",
+		"name_en": "Future Sight",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Suc Digestif",
+		"name_en": "Gastro Acid",
+		"type": "Poison",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Lancécrou",
+		"name_en": "Gear Grind",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 16,
+		"power": 50,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Engrenage",
+		"name_en": "Gear Up",
+		"type": "Acier",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Géo-Contrôle",
+		"name_en": "Geomancy",
+		"type": "Fée",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Giga Impact",
+		"name_en": "Giga Impact",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 8,
+		"power": 150,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Lance de Glace",
+		"name_en": "Glacial Lance",
+		"type": "Glace",
+		"category": "Physique",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Ère Glaciaire",
+		"name_en": "Glaciate",
+		"type": "Glace",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 65,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Charge Glaive",
+		"name_en": "Glaive Rush",
+		"type": "Dragon",
+		"category": "Physique",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Regard Médusant",
+		"name_en": "Glare",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Évo-Psycho",
+		"name_en": "Glitzy Glow",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Aire d'Herbe",
+		"name_en": "Grass Pledge",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Siffl'Herbe",
+		"name_en": "Grass Whistle",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 55,
+		"description": ""
+	},
+	{
+		"name": "Gliss'Herbe",
+		"name_en": "Grassy Glide",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 20,
+		"power": 55,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Champ Herbu",
+		"name_en": "Grassy Terrain",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Force G",
+		"name_en": "Grav Apple",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Rugissement",
+		"name_en": "Growl",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Croissance",
+		"name_en": "Growth",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Rancune",
+		"name_en": "Grudge",
+		"type": "Spectre",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Partage Garde",
+		"name_en": "Guard Split",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Permugarde",
+		"name_en": "Guard Swap",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Guillotine",
+		"name_en": "Guillotine",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 8,
+		"accuracy": 30,
+		"description": ""
+	},
+	{
+		"name": "Tornade",
+		"name_en": "Gust",
+		"type": "Vol",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Gyroballe",
+		"name_en": "Gyro Ball",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 8,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Grêle",
+		"name_en": "Hail",
+		"type": "Glace",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Étrennes",
+		"name_en": "Happy Hour",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Pression Extrême",
+		"name_en": "Hard Press",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 12,
+		"power": 0,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Armure",
+		"name_en": "Harden",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Peignée",
+		"name_en": "Head Charge",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 16,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Coup d'Boule",
+		"name_en": "Headbutt",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 16,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Glas de Soin",
+		"name_en": "Heal Bell",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Anti-Soin",
+		"name_en": "Heal Block",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Appel Soins",
+		"name_en": "Heal Order",
+		"type": "Insecte",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Vibra Soin",
+		"name_en": "Heal Pulse",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Vœu Soin",
+		"name_en": "Healing Wish",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Crève-Cœur",
+		"name_en": "Heart Stamp",
+		"type": "Psy",
+		"category": "Physique",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Permucœur",
+		"name_en": "Heart Swap",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Puissance Cachée",
+		"name_en": "Hidden Power",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Retenue",
+		"name_en": "Hold Back",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Mains Jointes",
+		"name_en": "Hold Hands",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Aiguisage",
+		"name_en": "Hone Claws",
+		"type": "Ténèbres",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Koud'Korne",
+		"name_en": "Horn Attack",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Empal'Korne",
+		"name_en": "Horn Drill",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 8,
+		"accuracy": 30,
+		"description": ""
+	},
+	{
+		"name": "Encornebois",
+		"name_en": "Horn Leech",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 12,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Hydrovapeur",
+		"name_en": "Hydro Steam",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Hyperceuse",
+		"name_en": "Hyper Drill",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Croc de Mort",
+		"name_en": "Hyper Fang",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Furie Dimension",
+		"name_en": "Hyperspace Fury",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 8,
+		"power": 100,
+		"description": ""
+	},
+	{
+		"name": "TrouDimensionnel",
+		"name_en": "Hyperspace Hole",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 80,
+		"description": ""
+	},
+	{
+		"name": "Ball'Glace",
+		"name_en": "Ice Ball",
+		"type": "Glace",
+		"category": "Physique",
+		"pp": 20,
+		"power": 30,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Feu Glacé",
+		"name_en": "Ice Burn",
+		"type": "Glace",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 140,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Calcination",
+		"name_en": "Incinerate",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Cortège Funèbre",
+		"name_en": "Infernal Parade",
+		"type": "Spectre",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Feu d'Enfer",
+		"name_en": "Inferno",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 50,
+		"description": ""
+	},
+	{
+		"name": "Harcèlement",
+		"name_en": "Infestation",
+		"type": "Insecte",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Racines",
+		"name_en": "Ingrain",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Déluge Plasmique",
+		"name_en": "Ion Deluge",
+		"type": "Électrik",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Queue de Fer",
+		"name_en": "Iron Tail",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 16,
+		"power": 100,
+		"accuracy": 75,
+		"description": ""
+	},
+	{
+		"name": "Massue Liane",
+		"name_en": "Ivy Cudgel",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Croque Fort",
+		"name_en": "Jaw Lock",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Jugement",
+		"name_en": "Judgment",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Pied Sauté",
+		"name_en": "Jump Kick",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Selve Salvatrice",
+		"name_en": "Jungle Healing",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Poing Karaté",
+		"name_en": "Karate Chop",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 20,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Télékinésie",
+		"name_en": "Kinesis",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 80,
+		"description": ""
+	},
+	{
+		"name": "",
+		"name_en": "King’s Shield",
+		"type": "Acier",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "",
+		"name_en": "Land’s Wrath",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Affilage",
+		"name_en": "Laser Focus",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Ébullilave",
+		"name_en": "Lava Plume",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Phytomixeur",
+		"name_en": "Leaf Tornado",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 65,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Feuillage",
+		"name_en": "Leafage",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Groz'Yeux",
+		"name_en": "Leer",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Léchouille",
+		"name_en": "Lick",
+		"type": "Spectre",
+		"category": "Physique",
+		"pp": 20,
+		"power": 30,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Verrouillage",
+		"name_en": "Lock-On",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Grobisou",
+		"name_en": "Lovely Kiss",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 75,
+		"description": ""
+	},
+	{
+		"name": "Balayette",
+		"name_en": "Low Sweep",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 20,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Air Veinard",
+		"name_en": "Lucky Chant",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Prière Lunaire",
+		"name_en": "Lunar Blessing",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 8,
+		"power": 0,
+		"description": ""
+	},
+	{
+		"name": "Danse Lune",
+		"name_en": "Lunar Dance",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Lumi-Éclat",
+		"name_en": "Luster Purge",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 95,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Reflet Magik",
+		"name_en": "Magic Coat",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Zone Magique",
+		"name_en": "Magic Room",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Feuille Magik",
+		"name_en": "Magical Leaf",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 60,
+		"description": ""
+	},
+	{
+		"name": "",
+		"name_en": "Magical Torque",
+		"type": "Fée",
+		"category": "Physique",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vortex Magma",
+		"name_en": "Magma Storm",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 75,
+		"description": ""
+	},
+	{
+		"name": "Bombe Aimant",
+		"name_en": "Magnet Bomb",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 20,
+		"power": 60,
+		"description": ""
+	},
+	{
+		"name": "Vol Magnétik",
+		"name_en": "Magnet Rise",
+		"type": "Électrik",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Magné-Contrôle",
+		"name_en": "Magnetic Flux",
+		"type": "Électrik",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Ampleur",
+		"name_en": "Magnitude",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Ruée d'Or",
+		"name_en": "Make It Rain",
+		"type": "Acier",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Chaîne Malsaine",
+		"name_en": "Malignant Chain",
+		"type": "Poison",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Tatamigaeshi",
+		"name_en": "Mat Block",
+		"type": "Combat",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Aéromax",
+		"name_en": "Max Airstream",
+		"type": "Vol",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Sinistromax",
+		"name_en": "Max Darkness",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Pyromax",
+		"name_en": "Max Flare",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 12,
+		"power": 100,
+		"description": ""
+	},
+	{
+		"name": "Insectomax",
+		"name_en": "Max Flutterby",
+		"type": "Insecte",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Hydromax",
+		"name_en": "Max Geyser",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Gardomax",
+		"name_en": "Max Guard",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Cryomax",
+		"name_en": "Max Hailstorm",
+		"type": "Glace",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Pugilomax",
+		"name_en": "Max Knuckle",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Fulguromax",
+		"name_en": "Max Lightning",
+		"type": "Électrik",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Psychomax",
+		"name_en": "Max Mindstorm",
+		"type": "Psy",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Toxinomax",
+		"name_en": "Max Ooze",
+		"type": "Poison",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Phytomax",
+		"name_en": "Max Overgrowth",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Spectromax",
+		"name_en": "Max Phantasm",
+		"type": "Spectre",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Sismomax",
+		"name_en": "Max Quake",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Lithomax",
+		"name_en": "Max Rockfall",
+		"type": "Roche",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Enchantomax",
+		"name_en": "Max Starfall",
+		"type": "Fée",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Métallomax",
+		"name_en": "Max Steelspike",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Normalomax",
+		"name_en": "Max Strike",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Dracomax",
+		"name_en": "Max Wyrmwind",
+		"type": "Dragon",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"description": ""
+	},
+	{
+		"name": "Moi d'Abord",
+		"name_en": "Me First",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Regard Noir",
+		"name_en": "Mean Look",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Yoga",
+		"name_en": "Meditate",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Méga-Sangsue",
+		"name_en": "Mega Drain",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Ultimapoing",
+		"name_en": "Mega Punch",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 80,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Mégacorne",
+		"name_en": "Megahorn",
+		"type": "Insecte",
+		"category": "Physique",
+		"pp": 12,
+		"power": 120,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Souvenir",
+		"name_en": "Memento",
+		"type": "Ténèbres",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Fulmifer",
+		"name_en": "Metal Burst",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Griffe Acier",
+		"name_en": "Metal Claw",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 20,
+		"power": 50,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Strido-Son",
+		"name_en": "Metal Sound",
+		"type": "Acier",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Joute Astrale",
+		"name_en": "Meteor Assault",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 8,
+		"power": 150,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Laser Météore",
+		"name_en": "Meteor Beam",
+		"type": "Roche",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 120,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Métronome",
+		"name_en": "Metronome",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Lame Puissante",
+		"name_en": "Mighty Cleave",
+		"type": "Roche",
+		"category": "Physique",
+		"pp": 8,
+		"power": 95,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Lait à Boire",
+		"name_en": "Milk Drink",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Copie",
+		"name_en": "Mimic",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Caboche-Kaboum",
+		"name_en": "Mind Blown",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 150,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Lire-Esprit",
+		"name_en": "Mind Reader",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Lilliput",
+		"name_en": "Minimize",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Œil Miracle",
+		"name_en": "Miracle Eye",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Voile Miroir",
+		"name_en": "Mirror Coat",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Mimique",
+		"name_en": "Mirror Move",
+		"type": "Vol",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Miroi-Tir",
+		"name_en": "Mirror Shot",
+		"type": "Acier",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 65,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Brume",
+		"name_en": "Mist",
+		"type": "Glace",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Ball'Brume",
+		"name_en": "Mist Ball",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 95,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Explo-Brume",
+		"name_en": "Misty Explosion",
+		"type": "Fée",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Champ Brumeux",
+		"name_en": "Misty Terrain",
+		"type": "Fée",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Rayon Spectral",
+		"name_en": "Moongeist Beam",
+		"type": "Spectre",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Rayon Lune",
+		"name_en": "Moonlight",
+		"type": "Fée",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Toupie Éclat",
+		"name_en": "Mortal Spin",
+		"type": "Poison",
+		"category": "Physique",
+		"pp": 16,
+		"power": 30,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Bise Glaciaire",
+		"name_en": "Mountain Gale",
+		"type": "Glace",
+		"category": "Physique",
+		"pp": 12,
+		"power": 120,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Boue-Bombe",
+		"name_en": "Mud Bomb",
+		"type": "Sol",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 65,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Tir de Boue",
+		"name_en": "Mud Shot",
+		"type": "Sol",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 55,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Lance-Boue",
+		"name_en": "Mud Sport",
+		"type": "Sol",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Coud'Boue",
+		"name_en": "Mud-Slap",
+		"type": "Sol",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Coup Varia-Type",
+		"name_en": "Multi-Attack",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Force Mystique",
+		"name_en": "Mystical Power",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 70,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Don Naturel",
+		"name_en": "Natural Gift",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Force Nature",
+		"name_en": "Nature Power",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "",
+		"name_en": "Nature’s Madness",
+		"type": "Fée",
+		"category": "Spécial",
+		"pp": 12,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Poing Dard",
+		"name_en": "Needle Arm",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 16,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Explonuit",
+		"name_en": "Night Daze",
+		"type": "Ténèbres",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Ombre Nocturne",
+		"name_en": "Night Shade",
+		"type": "Spectre",
+		"category": "Spécial",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Cauchemar",
+		"name_en": "Nightmare",
+		"type": "Spectre",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Ultime Bastion",
+		"name_en": "No Retreat",
+		"type": "Combat",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Râle Mâle",
+		"name_en": "Noble Roar",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "",
+		"name_en": "Noxious Torque",
+		"type": "Poison",
+		"category": "Physique",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Mort'Ailes",
+		"name_en": "Oblivion Wing",
+		"type": "Vol",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Blocage",
+		"name_en": "Obstruct",
+		"type": "Ténèbres",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Octazooka",
+		"name_en": "Octazooka",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 65,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Octoprise",
+		"name_en": "Octolock",
+		"type": "Combat",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Flair",
+		"name_en": "Odor Sleuth",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Vent Mauvais",
+		"name_en": "Ominous Wind",
+		"type": "Spectre",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Plat du Jour",
+		"name_en": "Order Up",
+		"type": "Dragon",
+		"category": "Physique",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Onde Originelle",
+		"name_en": "Origin Pulse",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 110,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Overdrive",
+		"name_en": "Overdrive",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Balance",
+		"name_en": "Pain Split",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Parabocharge",
+		"name_en": "Parabolic Charge",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Jackpot",
+		"name_en": "Pay Day",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Picpic",
+		"name_en": "Peck",
+		"type": "Vol",
+		"category": "Physique",
+		"pp": 20,
+		"power": 35,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Tempête Florale",
+		"name_en": "Petal Blizzard",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 16,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Danse Fleurs",
+		"name_en": "Petal Dance",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Photo-Geyser",
+		"name_en": "Photon Geyser",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Pika-Fracas",
+		"name_en": "Pika Papow",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Dard-Nuée",
+		"name_en": "Pin Missile",
+		"type": "Insecte",
+		"category": "Physique",
+		"pp": 20,
+		"power": 25,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Plasma Punch",
+		"name_en": "Plasma Fists",
+		"type": "Électrik",
+		"category": "Physique",
+		"pp": 16,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Camaraderie",
+		"name_en": "Play Nice",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Picore",
+		"name_en": "Pluck",
+		"type": "Vol",
+		"category": "Physique",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Crochet Venin",
+		"name_en": "Poison Fang",
+		"type": "Poison",
+		"category": "Physique",
+		"pp": 16,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Gaz Toxik",
+		"name_en": "Poison Gas",
+		"type": "Poison",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Poudre Toxik",
+		"name_en": "Poison Powder",
+		"type": "Poison",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 75,
+		"description": ""
+	},
+	{
+		"name": "Dard-Venin",
+		"name_en": "Poison Sting",
+		"type": "Poison",
+		"category": "Physique",
+		"pp": 20,
+		"power": 15,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Queue-Poison",
+		"name_en": "Poison Tail",
+		"type": "Poison",
+		"category": "Physique",
+		"pp": 20,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Bond",
+		"name_en": "Pounce",
+		"type": "Insecte",
+		"category": "Physique",
+		"pp": 20,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Écras'Face",
+		"name_en": "Pound",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Nuée de Poudre",
+		"name_en": "Powder",
+		"type": "Insecte",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Poudreuse",
+		"name_en": "Powder Snow",
+		"type": "Glace",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Échange Force",
+		"name_en": "Power Shift",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"power": 0,
+		"description": ""
+	},
+	{
+		"name": "Partage Force",
+		"name_en": "Power Split",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Permuforce",
+		"name_en": "Power Swap",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Astuce Force",
+		"name_en": "Power Trick",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Arrogance",
+		"name_en": "Power Trip",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 12,
+		"power": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Poing Boost",
+		"name_en": "Power-Up Punch",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Cadeau",
+		"name_en": "Present",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 16,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Laser Prisme",
+		"name_en": "Prismatic Laser",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 160,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Rafale Psy",
+		"name_en": "Psybeam",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Lame Psychique",
+		"name_en": "Psyblade",
+		"type": "Psy",
+		"category": "Physique",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Boost",
+		"name_en": "Psych Up",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Psycho-Boost",
+		"name_en": "Psycho Boost",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 140,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Échange Psy",
+		"name_en": "Psycho Shift",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Sprint Bouclier",
+		"name_en": "Psyshield Bash",
+		"type": "Psy",
+		"category": "Physique",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Frappe Psy",
+		"name_en": "Psystrike",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vague Psy",
+		"name_en": "Psywave",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Punition",
+		"name_en": "Punishment",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 8,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Purification",
+		"name_en": "Purify",
+		"type": "Poison",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Poursuite",
+		"name_en": "Pursuit",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Ballon Brûlant",
+		"name_en": "Pyro Ball",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Poing de Colère",
+		"name_en": "Rage Fist",
+		"type": "Spectre",
+		"category": "Physique",
+		"pp": 12,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Taurogne",
+		"name_en": "Raging Bull",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Grand Courroux",
+		"name_en": "Raging Fury",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 12,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Tour Rapide",
+		"name_en": "Rapid Spin",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Tranch'Herbe",
+		"name_en": "Razor Leaf",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 20,
+		"power": 55,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Coqui-Lame",
+		"name_en": "Razor Shell",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 12,
+		"power": 75,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Coupe-Vent",
+		"name_en": "Razor Wind",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Recyclage",
+		"name_en": "Recycle",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Copie-Type",
+		"name_en": "Reflect Type",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Régénération",
+		"name_en": "Refresh",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Chant Antique",
+		"name_en": "Relic Song",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Repos",
+		"name_en": "Rest",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Vengeance",
+		"name_en": "Retaliate",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 8,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Retour",
+		"name_en": "Return",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Danse Éveil",
+		"name_en": "Revelation Dance",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vendetta",
+		"name_en": "Revenge",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Contre",
+		"name_en": "Reversal",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Second Souffle",
+		"name_en": "Revival Blessing",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 1,
+		"power": 0,
+		"description": ""
+	},
+	{
+		"name": "Monte-Tension",
+		"name_en": "Rising Voltage",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Hurle-Temps",
+		"name_en": "Roar of Time",
+		"type": "Dragon",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 150,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Boule Roc",
+		"name_en": "Rock Blast",
+		"type": "Roche",
+		"category": "Physique",
+		"pp": 12,
+		"power": 25,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Escalade",
+		"name_en": "Rock Climb",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 90,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Poliroche",
+		"name_en": "Rock Polish",
+		"type": "Roche",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Éclate-Roc",
+		"name_en": "Rock Smash",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 16,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Jet-Pierres",
+		"name_en": "Rock Throw",
+		"type": "Roche",
+		"category": "Physique",
+		"pp": 16,
+		"power": 50,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Roc-Boulet",
+		"name_en": "Rock Wrecker",
+		"type": "Roche",
+		"category": "Physique",
+		"pp": 8,
+		"power": 150,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Imitation",
+		"name_en": "Role Play",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Mawashi Geri",
+		"name_en": "Rolling Kick",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 16,
+		"power": 60,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Roulade",
+		"name_en": "Rollout",
+		"type": "Roche",
+		"category": "Physique",
+		"pp": 20,
+		"power": 30,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Fertilisation",
+		"name_en": "Rototiller",
+		"type": "Sol",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Chant Canon",
+		"name_en": "Round",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Cataclysme",
+		"name_en": "Ruination",
+		"type": "Ténèbres",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 1,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Feu Sacré",
+		"name_en": "Sacred Fire",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Rune Protect",
+		"name_en": "Safeguard",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Jet de Sable",
+		"name_en": "Sand Attack",
+		"type": "Sol",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Tourbi-Sable",
+		"name_en": "Sand Tomb",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 16,
+		"power": 35,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Typhon Pyrosable",
+		"name_en": "Sandsear Storm",
+		"type": "Sol",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 80,
+		"description": ""
+	},
+	{
+		"name": "Tempête de Sable",
+		"name_en": "Sandstorm",
+		"type": "Roche",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Évo-Écolo",
+		"name_en": "Sappy Seed",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Grimace",
+		"name_en": "Scary Face",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Griffe",
+		"name_en": "Scratch",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Grincement",
+		"name_en": "Screech",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Incendie",
+		"name_en": "Searing Shot",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Force Cachée",
+		"name_en": "Secret Power",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Lame Ouinte",
+		"name_en": "Secret Sword",
+		"type": "Combat",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 85,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Canon Graine",
+		"name_en": "Seed Bomb",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Fulmigraine",
+		"name_en": "Seed Flare",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Frappe Atlas",
+		"name_en": "Seismic Toss",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Destruction",
+		"name_en": "Self-Destruct",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 8,
+		"power": 200,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Os Ombre",
+		"name_en": "Shadow Bone",
+		"type": "Spectre",
+		"category": "Physique",
+		"pp": 12,
+		"power": 85,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Revenant",
+		"name_en": "Shadow Force",
+		"type": "Spectre",
+		"category": "Physique",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Poing Ombre",
+		"name_en": "Shadow Punch",
+		"type": "Spectre",
+		"category": "Physique",
+		"pp": 20,
+		"power": 60,
+		"description": ""
+	},
+	{
+		"name": "Affûtage",
+		"name_en": "Sharpen",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Glaciation",
+		"name_en": "Sheer Cold",
+		"type": "Glace",
+		"category": "Spécial",
+		"pp": 8,
+		"accuracy": 30,
+		"description": ""
+	},
+	{
+		"name": "Kokiyarme",
+		"name_en": "Shell Side Arm",
+		"type": "Poison",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Carapiège",
+		"name_en": "Shell Trap",
+		"type": "Feu",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 150,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Mur Fumigène",
+		"name_en": "Shelter",
+		"type": "Acier",
+		"category": "Statut",
+		"pp": 12,
+		"power": 0,
+		"description": ""
+	},
+	{
+		"name": "Change-Vitesse",
+		"name_en": "Shift Gear",
+		"type": "Acier",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Onde de Choc",
+		"name_en": "Shock Wave",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 60,
+		"description": ""
+	},
+	{
+		"name": "Amass'Sable",
+		"name_en": "Shore Up",
+		"type": "Sol",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Rayon Signal",
+		"name_en": "Signal Beam",
+		"type": "Insecte",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Piège de Fil",
+		"name_en": "Silk Trap",
+		"type": "Insecte",
+		"category": "Statut",
+		"pp": 12,
+		"power": 0,
+		"description": ""
+	},
+	{
+		"name": "Vent Argenté",
+		"name_en": "Silver Wind",
+		"type": "Insecte",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Rayon Simple",
+		"name_en": "Simple Beam",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Berceuse",
+		"name_en": "Sing",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 55,
+		"description": ""
+	},
+	{
+		"name": "Évo-Flambo",
+		"name_en": "Sizzly Slide",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Gribouille",
+		"name_en": "Sketch",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 1,
+		"description": ""
+	},
+	{
+		"name": "Échange",
+		"name_en": "Skill Swap",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Ravage Rampant",
+		"name_en": "Skitter Smack",
+		"type": "Insecte",
+		"category": "Physique",
+		"pp": 12,
+		"power": 70,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Coud'Krâne",
+		"name_en": "Skull Bash",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"power": 130,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Piqué",
+		"name_en": "Sky Attack",
+		"type": "Vol",
+		"category": "Physique",
+		"pp": 8,
+		"power": 140,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Chute Libre",
+		"name_en": "Sky Drop",
+		"type": "Vol",
+		"category": "Physique",
+		"pp": 12,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Stratopercut",
+		"name_en": "Sky Uppercut",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 16,
+		"power": 85,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Souplesse",
+		"name_en": "Slam",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 80,
+		"accuracy": 75,
+		"description": ""
+	},
+	{
+		"name": "Tranche",
+		"name_en": "Slash",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Blabla Dodo",
+		"name_en": "Sleep Talk",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Détritus",
+		"name_en": "Sludge",
+		"type": "Poison",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Cradovague",
+		"name_en": "Sludge Wave",
+		"type": "Poison",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 95,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Anti-Air",
+		"name_en": "Smack Down",
+		"type": "Roche",
+		"category": "Physique",
+		"pp": 16,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Estocorne",
+		"name_en": "Smart Strike",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 12,
+		"power": 70,
+		"description": ""
+	},
+	{
+		"name": "Stimulant",
+		"name_en": "Smelling Salts",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Purédpois",
+		"name_en": "Smog",
+		"type": "Poison",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 30,
+		"accuracy": 70,
+		"description": ""
+	},
+	{
+		"name": "Brouillard",
+		"name_en": "Smokescreen",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Troquenard",
+		"name_en": "Snap Trap",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 16,
+		"power": 35,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Saisie",
+		"name_en": "Snatch",
+		"type": "Ténèbres",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Tir de Précision",
+		"name_en": "Snipe Shot",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Ronflement",
+		"name_en": "Snore",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Chute de Neige",
+		"name_en": "Snowscape",
+		"type": "Glace",
+		"category": "Statut",
+		"pp": 12,
+		"power": 0,
+		"description": ""
+	},
+	{
+		"name": "Détrempage",
+		"name_en": "Soak",
+		"type": "Eau",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "E-Coque",
+		"name_en": "Soft-Boiled",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Lame Solaire",
+		"name_en": "Solar Blade",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 12,
+		"power": 125,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Sonic Boom",
+		"name_en": "Sonic Boom",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 20,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Spatio-Rift",
+		"name_en": "Spacial Rend",
+		"type": "Dragon",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Étincelle",
+		"name_en": "Spark",
+		"type": "Électrik",
+		"category": "Physique",
+		"pp": 20,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Aria de l'Écume",
+		"name_en": "Sparkling Aria",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Évo-Fabulo",
+		"name_en": "Sparkly Swirl",
+		"type": "Fée",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Clepto-Mânes",
+		"name_en": "Spectral Thief",
+		"type": "Spectre",
+		"category": "Physique",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Habanerage",
+		"name_en": "Spicy Extract",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 16,
+		"power": 0,
+		"description": ""
+	},
+	{
+		"name": "Toile",
+		"name_en": "Spider Web",
+		"type": "Insecte",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Picanon",
+		"name_en": "Spike Cannon",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 16,
+		"power": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Picots",
+		"name_en": "Spikes",
+		"type": "Sol",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Dérapage",
+		"name_en": "Spin Out",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Choc Émotionnel",
+		"name_en": "Spirit Break",
+		"type": "Fée",
+		"category": "Physique",
+		"pp": 16,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Tisse Ombre",
+		"name_en": "Spirit Shackle",
+		"type": "Spectre",
+		"category": "Physique",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Relâche",
+		"name_en": "Spit Up",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Dépit",
+		"name_en": "Spite",
+		"type": "Spectre",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Trempette",
+		"name_en": "Splash",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Pika-Splash",
+		"name_en": "Splishy Splash",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Spore",
+		"name_en": "Spore",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Projecteur",
+		"name_en": "Spotlight",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Typhon Passionné",
+		"name_en": "Springtide Storm",
+		"type": "Fée",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 80,
+		"description": ""
+	},
+	{
+		"name": "Piège de Roc",
+		"name_en": "Stealth Rock",
+		"type": "Roche",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Jet de Vapeur",
+		"name_en": "Steam Eruption",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 110,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Bulldoboule",
+		"name_en": "Steamroller",
+		"type": "Insecte",
+		"category": "Physique",
+		"pp": 20,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Métalaser",
+		"name_en": "Steel Beam",
+		"type": "Acier",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 140,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Métalliroue",
+		"name_en": "Steel Roller",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 8,
+		"power": 130,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Ailes d'Acier",
+		"name_en": "Steel Wing",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 20,
+		"power": 70,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Toile Gluante",
+		"name_en": "Sticky Web",
+		"type": "Insecte",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Stockage",
+		"name_en": "Stockpile",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Écrasement",
+		"name_en": "Stomp",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Force Ajoutée",
+		"name_en": "Stored Power",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Yama Arashi",
+		"name_en": "Storm Throw",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Force",
+		"name_en": "Strength",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Sécrétion",
+		"name_en": "String Shot",
+		"type": "Insecte",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Garde-à-Joues",
+		"name_en": "Stuff Cheeks",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Para-Spore",
+		"name_en": "Stun Spore",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 75,
+		"description": ""
+	},
+	{
+		"name": "Sacrifice",
+		"name_en": "Submission",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 20,
+		"power": 80,
+		"accuracy": 80,
+		"description": ""
+	},
+	{
+		"name": "Choc Météore",
+		"name_en": "Sunsteel Strike",
+		"type": "Acier",
+		"category": "Physique",
+		"pp": 8,
+		"power": 100,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Volt Assaut",
+		"name_en": "Supercell Slam",
+		"type": "Électrik",
+		"category": "Physique",
+		"pp": 16,
+		"power": 100,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Ultrason",
+		"name_en": "Supersonic",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 55,
+		"description": ""
+	},
+	{
+		"name": "Surf",
+		"name_en": "Surf",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Torrent de Coups",
+		"name_en": "Surging Strikes",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 8,
+		"power": 25,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Avale",
+		"name_en": "Swallow",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Doux Baiser",
+		"name_en": "Sweet Kiss",
+		"type": "Fée",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 75,
+		"description": ""
+	},
+	{
+		"name": "Doux Parfum",
+		"name_en": "Sweet Scent",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Météores",
+		"name_en": "Swift",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 60,
+		"description": ""
+	},
+	{
+		"name": "Passe-Passe",
+		"name_en": "Switcheroo",
+		"type": "Ténèbres",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Synchropeine",
+		"name_en": "Synchronoise",
+		"type": "Psy",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Bombe au Sirop",
+		"name_en": "Syrup Bomb",
+		"type": "Plante",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 60,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Lame Tachyonique",
+		"name_en": "Tachyon Cutter",
+		"type": "Acier",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 50,
+		"description": ""
+	},
+	{
+		"name": "Charge",
+		"name_en": "Tackle",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Lumi-Queue",
+		"name_en": "Tail Glow",
+		"type": "Insecte",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Plumo-Queue",
+		"name_en": "Tail Slap",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"power": 25,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Mimi-Queue",
+		"name_en": "Tail Whip",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Bélier",
+		"name_en": "Take Down",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 90,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Extravaillance",
+		"name_en": "Take Heart",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"power": 0,
+		"description": ""
+	},
+	{
+		"name": "Goudronnage",
+		"name_en": "Tar Shot",
+		"type": "Roche",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Larme à l'Œil",
+		"name_en": "Tearful Look",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Thérémonie",
+		"name_en": "Teatime",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Techno-Buster",
+		"name_en": "Techno Blast",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Danse Folle",
+		"name_en": "Teeter Dance",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Lévikinésie",
+		"name_en": "Telekinesis",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Téléport",
+		"name_en": "Teleport",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Téra Explosion",
+		"name_en": "Tera Blast",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Pluie Térastrale",
+		"name_en": "Tera Starstorm",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Champlification",
+		"name_en": "Terrain Pulse",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Myria-Flèches",
+		"name_en": "Thousand Arrows",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Myria-Vagues",
+		"name_en": "Thousand Waves",
+		"type": "Sol",
+		"category": "Physique",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Mania",
+		"name_en": "Thrash",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 12,
+		"power": 120,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Voltageôle",
+		"name_en": "Thunder Cage",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Crocs Éclair",
+		"name_en": "Thunder Fang",
+		"type": "Électrik",
+		"category": "Physique",
+		"pp": 16,
+		"power": 65,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Éclair",
+		"name_en": "Thunder Shock",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vif Éclair",
+		"name_en": "Thunderclap",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Coup Fulgurant",
+		"name_en": "Thunderous Kick",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Chatouille",
+		"name_en": "Tickle",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Grand Nettoyage",
+		"name_en": "Tidy Up",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"power": 0,
+		"description": ""
+	},
+	{
+		"name": "Renversement",
+		"name_en": "Topsy-Turvy",
+		"type": "Ténèbres",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Tourmente",
+		"name_en": "Torment",
+		"type": "Ténèbres",
+		"category": "Statut",
+		"pp": 16,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Toxik",
+		"name_en": "Toxic",
+		"type": "Poison",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Pics Toxik",
+		"name_en": "Toxic Spikes",
+		"type": "Poison",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Fil Toxique",
+		"name_en": "Toxic Thread",
+		"type": "Poison",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Désherbaffe",
+		"name_en": "Trailblaze",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 20,
+		"power": 50,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Triplattaque",
+		"name_en": "Tri Attack",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Halloween",
+		"name_en": "Trick-or-Treat",
+		"type": "Spectre",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Triple Plongeon",
+		"name_en": "Triple Dive",
+		"type": "Eau",
+		"category": "Physique",
+		"pp": 12,
+		"power": 30,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Triple Pied",
+		"name_en": "Triple Kick",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 10,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Atout",
+		"name_en": "Trump Card",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 8,
+		"description": ""
+	},
+	{
+		"name": "Double Dard",
+		"name_en": "Twineedle",
+		"type": "Insecte",
+		"category": "Physique",
+		"pp": 20,
+		"power": 25,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Ouragan",
+		"name_en": "Twister",
+		"type": "Dragon",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Brouhaha",
+		"name_en": "Uproar",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 90,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Coup Victoire",
+		"name_en": "V-create",
+		"type": "Feu",
+		"category": "Physique",
+		"pp": 8,
+		"power": 180,
+		"accuracy": 95,
+		"description": ""
+	},
+	{
+		"name": "Évo-Chardasso",
+		"name_en": "Veevee Volley",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Piège de Venin",
+		"name_en": "Venom Drench",
+		"type": "Poison",
+		"category": "Statut",
+		"pp": 20,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Choc Venin",
+		"name_en": "Venoshock",
+		"type": "Poison",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 65,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Danse Victoire",
+		"name_en": "Victory Dance",
+		"type": "Combat",
+		"category": "Statut",
+		"pp": 12,
+		"power": 0,
+		"description": ""
+	},
+	{
+		"name": "Fouet Lianes",
+		"name_en": "Vine Whip",
+		"type": "Plante",
+		"category": "Physique",
+		"pp": 20,
+		"power": 45,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Force Poigne",
+		"name_en": "Vise Grip",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 55,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Corps Perdu",
+		"name_en": "Vital Throw",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 70,
+		"description": ""
+	},
+	{
+		"name": "Réveil Forcé",
+		"name_en": "Wake-Up Slap",
+		"type": "Combat",
+		"category": "Physique",
+		"pp": 12,
+		"power": 70,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Pistolet à O",
+		"name_en": "Water Gun",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 20,
+		"power": 40,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Aire d'Eau",
+		"name_en": "Water Pledge",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Tourniquet",
+		"name_en": "Water Sport",
+		"type": "Eau",
+		"category": "Statut",
+		"pp": 16,
+		"description": ""
+	},
+	{
+		"name": "Siphon",
+		"name_en": "Whirlpool",
+		"type": "Eau",
+		"category": "Spécial",
+		"pp": 16,
+		"power": 35,
+		"accuracy": 85,
+		"description": ""
+	},
+	{
+		"name": "Poing Obscur",
+		"name_en": "Wicked Blow",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 8,
+		"power": 75,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Crash Obscur",
+		"name_en": "Wicked Torque",
+		"type": "Ténèbres",
+		"category": "Physique",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Typhon Fulgurant",
+		"name_en": "Wildbolt Storm",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 12,
+		"power": 100,
+		"accuracy": 80,
+		"description": ""
+	},
+	{
+		"name": "Cru-Ailes",
+		"name_en": "Wing Attack",
+		"type": "Vol",
+		"category": "Physique",
+		"pp": 20,
+		"power": 60,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Vœu",
+		"name_en": "Wish",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Repli",
+		"name_en": "Withdraw",
+		"type": "Eau",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Zone Étrange",
+		"name_en": "Wonder Room",
+		"type": "Psy",
+		"category": "Statut",
+		"pp": 12,
+		"description": ""
+	},
+	{
+		"name": "Rengorgement",
+		"name_en": "Work Up",
+		"type": "Normal",
+		"category": "Statut",
+		"pp": 20,
+		"description": ""
+	},
+	{
+		"name": "Soucigraine",
+		"name_en": "Worry Seed",
+		"type": "Plante",
+		"category": "Statut",
+		"pp": 12,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Ligotage",
+		"name_en": "Wrap",
+		"type": "Normal",
+		"category": "Physique",
+		"pp": 20,
+		"power": 15,
+		"accuracy": 90,
+		"description": ""
+	},
+	{
+		"name": "Essorage",
+		"name_en": "Wring Out",
+		"type": "Normal",
+		"category": "Spécial",
+		"pp": 8,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Plaie Croix",
+		"name_en": "X-Scissor",
+		"type": "Insecte",
+		"category": "Physique",
+		"pp": 16,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Élecanon",
+		"name_en": "Zap Cannon",
+		"type": "Électrik",
+		"category": "Spécial",
+		"pp": 8,
+		"power": 120,
+		"accuracy": 50,
+		"description": ""
+	},
+	{
+		"name": "Électrikipik",
+		"name_en": "Zing Zap",
+		"type": "Électrik",
+		"category": "Physique",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	},
+	{
+		"name": "Pika-Sprint",
+		"name_en": "Zippy Zap",
+		"type": "Électrik",
+		"category": "Physique",
+		"pp": 12,
+		"power": 80,
+		"accuracy": 100,
+		"description": ""
+	}
+]

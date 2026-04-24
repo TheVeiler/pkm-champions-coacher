@@ -35,12 +35,9 @@ Move.init(
 		},
 		power: {
 			type: DataTypes.INTEGER,
-			allowNull: false,
 		},
 		accuracy: {
 			type: DataTypes.INTEGER,
-			allowNull: false,
-			defaultValue: 100,
 		},
 		pp: {
 			type: DataTypes.INTEGER,
