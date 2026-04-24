@@ -1,0 +1,762 @@
+[
+	{
+		"no": 279,
+		"name": "Bekipan",
+		"name_en": "Pelipper",
+		"image": "sprites/279.png",
+		"types": ["Eau", "Vol"],
+		"base_stats": {
+			"hp": 60,
+			"atk": 50,
+			"def": 100,
+			"spatk": 95,
+			"spdef": 70,
+			"spe": 65
+		},
+		"real_stats": {
+			"hp": 135,
+			"atk": 70,
+			"def": 120,
+			"spatk": 115,
+			"spdef": 90,
+			"spe": 85
+		},
+		"megas": [],
+		"abilities": ["Keen Eye", "Drizzle", "Rain Dish"]
+	},
+	{
+		"no": 282,
+		"name": "Gardevoir",
+		"name_en": "Gardevoir",
+		"image": "sprites/282.png",
+		"types": ["Psy", "Fée"],
+		"base_stats": {
+			"hp": 68,
+			"atk": 65,
+			"def": 65,
+			"spatk": 125,
+			"spdef": 115,
+			"spe": 80
+		},
+		"real_stats": {
+			"hp": 143,
+			"atk": 85,
+			"def": 85,
+			"spatk": 145,
+			"spdef": 135,
+			"spe": 100
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Gardevoir",
+				"needed_item": "Gardevoirite"
+			}
+		],
+		"abilities": ["Synchronize", "Trace", "Telepathy"]
+	},
+	{
+		"no": 282,
+		"name": "Méga-Gardevoir",
+		"name_en": "Mega Gardevoir",
+		"image": "sprites/282-mega.png",
+		"types": ["Psy", "Fée"],
+		"base_stats": {
+			"hp": 68,
+			"atk": 85,
+			"def": 65,
+			"spatk": 165,
+			"spdef": 135,
+			"spe": 100
+		},
+		"real_stats": {
+			"hp": 143,
+			"atk": 105,
+			"def": 85,
+			"spatk": 185,
+			"spdef": 155,
+			"spe": 120
+		},
+		"megas": [],
+		"abilities": ["Pixilate"]
+	},
+	{
+		"no": 302,
+		"name": "Ténéfix",
+		"name_en": "Sableye",
+		"image": "sprites/302.png",
+		"types": ["Ténèbres", "Spectre"],
+		"base_stats": {
+			"hp": 50,
+			"atk": 75,
+			"def": 75,
+			"spatk": 65,
+			"spdef": 65,
+			"spe": 50
+		},
+		"real_stats": {
+			"hp": 125,
+			"atk": 95,
+			"def": 95,
+			"spatk": 85,
+			"spdef": 85,
+			"spe": 70
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Ténéfix",
+				"needed_item": "Ténéfixite"
+			}
+		],
+		"abilities": ["Keen Eye", "Stall", "Prankster"]
+	},
+	{
+		"no": 302,
+		"name": "Méga-Ténéfix",
+		"name_en": "Mega Sableye",
+		"image": "sprites/302-mega.png",
+		"types": ["Ténèbres", "Spectre"],
+		"base_stats": {
+			"hp": 50,
+			"atk": 85,
+			"def": 125,
+			"spatk": 85,
+			"spdef": 115,
+			"spe": 20
+		},
+		"real_stats": {
+			"hp": 125,
+			"atk": 105,
+			"def": 145,
+			"spatk": 105,
+			"spdef": 135,
+			"spe": 40
+		},
+		"megas": [],
+		"abilities": ["Magic Bounce"]
+	},
+	{
+		"no": 306,
+		"name": "Galeking",
+		"name_en": "Aggron",
+		"image": "sprites/306.png",
+		"types": ["Acier", "Roche"],
+		"base_stats": {
+			"hp": 70,
+			"atk": 110,
+			"def": 180,
+			"spatk": 60,
+			"spdef": 60,
+			"spe": 50
+		},
+		"real_stats": {
+			"hp": 145,
+			"atk": 130,
+			"def": 200,
+			"spatk": 80,
+			"spdef": 80,
+			"spe": 70
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Galeking",
+				"needed_item": "Galekingite"
+			}
+		],
+		"abilities": ["Sturdy", "Rock Head", "Heavy Metal"]
+	},
+	{
+		"no": 306,
+		"name": "Méga-Galeking",
+		"name_en": "Mega Aggron",
+		"image": "sprites/306-mega.png",
+		"types": ["Acier"],
+		"base_stats": {
+			"hp": 70,
+			"atk": 140,
+			"def": 230,
+			"spatk": 60,
+			"spdef": 80,
+			"spe": 50
+		},
+		"real_stats": {
+			"hp": 145,
+			"atk": 160,
+			"def": 250,
+			"spatk": 80,
+			"spdef": 100,
+			"spe": 70
+		},
+		"megas": [],
+		"abilities": ["Filter"]
+	},
+	{
+		"no": 308,
+		"name": "Charmina",
+		"name_en": "Medicham",
+		"image": "sprites/308.png",
+		"types": ["Combat", "Psy"],
+		"base_stats": {
+			"hp": 60,
+			"atk": 60,
+			"def": 75,
+			"spatk": 60,
+			"spdef": 75,
+			"spe": 80
+		},
+		"real_stats": {
+			"hp": 135,
+			"atk": 80,
+			"def": 95,
+			"spatk": 80,
+			"spdef": 95,
+			"spe": 100
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Charmina",
+				"needed_item": "Charminite"
+			}
+		],
+		"abilities": ["Pure Power", "Telepathy"]
+	},
+	{
+		"no": 308,
+		"name": "Méga-Charmina",
+		"name_en": "Mega Medicham",
+		"image": "sprites/308-mega.png",
+		"types": ["Combat", "Psy"],
+		"base_stats": {
+			"hp": 60,
+			"atk": 100,
+			"def": 85,
+			"spatk": 80,
+			"spdef": 85,
+			"spe": 100
+		},
+		"real_stats": {
+			"hp": 135,
+			"atk": 120,
+			"def": 105,
+			"spatk": 100,
+			"spdef": 105,
+			"spe": 120
+		},
+		"megas": [],
+		"abilities": ["Pure Power"]
+	},
+	{
+		"no": 310,
+		"name": "Élecsprint",
+		"name_en": "Manectric",
+		"image": "sprites/310.png",
+		"types": ["Électrik"],
+		"base_stats": {
+			"hp": 70,
+			"atk": 75,
+			"def": 60,
+			"spatk": 105,
+			"spdef": 60,
+			"spe": 105
+		},
+		"real_stats": {
+			"hp": 145,
+			"atk": 95,
+			"def": 80,
+			"spatk": 125,
+			"spdef": 80,
+			"spe": 125
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Élecsprint",
+				"needed_item": "Élecsprintite"
+			}
+		],
+		"abilities": ["Static", "Lightning Rod", "Minus"]
+	},
+	{
+		"no": 310,
+		"name": "Méga-Élecsprint",
+		"name_en": "Mega Manectric",
+		"image": "sprites/310-mega.png",
+		"types": ["Électrik"],
+		"base_stats": {
+			"hp": 70,
+			"atk": 75,
+			"def": 80,
+			"spatk": 135,
+			"spdef": 80,
+			"spe": 135
+		},
+		"real_stats": {
+			"hp": 145,
+			"atk": 95,
+			"def": 100,
+			"spatk": 155,
+			"spdef": 100,
+			"spe": 155
+		},
+		"megas": [],
+		"abilities": ["Intimidate"]
+	},
+	{
+		"no": 319,
+		"name": "Sharpedo",
+		"name_en": "Sharpedo",
+		"image": "sprites/319.png",
+		"types": ["Eau", "Ténèbres"],
+		"base_stats": {
+			"hp": 70,
+			"atk": 120,
+			"def": 40,
+			"spatk": 95,
+			"spdef": 40,
+			"spe": 95
+		},
+		"real_stats": {
+			"hp": 145,
+			"atk": 140,
+			"def": 60,
+			"spatk": 115,
+			"spdef": 60,
+			"spe": 115
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Sharpedo",
+				"needed_item": "Sharpedite"
+			}
+		],
+		"abilities": ["Rough Skin", "Speed Boost"]
+	},
+	{
+		"no": 319,
+		"name": "Méga-Sharpedo",
+		"name_en": "Mega Sharpedo",
+		"image": "sprites/319-mega.png",
+		"types": ["Eau", "Ténèbres"],
+		"base_stats": {
+			"hp": 70,
+			"atk": 140,
+			"def": 70,
+			"spatk": 110,
+			"spdef": 65,
+			"spe": 105
+		},
+		"real_stats": {
+			"hp": 145,
+			"atk": 160,
+			"def": 90,
+			"spatk": 130,
+			"spdef": 85,
+			"spe": 125
+		},
+		"megas": [],
+		"abilities": ["Strong Jaw"]
+	},
+	{
+		"no": 323,
+		"name": "Camérupt",
+		"name_en": "Camerupt",
+		"image": "sprites/323.png",
+		"types": ["Feu", "Sol"],
+		"base_stats": {
+			"hp": 70,
+			"atk": 100,
+			"def": 70,
+			"spatk": 105,
+			"spdef": 75,
+			"spe": 40
+		},
+		"real_stats": {
+			"hp": 145,
+			"atk": 120,
+			"def": 90,
+			"spatk": 125,
+			"spdef": 95,
+			"spe": 60
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Camérupt",
+				"needed_item": "Caméruptite"
+			}
+		],
+		"abilities": ["Magma Armor", "Solid Rock", "Anger Point"]
+	},
+	{
+		"no": 323,
+		"name": "Méga-Camérupt",
+		"name_en": "Mega Camerupt",
+		"image": "sprites/323-mega.png",
+		"types": ["Feu", "Sol"],
+		"base_stats": {
+			"hp": 70,
+			"atk": 120,
+			"def": 100,
+			"spatk": 145,
+			"spdef": 105,
+			"spe": 20
+		},
+		"real_stats": {
+			"hp": 145,
+			"atk": 140,
+			"def": 120,
+			"spatk": 165,
+			"spdef": 125,
+			"spe": 40
+		},
+		"megas": [],
+		"abilities": ["Sheer Force"]
+	},
+	{
+		"no": 324,
+		"name": "Chartor",
+		"name_en": "Torkoal",
+		"image": "sprites/324.png",
+		"types": ["Feu"],
+		"base_stats": {
+			"hp": 70,
+			"atk": 85,
+			"def": 140,
+			"spatk": 85,
+			"spdef": 70,
+			"spe": 20
+		},
+		"real_stats": {
+			"hp": 145,
+			"atk": 105,
+			"def": 160,
+			"spatk": 105,
+			"spdef": 90,
+			"spe": 40
+		},
+		"megas": [],
+		"abilities": ["White Smoke", "Drought", "Shell Armor"]
+	},
+	{
+		"no": 334,
+		"name": "Altaria",
+		"name_en": "Altaria",
+		"image": "sprites/334.png",
+		"types": ["Dragon", "Vol"],
+		"base_stats": {
+			"hp": 75,
+			"atk": 70,
+			"def": 90,
+			"spatk": 70,
+			"spdef": 105,
+			"spe": 80
+		},
+		"real_stats": {
+			"hp": 150,
+			"atk": 90,
+			"def": 110,
+			"spatk": 90,
+			"spdef": 125,
+			"spe": 100
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Altaria",
+				"needed_item": "Altarite"
+			}
+		],
+		"abilities": ["Natural Cure", "Cloud Nine"]
+	},
+	{
+		"no": 334,
+		"name": "Méga-Altaria",
+		"name_en": "Mega Altaria",
+		"image": "sprites/334-mega.png",
+		"types": ["Dragon", "Fée"],
+		"base_stats": {
+			"hp": 75,
+			"atk": 110,
+			"def": 110,
+			"spatk": 110,
+			"spdef": 105,
+			"spe": 80
+		},
+		"real_stats": {
+			"hp": 150,
+			"atk": 130,
+			"def": 130,
+			"spatk": 130,
+			"spdef": 125,
+			"spe": 100
+		},
+		"megas": [],
+		"abilities": ["Pixilate"]
+	},
+	{
+		"no": 350,
+		"name": "Milobellus",
+		"name_en": "Milotic",
+		"image": "sprites/350.png",
+		"types": ["Eau"],
+		"base_stats": {
+			"hp": 95,
+			"atk": 60,
+			"def": 79,
+			"spatk": 100,
+			"spdef": 125,
+			"spe": 81
+		},
+		"real_stats": {
+			"hp": 170,
+			"atk": 80,
+			"def": 99,
+			"spatk": 120,
+			"spdef": 145,
+			"spe": 101
+		},
+		"megas": [],
+		"abilities": ["Marvel Scale", "Competitive", "Cute Charm"]
+	},
+	{
+		"no": 351,
+		"name": "Morphéo",
+		"name_en": "Castform",
+		"image": "sprites/351.png",
+		"types": ["Normal"],
+		"base_stats": {
+			"hp": 70,
+			"atk": 70,
+			"def": 70,
+			"spatk": 70,
+			"spdef": 70,
+			"spe": 70
+		},
+		"real_stats": {
+			"hp": 145,
+			"atk": 90,
+			"def": 90,
+			"spatk": 90,
+			"spdef": 90,
+			"spe": 90
+		},
+		"megas": [],
+		"abilities": ["Forecast"]
+	},
+	{
+		"no": 354,
+		"name": "Branette",
+		"name_en": "Banette",
+		"image": "sprites/354.png",
+		"types": ["Spectre"],
+		"base_stats": {
+			"hp": 64,
+			"atk": 115,
+			"def": 65,
+			"spatk": 83,
+			"spdef": 63,
+			"spe": 65
+		},
+		"real_stats": {
+			"hp": 139,
+			"atk": 135,
+			"def": 85,
+			"spatk": 103,
+			"spdef": 83,
+			"spe": 85
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Branette",
+				"needed_item": "Branettite"
+			}
+		],
+		"abilities": ["Insomnia", "Frisk", "Cursed Body"]
+	},
+	{
+		"no": 354,
+		"name": "Méga-Branette",
+		"name_en": "Mega Banette",
+		"image": "sprites/354-mega.png",
+		"types": ["Spectre"],
+		"base_stats": {
+			"hp": 64,
+			"atk": 165,
+			"def": 75,
+			"spatk": 93,
+			"spdef": 83,
+			"spe": 75
+		},
+		"real_stats": {
+			"hp": 139,
+			"atk": 185,
+			"def": 95,
+			"spatk": 113,
+			"spdef": 103,
+			"spe": 95
+		},
+		"megas": [],
+		"abilities": ["Prankster"]
+	},
+	{
+		"no": 358,
+		"name": "Éoko",
+		"name_en": "Chimecho",
+		"image": "sprites/358.png",
+		"types": ["Psy"],
+		"base_stats": {
+			"hp": 75,
+			"atk": 50,
+			"def": 80,
+			"spatk": 95,
+			"spdef": 90,
+			"spe": 65
+		},
+		"real_stats": {
+			"hp": 150,
+			"atk": 70,
+			"def": 100,
+			"spatk": 115,
+			"spdef": 110,
+			"spe": 85
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Éoko",
+				"needed_item": "Éokite"
+			}
+		],
+		"abilities": ["Levitate"]
+	},
+	{
+		"no": 358,
+		"name": "Méga-Éoko",
+		"name_en": "Mega Chimecho",
+		"image": "sprites/358-mega.png",
+		"types": ["Psy", "Acier"],
+		"base_stats": {
+			"hp": 75,
+			"atk": 50,
+			"def": 110,
+			"spatk": 135,
+			"spdef": 120,
+			"spe": 65
+		},
+		"real_stats": {
+			"hp": 150,
+			"atk": 70,
+			"def": 130,
+			"spatk": 155,
+			"spdef": 140,
+			"spe": 85
+		},
+		"megas": [],
+		"abilities": ["Levitate"]
+	},
+	{
+		"no": 359,
+		"name": "Absol",
+		"name_en": "Absol",
+		"image": "sprites/359.png",
+		"types": ["Ténèbres"],
+		"base_stats": {
+			"hp": 65,
+			"atk": 130,
+			"def": 60,
+			"spatk": 75,
+			"spdef": 60,
+			"spe": 75
+		},
+		"real_stats": {
+			"hp": 140,
+			"atk": 150,
+			"def": 80,
+			"spatk": 95,
+			"spdef": 80,
+			"spe": 95
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Absol",
+				"needed_item": "Absolite"
+			}
+		],
+		"abilities": ["Pressure", "Super Luck", "Justified"]
+	},
+	{
+		"no": 359,
+		"name": "Méga-Absol",
+		"name_en": "Mega Absol",
+		"image": "sprites/359-mega.png",
+		"types": ["Ténèbres"],
+		"base_stats": {
+			"hp": 65,
+			"atk": 150,
+			"def": 60,
+			"spatk": 115,
+			"spdef": 60,
+			"spe": 115
+		},
+		"real_stats": {
+			"hp": 140,
+			"atk": 170,
+			"def": 80,
+			"spatk": 135,
+			"spdef": 80,
+			"spe": 135
+		},
+		"megas": [],
+		"abilities": ["Magic Bounce"]
+	},
+	{
+		"no": 362,
+		"name": "Oniglali",
+		"name_en": "Glalie",
+		"image": "sprites/362.png",
+		"types": ["glace"],
+		"base_stats": {
+			"hp": 80,
+			"atk": 80,
+			"def": 80,
+			"spatk": 80,
+			"spdef": 80,
+			"spe": 80
+		},
+		"real_stats": {
+			"hp": 155,
+			"atk": 100,
+			"def": 100,
+			"spatk": 100,
+			"spdef": 100,
+			"spe": 100
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Oniglali",
+				"needed_item": "Oniglalite"
+			}
+		],
+		"abilities": ["Inner Focus", "Ice Body", "Moody"]
+	},
+	{
+		"no": 362,
+		"name": "Méga-Oniglali",
+		"name_en": "Mega Glalie",
+		"image": "sprites/362-mega.png",
+		"types": ["glace"],
+		"base_stats": {
+			"hp": 80,
+			"atk": 120,
+			"def": 80,
+			"spatk": 120,
+			"spdef": 80,
+			"spe": 100
+		},
+		"real_stats": {
+			"hp": 155,
+			"atk": 140,
+			"def": 100,
+			"spatk": 140,
+			"spdef": 100,
+			"spe": 120
+		},
+		"megas": [],
+		"abilities": ["Refrigerate"]
+	}
+]

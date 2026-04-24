@@ -1,0 +1,997 @@
+[
+	{
+		"no": 652,
+		"name": "Blindépique",
+		"name_en": "Chesnaught",
+		"image": "sprites/652.png",
+		"types": ["Plante", "Combat"],
+		"base_stats": {
+			"hp": 88,
+			"atk": 107,
+			"def": 122,
+			"spatk": 74,
+			"spdef": 75,
+			"spe": 64
+		},
+		"real_stats": {
+			"hp": 163,
+			"atk": 127,
+			"def": 142,
+			"spatk": 94,
+			"spdef": 95,
+			"spe": 84
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Blindépique",
+				"needed_item": "Blindépiquite"
+			}
+		],
+		"abilities": ["Overgrow", "Bulletproof"]
+	},
+	{
+		"no": 652,
+		"name": "Méga-Blindépique",
+		"name_en": "Mega Chesnaught",
+		"image": "sprites/652-mega.png",
+		"types": ["Plante", "Combat"],
+		"base_stats": {
+			"hp": 88,
+			"atk": 137,
+			"def": 172,
+			"spatk": 74,
+			"spdef": 115,
+			"spe": 44
+		},
+		"real_stats": {
+			"hp": 163,
+			"atk": 157,
+			"def": 192,
+			"spatk": 94,
+			"spdef": 135,
+			"spe": 64
+		},
+		"megas": [],
+		"abilities": ["Bulletproof"]
+	},
+	{
+		"no": 655,
+		"name": "Goupelin",
+		"name_en": "Delphox",
+		"image": "sprites/655.png",
+		"types": ["Feu", "Psy"],
+		"base_stats": {
+			"hp": 75,
+			"atk": 69,
+			"def": 72,
+			"spatk": 114,
+			"spdef": 100,
+			"spe": 104
+		},
+		"real_stats": {
+			"hp": 150,
+			"atk": 89,
+			"def": 92,
+			"spatk": 134,
+			"spdef": 120,
+			"spe": 124
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Goupelin",
+				"needed_item": "Goupelinite"
+			}
+		],
+		"abilities": ["Blaze", "Magician"]
+	},
+	{
+		"no": 655,
+		"name": "Méga-Goupelin",
+		"name_en": "Mega Delphox",
+		"image": "sprites/655-mega.png",
+		"types": ["Feu", "Psy"],
+		"base_stats": {
+			"hp": 75,
+			"atk": 69,
+			"def": 72,
+			"spatk": 159,
+			"spdef": 125,
+			"spe": 134
+		},
+		"real_stats": {
+			"hp": 150,
+			"atk": 89,
+			"def": 92,
+			"spatk": 179,
+			"spdef": 145,
+			"spe": 154
+		},
+		"megas": [],
+		"abilities": ["Levitate"]
+	},
+	{
+		"no": 658,
+		"name": "Amphinobi",
+		"name_en": "Greninja",
+		"image": "sprites/658.png",
+		"types": ["Eau", "Ténèbres"],
+		"base_stats": {
+			"hp": 72,
+			"atk": 95,
+			"def": 67,
+			"spatk": 103,
+			"spdef": 71,
+			"spe": 122
+		},
+		"real_stats": {
+			"hp": 147,
+			"atk": 115,
+			"def": 87,
+			"spatk": 123,
+			"spdef": 91,
+			"spe": 142
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Amphinobi",
+				"needed_item": "Amphinolite"
+			}
+		],
+		"abilities": ["Battle Bond"]
+	},
+	{
+		"no": 658,
+		"name": "Méga-Amphinobi",
+		"name_en": "Mega Greninja",
+		"image": "sprites/658-mega.png",
+		"types": ["Eau", "Ténèbres"],
+		"base_stats": {
+			"hp": 72,
+			"atk": 125,
+			"def": 77,
+			"spatk": 133,
+			"spdef": 81,
+			"spe": 142
+		},
+		"real_stats": {
+			"hp": 147,
+			"atk": 145,
+			"def": 97,
+			"spatk": 153,
+			"spdef": 101,
+			"spe": 162
+		},
+		"megas": [],
+		"abilities": ["Protean"]
+	},
+	{
+		"no": 660,
+		"name": "Excavarenne",
+		"name_en": "Diggersby",
+		"image": "sprites/660.png",
+		"types": ["Normal", "Sol"],
+		"base_stats": {
+			"hp": 85,
+			"atk": 56,
+			"def": 77,
+			"spatk": 50,
+			"spdef": 77,
+			"spe": 78
+		},
+		"real_stats": {
+			"hp": 160,
+			"atk": 76,
+			"def": 97,
+			"spatk": 70,
+			"spdef": 97,
+			"spe": 98
+		},
+		"megas": [],
+		"abilities": ["Pickup", "Cheek Pouch", "Huge Power"]
+	},
+	{
+		"no": 663,
+		"name": "Flambusard",
+		"name_en": "Talonflame",
+		"image": "sprites/663.png",
+		"types": ["Feu", "Vol"],
+		"base_stats": {
+			"hp": 78,
+			"atk": 81,
+			"def": 71,
+			"spatk": 74,
+			"spdef": 69,
+			"spe": 126
+		},
+		"real_stats": {
+			"hp": 153,
+			"atk": 101,
+			"def": 91,
+			"spatk": 94,
+			"spdef": 89,
+			"spe": 146
+		},
+		"megas": [],
+		"abilities": ["Flame Body", "Gale Wings"]
+	},
+	{
+		"no": 666,
+		"name": "Prismillion",
+		"name_en": "Vivillon",
+		"image": "sprites/666.png",
+		"types": ["Insecte", "Vol"],
+		"base_stats": {
+			"hp": 80,
+			"atk": 52,
+			"def": 50,
+			"spatk": 90,
+			"spdef": 50,
+			"spe": 89
+		},
+		"real_stats": {
+			"hp": 155,
+			"atk": 72,
+			"def": 70,
+			"spatk": 110,
+			"spdef": 70,
+			"spe": 109
+		},
+		"megas": [],
+		"abilities": ["Shield Dust", "Compound Eyes", "Friend Guard"]
+	},
+	{
+		"no": 670,
+		"name": "Floette Éternelle",
+		"name_en": "Eternal Floette",
+		"image": "sprites/670-eternal.png",
+		"types": ["Fée"],
+		"base_stats": {
+			"hp": 74,
+			"atk": 65,
+			"def": 67,
+			"spatk": 125,
+			"spdef": 128,
+			"spe": 92
+		},
+		"real_stats": {
+			"hp": 149,
+			"atk": 85,
+			"def": 87,
+			"spatk": 145,
+			"spdef": 148,
+			"spe": 112
+		},
+		"megas": [],
+		"abilities": ["Flower Veil", "Symbiosis"]
+	},
+	{
+		"no": 670,
+		"name": "Méga-Floette",
+		"name_en": "Mega Floette",
+		"image": "sprites/670-mega.png",
+		"types": ["Fée"],
+		"base_stats": {
+			"hp": 74,
+			"atk": 85,
+			"def": 87,
+			"spatk": 155,
+			"spdef": 148,
+			"spe": 102
+		},
+		"real_stats": {
+			"hp": 149,
+			"atk": 105,
+			"def": 107,
+			"spatk": 175,
+			"spdef": 168,
+			"spe": 122
+		},
+		"megas": [],
+		"abilities": ["Fairy Aura"]
+	},
+	{
+		"no": 671,
+		"name": "Florges",
+		"name_en": "Florges",
+		"image": "sprites/671.png",
+		"types": ["Fée"],
+		"base_stats": {
+			"hp": 78,
+			"atk": 65,
+			"def": 68,
+			"spatk": 112,
+			"spdef": 154,
+			"spe": 75
+		},
+		"real_stats": {
+			"hp": 153,
+			"atk": 85,
+			"def": 88,
+			"spatk": 132,
+			"spdef": 174,
+			"spe": 95
+		},
+		"megas": [],
+		"abilities": ["Flower Veil", "Symbiosis"]
+	},
+	{
+		"no": 675,
+		"name": "Pandarbare",
+		"name_en": "Pangoro",
+		"image": "sprites/675.png",
+		"types": ["Combat", "Ténèbres"],
+		"base_stats": {
+			"hp": 95,
+			"atk": 124,
+			"def": 78,
+			"spatk": 69,
+			"spdef": 71,
+			"spe": 58
+		},
+		"real_stats": {
+			"hp": 170,
+			"atk": 144,
+			"def": 98,
+			"spatk": 89,
+			"spdef": 91,
+			"spe": 78
+		},
+		"megas": [],
+		"abilities": ["Iron Fist", "Mold Breaker", "Scrappy"]
+	},
+	{
+		"no": 676,
+		"name": "Couafarel",
+		"name_en": "Furfrou",
+		"image": "sprites/676.png",
+		"types": ["Normal"],
+		"base_stats": {
+			"hp": 75,
+			"atk": 80,
+			"def": 60,
+			"spatk": 65,
+			"spdef": 90,
+			"spe": 102
+		},
+		"real_stats": {
+			"hp": 150,
+			"atk": 100,
+			"def": 80,
+			"spatk": 85,
+			"spdef": 110,
+			"spe": 122
+		},
+		"megas": [],
+		"abilities": ["Fur Coat"]
+	},
+	{
+		"no": 678,
+		"name": "Mistigrix Mâle",
+		"name_en": "Male Meowstic",
+		"image": "sprites/678-male.png",
+		"types": ["Psy"],
+		"base_stats": {
+			"hp": 74,
+			"atk": 48,
+			"def": 76,
+			"spatk": 83,
+			"spdef": 81,
+			"spe": 104
+		},
+		"real_stats": {
+			"hp": 149,
+			"atk": 68,
+			"def": 96,
+			"spatk": 103,
+			"spdef": 101,
+			"spe": 124
+		},
+		"megas": [],
+		"abilities": ["Keen Eye", "Infiltrator", "Prankster"]
+	},
+	{
+		"no": 678,
+		"name": "Mistigrix Femelle",
+		"name_en": "Female Meowstic",
+		"image": "sprites/678-female.png",
+		"types": ["Psy"],
+		"base_stats": {
+			"hp": 74,
+			"atk": 48,
+			"def": 76,
+			"spatk": 83,
+			"spdef": 81,
+			"spe": 104
+		},
+		"real_stats": {
+			"hp": 149,
+			"atk": 68,
+			"def": 96,
+			"spatk": 103,
+			"spdef": 101,
+			"spe": 124
+		},
+		"megas": [],
+		"abilities": ["Keen Eye", "Infiltrator", "Competitive"]
+	},
+	{
+		"no": 678,
+		"name": "Méga-Mistigrix",
+		"name_en": "Mega Meowstic",
+		"image": "sprites/678-mega.png",
+		"types": ["Psy"],
+		"base_stats": {
+			"hp": 74,
+			"atk": 48,
+			"def": 76,
+			"spatk": 143,
+			"spdef": 101,
+			"spe": 124
+		},
+		"real_stats": {
+			"hp": 149,
+			"atk": 68,
+			"def": 96,
+			"spatk": 163,
+			"spdef": 121,
+			"spe": 144
+		},
+		"megas": [],
+		"abilities": ["Trace"]
+	},
+	{
+		"no": 681,
+		"name": "Exagide",
+		"name_en": "Aegislash",
+		"image": "sprites/681.png",
+		"types": ["Acier", "Spectre"],
+		"base_stats": {
+			"hp": 60,
+			"atk": 50,
+			"def": 140,
+			"spatk": 50,
+			"spdef": 140,
+			"spe": 60
+		},
+		"real_stats": {
+			"hp": 135,
+			"atk": 70,
+			"def": 160,
+			"spatk": 70,
+			"spdef": 160,
+			"spe": 80
+		},
+		"megas": [],
+		"abilities": ["Stance Change"]
+	},
+	{
+		"no": 683,
+		"name": "Cocotine",
+		"name_en": "Aromatisse",
+		"image": "sprites/683.png",
+		"types": ["Fée"],
+		"base_stats": {
+			"hp": 101,
+			"atk": 72,
+			"def": 72,
+			"spatk": 99,
+			"spdef": 89,
+			"spe": 29
+		},
+		"real_stats": {
+			"hp": 176,
+			"atk": 92,
+			"def": 92,
+			"spatk": 119,
+			"spdef": 109,
+			"spe": 49
+		},
+		"megas": [],
+		"abilities": ["Healer", "Aroma Veil"]
+	},
+	{
+		"no": 685,
+		"name": "Cupcanaille",
+		"name_en": "Slurpuff",
+		"image": "sprites/685.png",
+		"types": ["Fée"],
+		"base_stats": {
+			"hp": 82,
+			"atk": 80,
+			"def": 86,
+			"spatk": 85,
+			"spdef": 75,
+			"spe": 72
+		},
+		"real_stats": {
+			"hp": 157,
+			"atk": 100,
+			"def": 106,
+			"spatk": 105,
+			"spdef": 95,
+			"spe": 92
+		},
+		"megas": [],
+		"abilities": ["Sweet Veil", "Unburden"]
+	},
+	{
+		"no": 693,
+		"name": "Gamblast",
+		"name_en": "Clawitzer",
+		"image": "sprites/693.png",
+		"types": ["Eau"],
+		"base_stats": {
+			"hp": 71,
+			"atk": 73,
+			"def": 88,
+			"spatk": 120,
+			"spdef": 89,
+			"spe": 59
+		},
+		"real_stats": {
+			"hp": 146,
+			"atk": 93,
+			"def": 108,
+			"spatk": 140,
+			"spdef": 109,
+			"spe": 79
+		},
+		"megas": [],
+		"abilities": ["Mega Launcher"]
+	},
+	{
+		"no": 695,
+		"name": "Iguolta",
+		"name_en": "Heliolisk",
+		"image": "sprites/695.png",
+		"types": ["Électrik", "Normal"],
+		"base_stats": {
+			"hp": 62,
+			"atk": 55,
+			"def": 52,
+			"spatk": 109,
+			"spdef": 94,
+			"spe": 109
+		},
+		"real_stats": {
+			"hp": 137,
+			"atk": 75,
+			"def": 72,
+			"spatk": 129,
+			"spdef": 114,
+			"spe": 129
+		},
+		"megas": [],
+		"abilities": ["Dry Skin", "Sand Veil", "Solar Power"]
+	},
+	{
+		"no": 697,
+		"name": "Rexillius",
+		"name_en": "Tyrantrum",
+		"image": "sprites/697.png",
+		"types": ["Roche", "Dragon"],
+		"base_stats": {
+			"hp": 82,
+			"atk": 121,
+			"def": 119,
+			"spatk": 69,
+			"spdef": 59,
+			"spe": 71
+		},
+		"real_stats": {
+			"hp": 157,
+			"atk": 141,
+			"def": 139,
+			"spatk": 89,
+			"spdef": 79,
+			"spe": 91
+		},
+		"megas": [],
+		"abilities": ["Strong Jaw", "Rock Head"]
+	},
+	{
+		"no": 699,
+		"name": "Dragmara",
+		"name_en": "Aurorus",
+		"image": "sprites/699.png",
+		"types": ["Roche", "glace"],
+		"base_stats": {
+			"hp": 123,
+			"atk": 77,
+			"def": 72,
+			"spatk": 99,
+			"spdef": 92,
+			"spe": 58
+		},
+		"real_stats": {
+			"hp": 198,
+			"atk": 97,
+			"def": 92,
+			"spatk": 119,
+			"spdef": 112,
+			"spe": 78
+		},
+		"megas": [],
+		"abilities": ["Refrigerate", "Snow Warning"]
+	},
+	{
+		"no": 700,
+		"name": "Nymphali",
+		"name_en": "Sylveon",
+		"image": "sprites/700.png",
+		"types": ["Fée"],
+		"base_stats": {
+			"hp": 95,
+			"atk": 65,
+			"def": 65,
+			"spatk": 110,
+			"spdef": 130,
+			"spe": 60
+		},
+		"real_stats": {
+			"hp": 170,
+			"atk": 85,
+			"def": 85,
+			"spatk": 130,
+			"spdef": 150,
+			"spe": 80
+		},
+		"megas": [],
+		"abilities": ["Cute Charm", "Pixilate"]
+	},
+	{
+		"no": 701,
+		"name": "Brutalibré",
+		"name_en": "Hawlucha",
+		"image": "sprites/701.png",
+		"types": ["Combat", "Vol"],
+		"base_stats": {
+			"hp": 78,
+			"atk": 92,
+			"def": 75,
+			"spatk": 74,
+			"spdef": 63,
+			"spe": 118
+		},
+		"real_stats": {
+			"hp": 153,
+			"atk": 112,
+			"def": 95,
+			"spatk": 94,
+			"spdef": 83,
+			"spe": 138
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Brutalibré",
+				"needed_item": "Brutalibrite"
+			}
+		],
+		"abilities": ["Limber", "Unburden", "Mold Breaker"]
+	},
+	{
+		"no": 701,
+		"name": "Méga-Brutalibré",
+		"name_en": "Mega Hawlucha",
+		"image": "sprites/701-mega.png",
+		"types": ["Combat", "Vol"],
+		"base_stats": {
+			"hp": 78,
+			"atk": 137,
+			"def": 100,
+			"spatk": 74,
+			"spdef": 93,
+			"spe": 118
+		},
+		"real_stats": {
+			"hp": 153,
+			"atk": 157,
+			"def": 120,
+			"spatk": 94,
+			"spdef": 113,
+			"spe": 138
+		},
+		"megas": [],
+		"abilities": ["No Guard"]
+	},
+	{
+		"no": 702,
+		"name": "Dedenne",
+		"name_en": "Dedenne",
+		"image": "sprites/702.png",
+		"types": ["Électrik", "Fée"],
+		"base_stats": {
+			"hp": 67,
+			"atk": 58,
+			"def": 57,
+			"spatk": 81,
+			"spdef": 67,
+			"spe": 101
+		},
+		"real_stats": {
+			"hp": 142,
+			"atk": 78,
+			"def": 77,
+			"spatk": 101,
+			"spdef": 87,
+			"spe": 121
+		},
+		"megas": [],
+		"abilities": ["Cheek Pouch", "Pickup", "Plus"]
+	},
+	{
+		"no": 706,
+		"name": "Muplodocus",
+		"name_en": "Goodra",
+		"image": "sprites/706.png",
+		"types": ["Dragon"],
+		"base_stats": {
+			"hp": 90,
+			"atk": 100,
+			"def": 70,
+			"spatk": 110,
+			"spdef": 150,
+			"spe": 80
+		},
+		"real_stats": {
+			"hp": 165,
+			"atk": 120,
+			"def": 90,
+			"spatk": 130,
+			"spdef": 170,
+			"spe": 100
+		},
+		"megas": [],
+		"abilities": ["Sap Sipper", "Hydration", "Gooey"]
+	},
+	{
+		"no": 706,
+		"name": "Muplodocus de Hisui",
+		"name_en": "Hisuian Goodra",
+		"image": "sprites/706-regional-h.png",
+		"types": ["Acier", "Dragon"],
+		"base_stats": {
+			"hp": 80,
+			"atk": 100,
+			"def": 100,
+			"spatk": 110,
+			"spdef": 150,
+			"spe": 60
+		},
+		"real_stats": {
+			"hp": 155,
+			"atk": 120,
+			"def": 120,
+			"spatk": 130,
+			"spdef": 170,
+			"spe": 80
+		},
+		"megas": [],
+		"abilities": ["Sap Sipper", "Shell Armor", "Gooey"]
+	},
+	{
+		"no": 707,
+		"name": "Trousselin",
+		"name_en": "Klefki",
+		"image": "sprites/707.png",
+		"types": ["Acier", "Fée"],
+		"base_stats": {
+			"hp": 57,
+			"atk": 80,
+			"def": 91,
+			"spatk": 80,
+			"spdef": 87,
+			"spe": 75
+		},
+		"real_stats": {
+			"hp": 132,
+			"atk": 100,
+			"def": 111,
+			"spatk": 100,
+			"spdef": 107,
+			"spe": 95
+		},
+		"megas": [],
+		"abilities": ["Prankster", "Magician"]
+	},
+	{
+		"no": 709,
+		"name": "Desséliande",
+		"name_en": "Trevenant",
+		"image": "sprites/709.png",
+		"types": ["Spectre", "Plante"],
+		"base_stats": {
+			"hp": 85,
+			"atk": 110,
+			"def": 76,
+			"spatk": 65,
+			"spdef": 82,
+			"spe": 56
+		},
+		"real_stats": {
+			"hp": 160,
+			"atk": 130,
+			"def": 96,
+			"spatk": 85,
+			"spdef": 102,
+			"spe": 76
+		},
+		"megas": [],
+		"abilities": ["Natural Cure", "Frisk", "Harvest"]
+	},
+	{
+		"no": 711,
+		"name": "Banshitrouye Taille Petite",
+		"name_en": "Gourgeist-S",
+		"image": "sprites/711-small.png",
+		"types": ["Spectre", "Plante"],
+		"base_stats": {
+			"hp": 55,
+			"atk": 85,
+			"def": 122,
+			"spatk": 58,
+			"spdef": 75,
+			"spe": 99
+		},
+		"real_stats": {
+			"hp": 130,
+			"atk": 105,
+			"def": 142,
+			"spatk": 78,
+			"spdef": 95,
+			"spe": 119
+		},
+		"megas": [],
+		"abilities": ["Pickup", "Frisk", "Insomnia"]
+	},
+	{
+		"no": 711,
+		"name": "Banshitrouye Taille Moyenne",
+		"name_en": "Gourgeist-M",
+		"image": "sprites/711.png",
+		"types": ["Spectre", "Plante"],
+		"base_stats": {
+			"hp": 65,
+			"atk": 90,
+			"def": 122,
+			"spatk": 58,
+			"spdef": 75,
+			"spe": 84
+		},
+		"real_stats": {
+			"hp": 140,
+			"atk": 110,
+			"def": 142,
+			"spatk": 78,
+			"spdef": 95,
+			"spe": 104
+		},
+		"megas": [],
+		"abilities": ["Pickup", "Frisk", "Insomnia"]
+	},
+	{
+		"no": 711,
+		"name": "Banshitrouye Taille Grande",
+		"name_en": "Gourgeist-L",
+		"image": "sprites/711-large.png",
+		"types": ["Spectre", "Plante"],
+		"base_stats": {
+			"hp": 75,
+			"atk": 95,
+			"def": 122,
+			"spatk": 58,
+			"spdef": 75,
+			"spe": 69
+		},
+		"real_stats": {
+			"hp": 150,
+			"atk": 115,
+			"def": 142,
+			"spatk": 78,
+			"spdef": 95,
+			"spe": 89
+		},
+		"megas": [],
+		"abilities": ["Pickup", "Frisk", "Insomnia"]
+	},
+	{
+		"no": 711,
+		"name": "Banshitrouye Taille Giga",
+		"name_en": "Gourgeist-XL",
+		"image": "sprites/711-super.png",
+		"types": ["Spectre", "Plante"],
+		"base_stats": {
+			"hp": 85,
+			"atk": 100,
+			"def": 122,
+			"spatk": 58,
+			"spdef": 75,
+			"spe": 54
+		},
+		"real_stats": {
+			"hp": 160,
+			"atk": 120,
+			"def": 142,
+			"spatk": 78,
+			"spdef": 95,
+			"spe": 74
+		},
+		"megas": [],
+		"abilities": ["Pickup", "Frisk", "Insomnia"]
+	},
+	{
+		"no": 713,
+		"name": "Séracrawl",
+		"name_en": "Avalugg",
+		"image": "sprites/713.png",
+		"types": ["glace"],
+		"base_stats": {
+			"hp": 95,
+			"atk": 117,
+			"def": 184,
+			"spatk": 44,
+			"spdef": 46,
+			"spe": 28
+		},
+		"real_stats": {
+			"hp": 170,
+			"atk": 137,
+			"def": 204,
+			"spatk": 64,
+			"spdef": 66,
+			"spe": 48
+		},
+		"megas": [],
+		"abilities": ["Own Tempo", "Ice Body", "Sturdy"]
+	},
+	{
+		"no": 713,
+		"name": "Séracrawl de Hisui",
+		"name_en": "Hisuian Avalugg",
+		"image": "sprites/713-regional-h.png",
+		"types": ["glace", "Roche"],
+		"base_stats": {
+			"hp": 95,
+			"atk": 127,
+			"def": 184,
+			"spatk": 34,
+			"spdef": 36,
+			"spe": 38
+		},
+		"real_stats": {
+			"hp": 170,
+			"atk": 147,
+			"def": 204,
+			"spatk": 54,
+			"spdef": 56,
+			"spe": 58
+		},
+		"megas": [],
+		"abilities": ["Strong Jaw", "Ice Body", "Sturdy"]
+	},
+	{
+		"no": 715,
+		"name": "Bruyverne",
+		"name_en": "Noivern",
+		"image": "sprites/715.png",
+		"types": ["Vol", "Dragon"],
+		"base_stats": {
+			"hp": 85,
+			"atk": 70,
+			"def": 80,
+			"spatk": 97,
+			"spdef": 80,
+			"spe": 123
+		},
+		"real_stats": {
+			"hp": 160,
+			"atk": 90,
+			"def": 100,
+			"spatk": 117,
+			"spdef": 100,
+			"spe": 143
+		},
+		"megas": [],
+		"abilities": ["Frisk", "Infiltrator", "Telepathy"]
+	}
+]

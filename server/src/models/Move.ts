@@ -48,7 +48,7 @@ Move.init(
 		},
 		category: {
 			type: DataTypes.ENUM,
-			values: ["status", "physical", "special"],
+			values: ["Physique", "Spécial", "Statut"],
 			allowNull: false,
 		},
 	},

@@ -1,0 +1,537 @@
+[
+	{
+		"no": 724,
+		"name": "Archéduc",
+		"name_en": "Decidueye",
+		"image": "sprites/724.png",
+		"types": ["Plante", "Spectre"],
+		"base_stats": {
+			"hp": 78,
+			"atk": 107,
+			"def": 75,
+			"spatk": 100,
+			"spdef": 100,
+			"spe": 70
+		},
+		"real_stats": {
+			"hp": 153,
+			"atk": 127,
+			"def": 95,
+			"spatk": 120,
+			"spdef": 120,
+			"spe": 90
+		},
+		"megas": [],
+		"abilities": ["Overgrow", "Long Reach"]
+	},
+	{
+		"no": 724,
+		"name": "Archéduc de Hisui",
+		"name_en": "Hisuian Decidueye",
+		"image": "sprites/724-regional-h.png",
+		"types": ["Plante", "Combat"],
+		"base_stats": {
+			"hp": 88,
+			"atk": 112,
+			"def": 80,
+			"spatk": 95,
+			"spdef": 95,
+			"spe": 60
+		},
+		"real_stats": {
+			"hp": 163,
+			"atk": 132,
+			"def": 100,
+			"spatk": 115,
+			"spdef": 115,
+			"spe": 80
+		},
+		"megas": [],
+		"abilities": ["Overgrow", "Scrappy"]
+	},
+	{
+		"no": 727,
+		"name": "Félinferno",
+		"name_en": "Incineroar",
+		"image": "sprites/727.png",
+		"types": ["Feu", "Ténèbres"],
+		"base_stats": {
+			"hp": 95,
+			"atk": 115,
+			"def": 90,
+			"spatk": 80,
+			"spdef": 90,
+			"spe": 60
+		},
+		"real_stats": {
+			"hp": 170,
+			"atk": 135,
+			"def": 110,
+			"spatk": 100,
+			"spdef": 110,
+			"spe": 80
+		},
+		"megas": [],
+		"abilities": ["Blaze", "Intimidate"]
+	},
+	{
+		"no": 730,
+		"name": "Oratoria",
+		"name_en": "Primarina",
+		"image": "sprites/730.png",
+		"types": ["Eau", "Fée"],
+		"base_stats": {
+			"hp": 80,
+			"atk": 74,
+			"def": 74,
+			"spatk": 126,
+			"spdef": 116,
+			"spe": 60
+		},
+		"real_stats": {
+			"hp": 155,
+			"atk": 94,
+			"def": 94,
+			"spatk": 146,
+			"spdef": 136,
+			"spe": 80
+		},
+		"megas": [],
+		"abilities": ["Torrent", "Liquid Voice"]
+	},
+	{
+		"no": 733,
+		"name": "Bazoucan",
+		"name_en": "Toucannon",
+		"image": "sprites/733.png",
+		"types": ["Normal", "Vol"],
+		"base_stats": {
+			"hp": 80,
+			"atk": 120,
+			"def": 75,
+			"spatk": 75,
+			"spdef": 75,
+			"spe": 60
+		},
+		"real_stats": {
+			"hp": 155,
+			"atk": 140,
+			"def": 95,
+			"spatk": 95,
+			"spdef": 95,
+			"spe": 80
+		},
+		"megas": [],
+		"abilities": ["Keen Eye", "Skill Link", "Sheer Force"]
+	},
+	{
+		"no": 740,
+		"name": "Crabominable",
+		"name_en": "Crabominable",
+		"image": "sprites/740.png",
+		"types": ["Combat", "glace"],
+		"base_stats": {
+			"hp": 97,
+			"atk": 132,
+			"def": 77,
+			"spatk": 62,
+			"spdef": 67,
+			"spe": 43
+		},
+		"real_stats": {
+			"hp": 172,
+			"atk": 152,
+			"def": 97,
+			"spatk": 82,
+			"spdef": 87,
+			"spe": 63
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Crabominable",
+				"needed_item": "Crabominablite"
+			}
+		],
+		"abilities": ["Hyper Cutter", "Iron Fist", "Anger Point"]
+	},
+	{
+		"no": 740,
+		"name": "Méga-Crabominable",
+		"name_en": "Mega Crabominable",
+		"image": "sprites/740-mega.png",
+		"types": ["Combat", "glace"],
+		"base_stats": {
+			"hp": 97,
+			"atk": 157,
+			"def": 122,
+			"spatk": 62,
+			"spdef": 107,
+			"spe": 33
+		},
+		"real_stats": {
+			"hp": 172,
+			"atk": 177,
+			"def": 142,
+			"spatk": 82,
+			"spdef": 127,
+			"spe": 53
+		},
+		"megas": [],
+		"abilities": ["Iron Fist"]
+	},
+	{
+		"no": 745,
+		"name": "Lougaroc Diurne",
+		"name_en": "Midday Lycanroc",
+		"image": "sprites/745.png",
+		"types": ["Roche"],
+		"base_stats": {
+			"hp": 75,
+			"atk": 115,
+			"def": 65,
+			"spatk": 55,
+			"spdef": 65,
+			"spe": 112
+		},
+		"real_stats": {
+			"hp": 150,
+			"atk": 135,
+			"def": 85,
+			"spatk": 75,
+			"spdef": 85,
+			"spe": 132
+		},
+		"megas": [],
+		"abilities": ["Keen Eye", "Sand Rush", "Steadfast"]
+	},
+	{
+		"no": 745,
+		"name": "Lougaroc Nocturne",
+		"name_en": "Midnight Lycanroc",
+		"image": "sprites/745-midnight.png",
+		"types": ["Roche"],
+		"base_stats": {
+			"hp": 85,
+			"atk": 115,
+			"def": 75,
+			"spatk": 55,
+			"spdef": 75,
+			"spe": 82
+		},
+		"real_stats": {
+			"hp": 160,
+			"atk": 135,
+			"def": 95,
+			"spatk": 75,
+			"spdef": 95,
+			"spe": 102
+		},
+		"megas": [],
+		"abilities": ["Keen Eye", "Vital Spirit", "No Guard"]
+	},
+	{
+		"no": 745,
+		"name": "Lougaroc Crépusculaire",
+		"name_en": "Dusk Lycanroc",
+		"image": "sprites/745-dusk.png",
+		"types": ["Roche"],
+		"base_stats": {
+			"hp": 75,
+			"atk": 117,
+			"def": 65,
+			"spatk": 55,
+			"spdef": 65,
+			"spe": 110
+		},
+		"real_stats": {
+			"hp": 150,
+			"atk": 137,
+			"def": 85,
+			"spatk": 75,
+			"spdef": 85,
+			"spe": 130
+		},
+		"megas": [],
+		"abilities": ["Tough Claws"]
+	},
+	{
+		"no": 748,
+		"name": "Prédastérie",
+		"name_en": "Toxapex",
+		"image": "sprites/748.png",
+		"types": ["Poison", "Eau"],
+		"base_stats": {
+			"hp": 50,
+			"atk": 63,
+			"def": 152,
+			"spatk": 53,
+			"spdef": 142,
+			"spe": 35
+		},
+		"real_stats": {
+			"hp": 125,
+			"atk": 83,
+			"def": 172,
+			"spatk": 73,
+			"spdef": 162,
+			"spe": 55
+		},
+		"megas": [],
+		"abilities": ["Merciless", "Limber", "Regenerator"]
+	},
+	{
+		"no": 750,
+		"name": "Bourrinos",
+		"name_en": "Mudsdale",
+		"image": "sprites/750.png",
+		"types": ["Sol"],
+		"base_stats": {
+			"hp": 100,
+			"atk": 125,
+			"def": 100,
+			"spatk": 55,
+			"spdef": 85,
+			"spe": 35
+		},
+		"real_stats": {
+			"hp": 175,
+			"atk": 145,
+			"def": 120,
+			"spatk": 75,
+			"spdef": 105,
+			"spe": 55
+		},
+		"megas": [],
+		"abilities": ["Own Tempo", "Stamina", "Inner Focus"]
+	},
+	{
+		"no": 752,
+		"name": "Tarenbulle",
+		"name_en": "Araquanid",
+		"image": "sprites/752.png",
+		"types": ["Eau", "Insecte"],
+		"base_stats": {
+			"hp": 68,
+			"atk": 70,
+			"def": 92,
+			"spatk": 50,
+			"spdef": 132,
+			"spe": 42
+		},
+		"real_stats": {
+			"hp": 143,
+			"atk": 90,
+			"def": 112,
+			"spatk": 70,
+			"spdef": 152,
+			"spe": 62
+		},
+		"megas": [],
+		"abilities": ["Water Bubble", "Water Absorb"]
+	},
+	{
+		"no": 758,
+		"name": "Malamandre",
+		"name_en": "Salazzle",
+		"image": "sprites/758.png",
+		"types": ["Poison", "Feu"],
+		"base_stats": {
+			"hp": 68,
+			"atk": 64,
+			"def": 60,
+			"spatk": 111,
+			"spdef": 60,
+			"spe": 117
+		},
+		"real_stats": {
+			"hp": 143,
+			"atk": 84,
+			"def": 80,
+			"spatk": 131,
+			"spdef": 80,
+			"spe": 137
+		},
+		"megas": [],
+		"abilities": ["Corrosion", "Oblivious"]
+	},
+	{
+		"no": 763,
+		"name": "Sucreine",
+		"name_en": "Tsareena",
+		"image": "sprites/763.png",
+		"types": ["Plante"],
+		"base_stats": {
+			"hp": 72,
+			"atk": 120,
+			"def": 98,
+			"spatk": 50,
+			"spdef": 98,
+			"spe": 72
+		},
+		"real_stats": {
+			"hp": 147,
+			"atk": 140,
+			"def": 118,
+			"spatk": 70,
+			"spdef": 118,
+			"spe": 92
+		},
+		"megas": [],
+		"abilities": ["Leaf Guard", "Queenly Majesty", "Sweet Veil"]
+	},
+	{
+		"no": 765,
+		"name": "Gouroutan",
+		"name_en": "Oranguru",
+		"image": "sprites/765.png",
+		"types": ["Normal", "Psy"],
+		"base_stats": {
+			"hp": 90,
+			"atk": 60,
+			"def": 80,
+			"spatk": 90,
+			"spdef": 110,
+			"spe": 60
+		},
+		"real_stats": {
+			"hp": 165,
+			"atk": 80,
+			"def": 100,
+			"spatk": 110,
+			"spdef": 130,
+			"spe": 80
+		},
+		"megas": [],
+		"abilities": ["Inner Focus", "Telepathy", "Symbiosis"]
+	},
+	{
+		"no": 766,
+		"name": "Quartermac",
+		"name_en": "Passimian",
+		"image": "sprites/766.png",
+		"types": ["Combat"],
+		"base_stats": {
+			"hp": 100,
+			"atk": 120,
+			"def": 90,
+			"spatk": 40,
+			"spdef": 60,
+			"spe": 80
+		},
+		"real_stats": {
+			"hp": 175,
+			"atk": 140,
+			"def": 110,
+			"spatk": 60,
+			"spdef": 80,
+			"spe": 100
+		},
+		"megas": [],
+		"abilities": ["Receiver", "Defiant"]
+	},
+	{
+		"no": 778,
+		"name": "Mimiqui",
+		"name_en": "Mimikyu",
+		"image": "sprites/778.png",
+		"types": ["Spectre", "Fée"],
+		"base_stats": {
+			"hp": 55,
+			"atk": 90,
+			"def": 80,
+			"spatk": 50,
+			"spdef": 105,
+			"spe": 96
+		},
+		"real_stats": {
+			"hp": 130,
+			"atk": 110,
+			"def": 100,
+			"spatk": 70,
+			"spdef": 125,
+			"spe": 116
+		},
+		"megas": [],
+		"abilities": ["Disguise"]
+	},
+	{
+		"no": 780,
+		"name": "Draïeul",
+		"name_en": "Drampa",
+		"image": "sprites/780.png",
+		"types": ["Normal", "Dragon"],
+		"base_stats": {
+			"hp": 78,
+			"atk": 60,
+			"def": 85,
+			"spatk": 135,
+			"spdef": 91,
+			"spe": 36
+		},
+		"real_stats": {
+			"hp": 153,
+			"atk": 80,
+			"def": 105,
+			"spatk": 155,
+			"spdef": 111,
+			"spe": 56
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Draïeul",
+				"needed_item": "Draïeulite"
+			}
+		],
+		"abilities": ["Berserk", "Sap Sipper", "Cloud Nine"]
+	},
+	{
+		"no": 780,
+		"name": "Méga-Draïeul",
+		"name_en": "Mega Drampa",
+		"image": "sprites/780-mega.png",
+		"types": ["Normal", "Dragon"],
+		"base_stats": {
+			"hp": 78,
+			"atk": 85,
+			"def": 110,
+			"spatk": 160,
+			"spdef": 116,
+			"spe": 36
+		},
+		"real_stats": {
+			"hp": 153,
+			"atk": 105,
+			"def": 130,
+			"spatk": 180,
+			"spdef": 136,
+			"spe": 56
+		},
+		"megas": [],
+		"abilities": ["Berserk"]
+	},
+	{
+		"no": 784,
+		"name": "Ékaïser",
+		"name_en": "Kommo-o",
+		"image": "sprites/784.png",
+		"types": ["Dragon", "Combat"],
+		"base_stats": {
+			"hp": 75,
+			"atk": 110,
+			"def": 125,
+			"spatk": 100,
+			"spdef": 105,
+			"spe": 85
+		},
+		"real_stats": {
+			"hp": 150,
+			"atk": 130,
+			"def": 145,
+			"spatk": 120,
+			"spdef": 125,
+			"spe": 105
+		},
+		"megas": [],
+		"abilities": ["Bulletproof", "Soundproof", "Overcoat"]
+	}
+]

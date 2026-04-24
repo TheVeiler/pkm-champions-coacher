@@ -1,0 +1,882 @@
+[
+	{
+		"no": 389,
+		"name": "Torterra",
+		"name_en": "Torterra",
+		"image": "sprites/389.png",
+		"types": ["Plante", "Sol"],
+		"base_stats": {
+			"hp": 95,
+			"atk": 109,
+			"def": 105,
+			"spatk": 75,
+			"spdef": 85,
+			"spe": 56
+		},
+		"real_stats": {
+			"hp": 170,
+			"atk": 129,
+			"def": 125,
+			"spatk": 95,
+			"spdef": 105,
+			"spe": 76
+		},
+		"megas": [],
+		"abilities": ["Overgrow", "Shell Armor"]
+	},
+	{
+		"no": 392,
+		"name": "Simiabraz",
+		"name_en": "Infernape",
+		"image": "sprites/392.png",
+		"types": ["Feu", "Combat"],
+		"base_stats": {
+			"hp": 76,
+			"atk": 104,
+			"def": 71,
+			"spatk": 104,
+			"spdef": 71,
+			"spe": 108
+		},
+		"real_stats": {
+			"hp": 151,
+			"atk": 124,
+			"def": 91,
+			"spatk": 124,
+			"spdef": 91,
+			"spe": 128
+		},
+		"megas": [],
+		"abilities": ["Blaze", "Iron Fist"]
+	},
+	{
+		"no": 395,
+		"name": "Pingoléon",
+		"name_en": "Empoleon",
+		"image": "sprites/395.png",
+		"types": ["Eau", "Acier"],
+		"base_stats": {
+			"hp": 84,
+			"atk": 86,
+			"def": 88,
+			"spatk": 111,
+			"spdef": 101,
+			"spe": 60
+		},
+		"real_stats": {
+			"hp": 159,
+			"atk": 106,
+			"def": 108,
+			"spatk": 131,
+			"spdef": 121,
+			"spe": 80
+		},
+		"megas": [],
+		"abilities": ["Torrent", "Competitive"]
+	},
+	{
+		"no": 405,
+		"name": "Luxray",
+		"name_en": "Luxray",
+		"image": "sprites/405.png",
+		"types": ["Électrik"],
+		"base_stats": {
+			"hp": 80,
+			"atk": 120,
+			"def": 79,
+			"spatk": 95,
+			"spdef": 79,
+			"spe": 70
+		},
+		"real_stats": {
+			"hp": 155,
+			"atk": 140,
+			"def": 99,
+			"spatk": 115,
+			"spdef": 99,
+			"spe": 90
+		},
+		"megas": [],
+		"abilities": ["Rivalry", "Intimidate", "Guts"]
+	},
+	{
+		"no": 407,
+		"name": "Roserade",
+		"name_en": "Roserade",
+		"image": "sprites/407.png",
+		"types": ["Plante", "Poison"],
+		"base_stats": {
+			"hp": 60,
+			"atk": 70,
+			"def": 65,
+			"spatk": 125,
+			"spdef": 105,
+			"spe": 90
+		},
+		"real_stats": {
+			"hp": 135,
+			"atk": 90,
+			"def": 85,
+			"spatk": 145,
+			"spdef": 125,
+			"spe": 110
+		},
+		"megas": [],
+		"abilities": ["Natural Cure", "Poison Point", "Technician"]
+	},
+	{
+		"no": 409,
+		"name": "Charkos",
+		"name_en": "Rampardos",
+		"image": "sprites/409.png",
+		"types": ["Roche"],
+		"base_stats": {
+			"hp": 97,
+			"atk": 165,
+			"def": 60,
+			"spatk": 65,
+			"spdef": 50,
+			"spe": 58
+		},
+		"real_stats": {
+			"hp": 172,
+			"atk": 185,
+			"def": 80,
+			"spatk": 85,
+			"spdef": 70,
+			"spe": 78
+		},
+		"megas": [],
+		"abilities": ["Mold Breaker", "Sheer Force"]
+	},
+	{
+		"no": 411,
+		"name": "Bastiodon",
+		"name_en": "Bastiodon",
+		"image": "sprites/411.png",
+		"types": ["Roche", "Acier"],
+		"base_stats": {
+			"hp": 60,
+			"atk": 52,
+			"def": 168,
+			"spatk": 47,
+			"spdef": 138,
+			"spe": 30
+		},
+		"real_stats": {
+			"hp": 135,
+			"atk": 72,
+			"def": 188,
+			"spatk": 67,
+			"spdef": 158,
+			"spe": 50
+		},
+		"megas": [],
+		"abilities": ["Sturdy", "Soundproof"]
+	},
+	{
+		"no": 428,
+		"name": "Lockpin",
+		"name_en": "Lopunny",
+		"image": "sprites/428.png",
+		"types": ["Normal"],
+		"base_stats": {
+			"hp": 65,
+			"atk": 76,
+			"def": 84,
+			"spatk": 54,
+			"spdef": 96,
+			"spe": 105
+		},
+		"real_stats": {
+			"hp": 140,
+			"atk": 96,
+			"def": 104,
+			"spatk": 74,
+			"spdef": 116,
+			"spe": 125
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Lockpin",
+				"needed_item": "Lockpinite"
+			}
+		],
+		"abilities": ["Cute Charm", "Klutz", "Limber"]
+	},
+	{
+		"no": 428,
+		"name": "Méga-Lockpin",
+		"name_en": "Mega Lopunny",
+		"image": "sprites/428-mega.png",
+		"types": ["Normal", "Combat"],
+		"base_stats": {
+			"hp": 65,
+			"atk": 136,
+			"def": 94,
+			"spatk": 54,
+			"spdef": 96,
+			"spe": 135
+		},
+		"real_stats": {
+			"hp": 140,
+			"atk": 156,
+			"def": 114,
+			"spatk": 74,
+			"spdef": 116,
+			"spe": 155
+		},
+		"megas": [],
+		"abilities": ["Scrappy"]
+	},
+	{
+		"no": 442,
+		"name": "Spiritomb",
+		"name_en": "Spiritomb",
+		"image": "sprites/442.png",
+		"types": ["Spectre", "Ténèbres"],
+		"base_stats": {
+			"hp": 50,
+			"atk": 92,
+			"def": 108,
+			"spatk": 92,
+			"spdef": 108,
+			"spe": 35
+		},
+		"real_stats": {
+			"hp": 125,
+			"atk": 112,
+			"def": 128,
+			"spatk": 112,
+			"spdef": 128,
+			"spe": 55
+		},
+		"megas": [],
+		"abilities": ["Pressure", "Infiltrator"]
+	},
+	{
+		"no": 445,
+		"name": "Carchacrok",
+		"name_en": "Garchomp",
+		"image": "sprites/445.png",
+		"types": ["Dragon", "Sol"],
+		"base_stats": {
+			"hp": 108,
+			"atk": 130,
+			"def": 95,
+			"spatk": 80,
+			"spdef": 85,
+			"spe": 102
+		},
+		"real_stats": {
+			"hp": 183,
+			"atk": 150,
+			"def": 115,
+			"spatk": 100,
+			"spdef": 105,
+			"spe": 122
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Carchacrok",
+				"needed_item": "Carchacrokite"
+			}
+		],
+		"abilities": ["Sand Veil", "Rough Skin"]
+	},
+	{
+		"no": 445,
+		"name": "Méga-Carchacrok",
+		"name_en": "Mega Garchomp",
+		"image": "sprites/445-mega.png",
+		"types": ["Dragon", "Sol"],
+		"base_stats": {
+			"hp": 108,
+			"atk": 170,
+			"def": 115,
+			"spatk": 120,
+			"spdef": 95,
+			"spe": 92
+		},
+		"real_stats": {
+			"hp": 183,
+			"atk": 190,
+			"def": 135,
+			"spatk": 140,
+			"spdef": 115,
+			"spe": 112
+		},
+		"megas": [],
+		"abilities": ["Sand Force"]
+	},
+	{
+		"no": 448,
+		"name": "Lucario",
+		"name_en": "Lucario",
+		"image": "sprites/448.png",
+		"types": ["Combat", "Acier"],
+		"base_stats": {
+			"hp": 70,
+			"atk": 110,
+			"def": 70,
+			"spatk": 115,
+			"spdef": 70,
+			"spe": 90
+		},
+		"real_stats": {
+			"hp": 145,
+			"atk": 130,
+			"def": 90,
+			"spatk": 135,
+			"spdef": 90,
+			"spe": 110
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Lucario",
+				"needed_item": "Lucarite"
+			}
+		],
+		"abilities": ["Steadfast", "Inner Focus", "Justified"]
+	},
+	{
+		"no": 448,
+		"name": "Méga-Lucario",
+		"name_en": "Mega Lucario",
+		"image": "sprites/448-mega.png",
+		"types": ["Combat", "Acier"],
+		"base_stats": {
+			"hp": 70,
+			"atk": 145,
+			"def": 88,
+			"spatk": 140,
+			"spdef": 70,
+			"spe": 112
+		},
+		"real_stats": {
+			"hp": 145,
+			"atk": 165,
+			"def": 108,
+			"spatk": 160,
+			"spdef": 90,
+			"spe": 132
+		},
+		"megas": [],
+		"abilities": ["Adaptability"]
+	},
+	{
+		"no": 450,
+		"name": "Hippodocus",
+		"name_en": "Hippowdon",
+		"image": "sprites/450.png",
+		"types": ["Sol"],
+		"base_stats": {
+			"hp": 108,
+			"atk": 112,
+			"def": 118,
+			"spatk": 68,
+			"spdef": 72,
+			"spe": 47
+		},
+		"real_stats": {
+			"hp": 183,
+			"atk": 132,
+			"def": 138,
+			"spatk": 88,
+			"spdef": 92,
+			"spe": 67
+		},
+		"megas": [],
+		"abilities": ["Sand Stream", "Sand Force"]
+	},
+	{
+		"no": 454,
+		"name": "Coatox",
+		"name_en": "Toxicroak",
+		"image": "sprites/454.png",
+		"types": ["Poison", "Combat"],
+		"base_stats": {
+			"hp": 83,
+			"atk": 106,
+			"def": 65,
+			"spatk": 86,
+			"spdef": 65,
+			"spe": 85
+		},
+		"real_stats": {
+			"hp": 158,
+			"atk": 126,
+			"def": 85,
+			"spatk": 106,
+			"spdef": 85,
+			"spe": 105
+		},
+		"megas": [],
+		"abilities": ["Anticipation", "Dry Skin", "Poison Touch"]
+	},
+	{
+		"no": 460,
+		"name": "Blizzaroi",
+		"name_en": "Abomasnow",
+		"image": "sprites/460.png",
+		"types": ["Plante", "glace"],
+		"base_stats": {
+			"hp": 90,
+			"atk": 92,
+			"def": 75,
+			"spatk": 92,
+			"spdef": 85,
+			"spe": 60
+		},
+		"real_stats": {
+			"hp": 165,
+			"atk": 112,
+			"def": 95,
+			"spatk": 112,
+			"spdef": 105,
+			"spe": 80
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Blizzaroi",
+				"needed_item": "Blizzarite"
+			}
+		],
+		"abilities": ["Snow Warning", "Soundproof"]
+	},
+	{
+		"no": 460,
+		"name": "Méga-Blizzaroi",
+		"name_en": "Mega Abomasnow",
+		"image": "sprites/460-mega.png",
+		"types": ["Plante", "glace"],
+		"base_stats": {
+			"hp": 90,
+			"atk": 132,
+			"def": 105,
+			"spatk": 132,
+			"spdef": 105,
+			"spe": 30
+		},
+		"real_stats": {
+			"hp": 165,
+			"atk": 152,
+			"def": 125,
+			"spatk": 152,
+			"spdef": 125,
+			"spe": 50
+		},
+		"megas": [],
+		"abilities": ["Snow Warning"]
+	},
+	{
+		"no": 461,
+		"name": "Dimoret",
+		"name_en": "Weavile",
+		"image": "sprites/461.png",
+		"types": ["Ténèbres", "glace"],
+		"base_stats": {
+			"hp": 70,
+			"atk": 120,
+			"def": 65,
+			"spatk": 45,
+			"spdef": 85,
+			"spe": 125
+		},
+		"real_stats": {
+			"hp": 145,
+			"atk": 140,
+			"def": 85,
+			"spatk": 65,
+			"spdef": 105,
+			"spe": 145
+		},
+		"megas": [],
+		"abilities": ["Pressure", "Pickpocket"]
+	},
+	{
+		"no": 464,
+		"name": "Rhinastoc",
+		"name_en": "Rhyperior",
+		"image": "sprites/464.png",
+		"types": ["Sol", "Roche"],
+		"base_stats": {
+			"hp": 115,
+			"atk": 140,
+			"def": 130,
+			"spatk": 55,
+			"spdef": 55,
+			"spe": 40
+		},
+		"real_stats": {
+			"hp": 190,
+			"atk": 160,
+			"def": 150,
+			"spatk": 75,
+			"spdef": 75,
+			"spe": 60
+		},
+		"megas": [],
+		"abilities": ["Lightning Rod", "Solid Rock", "Reckless"]
+	},
+	{
+		"no": 470,
+		"name": "Phyllali",
+		"name_en": "Leafeon",
+		"image": "sprites/470.png",
+		"types": ["Plante"],
+		"base_stats": {
+			"hp": 65,
+			"atk": 110,
+			"def": 130,
+			"spatk": 60,
+			"spdef": 65,
+			"spe": 95
+		},
+		"real_stats": {
+			"hp": 140,
+			"atk": 130,
+			"def": 150,
+			"spatk": 80,
+			"spdef": 85,
+			"spe": 115
+		},
+		"megas": [],
+		"abilities": ["Leaf Guard", "Chlorophyll"]
+	},
+	{
+		"no": 471,
+		"name": "Givrali",
+		"name_en": "Glaceon",
+		"image": "sprites/471.png",
+		"types": ["glace"],
+		"base_stats": {
+			"hp": 65,
+			"atk": 60,
+			"def": 110,
+			"spatk": 130,
+			"spdef": 95,
+			"spe": 65
+		},
+		"real_stats": {
+			"hp": 140,
+			"atk": 80,
+			"def": 130,
+			"spatk": 150,
+			"spdef": 115,
+			"spe": 85
+		},
+		"megas": [],
+		"abilities": ["Snow Cloak", "Ice Body"]
+	},
+	{
+		"no": 472,
+		"name": "Scorvol",
+		"name_en": "Gliscor",
+		"image": "sprites/472.png",
+		"types": ["Sol", "Vol"],
+		"base_stats": {
+			"hp": 75,
+			"atk": 95,
+			"def": 125,
+			"spatk": 45,
+			"spdef": 75,
+			"spe": 95
+		},
+		"real_stats": {
+			"hp": 150,
+			"atk": 115,
+			"def": 145,
+			"spatk": 65,
+			"spdef": 95,
+			"spe": 115
+		},
+		"megas": [],
+		"abilities": ["Hyper Cutter", "Sand Veil", "Poison Heal"]
+	},
+	{
+		"no": 473,
+		"name": "Mammochon",
+		"name_en": "Mamoswine",
+		"image": "sprites/473.png",
+		"types": ["glace", "Sol"],
+		"base_stats": {
+			"hp": 110,
+			"atk": 130,
+			"def": 80,
+			"spatk": 70,
+			"spdef": 60,
+			"spe": 80
+		},
+		"real_stats": {
+			"hp": 185,
+			"atk": 150,
+			"def": 100,
+			"spatk": 90,
+			"spdef": 80,
+			"spe": 100
+		},
+		"megas": [],
+		"abilities": ["Oblivious", "Snow Cloak", "Thick Fat"]
+	},
+	{
+		"no": 475,
+		"name": "Gallame",
+		"name_en": "Gallade",
+		"image": "sprites/475.png",
+		"types": ["Psy", "Combat"],
+		"base_stats": {
+			"hp": 68,
+			"atk": 125,
+			"def": 65,
+			"spatk": 65,
+			"spdef": 115,
+			"spe": 80
+		},
+		"real_stats": {
+			"hp": 143,
+			"atk": 145,
+			"def": 85,
+			"spatk": 85,
+			"spdef": 135,
+			"spe": 100
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Gallame",
+				"needed_item": "Gallamite"
+			}
+		],
+		"abilities": ["Steadfast", "Sharpness", "Justified"]
+	},
+	{
+		"no": 475,
+		"name": "Méga-Gallame",
+		"name_en": "Mega Gallade",
+		"image": "sprites/475-mega.png",
+		"types": ["Psy", "Combat"],
+		"base_stats": {
+			"hp": 68,
+			"atk": 165,
+			"def": 95,
+			"spatk": 65,
+			"spdef": 115,
+			"spe": 110
+		},
+		"real_stats": {
+			"hp": 143,
+			"atk": 185,
+			"def": 115,
+			"spatk": 85,
+			"spdef": 135,
+			"spe": 130
+		},
+		"megas": [],
+		"abilities": ["Inner Focus"]
+	},
+	{
+		"no": 478,
+		"name": "Momartik",
+		"name_en": "Froslass",
+		"image": "sprites/478.png",
+		"types": ["glace", "Spectre"],
+		"base_stats": {
+			"hp": 70,
+			"atk": 80,
+			"def": 70,
+			"spatk": 80,
+			"spdef": 70,
+			"spe": 110
+		},
+		"real_stats": {
+			"hp": 145,
+			"atk": 100,
+			"def": 90,
+			"spatk": 100,
+			"spdef": 90,
+			"spe": 130
+		},
+		"megas": [
+			{
+				"pokemon": "Méga-Momartik",
+				"needed_item": "Momartikite"
+			}
+		],
+		"abilities": ["Snow Cloak", "Cursed Body"]
+	},
+	{
+		"no": 478,
+		"name": "Méga-Momartik",
+		"name_en": "Mega Froslass",
+		"image": "sprites/478-mega.png",
+		"types": ["glace", "Spectre"],
+		"base_stats": {
+			"hp": 70,
+			"atk": 80,
+			"def": 70,
+			"spatk": 140,
+			"spdef": 100,
+			"spe": 120
+		},
+		"real_stats": {
+			"hp": 145,
+			"atk": 100,
+			"def": 90,
+			"spatk": 160,
+			"spdef": 120,
+			"spe": 140
+		},
+		"megas": [],
+		"abilities": ["Snow Warning"]
+	},
+	{
+		"no": 479,
+		"name": "Motisma",
+		"name_en": "Rotom",
+		"image": "sprites/479.png",
+		"types": ["Électrik", "Spectre"],
+		"base_stats": {
+			"hp": 50,
+			"atk": 50,
+			"def": 77,
+			"spatk": 95,
+			"spdef": 77,
+			"spe": 91
+		},
+		"real_stats": {
+			"hp": 125,
+			"atk": 70,
+			"def": 97,
+			"spatk": 115,
+			"spdef": 97,
+			"spe": 111
+		},
+		"megas": [],
+		"abilities": ["Levitate"]
+	},
+	{
+		"no": 479,
+		"name": "Motisma Chaleur",
+		"name_en": "Rotom-Heat",
+		"image": "sprites/479-heat.png",
+		"types": ["Électrik", "Feu"],
+		"base_stats": {
+			"hp": 50,
+			"atk": 65,
+			"def": 107,
+			"spatk": 105,
+			"spdef": 107,
+			"spe": 86
+		},
+		"real_stats": {
+			"hp": 125,
+			"atk": 85,
+			"def": 127,
+			"spatk": 125,
+			"spdef": 127,
+			"spe": 106
+		},
+		"megas": [],
+		"abilities": ["Levitate"]
+	},
+	{
+		"no": 479,
+		"name": "Motisma Lavage",
+		"name_en": "Rotom-Wash",
+		"image": "sprites/479-wash.png",
+		"types": ["Électrik", "Eau"],
+		"base_stats": {
+			"hp": 50,
+			"atk": 65,
+			"def": 107,
+			"spatk": 105,
+			"spdef": 107,
+			"spe": 86
+		},
+		"real_stats": {
+			"hp": 125,
+			"atk": 85,
+			"def": 127,
+			"spatk": 125,
+			"spdef": 127,
+			"spe": 106
+		},
+		"megas": [],
+		"abilities": ["Levitate"]
+	},
+	{
+		"no": 479,
+		"name": "Motisma Froid",
+		"name_en": "Rotom-Frost",
+		"image": "sprites/479-frost.png",
+		"types": ["Électrik", "glace"],
+		"base_stats": {
+			"hp": 50,
+			"atk": 65,
+			"def": 107,
+			"spatk": 105,
+			"spdef": 107,
+			"spe": 86
+		},
+		"real_stats": {
+			"hp": 125,
+			"atk": 85,
+			"def": 127,
+			"spatk": 125,
+			"spdef": 127,
+			"spe": 106
+		},
+		"megas": [],
+		"abilities": ["Levitate"]
+	},
+	{
+		"no": 479,
+		"name": "Motisma Hélice",
+		"name_en": "Rotom-Fan",
+		"image": "sprites/479-fan.png",
+		"types": ["Électrik", "Vol"],
+		"base_stats": {
+			"hp": 50,
+			"atk": 65,
+			"def": 107,
+			"spatk": 105,
+			"spdef": 107,
+			"spe": 86
+		},
+		"real_stats": {
+			"hp": 125,
+			"atk": 85,
+			"def": 127,
+			"spatk": 125,
+			"spdef": 127,
+			"spe": 106
+		},
+		"megas": [],
+		"abilities": ["Levitate"]
+	},
+	{
+		"no": 479,
+		"name": "Motisma Tonte",
+		"name_en": "Rotom-Mow",
+		"image": "sprites/479-mow.png",
+		"types": ["Électrik", "Plante"],
+		"base_stats": {
+			"hp": 50,
+			"atk": 65,
+			"def": 107,
+			"spatk": 105,
+			"spdef": 107,
+			"spe": 86
+		},
+		"real_stats": {
+			"hp": 125,
+			"atk": 85,
+			"def": 127,
+			"spatk": 125,
+			"spdef": 127,
+			"spe": 106
+		},
+		"megas": [],
+		"abilities": ["Levitate"]
+	}
+]
