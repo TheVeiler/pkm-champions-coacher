@@ -4,7 +4,7 @@
 		"name": "Florizarre",
 		"name_en": "Venusaur",
 		"image": "sprites/3.png",
-		"types": ["plante", "poison"],
+		"types": ["Plante", "Poison"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 82,
@@ -26,14 +26,15 @@
 				"pokemon": "Méga-Florizarre",
 				"needed_item": "Florizarrite"
 			}
-		]
+		],
+		"abilities": ["Overgrow", "Chlorophyll"]
 	},
 	{
 		"no": 6,
 		"name": "Dracaufeu",
 		"name_en": "Charizard",
 		"image": "sprites/6.png",
-		"types": ["feu", "vol"],
+		"types": ["Feu", "Vol"],
 		"base_stats": {
 			"hp": 78,
 			"atk": 84,
@@ -59,14 +60,15 @@
 				"pokemon": "Méga-Dracaufeu Y",
 				"needed_item": "Dracaufite Y"
 			}
-		]
+		],
+		"abilities": ["Blaze", "Solar Power"]
 	},
 	{
 		"no": 9,
 		"name": "Tortank",
 		"name_en": "Blastoise",
 		"image": "sprites/9.png",
-		"types": ["eau"],
+		"types": ["Eau"],
 		"base_stats": {
 			"hp": 79,
 			"atk": 83,
@@ -88,14 +90,15 @@
 				"pokemon": "Méga-Tortank",
 				"needed_item": "Tortankite"
 			}
-		]
+		],
+		"abilities": ["Torrent", "Rain Dish"]
 	},
 	{
 		"no": 15,
 		"name": "Dardargnan",
 		"name_en": "Beedrill",
 		"image": "sprites/15.png",
-		"types": ["insecte", "poison"],
+		"types": ["Insecte", "Poison"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 90,
@@ -117,14 +120,15 @@
 				"pokemon": "Méga-Dardargnan",
 				"needed_item": "Dardargnite"
 			}
-		]
+		],
+		"abilities": ["Swarm", "Sniper"]
 	},
 	{
 		"no": 18,
 		"name": "Roucarnage",
 		"name_en": "Pidgeot",
 		"image": "sprites/18.png",
-		"types": ["normal", "vol"],
+		"types": ["Normal", "Vol"],
 		"base_stats": {
 			"hp": 83,
 			"atk": 80,
@@ -146,14 +150,15 @@
 				"pokemon": "Méga-Roucarnage",
 				"needed_item": "Roucarnagite"
 			}
-		]
+		],
+		"abilities": ["Keen Eye", "Tangled Feet", "Big Pecks"]
 	},
 	{
 		"no": 24,
 		"name": "Arbok",
 		"name_en": "Arbok",
 		"image": "sprites/24.png",
-		"types": ["poison"],
+		"types": ["Poison"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 95,
@@ -170,14 +175,15 @@
 			"spdef": 99,
 			"spe": 100
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Intimidate", "Shed Skin", "Unnerve"]
 	},
 	{
 		"no": 25,
 		"name": "Pikachu",
 		"name_en": "Pikachu",
 		"image": "sprites/25.png",
-		"types": ["électrik"],
+		"types": ["Électrik"],
 		"base_stats": {
 			"hp": 35,
 			"atk": 55,
@@ -194,14 +200,15 @@
 			"spdef": 70,
 			"spe": 110
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Static", "Lightning Rod"]
 	},
 	{
 		"no": 26,
 		"name": "Raichu",
 		"name_en": "Raichu",
 		"image": "sprites/26.png",
-		"types": ["électrik"],
+		"types": ["Électrik"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 90,
@@ -218,14 +225,15 @@
 			"spdef": 100,
 			"spe": 130
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Static", "Lightning Rod"]
 	},
 	{
 		"no": 26,
 		"name": "Raichu d'Alola",
 		"name_en": "Alolan Raichu",
 		"image": "sprites/26-regional-a.png",
-		"types": ["électrik", "psy"],
+		"types": ["Électrik", "Psy"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 85,
@@ -242,14 +250,15 @@
 			"spdef": 105,
 			"spe": 130
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Surge Surfer"]
 	},
 	{
 		"no": 36,
 		"name": "Mélodelfe",
 		"name_en": "Clefable",
 		"image": "sprites/36.png",
-		"types": ["fée"],
+		"types": ["Fée"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 70,
@@ -271,14 +280,15 @@
 				"pokemon": "Méga-Mélodelfe",
 				"needed_item": "Mélodelfite"
 			}
-		]
+		],
+		"abilities": ["Cute Charm", "Magic Guard", "Unaware"]
 	},
 	{
 		"no": 38,
 		"name": "Feunard",
 		"name_en": "Ninetales",
 		"image": "sprites/38.png",
-		"types": ["feu"],
+		"types": ["Feu"],
 		"base_stats": {
 			"hp": 73,
 			"atk": 76,
@@ -295,14 +305,15 @@
 			"spdef": 120,
 			"spe": 120
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Flash Fire", "Drought"]
 	},
 	{
 		"no": 38,
 		"name": "Feunard d'Alola",
 		"name_en": "Alolan Ninetales",
 		"image": "sprites/38-regional-a.png",
-		"types": ["glace", "fée"],
+		"types": ["glace", "Fée"],
 		"base_stats": {
 			"hp": 73,
 			"atk": 67,
@@ -319,14 +330,15 @@
 			"spdef": 120,
 			"spe": 129
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Snow Cloak", "Snow Warning"]
 	},
 	{
 		"no": 59,
 		"name": "Arcanin",
 		"name_en": "Arcanine",
 		"image": "sprites/59.png",
-		"types": ["feu"],
+		"types": ["Feu"],
 		"base_stats": {
 			"hp": 90,
 			"atk": 110,
@@ -343,14 +355,15 @@
 			"spdef": 100,
 			"spe": 115
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Intimidate", "Flash Fire", "Justified"]
 	},
 	{
 		"no": 59,
 		"name": "Arcanin de Hisui",
 		"name_en": "Hisuian Arcanine",
 		"image": "sprites/59-regional-h.png",
-		"types": ["feu", "roche"],
+		"types": ["Feu", "Roche"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 115,
@@ -367,14 +380,15 @@
 			"spdef": 100,
 			"spe": 110
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Intimidate", "Flash Fire", "Rock Head"]
 	},
 	{
 		"no": 65,
 		"name": "Alakazam",
 		"name_en": "Alakazam",
 		"image": "sprites/65.png",
-		"types": ["psy"],
+		"types": ["Psy"],
 		"base_stats": {
 			"hp": 55,
 			"atk": 50,
@@ -396,14 +410,15 @@
 				"pokemon": "Méga-Alakazam",
 				"needed_item": "Alakazamite"
 			}
-		]
+		],
+		"abilities": ["Synchronize", "Inner Focus", "Magic Guard"]
 	},
 	{
 		"no": 68,
 		"name": "Mackogneur",
 		"name_en": "Machamp",
 		"image": "sprites/68.png",
-		"types": ["combat"],
+		"types": ["Combat"],
 		"base_stats": {
 			"hp": 90,
 			"atk": 130,
@@ -420,14 +435,15 @@
 			"spdef": 105,
 			"spe": 75
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Guts", "No Guard", "Steadfast"]
 	},
 	{
 		"no": 71,
 		"name": "Empiflor",
 		"name_en": "Victreebel",
 		"image": "sprites/71.png",
-		"types": ["plante", "poison"],
+		"types": ["Plante", "Poison"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 105,
@@ -449,14 +465,15 @@
 				"pokemon": "Méga-Empiflor",
 				"needed_item": "Empiflorite"
 			}
-		]
+		],
+		"abilities": ["Chlorophyll", "Gluttony"]
 	},
 	{
 		"no": 80,
 		"name": "Flagadoss",
 		"name_en": "Slowbro",
 		"image": "sprites/80.png",
-		"types": ["eau", "psy"],
+		"types": ["Eau", "Psy"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 75,
@@ -478,14 +495,15 @@
 				"pokemon": "Méga-Flagadoss",
 				"needed_item": "Flagadossite"
 			}
-		]
+		],
+		"abilities": ["Oblivious", "Own Tempo", "Regenerator"]
 	},
 	{
 		"no": 80,
 		"name": "Flagadoss de Galar",
 		"name_en": "Galarian Slowbro",
 		"image": "sprites/80-regional-g.png",
-		"types": ["poison", "psy"],
+		"types": ["Poison", "Psy"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 100,
@@ -502,14 +520,15 @@
 			"spdef": 90,
 			"spe": 50
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Quick Draw", "Own Tempo", "Regenerator"]
 	},
 	{
 		"no": 94,
 		"name": "Ectoplasma",
 		"name_en": "Gengar",
 		"image": "sprites/94.png",
-		"types": ["spectre", "poison"],
+		"types": ["Spectre", "Poison"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 65,
@@ -531,14 +550,15 @@
 				"pokemon": "Méga-Ectoplasma",
 				"needed_item": "Ectoplasmite"
 			}
-		]
+		],
+		"abilities": ["Cursed Body"]
 	},
 	{
 		"no": 115,
 		"name": "Kangourex",
 		"name_en": "Kangaskhan",
 		"image": "sprites/115.png",
-		"types": ["normal"],
+		"types": ["Normal"],
 		"base_stats": {
 			"hp": 105,
 			"atk": 95,
@@ -560,14 +580,15 @@
 				"pokemon": "Méga-Kangourex",
 				"needed_item": "Kangourexite"
 			}
-		]
+		],
+		"abilities": ["Early Bird", "Scrappy", "Inner Focus"]
 	},
 	{
 		"no": 121,
 		"name": "Staross",
 		"name_en": "Starmie",
 		"image": "sprites/121.png",
-		"types": ["eau", "psy"],
+		"types": ["Eau", "Psy"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 75,
@@ -589,14 +610,15 @@
 				"pokemon": "Méga-Staross",
 				"needed_item": "Starossite"
 			}
-		]
+		],
+		"abilities": ["Illuminate", "Natural Cure", "Analytic"]
 	},
 	{
 		"no": 127,
 		"name": "Scarabrute",
 		"name_en": "Pinsir",
 		"image": "sprites/127.png",
-		"types": ["insecte"],
+		"types": ["Insecte"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 125,
@@ -618,14 +640,15 @@
 				"pokemon": "Méga-Scarabrute",
 				"needed_item": "Scarabruite"
 			}
-		]
+		],
+		"abilities": ["Hyper Cutter", "Mold Breaker", "Moxie"]
 	},
 	{
 		"no": 128,
 		"name": "Tauros",
 		"name_en": "Tauros",
 		"image": "sprites/128.png",
-		"types": ["normal"],
+		"types": ["Normal"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 100,
@@ -642,14 +665,15 @@
 			"spdef": 90,
 			"spe": 130
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Intimidate", "Anger Point", "Sheer Force"]
 	},
 	{
 		"no": 128,
 		"name": "Tauros Combatif de Paldéa",
 		"name_en": "Paldean Combat Tauros",
 		"image": "sprites/128-regional-p-combat.png",
-		"types": ["combat"],
+		"types": ["Combat"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 110,
@@ -666,14 +690,15 @@
 			"spdef": 90,
 			"spe": 120
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Intimidate", "Anger Point", "Cud Chew"]
 	},
 	{
 		"no": 128,
 		"name": "Tauros Flamboyant de Paldéa",
 		"name_en": "Paldean Blaze Tauros",
 		"image": "sprites/128-regional-p-blaze.png",
-		"types": ["combat", "feu"],
+		"types": ["Combat", "Feu"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 110,
@@ -690,14 +715,15 @@
 			"spdef": 90,
 			"spe": 120
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Intimidate", "Anger Point", "Cud Chew"]
 	},
 	{
 		"no": 128,
 		"name": "Tauros Aquatique de Paldéa",
 		"name_en": "Paldean Aqua Tauros",
 		"image": "sprites/128-regional-p-aqua.png",
-		"types": ["combat", "eau"],
+		"types": ["Combat", "Eau"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 110,
@@ -714,14 +740,15 @@
 			"spdef": 90,
 			"spe": 120
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Intimidate", "Anger Point", "Cud Chew"]
 	},
 	{
 		"no": 130,
 		"name": "Léviator",
 		"name_en": "Gyarados",
 		"image": "sprites/130.png",
-		"types": ["eau", "vol"],
+		"types": ["Eau", "Vol"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 125,
@@ -743,14 +770,15 @@
 				"pokemon": "Méga-Léviator",
 				"needed_item": "Léviatorite"
 			}
-		]
+		],
+		"abilities": ["Intimidate", "Moxie"]
 	},
 	{
 		"no": 132,
 		"name": "Métamorph",
 		"name_en": "Ditto",
 		"image": "sprites/132.png",
-		"types": ["normal"],
+		"types": ["Normal"],
 		"base_stats": {
 			"hp": 48,
 			"atk": 48,
@@ -767,14 +795,15 @@
 			"spdef": 68,
 			"spe": 68
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Limber", "Imposter"]
 	},
 	{
 		"no": 134,
 		"name": "Aquali",
 		"name_en": "Vaporeon",
 		"image": "sprites/134.png",
-		"types": ["eau"],
+		"types": ["Eau"],
 		"base_stats": {
 			"hp": 130,
 			"atk": 65,
@@ -791,14 +820,15 @@
 			"spdef": 115,
 			"spe": 85
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Water Absorb", "Hydration"]
 	},
 	{
 		"no": 135,
 		"name": "Voltali",
 		"name_en": "Jolteon",
 		"image": "sprites/135.png",
-		"types": ["électrik"],
+		"types": ["Électrik"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 65,
@@ -815,14 +845,15 @@
 			"spdef": 115,
 			"spe": 150
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Volt Absorb", "Quick Feet"]
 	},
 	{
 		"no": 136,
 		"name": "Pyroli",
 		"name_en": "Flareon",
 		"image": "sprites/136.png",
-		"types": ["feu"],
+		"types": ["Feu"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 130,
@@ -839,14 +870,15 @@
 			"spdef": 130,
 			"spe": 85
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Flash Fire", "Guts"]
 	},
 	{
 		"no": 142,
 		"name": "Ptéra",
 		"name_en": "Aerodactyl",
 		"image": "sprites/142.png",
-		"types": ["roche", "vol"],
+		"types": ["Roche", "Vol"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 105,
@@ -868,14 +900,15 @@
 				"pokemon": "Méga-Ptéra",
 				"needed_item": "Ptéraïte"
 			}
-		]
+		],
+		"abilities": ["Rock Head", "Pressure", "Unnerve"]
 	},
 	{
 		"no": 143,
 		"name": "Ronflex",
 		"name_en": "Snorlax",
 		"image": "sprites/143.png",
-		"types": ["normal"],
+		"types": ["Normal"],
 		"base_stats": {
 			"hp": 160,
 			"atk": 110,
@@ -892,14 +925,15 @@
 			"spdef": 130,
 			"spe": 50
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Immunity", "Thick Fat", "Gluttony"]
 	},
 	{
 		"no": 149,
 		"name": "Dracolosse",
 		"name_en": "Dragonite",
 		"image": "sprites/149.png",
-		"types": ["dragon", "vol"],
+		"types": ["Dragon", "Vol"],
 		"base_stats": {
 			"hp": 91,
 			"atk": 134,
@@ -921,14 +955,15 @@
 				"pokemon": "Méga-Dracolosse",
 				"needed_item": "Dracolossite"
 			}
-		]
+		],
+		"abilities": ["Inner Focus", "Multiscale"]
 	},
 	{
 		"no": 154,
 		"name": "Méganium",
 		"name_en": "Meganium",
 		"image": "sprites/154.png",
-		"types": ["plante"],
+		"types": ["Plante"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 82,
@@ -950,14 +985,15 @@
 				"pokemon": "Méga-Méganium",
 				"needed_item": "Méganiumite"
 			}
-		]
+		],
+		"abilities": ["Overgrow", "Leaf Guard"]
 	},
 	{
 		"no": 157,
 		"name": "Typhlosion",
 		"name_en": "Typhlosion",
 		"image": "sprites/157.png",
-		"types": ["feu"],
+		"types": ["Feu"],
 		"base_stats": {
 			"hp": 78,
 			"atk": 84,
@@ -974,14 +1010,15 @@
 			"spdef": 105,
 			"spe": 120
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Blaze", "Flash Fire"]
 	},
 	{
 		"no": 157,
 		"name": "Typhlosion de Hisui",
 		"name_en": "Hisuian Typhlosion",
 		"image": "sprites/157-regional-h.png",
-		"types": ["feu", "spectre"],
+		"types": ["Feu", "Spectre"],
 		"base_stats": {
 			"hp": 73,
 			"atk": 84,
@@ -998,14 +1035,15 @@
 			"spdef": 105,
 			"spe": 115
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Blaze", "Frisk"]
 	},
 	{
 		"no": 160,
 		"name": "Aligatueur",
 		"name_en": "Feraligatr",
 		"image": "sprites/160.png",
-		"types": ["eau"],
+		"types": ["Eau"],
 		"base_stats": {
 			"hp": 85,
 			"atk": 105,
@@ -1027,14 +1065,15 @@
 				"pokemon": "Méga-Aligatueur",
 				"needed_item": "Aligatueurite"
 			}
-		]
+		],
+		"abilities": ["Torrent", "Sheer Force"]
 	},
 	{
 		"no": 168,
 		"name": "Migalos",
 		"name_en": "Ariados",
 		"image": "sprites/168.png",
-		"types": ["insecte", "poison"],
+		"types": ["Insecte", "Poison"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 90,
@@ -1051,14 +1090,15 @@
 			"spdef": 90,
 			"spe": 60
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Swarm", "Insomnia", "Sniper"]
 	},
 	{
 		"no": 181,
 		"name": "Pharamp",
 		"name_en": "Ampharos",
 		"image": "sprites/181.png",
-		"types": ["électrik"],
+		"types": ["Électrik"],
 		"base_stats": {
 			"hp": 90,
 			"atk": 75,
@@ -1080,14 +1120,15 @@
 				"pokemon": "Méga-Pharamp",
 				"needed_item": "Pharamapite"
 			}
-		]
+		],
+		"abilities": ["Static", "Plus"]
 	},
 	{
 		"no": 184,
 		"name": "Azumarill",
 		"name_en": "Azumarill",
 		"image": "sprites/184.png",
-		"types": ["eau", "fée"],
+		"types": ["Eau", "Fée"],
 		"base_stats": {
 			"hp": 100,
 			"atk": 50,
@@ -1104,14 +1145,15 @@
 			"spdef": 100,
 			"spe": 70
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Thick Fat", "Huge Power", "Sap Sipper"]
 	},
 	{
 		"no": 186,
 		"name": "Tarpaud",
 		"name_en": "Politoed",
 		"image": "sprites/186.png",
-		"types": ["eau"],
+		"types": ["Eau"],
 		"base_stats": {
 			"hp": 90,
 			"atk": 75,
@@ -1128,14 +1170,15 @@
 			"spdef": 120,
 			"spe": 90
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Water Absorb", "Damp", "Drizzle"]
 	},
 	{
 		"no": 196,
 		"name": "Mentali",
 		"name_en": "Espeon",
 		"image": "sprites/196.png",
-		"types": ["psy"],
+		"types": ["Psy"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 65,
@@ -1152,14 +1195,15 @@
 			"spdef": 115,
 			"spe": 130
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Synchronize", "Magic Bounce"]
 	},
 	{
 		"no": 197,
 		"name": "Noctali",
 		"name_en": "Umbreon",
 		"image": "sprites/197.png",
-		"types": ["ténèbres"],
+		"types": ["Ténèbres"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 65,
@@ -1176,14 +1220,15 @@
 			"spdef": 150,
 			"spe": 85
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Synchronize", "Inner Focus"]
 	},
 	{
 		"no": 199,
 		"name": "Roigada",
 		"name_en": "Slowking",
 		"image": "sprites/199.png",
-		"types": ["eau", "psy"],
+		"types": ["Eau", "Psy"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 75,
@@ -1200,14 +1245,15 @@
 			"spdef": 130,
 			"spe": 50
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Oblivious", "Own Tempo", "Regenerator"]
 	},
 	{
 		"no": 199,
 		"name": "Roigada de Galar",
 		"name_en": "Galarian Slowking",
 		"image": "sprites/199-regional-g.png",
-		"types": ["poison", "psy"],
+		"types": ["Poison", "Psy"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 65,
@@ -1224,14 +1270,15 @@
 			"spdef": 130,
 			"spe": 50
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Curious Medicine", "Own Tempo", "Regenerator"]
 	},
 	{
 		"no": 205,
 		"name": "Foretress",
 		"name_en": "Forretress",
 		"image": "sprites/205.png",
-		"types": ["insecte", "acier"],
+		"types": ["Insecte", "Acier"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 90,
@@ -1248,14 +1295,15 @@
 			"spdef": 80,
 			"spe": 60
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Sturdy", "Overcoat"]
 	},
 	{
 		"no": 208,
 		"name": "Steelix",
 		"name_en": "Steelix",
 		"image": "sprites/208.png",
-		"types": ["acier", "sol"],
+		"types": ["Acier", "Sol"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 85,
@@ -1277,14 +1325,15 @@
 				"pokemon": "Méga-Steelix",
 				"needed_item": "Steelixite"
 			}
-		]
+		],
+		"abilities": ["Rock Head", "Sturdy", "Sheer Force"]
 	},
 	{
 		"no": 212,
 		"name": "Cizayox",
 		"name_en": "Scizor",
 		"image": "sprites/212.png",
-		"types": ["insecte", "acier"],
+		"types": ["Insecte", "Acier"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 130,
@@ -1306,14 +1355,15 @@
 				"pokemon": "Méga-Cizayox",
 				"needed_item": "Cizayoxite"
 			}
-		]
+		],
+		"abilities": ["Swarm", "Technician", "Light Metal"]
 	},
 	{
 		"no": 214,
 		"name": "Scarhino",
 		"name_en": "Heracross",
 		"image": "sprites/214.png",
-		"types": ["insecte", "combat"],
+		"types": ["Insecte", "Combat"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 125,
@@ -1335,14 +1385,15 @@
 				"pokemon": "Méga-Scarhino",
 				"needed_item": "Scarhinoïte"
 			}
-		]
+		],
+		"abilities": ["Swarm", "Guts", "Moxie"]
 	},
 	{
 		"no": 227,
 		"name": "Airmure",
 		"name_en": "Skarmory",
 		"image": "sprites/227.png",
-		"types": ["acier", "vol"],
+		"types": ["Acier", "Vol"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 80,
@@ -1364,14 +1415,15 @@
 				"pokemon": "Méga-Airmure",
 				"needed_item": "Airmurite"
 			}
-		]
+		],
+		"abilities": ["Keen Eye", "Sturdy", "Weak Armor"]
 	},
 	{
 		"no": 229,
 		"name": "Démolosse",
 		"name_en": "Houndoom",
 		"image": "sprites/229.png",
-		"types": ["ténèbres", "feu"],
+		"types": ["Ténèbres", "Feu"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 90,
@@ -1393,14 +1445,15 @@
 				"pokemon": "Méga-Démolosse",
 				"needed_item": "Démolossite"
 			}
-		]
+		],
+		"abilities": ["Early Bird", "Flash Fire", "Unnerve"]
 	},
 	{
 		"no": 248,
 		"name": "Tyranocif",
 		"name_en": "Tyranitar",
 		"image": "sprites/248.png",
-		"types": ["roche", "ténèbres"],
+		"types": ["Roche", "Ténèbres"],
 		"base_stats": {
 			"hp": 100,
 			"atk": 134,
@@ -1422,14 +1475,15 @@
 				"pokemon": "Méga-Tyranocif",
 				"needed_item": "Tyranocivite"
 			}
-		]
+		],
+		"abilities": ["Sand Stream", "Unnerve"]
 	},
 	{
 		"no": 279,
 		"name": "Bekipan",
 		"name_en": "Pelipper",
 		"image": "sprites/279.png",
-		"types": ["eau", "vol"],
+		"types": ["Eau", "Vol"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 50,
@@ -1446,14 +1500,15 @@
 			"spdef": 90,
 			"spe": 85
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Keen Eye", "Drizzle", "Rain Dish"]
 	},
 	{
 		"no": 282,
 		"name": "Gardevoir",
 		"name_en": "Gardevoir",
 		"image": "sprites/282.png",
-		"types": ["psy", "fée"],
+		"types": ["Psy", "Fée"],
 		"base_stats": {
 			"hp": 68,
 			"atk": 65,
@@ -1475,14 +1530,15 @@
 				"pokemon": "Méga-Gardevoir",
 				"needed_item": "Gardevoirite"
 			}
-		]
+		],
+		"abilities": ["Synchronize", "Trace", "Telepathy"]
 	},
 	{
 		"no": 302,
 		"name": "Ténéfix",
 		"name_en": "Sableye",
 		"image": "sprites/302.png",
-		"types": ["ténèbres", "spectre"],
+		"types": ["Ténèbres", "Spectre"],
 		"base_stats": {
 			"hp": 50,
 			"atk": 75,
@@ -1504,14 +1560,15 @@
 				"pokemon": "Méga-Ténéfix",
 				"needed_item": "Ténéfixite"
 			}
-		]
+		],
+		"abilities": ["Keen Eye", "Stall", "Prankster"]
 	},
 	{
 		"no": 306,
 		"name": "Galeking",
 		"name_en": "Aggron",
 		"image": "sprites/306.png",
-		"types": ["acier", "roche"],
+		"types": ["Acier", "Roche"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 110,
@@ -1533,14 +1590,15 @@
 				"pokemon": "Méga-Galeking",
 				"needed_item": "Galekingite"
 			}
-		]
+		],
+		"abilities": ["Sturdy", "Rock Head", "Heavy Metal"]
 	},
 	{
 		"no": 308,
 		"name": "Charmina",
 		"name_en": "Medicham",
 		"image": "sprites/308.png",
-		"types": ["combat", "psy"],
+		"types": ["Combat", "Psy"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 60,
@@ -1562,14 +1620,15 @@
 				"pokemon": "Méga-Charmina",
 				"needed_item": "Charminite"
 			}
-		]
+		],
+		"abilities": ["Pure Power", "Telepathy"]
 	},
 	{
 		"no": 310,
 		"name": "Élecsprint",
 		"name_en": "Manectric",
 		"image": "sprites/310.png",
-		"types": ["électrik"],
+		"types": ["Électrik"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 75,
@@ -1591,14 +1650,15 @@
 				"pokemon": "Méga-Élecsprint",
 				"needed_item": "Élecsprintite"
 			}
-		]
+		],
+		"abilities": ["Static", "Lightning Rod", "Minus"]
 	},
 	{
 		"no": 319,
 		"name": "Sharpedo",
 		"name_en": "Sharpedo",
 		"image": "sprites/319.png",
-		"types": ["eau", "ténèbres"],
+		"types": ["Eau", "Ténèbres"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 120,
@@ -1620,14 +1680,15 @@
 				"pokemon": "Méga-Sharpedo",
 				"needed_item": "Sharpedite"
 			}
-		]
+		],
+		"abilities": ["Rough Skin", "Speed Boost"]
 	},
 	{
 		"no": 323,
 		"name": "Camérupt",
 		"name_en": "Camerupt",
 		"image": "sprites/323.png",
-		"types": ["feu", "sol"],
+		"types": ["Feu", "Sol"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 100,
@@ -1649,14 +1710,15 @@
 				"pokemon": "Méga-Camérupt",
 				"needed_item": "Caméruptite"
 			}
-		]
+		],
+		"abilities": ["Magma Armor", "Solid Rock", "Anger Point"]
 	},
 	{
 		"no": 324,
 		"name": "Chartor",
 		"name_en": "Torkoal",
 		"image": "sprites/324.png",
-		"types": ["feu"],
+		"types": ["Feu"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 85,
@@ -1673,14 +1735,15 @@
 			"spdef": 90,
 			"spe": 40
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["White Smoke", "Drought", "Shell Armor"]
 	},
 	{
 		"no": 334,
 		"name": "Altaria",
 		"name_en": "Altaria",
 		"image": "sprites/334.png",
-		"types": ["dragon", "vol"],
+		"types": ["Dragon", "Vol"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 70,
@@ -1702,14 +1765,15 @@
 				"pokemon": "Méga-Altaria",
 				"needed_item": "Altarite"
 			}
-		]
+		],
+		"abilities": ["Natural Cure", "Cloud Nine"]
 	},
 	{
 		"no": 350,
 		"name": "Milobellus",
 		"name_en": "Milotic",
 		"image": "sprites/350.png",
-		"types": ["eau"],
+		"types": ["Eau"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 60,
@@ -1726,14 +1790,15 @@
 			"spdef": 145,
 			"spe": 101
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Marvel Scale", "Competitive", "Cute Charm"]
 	},
 	{
 		"no": 351,
 		"name": "Morphéo",
 		"name_en": "Castform",
 		"image": "sprites/351.png",
-		"types": ["normal"],
+		"types": ["Normal"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 70,
@@ -1750,14 +1815,15 @@
 			"spdef": 90,
 			"spe": 90
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Forecast"]
 	},
 	{
 		"no": 354,
 		"name": "Branette",
 		"name_en": "Banette",
 		"image": "sprites/354.png",
-		"types": ["spectre"],
+		"types": ["Spectre"],
 		"base_stats": {
 			"hp": 64,
 			"atk": 115,
@@ -1779,14 +1845,15 @@
 				"pokemon": "Méga-Branette",
 				"needed_item": "Branettite"
 			}
-		]
+		],
+		"abilities": ["Insomnia", "Frisk", "Cursed Body"]
 	},
 	{
 		"no": 358,
 		"name": "Éoko",
 		"name_en": "Chimecho",
 		"image": "sprites/358.png",
-		"types": ["psy"],
+		"types": ["Psy"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 50,
@@ -1808,14 +1875,15 @@
 				"pokemon": "Méga-Éoko",
 				"needed_item": "Éokite"
 			}
-		]
+		],
+		"abilities": ["Levitate"]
 	},
 	{
 		"no": 359,
 		"name": "Absol",
 		"name_en": "Absol",
 		"image": "sprites/359.png",
-		"types": ["ténèbres"],
+		"types": ["Ténèbres"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 130,
@@ -1837,7 +1905,8 @@
 				"pokemon": "Méga-Absol",
 				"needed_item": "Absolite"
 			}
-		]
+		],
+		"abilities": ["Pressure", "Super Luck", "Justified"]
 	},
 	{
 		"no": 362,
@@ -1866,14 +1935,15 @@
 				"pokemon": "Méga-Oniglali",
 				"needed_item": "Oniglalite"
 			}
-		]
+		],
+		"abilities": ["Inner Focus", "Ice Body", "Moody"]
 	},
 	{
 		"no": 389,
 		"name": "Torterra",
 		"name_en": "Torterra",
 		"image": "sprites/389.png",
-		"types": ["plante", "sol"],
+		"types": ["Plante", "Sol"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 109,
@@ -1890,14 +1960,15 @@
 			"spdef": 105,
 			"spe": 76
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Overgrow", "Shell Armor"]
 	},
 	{
 		"no": 392,
 		"name": "Simiabraz",
 		"name_en": "Infernape",
 		"image": "sprites/392.png",
-		"types": ["feu", "combat"],
+		"types": ["Feu", "Combat"],
 		"base_stats": {
 			"hp": 76,
 			"atk": 104,
@@ -1914,14 +1985,15 @@
 			"spdef": 91,
 			"spe": 128
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Blaze", "Iron Fist"]
 	},
 	{
 		"no": 395,
 		"name": "Pingoléon",
 		"name_en": "Empoleon",
 		"image": "sprites/395.png",
-		"types": ["eau", "acier"],
+		"types": ["Eau", "Acier"],
 		"base_stats": {
 			"hp": 84,
 			"atk": 86,
@@ -1938,14 +2010,15 @@
 			"spdef": 121,
 			"spe": 80
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Torrent", "Competitive"]
 	},
 	{
 		"no": 405,
 		"name": "Luxray",
 		"name_en": "Luxray",
 		"image": "sprites/405.png",
-		"types": ["électrik"],
+		"types": ["Électrik"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 120,
@@ -1962,14 +2035,15 @@
 			"spdef": 99,
 			"spe": 90
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Rivalry", "Intimidate", "Guts"]
 	},
 	{
 		"no": 407,
 		"name": "Roserade",
 		"name_en": "Roserade",
 		"image": "sprites/407.png",
-		"types": ["plante", "poison"],
+		"types": ["Plante", "Poison"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 70,
@@ -1986,14 +2060,15 @@
 			"spdef": 125,
 			"spe": 110
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Natural Cure", "Poison Point", "Technician"]
 	},
 	{
 		"no": 409,
 		"name": "Charkos",
 		"name_en": "Rampardos",
 		"image": "sprites/409.png",
-		"types": ["roche"],
+		"types": ["Roche"],
 		"base_stats": {
 			"hp": 97,
 			"atk": 165,
@@ -2010,14 +2085,15 @@
 			"spdef": 70,
 			"spe": 78
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Mold Breaker", "Sheer Force"]
 	},
 	{
 		"no": 411,
 		"name": "Bastiodon",
 		"name_en": "Bastiodon",
 		"image": "sprites/411.png",
-		"types": ["roche", "acier"],
+		"types": ["Roche", "Acier"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 52,
@@ -2034,14 +2110,15 @@
 			"spdef": 158,
 			"spe": 50
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Sturdy", "Soundproof"]
 	},
 	{
 		"no": 428,
 		"name": "Lockpin",
 		"name_en": "Lopunny",
 		"image": "sprites/428.png",
-		"types": ["normal"],
+		"types": ["Normal"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 76,
@@ -2063,14 +2140,15 @@
 				"pokemon": "Méga-Lockpin",
 				"needed_item": "Lockpinite"
 			}
-		]
+		],
+		"abilities": ["Cute Charm", "Klutz", "Limber"]
 	},
 	{
 		"no": 442,
 		"name": "Spiritomb",
 		"name_en": "Spiritomb",
 		"image": "sprites/442.png",
-		"types": ["spectre", "ténèbres"],
+		"types": ["Spectre", "Ténèbres"],
 		"base_stats": {
 			"hp": 50,
 			"atk": 92,
@@ -2087,14 +2165,15 @@
 			"spdef": 128,
 			"spe": 55
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Pressure", "Infiltrator"]
 	},
 	{
 		"no": 445,
 		"name": "Carchacrok",
 		"name_en": "Garchomp",
 		"image": "sprites/445.png",
-		"types": ["dragon", "sol"],
+		"types": ["Dragon", "Sol"],
 		"base_stats": {
 			"hp": 108,
 			"atk": 130,
@@ -2116,14 +2195,15 @@
 				"pokemon": "Méga-Carchacrok",
 				"needed_item": "Carchacrokite"
 			}
-		]
+		],
+		"abilities": ["Sand Veil", "Rough Skin"]
 	},
 	{
 		"no": 448,
 		"name": "Lucario",
 		"name_en": "Lucario",
 		"image": "sprites/448.png",
-		"types": ["combat", "acier"],
+		"types": ["Combat", "Acier"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 110,
@@ -2145,14 +2225,15 @@
 				"pokemon": "Méga-Lucario",
 				"needed_item": "Lucarite"
 			}
-		]
+		],
+		"abilities": ["Steadfast", "Inner Focus", "Justified"]
 	},
 	{
 		"no": 450,
 		"name": "Hippodocus",
 		"name_en": "Hippowdon",
 		"image": "sprites/450.png",
-		"types": ["sol"],
+		"types": ["Sol"],
 		"base_stats": {
 			"hp": 108,
 			"atk": 112,
@@ -2169,14 +2250,15 @@
 			"spdef": 92,
 			"spe": 67
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Sand Stream", "Sand Force"]
 	},
 	{
 		"no": 454,
 		"name": "Coatox",
 		"name_en": "Toxicroak",
 		"image": "sprites/454.png",
-		"types": ["poison", "combat"],
+		"types": ["Poison", "Combat"],
 		"base_stats": {
 			"hp": 83,
 			"atk": 106,
@@ -2193,14 +2275,15 @@
 			"spdef": 85,
 			"spe": 105
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Anticipation", "Dry Skin", "Poison Touch"]
 	},
 	{
 		"no": 460,
 		"name": "Blizzaroi",
 		"name_en": "Abomasnow",
 		"image": "sprites/460.png",
-		"types": ["plante", "glace"],
+		"types": ["Plante", "glace"],
 		"base_stats": {
 			"hp": 90,
 			"atk": 92,
@@ -2222,14 +2305,15 @@
 				"pokemon": "Méga-Blizzaroi",
 				"needed_item": "Blizzarite"
 			}
-		]
+		],
+		"abilities": ["Snow Warning", "Soundproof"]
 	},
 	{
 		"no": 461,
 		"name": "Dimoret",
 		"name_en": "Weavile",
 		"image": "sprites/461.png",
-		"types": ["ténèbres", "glace"],
+		"types": ["Ténèbres", "glace"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 120,
@@ -2246,14 +2330,15 @@
 			"spdef": 105,
 			"spe": 145
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Pressure", "Pickpocket"]
 	},
 	{
 		"no": 464,
 		"name": "Rhinastoc",
 		"name_en": "Rhyperior",
 		"image": "sprites/464.png",
-		"types": ["sol", "roche"],
+		"types": ["Sol", "Roche"],
 		"base_stats": {
 			"hp": 115,
 			"atk": 140,
@@ -2270,14 +2355,15 @@
 			"spdef": 75,
 			"spe": 60
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Lightning Rod", "Solid Rock", "Reckless"]
 	},
 	{
 		"no": 470,
 		"name": "Phyllali",
 		"name_en": "Leafeon",
 		"image": "sprites/470.png",
-		"types": ["plante"],
+		"types": ["Plante"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 110,
@@ -2294,7 +2380,8 @@
 			"spdef": 85,
 			"spe": 115
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Leaf Guard", "Chlorophyll"]
 	},
 	{
 		"no": 471,
@@ -2318,14 +2405,15 @@
 			"spdef": 115,
 			"spe": 85
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Snow Cloak", "Ice Body"]
 	},
 	{
 		"no": 472,
 		"name": "Scorvol",
 		"name_en": "Gliscor",
 		"image": "sprites/472.png",
-		"types": ["sol", "vol"],
+		"types": ["Sol", "Vol"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 95,
@@ -2342,14 +2430,15 @@
 			"spdef": 95,
 			"spe": 115
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Hyper Cutter", "Sand Veil", "Poison Heal"]
 	},
 	{
 		"no": 473,
 		"name": "Mammochon",
 		"name_en": "Mamoswine",
 		"image": "sprites/473.png",
-		"types": ["glace", "sol"],
+		"types": ["glace", "Sol"],
 		"base_stats": {
 			"hp": 110,
 			"atk": 130,
@@ -2366,14 +2455,15 @@
 			"spdef": 80,
 			"spe": 100
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Oblivious", "Snow Cloak", "Thick Fat"]
 	},
 	{
 		"no": 475,
 		"name": "Gallame",
 		"name_en": "Gallade",
 		"image": "sprites/475.png",
-		"types": ["psy", "combat"],
+		"types": ["Psy", "Combat"],
 		"base_stats": {
 			"hp": 68,
 			"atk": 125,
@@ -2395,14 +2485,15 @@
 				"pokemon": "Méga-Gallame",
 				"needed_item": "Gallamite"
 			}
-		]
+		],
+		"abilities": ["Steadfast", "Sharpness", "Justified"]
 	},
 	{
 		"no": 478,
 		"name": "Momartik",
 		"name_en": "Froslass",
 		"image": "sprites/478.png",
-		"types": ["glace", "spectre"],
+		"types": ["glace", "Spectre"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 80,
@@ -2424,14 +2515,15 @@
 				"pokemon": "Méga-Momartik",
 				"needed_item": "Momartikite"
 			}
-		]
+		],
+		"abilities": ["Snow Cloak", "Cursed Body"]
 	},
 	{
 		"no": 479,
 		"name": "Motisma",
 		"name_en": "Rotom",
 		"image": "sprites/479.png",
-		"types": ["électrik", "spectre"],
+		"types": ["Électrik", "Spectre"],
 		"base_stats": {
 			"hp": 50,
 			"atk": 50,
@@ -2448,14 +2540,15 @@
 			"spdef": 97,
 			"spe": 111
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Levitate"]
 	},
 	{
 		"no": 479,
 		"name": "Motisma Chaleur",
 		"name_en": "Rotom-Heat",
 		"image": "sprites/479-heat.png",
-		"types": ["électrik", "feu"],
+		"types": ["Électrik", "Feu"],
 		"base_stats": {
 			"hp": 50,
 			"atk": 65,
@@ -2472,14 +2565,15 @@
 			"spdef": 127,
 			"spe": 106
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Levitate"]
 	},
 	{
 		"no": 479,
 		"name": "Motisma Lavage",
 		"name_en": "Rotom-Wash",
 		"image": "sprites/479-wash.png",
-		"types": ["électrik", "eau"],
+		"types": ["Électrik", "Eau"],
 		"base_stats": {
 			"hp": 50,
 			"atk": 65,
@@ -2496,14 +2590,15 @@
 			"spdef": 127,
 			"spe": 106
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Levitate"]
 	},
 	{
 		"no": 479,
 		"name": "Motisma Froid",
 		"name_en": "Rotom-Frost",
 		"image": "sprites/479-frost.png",
-		"types": ["électrik", "glace"],
+		"types": ["Électrik", "glace"],
 		"base_stats": {
 			"hp": 50,
 			"atk": 65,
@@ -2520,14 +2615,15 @@
 			"spdef": 127,
 			"spe": 106
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Levitate"]
 	},
 	{
 		"no": 479,
 		"name": "Motisma Hélice",
 		"name_en": "Rotom-Fan",
 		"image": "sprites/479-fan.png",
-		"types": ["électrik", "vol"],
+		"types": ["Électrik", "Vol"],
 		"base_stats": {
 			"hp": 50,
 			"atk": 65,
@@ -2544,14 +2640,15 @@
 			"spdef": 127,
 			"spe": 106
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Levitate"]
 	},
 	{
 		"no": 479,
 		"name": "Motisma Tonte",
 		"name_en": "Rotom-Mow",
 		"image": "sprites/479-mow.png",
-		"types": ["électrik", "plante"],
+		"types": ["Électrik", "Plante"],
 		"base_stats": {
 			"hp": 50,
 			"atk": 65,
@@ -2568,14 +2665,15 @@
 			"spdef": 127,
 			"spe": 106
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Levitate"]
 	},
 	{
 		"no": 497,
 		"name": "Majaspic",
 		"name_en": "Serperior",
 		"image": "sprites/497.png",
-		"types": ["plante"],
+		"types": ["Plante"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 75,
@@ -2592,14 +2690,15 @@
 			"spdef": 115,
 			"spe": 133
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Overgrow", "Contrary"]
 	},
 	{
 		"no": 500,
 		"name": "Roitiflam",
 		"name_en": "Emboar",
 		"image": "sprites/500.png",
-		"types": ["feu", "combat"],
+		"types": ["Feu", "Combat"],
 		"base_stats": {
 			"hp": 110,
 			"atk": 123,
@@ -2621,14 +2720,15 @@
 				"pokemon": "Méga-Roitiflam",
 				"needed_item": "Roitiflamite"
 			}
-		]
+		],
+		"abilities": ["Blaze", "Reckless"]
 	},
 	{
 		"no": 503,
 		"name": "Clamiral",
 		"name_en": "Samurott",
 		"image": "sprites/503.png",
-		"types": ["eau"],
+		"types": ["Eau"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 100,
@@ -2645,14 +2745,15 @@
 			"spdef": 90,
 			"spe": 90
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Torrent", "Shell Armor"]
 	},
 	{
 		"no": 503,
 		"name": "Clamiral de Hisui",
 		"name_en": "Hisuian Samurott",
 		"image": "sprites/503-regional-h.png",
-		"types": ["eau", "ténèbres"],
+		"types": ["Eau", "Ténèbres"],
 		"base_stats": {
 			"hp": 90,
 			"atk": 108,
@@ -2669,14 +2770,15 @@
 			"spdef": 85,
 			"spe": 105
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Torrent", "Sharpness"]
 	},
 	{
 		"no": 505,
 		"name": "Miradar",
 		"name_en": "Watchog",
 		"image": "sprites/505.png",
-		"types": ["normal"],
+		"types": ["Normal"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 85,
@@ -2693,14 +2795,15 @@
 			"spdef": 89,
 			"spe": 97
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Illuminate", "Keen Eye", "Analytic"]
 	},
 	{
 		"no": 510,
 		"name": "Léopardus",
 		"name_en": "Liepard",
 		"image": "sprites/510.png",
-		"types": ["ténèbres"],
+		"types": ["Ténèbres"],
 		"base_stats": {
 			"hp": 64,
 			"atk": 88,
@@ -2717,14 +2820,15 @@
 			"spdef": 70,
 			"spe": 126
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Limber", "Unburden", "Prankster"]
 	},
 	{
 		"no": 512,
 		"name": "Feuiloutan",
 		"name_en": "Simisage",
 		"image": "sprites/512.png",
-		"types": ["plante"],
+		"types": ["Plante"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 98,
@@ -2741,14 +2845,15 @@
 			"spdef": 83,
 			"spe": 121
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Gluttony", "Overgrow"]
 	},
 	{
 		"no": 514,
 		"name": "Flamoutan",
 		"name_en": "Simisear",
 		"image": "sprites/514.png",
-		"types": ["feu"],
+		"types": ["Feu"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 98,
@@ -2765,14 +2870,15 @@
 			"spdef": 83,
 			"spe": 121
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Gluttony", "Blaze"]
 	},
 	{
 		"no": 516,
 		"name": "Flotoutan",
 		"name_en": "Simipour",
 		"image": "sprites/516.png",
-		"types": ["eau"],
+		"types": ["Eau"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 98,
@@ -2789,14 +2895,15 @@
 			"spdef": 83,
 			"spe": 121
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Gluttony", "Torrent"]
 	},
 	{
 		"no": 530,
 		"name": "Minotaupe",
 		"name_en": "Excadrill",
 		"image": "sprites/530.png",
-		"types": ["sol", "acier"],
+		"types": ["Sol", "Acier"],
 		"base_stats": {
 			"hp": 110,
 			"atk": 135,
@@ -2818,14 +2925,15 @@
 				"pokemon": "Méga-Minotaupe",
 				"needed_item": "Minotaupite"
 			}
-		]
+		],
+		"abilities": ["Sand Rush", "Sand Force", "Mold Breaker"]
 	},
 	{
 		"no": 531,
 		"name": "Nanméouïe",
 		"name_en": "Audino",
 		"image": "sprites/531.png",
-		"types": ["normal"],
+		"types": ["Normal"],
 		"base_stats": {
 			"hp": 103,
 			"atk": 60,
@@ -2846,14 +2954,15 @@
 			{
 				"pokemon": "Méga-Nanméouïe"
 			}
-		]
+		],
+		"abilities": ["Healer", "Regenerator", "Klutz"]
 	},
 	{
 		"no": 534,
 		"name": "Bétochef",
 		"name_en": "Conkeldurr",
 		"image": "sprites/534.png",
-		"types": ["combat"],
+		"types": ["Combat"],
 		"base_stats": {
 			"hp": 105,
 			"atk": 140,
@@ -2870,14 +2979,15 @@
 			"spdef": 85,
 			"spe": 65
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Guts", "Sheer Force", "Iron Fist"]
 	},
 	{
 		"no": 547,
 		"name": "Farfaduvet",
 		"name_en": "Whimsicott",
 		"image": "sprites/547.png",
-		"types": ["plante", "fée"],
+		"types": ["Plante", "Fée"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 67,
@@ -2894,14 +3004,15 @@
 			"spdef": 95,
 			"spe": 136
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Prankster", "Infiltrator", "Chlorophyll"]
 	},
 	{
 		"no": 553,
 		"name": "Crocorible",
 		"name_en": "Krookodile",
 		"image": "sprites/553.png",
-		"types": ["sol", "ténèbres"],
+		"types": ["Sol", "Ténèbres"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 117,
@@ -2918,14 +3029,15 @@
 			"spdef": 90,
 			"spe": 112
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Intimidate", "Moxie", "Anger Point"]
 	},
 	{
 		"no": 563,
 		"name": "Tutankafer",
 		"name_en": "Cofagrigus",
 		"image": "sprites/563.png",
-		"types": ["spectre"],
+		"types": ["Spectre"],
 		"base_stats": {
 			"hp": 58,
 			"atk": 50,
@@ -2942,14 +3054,15 @@
 			"spdef": 125,
 			"spe": 50
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Mummy"]
 	},
 	{
 		"no": 569,
 		"name": "Miasmax",
 		"name_en": "Garbodor",
 		"image": "sprites/569.png",
-		"types": ["poison"],
+		"types": ["Poison"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 95,
@@ -2966,14 +3079,15 @@
 			"spdef": 102,
 			"spe": 95
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Stench", "Weak Armor", "Aftermath"]
 	},
 	{
 		"no": 571,
 		"name": "Zoroark",
 		"name_en": "Zoroark",
 		"image": "sprites/571.png",
-		"types": ["ténèbres"],
+		"types": ["Ténèbres"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 105,
@@ -2990,14 +3104,15 @@
 			"spdef": 80,
 			"spe": 125
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Illusion"]
 	},
 	{
 		"no": 571,
 		"name": "Zoroark de Hisui",
 		"name_en": "Hisuian Zoroark",
 		"image": "sprites/571-regional-h.png",
-		"types": ["normal", "spectre"],
+		"types": ["Normal", "Spectre"],
 		"base_stats": {
 			"hp": 55,
 			"atk": 100,
@@ -3014,14 +3129,15 @@
 			"spdef": 80,
 			"spe": 130
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Illusion"]
 	},
 	{
 		"no": 579,
 		"name": "Symbios",
 		"name_en": "Reuniclus",
 		"image": "sprites/579.png",
-		"types": ["psy"],
+		"types": ["Psy"],
 		"base_stats": {
 			"hp": 110,
 			"atk": 65,
@@ -3038,7 +3154,8 @@
 			"spdef": 105,
 			"spe": 50
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Overcoat", "Magic Guard", "Regenerator"]
 	},
 	{
 		"no": 584,
@@ -3062,14 +3179,15 @@
 			"spdef": 115,
 			"spe": 99
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Ice Body", "Snow Warning", "Weak Armor"]
 	},
 	{
 		"no": 587,
 		"name": "Emolga",
 		"name_en": "Emolga",
 		"image": "sprites/587.png",
-		"types": ["électrik", "vol"],
+		"types": ["Électrik", "Vol"],
 		"base_stats": {
 			"hp": 55,
 			"atk": 75,
@@ -3086,14 +3204,15 @@
 			"spdef": 80,
 			"spe": 123
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Static", "Motor Drive"]
 	},
 	{
 		"no": 609,
 		"name": "Lugulabre",
 		"name_en": "Chandelure",
 		"image": "sprites/609.png",
-		"types": ["spectre", "feu"],
+		"types": ["Spectre", "Feu"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 55,
@@ -3115,7 +3234,8 @@
 				"pokemon": "Méga-Lugulabre",
 				"needed_item": "Lugulabrite"
 			}
-		]
+		],
+		"abilities": ["Flash Fire", "Flame Body", "Infiltrator"]
 	},
 	{
 		"no": 614,
@@ -3139,14 +3259,15 @@
 			"spdef": 100,
 			"spe": 70
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Snow Cloak", "Slush Rush", "Swift Swim"]
 	},
 	{
 		"no": 618,
 		"name": "Limonde",
 		"name_en": "Stunfisk",
 		"image": "sprites/618.png",
-		"types": ["sol", "électrik"],
+		"types": ["Sol", "Électrik"],
 		"base_stats": {
 			"hp": 109,
 			"atk": 66,
@@ -3163,14 +3284,15 @@
 			"spdef": 119,
 			"spe": 52
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Static", "Limber", "Sand Veil"]
 	},
 	{
 		"no": 618,
 		"name": "Limonde de Galar",
 		"name_en": "Galarian Stunfisk",
 		"image": "sprites/618-regional-g.png",
-		"types": ["sol", "acier"],
+		"types": ["Sol", "Acier"],
 		"base_stats": {
 			"hp": 109,
 			"atk": 81,
@@ -3187,14 +3309,15 @@
 			"spdef": 104,
 			"spe": 52
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Mimicry"]
 	},
 	{
 		"no": 623,
 		"name": "Golemastoc",
 		"name_en": "Golurk",
 		"image": "sprites/623.png",
-		"types": ["sol", "spectre"],
+		"types": ["Sol", "Spectre"],
 		"base_stats": {
 			"hp": 89,
 			"atk": 124,
@@ -3216,14 +3339,15 @@
 				"pokemon": "Méga-Golemastoc",
 				"needed_item": "Golemastokite"
 			}
-		]
+		],
+		"abilities": ["Iron Fist", "Klutz", "No Guard"]
 	},
 	{
 		"no": 635,
 		"name": "Trioxhydre",
 		"name_en": "Hydreigon",
 		"image": "sprites/635.png",
-		"types": ["ténèbres", "dragon"],
+		"types": ["Ténèbres", "Dragon"],
 		"base_stats": {
 			"hp": 92,
 			"atk": 105,
@@ -3240,14 +3364,15 @@
 			"spdef": 110,
 			"spe": 118
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Levitate"]
 	},
 	{
 		"no": 637,
 		"name": "Pyrax",
 		"name_en": "Volcarona",
 		"image": "sprites/637.png",
-		"types": ["insecte", "feu"],
+		"types": ["Insecte", "Feu"],
 		"base_stats": {
 			"hp": 85,
 			"atk": 60,
@@ -3264,14 +3389,15 @@
 			"spdef": 125,
 			"spe": 120
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Flame Body", "Swarm"]
 	},
 	{
 		"no": 652,
 		"name": "Blindépique",
 		"name_en": "Chesnaught",
 		"image": "sprites/652.png",
-		"types": ["plante", "combat"],
+		"types": ["Plante", "Combat"],
 		"base_stats": {
 			"hp": 88,
 			"atk": 107,
@@ -3293,14 +3419,15 @@
 				"pokemon": "Méga-Blindépique",
 				"needed_item": "Blindépiquite"
 			}
-		]
+		],
+		"abilities": ["Overgrow", "Bulletproof"]
 	},
 	{
 		"no": 655,
 		"name": "Goupelin",
 		"name_en": "Delphox",
 		"image": "sprites/655.png",
-		"types": ["feu", "psy"],
+		"types": ["Feu", "Psy"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 69,
@@ -3322,14 +3449,15 @@
 				"pokemon": "Méga-Goupelin",
 				"needed_item": "Goupelinite"
 			}
-		]
+		],
+		"abilities": ["Blaze", "Magician"]
 	},
 	{
 		"no": 658,
 		"name": "Amphinobi",
 		"name_en": "Greninja",
 		"image": "sprites/658.png",
-		"types": ["eau", "ténèbres"],
+		"types": ["Eau", "Ténèbres"],
 		"base_stats": {
 			"hp": 72,
 			"atk": 95,
@@ -3351,14 +3479,15 @@
 				"pokemon": "Méga-Amphinobi",
 				"needed_item": "Amphinolite"
 			}
-		]
+		],
+		"abilities": ["Battle Bond"]
 	},
 	{
 		"no": 660,
 		"name": "Excavarenne",
 		"name_en": "Diggersby",
 		"image": "sprites/660.png",
-		"types": ["normal", "sol"],
+		"types": ["Normal", "Sol"],
 		"base_stats": {
 			"hp": 85,
 			"atk": 56,
@@ -3375,14 +3504,15 @@
 			"spdef": 97,
 			"spe": 98
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Pickup", "Cheek Pouch", "Huge Power"]
 	},
 	{
 		"no": 663,
 		"name": "Flambusard",
 		"name_en": "Talonflame",
 		"image": "sprites/663.png",
-		"types": ["feu", "vol"],
+		"types": ["Feu", "Vol"],
 		"base_stats": {
 			"hp": 78,
 			"atk": 81,
@@ -3399,14 +3529,15 @@
 			"spdef": 89,
 			"spe": 146
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Flame Body", "Gale Wings"]
 	},
 	{
 		"no": 666,
 		"name": "Prismillion",
 		"name_en": "Vivillon",
 		"image": "sprites/666.png",
-		"types": ["insecte", "vol"],
+		"types": ["Insecte", "Vol"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 52,
@@ -3423,14 +3554,15 @@
 			"spdef": 70,
 			"spe": 109
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Shield Dust", "Compound Eyes", "Friend Guard"]
 	},
 	{
 		"no": 670,
 		"name": "Floette Éternelle",
 		"name_en": "Eternal Floette",
 		"image": "sprites/670-eternal.png",
-		"types": ["fée"],
+		"types": ["Fée"],
 		"base_stats": {
 			"hp": 74,
 			"atk": 65,
@@ -3447,14 +3579,15 @@
 			"spdef": 148,
 			"spe": 112
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Flower Veil", "Symbiosis"]
 	},
 	{
 		"no": 671,
 		"name": "Florges",
 		"name_en": "Florges",
 		"image": "sprites/671.png",
-		"types": ["fée"],
+		"types": ["Fée"],
 		"base_stats": {
 			"hp": 78,
 			"atk": 65,
@@ -3471,14 +3604,15 @@
 			"spdef": 174,
 			"spe": 95
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Flower Veil", "Symbiosis"]
 	},
 	{
 		"no": 675,
 		"name": "Pandarbare",
 		"name_en": "Pangoro",
 		"image": "sprites/675.png",
-		"types": ["combat", "ténèbres"],
+		"types": ["Combat", "Ténèbres"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 124,
@@ -3495,14 +3629,15 @@
 			"spdef": 91,
 			"spe": 78
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Iron Fist", "Mold Breaker", "Scrappy"]
 	},
 	{
 		"no": 676,
 		"name": "Couafarel",
 		"name_en": "Furfrou",
 		"image": "sprites/676.png",
-		"types": ["normal"],
+		"types": ["Normal"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 80,
@@ -3519,14 +3654,15 @@
 			"spdef": 110,
 			"spe": 122
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Fur Coat"]
 	},
 	{
 		"no": 678,
 		"name": "Mistigrix Mâle",
 		"name_en": "Male Meowstic",
 		"image": "sprites/678-male.png",
-		"types": ["psy"],
+		"types": ["Psy"],
 		"base_stats": {
 			"hp": 74,
 			"atk": 48,
@@ -3543,14 +3679,15 @@
 			"spdef": 101,
 			"spe": 124
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Keen Eye", "Infiltrator", "Prankster"]
 	},
 	{
 		"no": 678,
 		"name": "Mistigrix Femelle",
 		"name_en": "Female Meowstic",
 		"image": "sprites/678-female.png",
-		"types": ["psy"],
+		"types": ["Psy"],
 		"base_stats": {
 			"hp": 74,
 			"atk": 48,
@@ -3567,14 +3704,15 @@
 			"spdef": 101,
 			"spe": 124
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Keen Eye", "Infiltrator", "Competitive"]
 	},
 	{
 		"no": 681,
 		"name": "Exagide",
 		"name_en": "Aegislash",
 		"image": "sprites/681.png",
-		"types": ["acier", "spectre"],
+		"types": ["Acier", "Spectre"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 50,
@@ -3591,14 +3729,15 @@
 			"spdef": 160,
 			"spe": 80
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Stance Change"]
 	},
 	{
 		"no": 683,
 		"name": "Cocotine",
 		"name_en": "Aromatisse",
 		"image": "sprites/683.png",
-		"types": ["fée"],
+		"types": ["Fée"],
 		"base_stats": {
 			"hp": 101,
 			"atk": 72,
@@ -3615,14 +3754,15 @@
 			"spdef": 109,
 			"spe": 49
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Healer", "Aroma Veil"]
 	},
 	{
 		"no": 685,
 		"name": "Cupcanaille",
 		"name_en": "Slurpuff",
 		"image": "sprites/685.png",
-		"types": ["fée"],
+		"types": ["Fée"],
 		"base_stats": {
 			"hp": 82,
 			"atk": 80,
@@ -3639,14 +3779,15 @@
 			"spdef": 95,
 			"spe": 92
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Sweet Veil", "Unburden"]
 	},
 	{
 		"no": 693,
 		"name": "Gamblast",
 		"name_en": "Clawitzer",
 		"image": "sprites/693.png",
-		"types": ["eau"],
+		"types": ["Eau"],
 		"base_stats": {
 			"hp": 71,
 			"atk": 73,
@@ -3663,14 +3804,15 @@
 			"spdef": 109,
 			"spe": 79
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Mega Launcher"]
 	},
 	{
 		"no": 695,
 		"name": "Iguolta",
 		"name_en": "Heliolisk",
 		"image": "sprites/695.png",
-		"types": ["électrik", "normal"],
+		"types": ["Électrik", "Normal"],
 		"base_stats": {
 			"hp": 62,
 			"atk": 55,
@@ -3687,14 +3829,15 @@
 			"spdef": 114,
 			"spe": 129
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Dry Skin", "Sand Veil", "Solar Power"]
 	},
 	{
 		"no": 697,
 		"name": "Rexillius",
 		"name_en": "Tyrantrum",
 		"image": "sprites/697.png",
-		"types": ["roche", "dragon"],
+		"types": ["Roche", "Dragon"],
 		"base_stats": {
 			"hp": 82,
 			"atk": 121,
@@ -3711,14 +3854,15 @@
 			"spdef": 79,
 			"spe": 91
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Strong Jaw", "Rock Head"]
 	},
 	{
 		"no": 699,
 		"name": "Dragmara",
 		"name_en": "Aurorus",
 		"image": "sprites/699.png",
-		"types": ["roche", "glace"],
+		"types": ["Roche", "glace"],
 		"base_stats": {
 			"hp": 123,
 			"atk": 77,
@@ -3735,14 +3879,15 @@
 			"spdef": 112,
 			"spe": 78
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Refrigerate", "Snow Warning"]
 	},
 	{
 		"no": 700,
 		"name": "Nymphali",
 		"name_en": "Sylveon",
 		"image": "sprites/700.png",
-		"types": ["fée"],
+		"types": ["Fée"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 65,
@@ -3759,14 +3904,15 @@
 			"spdef": 150,
 			"spe": 80
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Cute Charm", "Pixilate"]
 	},
 	{
 		"no": 701,
 		"name": "Brutalibré",
 		"name_en": "Hawlucha",
 		"image": "sprites/701.png",
-		"types": ["combat", "vol"],
+		"types": ["Combat", "Vol"],
 		"base_stats": {
 			"hp": 78,
 			"atk": 92,
@@ -3788,14 +3934,15 @@
 				"pokemon": "Méga-Brutalibré",
 				"needed_item": "Brutalibrite"
 			}
-		]
+		],
+		"abilities": ["Limber", "Unburden", "Mold Breaker"]
 	},
 	{
 		"no": 702,
 		"name": "Dedenne",
 		"name_en": "Dedenne",
 		"image": "sprites/702.png",
-		"types": ["électrik", "fée"],
+		"types": ["Électrik", "Fée"],
 		"base_stats": {
 			"hp": 67,
 			"atk": 58,
@@ -3812,14 +3959,15 @@
 			"spdef": 87,
 			"spe": 121
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Cheek Pouch", "Pickup", "Plus"]
 	},
 	{
 		"no": 706,
 		"name": "Muplodocus",
 		"name_en": "Goodra",
 		"image": "sprites/706.png",
-		"types": ["dragon"],
+		"types": ["Dragon"],
 		"base_stats": {
 			"hp": 90,
 			"atk": 100,
@@ -3836,14 +3984,15 @@
 			"spdef": 170,
 			"spe": 100
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Sap Sipper", "Hydration", "Gooey"]
 	},
 	{
 		"no": 706,
 		"name": "Muplodocus de Hisui",
 		"name_en": "Hisuian Goodra",
 		"image": "sprites/706-regional-h.png",
-		"types": ["acier", "dragon"],
+		"types": ["Acier", "Dragon"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 100,
@@ -3860,14 +4009,15 @@
 			"spdef": 170,
 			"spe": 80
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Sap Sipper", "Shell Armor", "Gooey"]
 	},
 	{
 		"no": 707,
 		"name": "Trousselin",
 		"name_en": "Klefki",
 		"image": "sprites/707.png",
-		"types": ["acier", "fée"],
+		"types": ["Acier", "Fée"],
 		"base_stats": {
 			"hp": 57,
 			"atk": 80,
@@ -3884,14 +4034,15 @@
 			"spdef": 107,
 			"spe": 95
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Prankster", "Magician"]
 	},
 	{
 		"no": 709,
 		"name": "Desséliande",
 		"name_en": "Trevenant",
 		"image": "sprites/709.png",
-		"types": ["spectre", "plante"],
+		"types": ["Spectre", "Plante"],
 		"base_stats": {
 			"hp": 85,
 			"atk": 110,
@@ -3908,14 +4059,15 @@
 			"spdef": 102,
 			"spe": 76
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Natural Cure", "Frisk", "Harvest"]
 	},
 	{
 		"no": 711,
 		"name": "Banshitrouye Taille Petite",
 		"name_en": "Gourgeist-S",
 		"image": "sprites/711-small.png",
-		"types": ["spectre", "plante"],
+		"types": ["Spectre", "Plante"],
 		"base_stats": {
 			"hp": 55,
 			"atk": 85,
@@ -3932,14 +4084,15 @@
 			"spdef": 95,
 			"spe": 119
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Pickup", "Frisk", "Insomnia"]
 	},
 	{
 		"no": 711,
 		"name": "Banshitrouye Taille Moyenne",
 		"name_en": "Gourgeist-M",
 		"image": "sprites/711.png",
-		"types": ["spectre", "plante"],
+		"types": ["Spectre", "Plante"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 90,
@@ -3956,14 +4109,15 @@
 			"spdef": 95,
 			"spe": 104
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Pickup", "Frisk", "Insomnia"]
 	},
 	{
 		"no": 711,
 		"name": "Banshitrouye Taille Grande",
 		"name_en": "Gourgeist-L",
 		"image": "sprites/711-large.png",
-		"types": ["spectre", "plante"],
+		"types": ["Spectre", "Plante"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 95,
@@ -3980,14 +4134,15 @@
 			"spdef": 95,
 			"spe": 89
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Pickup", "Frisk", "Insomnia"]
 	},
 	{
 		"no": 711,
 		"name": "Banshitrouye Taille Giga",
 		"name_en": "Gourgeist-XL",
 		"image": "sprites/711-super.png",
-		"types": ["spectre", "plante"],
+		"types": ["Spectre", "Plante"],
 		"base_stats": {
 			"hp": 85,
 			"atk": 100,
@@ -4004,7 +4159,8 @@
 			"spdef": 95,
 			"spe": 74
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Pickup", "Frisk", "Insomnia"]
 	},
 	{
 		"no": 713,
@@ -4028,14 +4184,15 @@
 			"spdef": 66,
 			"spe": 48
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Own Tempo", "Ice Body", "Sturdy"]
 	},
 	{
 		"no": 713,
 		"name": "Séracrawl de Hisui",
 		"name_en": "Hisuian Avalugg",
 		"image": "sprites/713-regional-h.png",
-		"types": ["glace", "roche"],
+		"types": ["glace", "Roche"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 127,
@@ -4052,14 +4209,15 @@
 			"spdef": 56,
 			"spe": 58
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Strong Jaw", "Ice Body", "Sturdy"]
 	},
 	{
 		"no": 715,
 		"name": "Bruyverne",
 		"name_en": "Noivern",
 		"image": "sprites/715.png",
-		"types": ["vol", "dragon"],
+		"types": ["Vol", "Dragon"],
 		"base_stats": {
 			"hp": 85,
 			"atk": 70,
@@ -4076,14 +4234,15 @@
 			"spdef": 100,
 			"spe": 143
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Frisk", "Infiltrator", "Telepathy"]
 	},
 	{
 		"no": 724,
 		"name": "Archéduc",
 		"name_en": "Decidueye",
 		"image": "sprites/724.png",
-		"types": ["plante", "spectre"],
+		"types": ["Plante", "Spectre"],
 		"base_stats": {
 			"hp": 78,
 			"atk": 107,
@@ -4100,14 +4259,15 @@
 			"spdef": 120,
 			"spe": 90
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Overgrow", "Long Reach"]
 	},
 	{
 		"no": 724,
 		"name": "Archéduc de Hisui",
 		"name_en": "Hisuian Decidueye",
 		"image": "sprites/724-regional-h.png",
-		"types": ["plante", "combat"],
+		"types": ["Plante", "Combat"],
 		"base_stats": {
 			"hp": 88,
 			"atk": 112,
@@ -4124,14 +4284,15 @@
 			"spdef": 115,
 			"spe": 80
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Overgrow", "Scrappy"]
 	},
 	{
 		"no": 727,
 		"name": "Félinferno",
 		"name_en": "Incineroar",
 		"image": "sprites/727.png",
-		"types": ["feu", "ténèbres"],
+		"types": ["Feu", "Ténèbres"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 115,
@@ -4148,14 +4309,15 @@
 			"spdef": 110,
 			"spe": 80
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Blaze", "Intimidate"]
 	},
 	{
 		"no": 730,
 		"name": "Oratoria",
 		"name_en": "Primarina",
 		"image": "sprites/730.png",
-		"types": ["eau", "fée"],
+		"types": ["Eau", "Fée"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 74,
@@ -4172,14 +4334,15 @@
 			"spdef": 136,
 			"spe": 80
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Torrent", "Liquid Voice"]
 	},
 	{
 		"no": 733,
 		"name": "Bazoucan",
 		"name_en": "Toucannon",
 		"image": "sprites/733.png",
-		"types": ["normal", "vol"],
+		"types": ["Normal", "Vol"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 120,
@@ -4196,14 +4359,15 @@
 			"spdef": 95,
 			"spe": 80
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Keen Eye", "Skill Link", "Sheer Force"]
 	},
 	{
 		"no": 740,
 		"name": "Crabominable",
 		"name_en": "Crabominable",
 		"image": "sprites/740.png",
-		"types": ["combat", "glace"],
+		"types": ["Combat", "glace"],
 		"base_stats": {
 			"hp": 97,
 			"atk": 132,
@@ -4225,14 +4389,15 @@
 				"pokemon": "Méga-Crabominable",
 				"needed_item": "Crabominablite"
 			}
-		]
+		],
+		"abilities": ["Hyper Cutter", "Iron Fist", "Anger Point"]
 	},
 	{
 		"no": 745,
 		"name": "Lougaroc Diurne",
 		"name_en": "Midday Lycanroc",
 		"image": "sprites/745.png",
-		"types": ["roche"],
+		"types": ["Roche"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 115,
@@ -4249,14 +4414,15 @@
 			"spdef": 85,
 			"spe": 132
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Keen Eye", "Sand Rush", "Steadfast"]
 	},
 	{
 		"no": 745,
 		"name": "Lougaroc Nocturne",
 		"name_en": "Midnight Lycanroc",
 		"image": "sprites/745-midnight.png",
-		"types": ["roche"],
+		"types": ["Roche"],
 		"base_stats": {
 			"hp": 85,
 			"atk": 115,
@@ -4273,14 +4439,15 @@
 			"spdef": 95,
 			"spe": 102
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Keen Eye", "Vital Spirit", "No Guard"]
 	},
 	{
 		"no": 745,
 		"name": "Lougaroc Crépusculaire",
 		"name_en": "Dusk Lycanroc",
 		"image": "sprites/745-dusk.png",
-		"types": ["roche"],
+		"types": ["Roche"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 117,
@@ -4297,14 +4464,15 @@
 			"spdef": 85,
 			"spe": 130
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Tough Claws"]
 	},
 	{
 		"no": 748,
 		"name": "Prédastérie",
 		"name_en": "Toxapex",
 		"image": "sprites/748.png",
-		"types": ["poison", "eau"],
+		"types": ["Poison", "Eau"],
 		"base_stats": {
 			"hp": 50,
 			"atk": 63,
@@ -4321,14 +4489,15 @@
 			"spdef": 162,
 			"spe": 55
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Merciless", "Limber", "Regenerator"]
 	},
 	{
 		"no": 750,
 		"name": "Bourrinos",
 		"name_en": "Mudsdale",
 		"image": "sprites/750.png",
-		"types": ["sol"],
+		"types": ["Sol"],
 		"base_stats": {
 			"hp": 100,
 			"atk": 125,
@@ -4345,14 +4514,15 @@
 			"spdef": 105,
 			"spe": 55
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Own Tempo", "Stamina", "Inner Focus"]
 	},
 	{
 		"no": 752,
 		"name": "Tarenbulle",
 		"name_en": "Araquanid",
 		"image": "sprites/752.png",
-		"types": ["eau", "insecte"],
+		"types": ["Eau", "Insecte"],
 		"base_stats": {
 			"hp": 68,
 			"atk": 70,
@@ -4369,14 +4539,15 @@
 			"spdef": 152,
 			"spe": 62
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Water Bubble", "Water Absorb"]
 	},
 	{
 		"no": 758,
 		"name": "Malamandre",
 		"name_en": "Salazzle",
 		"image": "sprites/758.png",
-		"types": ["poison", "feu"],
+		"types": ["Poison", "Feu"],
 		"base_stats": {
 			"hp": 68,
 			"atk": 64,
@@ -4393,14 +4564,15 @@
 			"spdef": 80,
 			"spe": 137
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Corrosion", "Oblivious"]
 	},
 	{
 		"no": 763,
 		"name": "Sucreine",
 		"name_en": "Tsareena",
 		"image": "sprites/763.png",
-		"types": ["plante"],
+		"types": ["Plante"],
 		"base_stats": {
 			"hp": 72,
 			"atk": 120,
@@ -4417,14 +4589,15 @@
 			"spdef": 118,
 			"spe": 92
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Leaf Guard", "Queenly Majesty", "Sweet Veil"]
 	},
 	{
 		"no": 765,
 		"name": "Gouroutan",
 		"name_en": "Oranguru",
 		"image": "sprites/765.png",
-		"types": ["normal", "psy"],
+		"types": ["Normal", "Psy"],
 		"base_stats": {
 			"hp": 90,
 			"atk": 60,
@@ -4441,14 +4614,15 @@
 			"spdef": 130,
 			"spe": 80
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Inner Focus", "Telepathy", "Symbiosis"]
 	},
 	{
 		"no": 766,
 		"name": "Quartermac",
 		"name_en": "Passimian",
 		"image": "sprites/766.png",
-		"types": ["combat"],
+		"types": ["Combat"],
 		"base_stats": {
 			"hp": 100,
 			"atk": 120,
@@ -4465,14 +4639,15 @@
 			"spdef": 80,
 			"spe": 100
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Receiver", "Defiant"]
 	},
 	{
 		"no": 778,
 		"name": "Mimiqui",
 		"name_en": "Mimikyu",
 		"image": "sprites/778.png",
-		"types": ["spectre", "fée"],
+		"types": ["Spectre", "Fée"],
 		"base_stats": {
 			"hp": 55,
 			"atk": 90,
@@ -4489,14 +4664,15 @@
 			"spdef": 125,
 			"spe": 116
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Disguise"]
 	},
 	{
 		"no": 780,
 		"name": "Draïeul",
 		"name_en": "Drampa",
 		"image": "sprites/780.png",
-		"types": ["normal", "dragon"],
+		"types": ["Normal", "Dragon"],
 		"base_stats": {
 			"hp": 78,
 			"atk": 60,
@@ -4518,14 +4694,15 @@
 				"pokemon": "Méga-Draïeul",
 				"needed_item": "Draïeulite"
 			}
-		]
+		],
+		"abilities": ["Berserk", "Sap Sipper", "Cloud Nine"]
 	},
 	{
 		"no": 784,
 		"name": "Ékaïser",
 		"name_en": "Kommo-o",
 		"image": "sprites/784.png",
-		"types": ["dragon", "combat"],
+		"types": ["Dragon", "Combat"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 110,
@@ -4542,14 +4719,15 @@
 			"spdef": 125,
 			"spe": 105
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Bulletproof", "Soundproof", "Overcoat"]
 	},
 	{
 		"no": 823,
 		"name": "Corvaillus",
 		"name_en": "Corviknight",
 		"image": "sprites/823.png",
-		"types": ["vol", "acier"],
+		"types": ["Vol", "Acier"],
 		"base_stats": {
 			"hp": 98,
 			"atk": 87,
@@ -4566,14 +4744,15 @@
 			"spdef": 105,
 			"spe": 87
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Pressure", "Unnerve", "Mirror Armor"]
 	},
 	{
 		"no": 841,
 		"name": "Pomdrapi",
 		"name_en": "Flapple",
 		"image": "sprites/841.png",
-		"types": ["plante", "dragon"],
+		"types": ["Plante", "Dragon"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 110,
@@ -4590,14 +4769,15 @@
 			"spdef": 80,
 			"spe": 90
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Ripen", "Gluttony", "Hustle"]
 	},
 	{
 		"no": 842,
 		"name": "Dratatin",
 		"name_en": "Appletun",
 		"image": "sprites/842.png",
-		"types": ["plante", "dragon"],
+		"types": ["Plante", "Dragon"],
 		"base_stats": {
 			"hp": 110,
 			"atk": 85,
@@ -4614,14 +4794,15 @@
 			"spdef": 100,
 			"spe": 50
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Ripen", "Gluttony", "Thick Fat"]
 	},
 	{
 		"no": 844,
 		"name": "Dunaconda",
 		"name_en": "Sandaconda",
 		"image": "sprites/844.png",
-		"types": ["sol"],
+		"types": ["Sol"],
 		"base_stats": {
 			"hp": 72,
 			"atk": 107,
@@ -4638,14 +4819,15 @@
 			"spdef": 90,
 			"spe": 91
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Sand Spit", "Shed Skin", "Sand Veil"]
 	},
 	{
 		"no": 855,
 		"name": "Polthégeist",
 		"name_en": "Polteageist",
 		"image": "sprites/855.png",
-		"types": ["spectre"],
+		"types": ["Spectre"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 65,
@@ -4662,14 +4844,15 @@
 			"spdef": 134,
 			"spe": 90
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Weak Armor", "Cursed Body"]
 	},
 	{
 		"no": 858,
 		"name": "Sorcilence",
 		"name_en": "Hatterene",
 		"image": "sprites/858.png",
-		"types": ["psy", "fée"],
+		"types": ["Psy", "Fée"],
 		"base_stats": {
 			"hp": 57,
 			"atk": 90,
@@ -4686,14 +4869,15 @@
 			"spdef": 123,
 			"spe": 49
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Healer", "Anticipation", "Magic Bounce"]
 	},
 	{
 		"no": 866,
 		"name": "M. Glaquette",
 		"name_en": "Mr. Rime",
 		"image": "sprites/866.png",
-		"types": ["glace", "psy"],
+		"types": ["glace", "Psy"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 85,
@@ -4710,14 +4894,15 @@
 			"spdef": 120,
 			"spe": 90
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Tangled Feet", "Screen Cleaner", "Ice Body"]
 	},
 	{
 		"no": 867,
 		"name": "Tutétékri",
 		"name_en": "Runerigus",
 		"image": "sprites/867.png",
-		"types": ["sol", "spectre"],
+		"types": ["Sol", "Spectre"],
 		"base_stats": {
 			"hp": 58,
 			"atk": 95,
@@ -4734,14 +4919,15 @@
 			"spdef": 125,
 			"spe": 50
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Wandering Spirit"]
 	},
 	{
 		"no": 869,
 		"name": "Charmilly",
 		"name_en": "Alcremie",
 		"image": "sprites/869.png",
-		"types": ["fée"],
+		"types": ["Fée"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 60,
@@ -4758,14 +4944,15 @@
 			"spdef": 141,
 			"spe": 84
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Sweet Veil", "Aroma Veil"]
 	},
 	{
 		"no": 877,
 		"name": "Morpeko",
 		"name_en": "Morpeko",
 		"image": "sprites/877.png",
-		"types": ["électrik", "ténèbres"],
+		"types": ["Électrik", "Ténèbres"],
 		"base_stats": {
 			"hp": 58,
 			"atk": 95,
@@ -4782,14 +4969,15 @@
 			"spdef": 78,
 			"spe": 117
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Hunger Switch"]
 	},
 	{
 		"no": 887,
 		"name": "Lanssorien",
 		"name_en": "Dragapult",
 		"image": "sprites/887.png",
-		"types": ["dragon", "spectre"],
+		"types": ["Dragon", "Spectre"],
 		"base_stats": {
 			"hp": 88,
 			"atk": 120,
@@ -4806,14 +4994,15 @@
 			"spdef": 95,
 			"spe": 162
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Clear Body", "Infiltrator", "Cursed Body"]
 	},
 	{
 		"no": 899,
 		"name": "Cerbyllin",
 		"name_en": "Wyrdeer",
 		"image": "sprites/899.png",
-		"types": ["normal", "psy"],
+		"types": ["Normal", "Psy"],
 		"base_stats": {
 			"hp": 103,
 			"atk": 105,
@@ -4830,14 +5019,15 @@
 			"spdef": 95,
 			"spe": 85
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Intimidate", "Frisk", "Sap Sipper"]
 	},
 	{
 		"no": 900,
 		"name": "Hachécateur",
 		"name_en": "Kleavor",
 		"image": "sprites/900.png",
-		"types": ["insecte", "roche"],
+		"types": ["Insecte", "Roche"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 135,
@@ -4854,14 +5044,15 @@
 			"spdef": 90,
 			"spe": 105
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Swarm", "Sheer Force", "Sharpness"]
 	},
 	{
 		"no": 902,
 		"name": "Paragruel Mâle",
 		"name_en": "Male Basculegion",
 		"image": "sprites/902.png",
-		"types": ["eau", "spectre"],
+		"types": ["Eau", "Spectre"],
 		"base_stats": {
 			"hp": 120,
 			"atk": 112,
@@ -4878,14 +5069,15 @@
 			"spdef": 95,
 			"spe": 98
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Swift Swim", "Adaptability", "Mold Breaker"]
 	},
 	{
 		"no": 902,
 		"name": "Paragruel Femelle",
 		"name_en": "Female Basculegion",
 		"image": "sprites/902-female.png",
-		"types": ["eau", "spectre"],
+		"types": ["Eau", "Spectre"],
 		"base_stats": {
 			"hp": 120,
 			"atk": 92,
@@ -4902,14 +5094,15 @@
 			"spdef": 95,
 			"spe": 98
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Swift Swim", "Adaptability", "Mold Breaker"]
 	},
 	{
 		"no": 903,
 		"name": "Farfurex",
 		"name_en": "Sneasler",
 		"image": "sprites/903.png",
-		"types": ["combat", "poison"],
+		"types": ["Combat", "Poison"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 130,
@@ -4926,14 +5119,15 @@
 			"spdef": 100,
 			"spe": 140
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Pressure", "Unburden", "Poison Touch"]
 	},
 	{
 		"no": 908,
 		"name": "Miascarade",
 		"name_en": "Meowscarada",
 		"image": "sprites/908.png",
-		"types": ["plante", "ténèbres"],
+		"types": ["Plante", "Ténèbres"],
 		"base_stats": {
 			"hp": 76,
 			"atk": 110,
@@ -4950,14 +5144,15 @@
 			"spdef": 90,
 			"spe": 143
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Overgrow", "Protean"]
 	},
 	{
 		"no": 911,
 		"name": "Flâmigator",
 		"name_en": "Skeledirge",
 		"image": "sprites/911.png",
-		"types": ["feu", "spectre"],
+		"types": ["Feu", "Spectre"],
 		"base_stats": {
 			"hp": 104,
 			"atk": 75,
@@ -4974,14 +5169,15 @@
 			"spdef": 95,
 			"spe": 86
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Blaze", "Unaware"]
 	},
 	{
 		"no": 914,
 		"name": "Palmaval",
 		"name_en": "Quaquaval",
 		"image": "sprites/914.png",
-		"types": ["eau", "combat"],
+		"types": ["Eau", "Combat"],
 		"base_stats": {
 			"hp": 85,
 			"atk": 120,
@@ -4998,14 +5194,15 @@
 			"spdef": 95,
 			"spe": 105
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Torrent", "Moxie"]
 	},
 	{
 		"no": 925,
 		"name": "Famignol",
 		"name_en": "Maushold",
 		"image": "sprites/925.png",
-		"types": ["normal"],
+		"types": ["Normal"],
 		"base_stats": {
 			"hp": 74,
 			"atk": 75,
@@ -5022,14 +5219,15 @@
 			"spdef": 95,
 			"spe": 131
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Friend Guard", "Cheek Pouch", "Technician"]
 	},
 	{
 		"no": 934,
 		"name": "Gigansel",
 		"name_en": "Garganacl",
 		"image": "sprites/934.png",
-		"types": ["roche"],
+		"types": ["Roche"],
 		"base_stats": {
 			"hp": 100,
 			"atk": 100,
@@ -5046,14 +5244,15 @@
 			"spdef": 110,
 			"spe": 55
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Purifying Salt", "Sturdy", "Clear Body"]
 	},
 	{
 		"no": 936,
 		"name": "Carmadura",
 		"name_en": "Armarouge",
 		"image": "sprites/936.png",
-		"types": ["feu", "psy"],
+		"types": ["Feu", "Psy"],
 		"base_stats": {
 			"hp": 85,
 			"atk": 60,
@@ -5070,14 +5269,15 @@
 			"spdef": 100,
 			"spe": 95
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Flash Fire", "Weak Armor"]
 	},
 	{
 		"no": 937,
 		"name": "Malvalame",
 		"name_en": "Ceruledge",
 		"image": "sprites/937.png",
-		"types": ["feu", "spectre"],
+		"types": ["Feu", "Spectre"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 125,
@@ -5094,14 +5294,15 @@
 			"spdef": 120,
 			"spe": 105
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Flash Fire", "Weak Armor"]
 	},
 	{
 		"no": 939,
 		"name": "Ampibidou",
 		"name_en": "Bellibolt",
 		"image": "sprites/939.png",
-		"types": ["électrik"],
+		"types": ["Électrik"],
 		"base_stats": {
 			"hp": 109,
 			"atk": 64,
@@ -5118,14 +5319,15 @@
 			"spdef": 103,
 			"spe": 65
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Electromorphosis", "Static", "Damp"]
 	},
 	{
 		"no": 952,
 		"name": "Scovilain",
 		"name_en": "Scovillain",
 		"image": "sprites/952.png",
-		"types": ["plante", "feu"],
+		"types": ["Plante", "Feu"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 108,
@@ -5147,14 +5349,15 @@
 				"pokemon": "Méga-Scovilain",
 				"needed_item": "Scovilainite"
 			}
-		]
+		],
+		"abilities": ["Chlorophyll", "Insomnia", "Moody"]
 	},
 	{
 		"no": 956,
 		"name": "Cléopsytra",
 		"name_en": "Espathra",
 		"image": "sprites/956.png",
-		"types": ["psy"],
+		"types": ["Psy"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 60,
@@ -5171,14 +5374,15 @@
 			"spdef": 80,
 			"spe": 125
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Opportunist", "Frisk", "Speed Boost"]
 	},
 	{
 		"no": 959,
 		"name": "Forgelina",
 		"name_en": "Tinkaton",
 		"image": "sprites/959.png",
-		"types": ["fée", "acier"],
+		"types": ["Fée", "Acier"],
 		"base_stats": {
 			"hp": 85,
 			"atk": 75,
@@ -5195,14 +5399,15 @@
 			"spdef": 125,
 			"spe": 114
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Mold Breaker", "Own Tempo", "Pickpocket"]
 	},
 	{
 		"no": 964,
 		"name": "Superdofin Ordinaire",
 		"name_en": "Palafin Zero",
 		"image": "sprites/964.png",
-		"types": ["eau"],
+		"types": ["Eau"],
 		"base_stats": {
 			"hp": 100,
 			"atk": 70,
@@ -5219,14 +5424,15 @@
 			"spdef": 82,
 			"spe": 120
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Zero to Hero"]
 	},
 	{
 		"no": 964,
 		"name": "Superdofin Super",
 		"name_en": "Palafin Hero",
 		"image": "sprites/964-hero.png",
-		"types": ["eau"],
+		"types": ["Eau"],
 		"base_stats": {
 			"hp": 100,
 			"atk": 160,
@@ -5243,14 +5449,15 @@
 			"spdef": 107,
 			"spe": 120
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Zero to Hero"]
 	},
 	{
 		"no": 968,
 		"name": "Ferdeter",
 		"name_en": "Orthworm",
 		"image": "sprites/968.png",
-		"types": ["acier"],
+		"types": ["Acier"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 85,
@@ -5267,14 +5474,15 @@
 			"spdef": 75,
 			"spe": 85
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Earth Eater", "Sand Veil"]
 	},
 	{
 		"no": 970,
 		"name": "Floréclat",
 		"name_en": "Glimmora",
 		"image": "sprites/970.png",
-		"types": ["roche", "poison"],
+		"types": ["Roche", "Poison"],
 		"base_stats": {
 			"hp": 83,
 			"atk": 55,
@@ -5296,14 +5504,15 @@
 				"pokemon": "Méga-Floréclat",
 				"needed_item": "Floréclatite"
 			}
-		]
+		],
+		"abilities": ["Toxic Debris", "Corrosion"]
 	},
 	{
 		"no": 981,
 		"name": "Farigiraf",
 		"name_en": "Farigiraf",
 		"image": "sprites/981.png",
-		"types": ["normal", "psy"],
+		"types": ["Normal", "Psy"],
 		"base_stats": {
 			"hp": 120,
 			"atk": 90,
@@ -5320,14 +5529,15 @@
 			"spdef": 90,
 			"spe": 80
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Cud Chew", "Armor Tail", "Sap Sipper"]
 	},
 	{
 		"no": 983,
 		"name": "Scalpereur",
 		"name_en": "Kingambit",
 		"image": "sprites/983.png",
-		"types": ["ténèbres", "acier"],
+		"types": ["Ténèbres", "Acier"],
 		"base_stats": {
 			"hp": 100,
 			"atk": 135,
@@ -5344,14 +5554,15 @@
 			"spdef": 105,
 			"spe": 70
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Defiant", "Supreme Overlord", "Pressure"]
 	},
 	{
 		"no": 1013,
 		"name": "Théffroyable",
 		"name_en": "Sinistcha",
 		"image": "sprites/1013.png",
-		"types": ["plante", "spectre"],
+		"types": ["Plante", "Spectre"],
 		"base_stats": {
 			"hp": 71,
 			"atk": 60,
@@ -5368,14 +5579,15 @@
 			"spdef": 100,
 			"spe": 90
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Hospitality", "Heatproof"]
 	},
 	{
 		"no": 1018,
 		"name": "Pondralugon",
 		"name_en": "Archaludon",
 		"image": "sprites/1018.png",
-		"types": ["acier", "dragon"],
+		"types": ["Acier", "Dragon"],
 		"base_stats": {
 			"hp": 90,
 			"atk": 105,
@@ -5392,14 +5604,15 @@
 			"spdef": 85,
 			"spe": 105
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Stamina", "Sturdy", "Stalwart"]
 	},
 	{
 		"no": 1019,
 		"name": "Pomdorochi",
 		"name_en": "Hydrapple",
 		"image": "sprites/1019.png",
-		"types": ["plante", "dragon"],
+		"types": ["Plante", "Dragon"],
 		"base_stats": {
 			"hp": 106,
 			"atk": 80,
@@ -5416,14 +5629,15 @@
 			"spdef": 100,
 			"spe": 64
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Supersweet Syrup", "Regenerator", "Sticky Hold"]
 	},
 	{
 		"no": 3,
 		"name": "Méga-Florizarre",
 		"name_en": "Mega Venusaur",
 		"image": "sprites/3-mega.png",
-		"types": ["plante", "poison"],
+		"types": ["Plante", "Poison"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 100,
@@ -5440,14 +5654,15 @@
 			"spdef": 140,
 			"spe": 100
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Thick Fat"]
 	},
 	{
 		"no": 6,
 		"name": "Méga-Dracaufeu X",
 		"name_en": "Mega Charizard X",
 		"image": "sprites/6-mega-x.png",
-		"types": ["feu", "dragon"],
+		"types": ["Feu", "Dragon"],
 		"base_stats": {
 			"hp": 78,
 			"atk": 130,
@@ -5464,14 +5679,15 @@
 			"spdef": 105,
 			"spe": 120
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Tough Claws"]
 	},
 	{
 		"no": 6,
 		"name": "Méga-Dracaufeu Y",
 		"name_en": "Mega Charizard Y",
 		"image": "sprites/6-mega-y.png",
-		"types": ["feu", "vol"],
+		"types": ["Feu", "Vol"],
 		"base_stats": {
 			"hp": 78,
 			"atk": 104,
@@ -5488,14 +5704,15 @@
 			"spdef": 135,
 			"spe": 120
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Drought"]
 	},
 	{
 		"no": 9,
 		"name": "Méga-Tortank",
 		"name_en": "Mega Blastoise",
 		"image": "sprites/9-mega.png",
-		"types": ["eau"],
+		"types": ["Eau"],
 		"base_stats": {
 			"hp": 79,
 			"atk": 103,
@@ -5512,14 +5729,15 @@
 			"spdef": 135,
 			"spe": 98
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Mega Launcher"]
 	},
 	{
 		"no": 15,
 		"name": "Méga-Dardargnan",
 		"name_en": "Mega Beedrill",
 		"image": "sprites/15-mega.png",
-		"types": ["insecte", "poison"],
+		"types": ["Insecte", "Poison"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 150,
@@ -5536,14 +5754,15 @@
 			"spdef": 100,
 			"spe": 165
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Adaptability"]
 	},
 	{
 		"no": 18,
 		"name": "Méga-Roucarnage",
 		"name_en": "Mega Pidgeot",
 		"image": "sprites/18-mega.png",
-		"types": ["normal", "vol"],
+		"types": ["Normal", "Vol"],
 		"base_stats": {
 			"hp": 83,
 			"atk": 80,
@@ -5560,14 +5779,15 @@
 			"spdef": 100,
 			"spe": 141
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["No Guard"]
 	},
 	{
 		"no": 36,
 		"name": "Méga-Mélodelfe",
 		"name_en": "Mega Clefable",
 		"image": "sprites/36-mega.png",
-		"types": ["fée", "vol"],
+		"types": ["Fée", "Vol"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 80,
@@ -5584,14 +5804,15 @@
 			"spdef": 130,
 			"spe": 90
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Magic Bounce"]
 	},
 	{
 		"no": 65,
 		"name": "Méga-Alakazam",
 		"name_en": "Mega Alakazam",
 		"image": "sprites/65-mega.png",
-		"types": ["psy"],
+		"types": ["Psy"],
 		"base_stats": {
 			"hp": 55,
 			"atk": 50,
@@ -5608,14 +5829,15 @@
 			"spdef": 125,
 			"spe": 170
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Trace"]
 	},
 	{
 		"no": 71,
 		"name": "Méga-Empiflor",
 		"name_en": "Mega Victreebel",
 		"image": "sprites/71-mega.png",
-		"types": ["plante", "poison"],
+		"types": ["Plante", "Poison"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 125,
@@ -5632,14 +5854,15 @@
 			"spdef": 115,
 			"spe": 90
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Innards Out"]
 	},
 	{
 		"no": 80,
 		"name": "Méga-Flagadoss",
 		"name_en": "Mega Slowbro",
 		"image": "sprites/80-mega.png",
-		"types": ["eau", "psy"],
+		"types": ["Eau", "Psy"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 75,
@@ -5656,14 +5879,15 @@
 			"spdef": 100,
 			"spe": 50
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Shell Armor"]
 	},
 	{
 		"no": 94,
 		"name": "Méga-Ectoplasma",
 		"name_en": "Mega Gengar",
 		"image": "sprites/94-mega.png",
-		"types": ["spectre", "poison"],
+		"types": ["Spectre", "Poison"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 65,
@@ -5680,14 +5904,15 @@
 			"spdef": 115,
 			"spe": 150
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Shadow Tag"]
 	},
 	{
 		"no": 115,
 		"name": "Méga-Kangourex",
 		"name_en": "Mega Kangaskhan",
 		"image": "sprites/115-mega.png",
-		"types": ["normal"],
+		"types": ["Normal"],
 		"base_stats": {
 			"hp": 105,
 			"atk": 125,
@@ -5704,14 +5929,15 @@
 			"spdef": 120,
 			"spe": 120
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Parental Bond"]
 	},
 	{
 		"no": 121,
 		"name": "Méga-Staross",
 		"name_en": "Mega Starmie",
 		"image": "sprites/121-mega.png",
-		"types": ["eau", "psy"],
+		"types": ["Eau", "Psy"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 100,
@@ -5728,14 +5954,15 @@
 			"spdef": 125,
 			"spe": 140
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Huge Power"]
 	},
 	{
 		"no": 127,
 		"name": "Méga-Scarabrute",
 		"name_en": "Mega Pinsir",
 		"image": "sprites/127-mega.png",
-		"types": ["insecte", "vol"],
+		"types": ["Insecte", "Vol"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 155,
@@ -5752,14 +5979,15 @@
 			"spdef": 110,
 			"spe": 125
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Aerilate"]
 	},
 	{
 		"no": 130,
 		"name": "Méga-Léviator",
 		"name_en": "Mega Gyarados",
 		"image": "sprites/130-mega.png",
-		"types": ["eau", "ténèbres"],
+		"types": ["Eau", "Ténèbres"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 155,
@@ -5776,14 +6004,15 @@
 			"spdef": 150,
 			"spe": 101
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Mold Breaker"]
 	},
 	{
 		"no": 142,
 		"name": "Méga-Ptéra",
 		"name_en": "Mega Aerodactyl",
 		"image": "sprites/142-mega.png",
-		"types": ["roche", "vol"],
+		"types": ["Roche", "Vol"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 135,
@@ -5800,14 +6029,15 @@
 			"spdef": 115,
 			"spe": 170
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Tough Claws"]
 	},
 	{
 		"no": 149,
 		"name": "Méga-Dracolosse",
 		"name_en": "Mega Dragonite",
 		"image": "sprites/149-mega.png",
-		"types": ["dragon", "vol"],
+		"types": ["Dragon", "Vol"],
 		"base_stats": {
 			"hp": 91,
 			"atk": 124,
@@ -5824,14 +6054,15 @@
 			"spdef": 145,
 			"spe": 120
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Multiscale"]
 	},
 	{
 		"no": 154,
 		"name": "Méga-Méganium",
 		"name_en": "Mega Meganium",
 		"image": "sprites/154-mega.png",
-		"types": ["plante", "fée"],
+		"types": ["Plante", "Fée"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 92,
@@ -5848,14 +6079,15 @@
 			"spdef": 135,
 			"spe": 100
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Mega Sol"]
 	},
 	{
 		"no": 160,
 		"name": "Méga-Aligatueur",
 		"name_en": "Mega Feraligatr",
 		"image": "sprites/160-mega.png",
-		"types": ["eau", "dragon"],
+		"types": ["Eau", "Dragon"],
 		"base_stats": {
 			"hp": 85,
 			"atk": 160,
@@ -5872,14 +6104,15 @@
 			"spdef": 113,
 			"spe": 98
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Dragonize"]
 	},
 	{
 		"no": 181,
 		"name": "Méga-Pharamp",
 		"name_en": "Mega Ampharos",
 		"image": "sprites/181-mega.png",
-		"types": ["électrik", "dragon"],
+		"types": ["Électrik", "Dragon"],
 		"base_stats": {
 			"hp": 90,
 			"atk": 95,
@@ -5896,14 +6129,15 @@
 			"spdef": 130,
 			"spe": 65
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Mold Breaker"]
 	},
 	{
 		"no": 208,
 		"name": "Méga-Steelix",
 		"name_en": "Mega Steelix",
 		"image": "sprites/208-mega.png",
-		"types": ["acier", "sol"],
+		"types": ["Acier", "Sol"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 125,
@@ -5920,14 +6154,15 @@
 			"spdef": 115,
 			"spe": 50
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Sand Force"]
 	},
 	{
 		"no": 212,
 		"name": "Méga-Cizayox",
 		"name_en": "Mega Scizor",
 		"image": "sprites/212-mega.png",
-		"types": ["insecte", "acier"],
+		"types": ["Insecte", "Acier"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 150,
@@ -5944,14 +6179,15 @@
 			"spdef": 120,
 			"spe": 95
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Technician"]
 	},
 	{
 		"no": 214,
 		"name": "Méga-Scarhino",
 		"name_en": "Mega Heracross",
 		"image": "sprites/214-mega.png",
-		"types": ["insecte", "combat"],
+		"types": ["Insecte", "Combat"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 185,
@@ -5968,14 +6204,15 @@
 			"spdef": 125,
 			"spe": 95
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Skill Link"]
 	},
 	{
 		"no": 227,
 		"name": "Méga-Airmure",
 		"name_en": "Mega Skarmory",
 		"image": "sprites/227-mega.png",
-		"types": ["acier", "vol"],
+		"types": ["Acier", "Vol"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 140,
@@ -5992,14 +6229,15 @@
 			"spdef": 120,
 			"spe": 130
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Stalwart"]
 	},
 	{
 		"no": 229,
 		"name": "Méga-Démolosse",
 		"name_en": "Mega Houndoom",
 		"image": "sprites/229-mega.png",
-		"types": ["ténèbres", "feu"],
+		"types": ["Ténèbres", "Feu"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 90,
@@ -6016,14 +6254,15 @@
 			"spdef": 110,
 			"spe": 135
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Solar Power"]
 	},
 	{
 		"no": 248,
 		"name": "Méga-Tyranocif",
 		"name_en": "Mega Tyranitar",
 		"image": "sprites/248-mega.png",
-		"types": ["roche", "ténèbres"],
+		"types": ["Roche", "Ténèbres"],
 		"base_stats": {
 			"hp": 100,
 			"atk": 164,
@@ -6040,14 +6279,15 @@
 			"spdef": 140,
 			"spe": 91
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Sand Stream"]
 	},
 	{
 		"no": 282,
 		"name": "Méga-Gardevoir",
 		"name_en": "Mega Gardevoir",
 		"image": "sprites/282-mega.png",
-		"types": ["psy", "fée"],
+		"types": ["Psy", "Fée"],
 		"base_stats": {
 			"hp": 68,
 			"atk": 85,
@@ -6064,14 +6304,15 @@
 			"spdef": 155,
 			"spe": 120
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Pixilate"]
 	},
 	{
 		"no": 302,
 		"name": "Méga-Ténéfix",
 		"name_en": "Mega Sableye",
 		"image": "sprites/302-mega.png",
-		"types": ["ténèbres", "spectre"],
+		"types": ["Ténèbres", "Spectre"],
 		"base_stats": {
 			"hp": 50,
 			"atk": 85,
@@ -6088,14 +6329,15 @@
 			"spdef": 135,
 			"spe": 40
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Magic Bounce"]
 	},
 	{
 		"no": 306,
 		"name": "Méga-Galeking",
 		"name_en": "Mega Aggron",
 		"image": "sprites/306-mega.png",
-		"types": ["acier"],
+		"types": ["Acier"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 140,
@@ -6112,14 +6354,15 @@
 			"spdef": 100,
 			"spe": 70
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Filter"]
 	},
 	{
 		"no": 308,
 		"name": "Méga-Charmina",
 		"name_en": "Mega Medicham",
 		"image": "sprites/308-mega.png",
-		"types": ["combat", "psy"],
+		"types": ["Combat", "Psy"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 100,
@@ -6136,14 +6379,15 @@
 			"spdef": 105,
 			"spe": 120
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Pure Power"]
 	},
 	{
 		"no": 310,
 		"name": "Méga-Élecsprint",
 		"name_en": "Mega Manectric",
 		"image": "sprites/310-mega.png",
-		"types": ["électrik"],
+		"types": ["Électrik"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 75,
@@ -6160,14 +6404,15 @@
 			"spdef": 100,
 			"spe": 155
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Intimidate"]
 	},
 	{
 		"no": 319,
 		"name": "Méga-Sharpedo",
 		"name_en": "Mega Sharpedo",
 		"image": "sprites/319-mega.png",
-		"types": ["eau", "ténèbres"],
+		"types": ["Eau", "Ténèbres"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 140,
@@ -6184,14 +6429,15 @@
 			"spdef": 85,
 			"spe": 125
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Strong Jaw"]
 	},
 	{
 		"no": 323,
 		"name": "Méga-Camérupt",
 		"name_en": "Mega Camerupt",
 		"image": "sprites/323-mega.png",
-		"types": ["feu", "sol"],
+		"types": ["Feu", "Sol"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 120,
@@ -6208,14 +6454,15 @@
 			"spdef": 125,
 			"spe": 40
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Sheer Force"]
 	},
 	{
 		"no": 334,
 		"name": "Méga-Altaria",
 		"name_en": "Mega Altaria",
 		"image": "sprites/334-mega.png",
-		"types": ["dragon", "fée"],
+		"types": ["Dragon", "Fée"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 110,
@@ -6232,14 +6479,15 @@
 			"spdef": 125,
 			"spe": 100
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Pixilate"]
 	},
 	{
 		"no": 354,
 		"name": "Méga-Branette",
 		"name_en": "Mega Banette",
 		"image": "sprites/354-mega.png",
-		"types": ["spectre"],
+		"types": ["Spectre"],
 		"base_stats": {
 			"hp": 64,
 			"atk": 165,
@@ -6256,14 +6504,15 @@
 			"spdef": 103,
 			"spe": 95
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Prankster"]
 	},
 	{
 		"no": 358,
 		"name": "Méga-Éoko",
 		"name_en": "Mega Chimecho",
 		"image": "sprites/358-mega.png",
-		"types": ["psy", "acier"],
+		"types": ["Psy", "Acier"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 50,
@@ -6280,14 +6529,15 @@
 			"spdef": 140,
 			"spe": 85
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Levitate"]
 	},
 	{
 		"no": 359,
 		"name": "Méga-Absol",
 		"name_en": "Mega Absol",
 		"image": "sprites/359-mega.png",
-		"types": ["ténèbres"],
+		"types": ["Ténèbres"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 150,
@@ -6304,7 +6554,8 @@
 			"spdef": 80,
 			"spe": 135
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Magic Bounce"]
 	},
 	{
 		"no": 362,
@@ -6328,14 +6579,15 @@
 			"spdef": 100,
 			"spe": 120
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Refrigerate"]
 	},
 	{
 		"no": 428,
 		"name": "Méga-Lockpin",
 		"name_en": "Mega Lopunny",
 		"image": "sprites/428-mega.png",
-		"types": ["normal", "combat"],
+		"types": ["Normal", "Combat"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 136,
@@ -6352,14 +6604,15 @@
 			"spdef": 116,
 			"spe": 155
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Scrappy"]
 	},
 	{
 		"no": 445,
 		"name": "Méga-Carchacrok",
 		"name_en": "Mega Garchomp",
 		"image": "sprites/445-mega.png",
-		"types": ["dragon", "sol"],
+		"types": ["Dragon", "Sol"],
 		"base_stats": {
 			"hp": 108,
 			"atk": 170,
@@ -6376,14 +6629,15 @@
 			"spdef": 115,
 			"spe": 112
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Sand Force"]
 	},
 	{
 		"no": 448,
 		"name": "Méga-Lucario",
 		"name_en": "Mega Lucario",
 		"image": "sprites/448-mega.png",
-		"types": ["combat", "acier"],
+		"types": ["Combat", "Acier"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 145,
@@ -6400,14 +6654,15 @@
 			"spdef": 90,
 			"spe": 132
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Adaptability"]
 	},
 	{
 		"no": 460,
 		"name": "Méga-Blizzaroi",
 		"name_en": "Mega Abomasnow",
 		"image": "sprites/460-mega.png",
-		"types": ["plante", "glace"],
+		"types": ["Plante", "glace"],
 		"base_stats": {
 			"hp": 90,
 			"atk": 132,
@@ -6424,14 +6679,15 @@
 			"spdef": 125,
 			"spe": 50
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Snow Warning"]
 	},
 	{
 		"no": 475,
 		"name": "Méga-Gallame",
 		"name_en": "Mega Gallade",
 		"image": "sprites/475-mega.png",
-		"types": ["psy", "combat"],
+		"types": ["Psy", "Combat"],
 		"base_stats": {
 			"hp": 68,
 			"atk": 165,
@@ -6448,14 +6704,15 @@
 			"spdef": 135,
 			"spe": 130
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Inner Focus"]
 	},
 	{
 		"no": 478,
 		"name": "Méga-Momartik",
 		"name_en": "Mega Froslass",
 		"image": "sprites/478-mega.png",
-		"types": ["glace", "spectre"],
+		"types": ["glace", "Spectre"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 80,
@@ -6472,14 +6729,15 @@
 			"spdef": 120,
 			"spe": 140
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Snow Warning"]
 	},
 	{
 		"no": 500,
 		"name": "Méga-Roitiflam",
 		"name_en": "Mega Emboar",
 		"image": "sprites/500-mega.png",
-		"types": ["feu", "combat"],
+		"types": ["Feu", "Combat"],
 		"base_stats": {
 			"hp": 110,
 			"atk": 148,
@@ -6496,14 +6754,15 @@
 			"spdef": 130,
 			"spe": 95
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Mold Breaker"]
 	},
 	{
 		"no": 530,
 		"name": "Méga-Minotaupe",
 		"name_en": "Mega Excadrill",
 		"image": "sprites/530-mega.png",
-		"types": ["sol", "acier"],
+		"types": ["Sol", "Acier"],
 		"base_stats": {
 			"hp": 110,
 			"atk": 165,
@@ -6520,14 +6779,15 @@
 			"spdef": 85,
 			"spe": 123
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Piercing Drill"]
 	},
 	{
 		"no": 531,
 		"name": "Méga-Nanméouïe",
 		"name_en": "Mega Audino",
 		"image": "sprites/531-mega.png",
-		"types": ["normal", "fée"],
+		"types": ["Normal", "Fée"],
 		"base_stats": {
 			"hp": 103,
 			"atk": 60,
@@ -6544,14 +6804,15 @@
 			"spdef": 146,
 			"spe": 70
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Healer"]
 	},
 	{
 		"no": 609,
 		"name": "Méga-Lugulabre",
 		"name_en": "Mega Chandelure",
 		"image": "sprites/609-mega.png",
-		"types": ["spectre", "feu"],
+		"types": ["Spectre", "Feu"],
 		"base_stats": {
 			"hp": 60,
 			"atk": 75,
@@ -6568,14 +6829,15 @@
 			"spdef": 130,
 			"spe": 110
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Infiltrator"]
 	},
 	{
 		"no": 623,
 		"name": "Méga-Golemastoc",
 		"name_en": "Mega Golurk",
 		"image": "sprites/623-mega.png",
-		"types": ["sol", "spectre"],
+		"types": ["Sol", "Spectre"],
 		"base_stats": {
 			"hp": 89,
 			"atk": 159,
@@ -6592,14 +6854,15 @@
 			"spdef": 125,
 			"spe": 75
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Unseen Fist"]
 	},
 	{
 		"no": 652,
 		"name": "Méga-Blindépique",
 		"name_en": "Mega Chesnaught",
 		"image": "sprites/652-mega.png",
-		"types": ["plante", "combat"],
+		"types": ["Plante", "Combat"],
 		"base_stats": {
 			"hp": 88,
 			"atk": 137,
@@ -6616,14 +6879,15 @@
 			"spdef": 135,
 			"spe": 64
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Bulletproof"]
 	},
 	{
 		"no": 655,
 		"name": "Méga-Goupelin",
 		"name_en": "Mega Delphox",
 		"image": "sprites/655-mega.png",
-		"types": ["feu", "psy"],
+		"types": ["Feu", "Psy"],
 		"base_stats": {
 			"hp": 75,
 			"atk": 69,
@@ -6640,14 +6904,15 @@
 			"spdef": 145,
 			"spe": 154
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Levitate"]
 	},
 	{
 		"no": 658,
 		"name": "Méga-Amphinobi",
 		"name_en": "Mega Greninja",
 		"image": "sprites/658-mega.png",
-		"types": ["eau", "ténèbres"],
+		"types": ["Eau", "Ténèbres"],
 		"base_stats": {
 			"hp": 72,
 			"atk": 125,
@@ -6664,14 +6929,15 @@
 			"spdef": 101,
 			"spe": 162
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Protean"]
 	},
 	{
 		"no": 670,
 		"name": "Méga-Floette",
 		"name_en": "Mega Floette",
 		"image": "sprites/670-mega.png",
-		"types": ["fée"],
+		"types": ["Fée"],
 		"base_stats": {
 			"hp": 74,
 			"atk": 85,
@@ -6688,14 +6954,15 @@
 			"spdef": 168,
 			"spe": 122
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Fairy Aura"]
 	},
 	{
 		"no": 678,
 		"name": "Méga-Mistigrix",
 		"name_en": "Mega Meowstic",
 		"image": "sprites/678-mega.png",
-		"types": ["psy"],
+		"types": ["Psy"],
 		"base_stats": {
 			"hp": 74,
 			"atk": 48,
@@ -6712,14 +6979,15 @@
 			"spdef": 121,
 			"spe": 144
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Trace"]
 	},
 	{
 		"no": 701,
 		"name": "Méga-Brutalibré",
 		"name_en": "Mega Hawlucha",
 		"image": "sprites/701-mega.png",
-		"types": ["combat", "vol"],
+		"types": ["Combat", "Vol"],
 		"base_stats": {
 			"hp": 78,
 			"atk": 137,
@@ -6736,14 +7004,15 @@
 			"spdef": 113,
 			"spe": 138
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["No Guard"]
 	},
 	{
 		"no": 740,
 		"name": "Méga-Crabominable",
 		"name_en": "Mega Crabominable",
 		"image": "sprites/740-mega.png",
-		"types": ["combat", "glace"],
+		"types": ["Combat", "glace"],
 		"base_stats": {
 			"hp": 97,
 			"atk": 157,
@@ -6760,14 +7029,15 @@
 			"spdef": 127,
 			"spe": 53
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Iron Fist"]
 	},
 	{
 		"no": 780,
 		"name": "Méga-Draïeul",
 		"name_en": "Mega Drampa",
 		"image": "sprites/780-mega.png",
-		"types": ["normal", "dragon"],
+		"types": ["Normal", "Dragon"],
 		"base_stats": {
 			"hp": 78,
 			"atk": 85,
@@ -6784,14 +7054,15 @@
 			"spdef": 136,
 			"spe": 56
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Berserk"]
 	},
 	{
 		"no": 952,
 		"name": "Méga-Scovilain",
 		"name_en": "Mega Scovillain",
 		"image": "sprites/952-mega.png",
-		"types": ["plante", "feu"],
+		"types": ["Plante", "Feu"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 138,
@@ -6808,14 +7079,15 @@
 			"spdef": 105,
 			"spe": 95
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Spicy Spray"]
 	},
 	{
 		"no": 970,
 		"name": "Méga-Floréclat",
 		"name_en": "Mega Glimmora",
 		"image": "sprites/970-mega.png",
-		"types": ["roche", "poison"],
+		"types": ["Roche", "Poison"],
 		"base_stats": {
 			"hp": 83,
 			"atk": 90,
@@ -6832,6 +7104,7 @@
 			"spdef": 116,
 			"spe": 121
 		},
-		"megas": []
+		"megas": [],
+		"abilities": ["Adaptability"]
 	}
 ]

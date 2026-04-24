@@ -1,121 +1,121 @@
 [
 	{
-		"name": "normal",
-		"weakTo": ["combat"],
+		"name": "Normal",
+		"weakTo": ["Combat"],
 		"resists": [],
-		"immuneTo": ["spectre"]
+		"immuneTo": ["Spectre"]
 	},
 	{
-		"name": "feu",
-		"weakTo": ["sol", "roche", "eau"],
-		"resists": ["insecte", "feu", "plante", "acier", "glace", "fée"],
+		"name": "Feu",
+		"weakTo": ["Sol", "Roche", "Eau"],
+		"resists": ["Insecte", "Feu", "Plante", "Acier", "Glace", "Fée"],
 		"immuneTo": []
 	},
 	{
-		"name": "combat",
-		"weakTo": ["vol", "psy", "fée"],
-		"resists": ["roche", "insecte", "ténèbres"],
+		"name": "Combat",
+		"weakTo": ["Vol", "Psy", "Fée"],
+		"resists": ["Roche", "Insecte", "Ténèbres"],
 		"immuneTo": []
 	},
 	{
-		"name": "eau",
-		"weakTo": ["plante", "électrik"],
-		"resists": ["feu", "eau", "glace", "acier"],
+		"name": "Eau",
+		"weakTo": ["Plante", "Électrik"],
+		"resists": ["Feu", "Eau", "Glace", "Acier"],
 		"immuneTo": []
 	},
 	{
-		"name": "vol",
-		"weakTo": ["roche", "électrik", "glace"],
-		"resists": ["combat", "insecte", "plante"],
-		"immuneTo": ["sol"]
+		"name": "Vol",
+		"weakTo": ["Roche", "Électrik", "Glace"],
+		"resists": ["Combat", "Insecte", "Plante"],
+		"immuneTo": ["Sol"]
 	},
 	{
-		"name": "plante",
-		"weakTo": ["vol", "poison", "insecte", "feu", "glace"],
-		"resists": ["sol", "eau", "plante", "électrik"],
+		"name": "Plante",
+		"weakTo": ["Vol", "Poison", "Insecte", "Feu", "Glace"],
+		"resists": ["Sol", "Eau", "Plante", "Électrik"],
 		"immuneTo": []
 	},
 	{
-		"name": "poison",
-		"weakTo": ["sol", "psy"],
-		"resists": ["combat", "poison", "plante", "insecte", "fée"],
+		"name": "Poison",
+		"weakTo": ["Sol", "Psy"],
+		"resists": ["Combat", "Poison", "Plante", "Insecte", "Fée"],
 		"immuneTo": []
 	},
 	{
-		"name": "électrik",
-		"weakTo": ["sol"],
-		"resists": ["vol", "électrik", "acier"],
+		"name": "Électrik",
+		"weakTo": ["Sol"],
+		"resists": ["Vol", "Électrik", "Acier"],
 		"immuneTo": []
 	},
 	{
-		"name": "sol",
-		"weakTo": ["eau", "plante", "glace"],
-		"resists": ["poison", "roche"],
-		"immuneTo": ["électrik"]
+		"name": "Sol",
+		"weakTo": ["Eau", "Plante", "Glace"],
+		"resists": ["Poison", "Roche"],
+		"immuneTo": ["Électrik"]
 	},
 	{
-		"name": "psy",
-		"weakTo": ["insecte", "spectre", "ténèbres"],
-		"resists": ["combat", "psy"],
+		"name": "Psy",
+		"weakTo": ["Insecte", "Spectre", "Ténèbres"],
+		"resists": ["Combat", "Psy"],
 		"immuneTo": []
 	},
 	{
-		"name": "roche",
-		"weakTo": ["combat", "sol", "eau", "plante", "acier"],
-		"resists": ["normal", "vol", "poison", "feu"],
+		"name": "Roche",
+		"weakTo": ["Combat", "Sol", "Eau", "Plante", "Acier"],
+		"resists": ["Normal", "Vol", "Poison", "Feu"],
 		"immuneTo": []
 	},
 	{
-		"name": "glace",
-		"weakTo": ["combat", "roche", "feu", "acier"],
-		"resists": ["glace"],
+		"name": "Glace",
+		"weakTo": ["Combat", "Roche", "Feu", "Acier"],
+		"resists": ["Glace"],
 		"immuneTo": []
 	},
 	{
-		"name": "insecte",
-		"weakTo": ["vol", "roche", "feu"],
-		"resists": ["combat", "sol", "plante"],
+		"name": "Insecte",
+		"weakTo": ["Vol", "Roche", "Feu"],
+		"resists": ["Combat", "Sol", "Plante"],
 		"immuneTo": []
 	},
 	{
-		"name": "dragon",
-		"weakTo": ["glace", "dragon", "fée"],
-		"resists": ["feu", "eau", "plante", "électrik"],
+		"name": "Dragon",
+		"weakTo": ["Glace", "Dragon", "Fée"],
+		"resists": ["Feu", "Eau", "Plante", "Électrik"],
 		"immuneTo": []
 	},
 	{
-		"name": "spectre",
-		"weakTo": ["spectre", "ténèbres"],
-		"resists": ["poison", "insecte"],
-		"immuneTo": ["normal", "combat"]
+		"name": "Spectre",
+		"weakTo": ["Spectre", "Ténèbres"],
+		"resists": ["Poison", "Insecte"],
+		"immuneTo": ["Normal", "Combat"]
 	},
 	{
-		"name": "ténèbres",
-		"weakTo": ["combat", "insecte", "fée"],
-		"resists": ["spectre", "ténèbres"],
-		"immuneTo": ["psy"]
+		"name": "Ténèbres",
+		"weakTo": ["Combat", "Insecte", "Fée"],
+		"resists": ["Spectre", "Ténèbres"],
+		"immuneTo": ["Psy"]
 	},
 	{
-		"name": "acier",
-		"weakTo": ["combat", "sol", "feu"],
+		"name": "Acier",
+		"weakTo": ["Combat", "Sol", "Feu"],
 		"resists": [
-			"normal",
-			"vol",
-			"roche",
-			"insecte",
-			"acier",
-			"plante",
-			"psy",
-			"glace",
-			"dragon",
-			"fée"
+			"Normal",
+			"Vol",
+			"Roche",
+			"Insecte",
+			"Acier",
+			"Plante",
+			"Psy",
+			"Glace",
+			"Dragon",
+			"Fée"
 		],
-		"immuneTo": ["poison"]
+		"immuneTo": ["Poison"]
 	},
 	{
-		"name": "fée",
-		"weakTo": ["poison", "acier"],
-		"resists": ["combat", "insecte", "ténèbres"],
-		"immuneTo": ["dragon"]
+		"name": "Fée",
+		"weakTo": ["Poison", "Acier"],
+		"resists": ["Combat", "Insecte", "Ténèbres"],
+		"immuneTo": ["Dragon"]
 	}
 ]

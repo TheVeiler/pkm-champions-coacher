@@ -32,6 +32,11 @@ export default {
                 real_spdef: real_stats.spdef,
                 real_spe: real_stats.spe,
             })));
+
+            // Pokemon_has_Ability
+            // Pokemon_has_Mega
+            // Pokemon_has_Move
+            // Pokemon_has_Type
 		} catch (e) {
 			console.error(e);
 		}
