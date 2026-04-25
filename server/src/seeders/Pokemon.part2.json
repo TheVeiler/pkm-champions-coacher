@@ -27,7 +27,7 @@
 				"needed_item": "Méganiumite"
 			}
 		],
-		"abilities": ["Overgrow", "Leaf Guard"]
+		"abilities": ["Engrais", "Feuille Garde"]
 	},
 	{
 		"no": 154,
@@ -52,7 +52,7 @@
 			"spe": 100
 		},
 		"megas": [],
-		"abilities": ["Mega Sol"]
+		"abilities": ["Méga-Soleil"]
 	},
 	{
 		"no": 157,
@@ -77,7 +77,7 @@
 			"spe": 120
 		},
 		"megas": [],
-		"abilities": ["Blaze", "Flash Fire"]
+		"abilities": ["Brasier", "Torche"]
 	},
 	{
 		"no": 157,
@@ -102,7 +102,7 @@
 			"spe": 115
 		},
 		"megas": [],
-		"abilities": ["Blaze", "Frisk"]
+		"abilities": ["Brasier", "Fouille"]
 	},
 	{
 		"no": 160,
@@ -132,7 +132,7 @@
 				"needed_item": "Aligatueurite"
 			}
 		],
-		"abilities": ["Torrent", "Sheer Force"]
+		"abilities": ["Torrent", "Sans Limite"]
 	},
 	{
 		"no": 160,
@@ -157,7 +157,7 @@
 			"spe": 98
 		},
 		"megas": [],
-		"abilities": ["Dragonize"]
+		"abilities": ["Peau Draconique"]
 	},
 	{
 		"no": 168,
@@ -182,7 +182,7 @@
 			"spe": 60
 		},
 		"megas": [],
-		"abilities": ["Swarm", "Insomnia", "Sniper"]
+		"abilities": ["Essaim", "Insomnia", "Sniper"]
 	},
 	{
 		"no": 181,
@@ -212,7 +212,7 @@
 				"needed_item": "Pharamapite"
 			}
 		],
-		"abilities": ["Static", "Plus"]
+		"abilities": ["Statik", "Plus"]
 	},
 	{
 		"no": 181,
@@ -237,7 +237,7 @@
 			"spe": 65
 		},
 		"megas": [],
-		"abilities": ["Mold Breaker"]
+		"abilities": ["Brise Moule"]
 	},
 	{
 		"no": 184,
@@ -262,7 +262,7 @@
 			"spe": 70
 		},
 		"megas": [],
-		"abilities": ["Thick Fat", "Huge Power", "Sap Sipper"]
+		"abilities": ["Isograisse", "Coloforce", "Herbivore"]
 	},
 	{
 		"no": 186,
@@ -287,7 +287,7 @@
 			"spe": 90
 		},
 		"megas": [],
-		"abilities": ["Water Absorb", "Damp", "Drizzle"]
+		"abilities": ["Absorbe-Eau", "Moiteur", "Crachin"]
 	},
 	{
 		"no": 196,
@@ -312,7 +312,7 @@
 			"spe": 130
 		},
 		"megas": [],
-		"abilities": ["Synchronize", "Magic Bounce"]
+		"abilities": ["Synchro", "Miroir Magik"]
 	},
 	{
 		"no": 197,
@@ -337,7 +337,7 @@
 			"spe": 85
 		},
 		"megas": [],
-		"abilities": ["Synchronize", "Inner Focus"]
+		"abilities": ["Synchro", "Attention"]
 	},
 	{
 		"no": 199,
@@ -362,7 +362,7 @@
 			"spe": 50
 		},
 		"megas": [],
-		"abilities": ["Oblivious", "Own Tempo", "Regenerator"]
+		"abilities": ["Benêt", "Tempo Perso", "Régé-Force"]
 	},
 	{
 		"no": 199,
@@ -387,7 +387,7 @@
 			"spe": 50
 		},
 		"megas": [],
-		"abilities": ["Curious Medicine", "Own Tempo", "Regenerator"]
+		"abilities": ["Breuvage Suspect", "Tempo Perso", "Régé-Force"]
 	},
 	{
 		"no": 205,
@@ -412,7 +412,7 @@
 			"spe": 60
 		},
 		"megas": [],
-		"abilities": ["Sturdy", "Overcoat"]
+		"abilities": ["Fermeté", "Envelocape"]
 	},
 	{
 		"no": 208,
@@ -442,7 +442,7 @@
 				"needed_item": "Steelixite"
 			}
 		],
-		"abilities": ["Rock Head", "Sturdy", "Sheer Force"]
+		"abilities": ["Tête de Roc", "Fermeté", "Sans Limite"]
 	},
 	{
 		"no": 208,
@@ -467,7 +467,7 @@
 			"spe": 50
 		},
 		"megas": [],
-		"abilities": ["Sand Force"]
+		"abilities": ["Force Sable"]
 	},
 	{
 		"no": 212,
@@ -497,7 +497,7 @@
 				"needed_item": "Cizayoxite"
 			}
 		],
-		"abilities": ["Swarm", "Technician", "Light Metal"]
+		"abilities": ["Essaim", "Technicien", "Light Metal"]
 	},
 	{
 		"no": 212,
@@ -522,7 +522,7 @@
 			"spe": 95
 		},
 		"megas": [],
-		"abilities": ["Technician"]
+		"abilities": ["Technicien"]
 	},
 	{
 		"no": 214,
@@ -552,7 +552,7 @@
 				"needed_item": "Scarhinoïte"
 			}
 		],
-		"abilities": ["Swarm", "Guts", "Moxie"]
+		"abilities": ["Essaim", "Cran", "Impudence"]
 	},
 	{
 		"no": 214,
@@ -577,7 +577,7 @@
 			"spe": 95
 		},
 		"megas": [],
-		"abilities": ["Skill Link"]
+		"abilities": ["Multi-Coups"]
 	},
 	{
 		"no": 227,
@@ -607,7 +607,7 @@
 				"needed_item": "Airmurite"
 			}
 		],
-		"abilities": ["Keen Eye", "Sturdy", "Weak Armor"]
+		"abilities": ["Regard Vif", "Fermeté", "Armurouillée"]
 	},
 	{
 		"no": 227,
@@ -632,7 +632,7 @@
 			"spe": 130
 		},
 		"megas": [],
-		"abilities": ["Stalwart"]
+		"abilities": ["Nerfs d'Acier"]
 	},
 	{
 		"no": 229,
@@ -662,7 +662,7 @@
 				"needed_item": "Démolossite"
 			}
 		],
-		"abilities": ["Early Bird", "Flash Fire", "Unnerve"]
+		"abilities": ["Matinal", "Torche", "Tension"]
 	},
 	{
 		"no": 229,
@@ -687,7 +687,7 @@
 			"spe": 135
 		},
 		"megas": [],
-		"abilities": ["Solar Power"]
+		"abilities": ["Force Soleil"]
 	},
 	{
 		"no": 248,
@@ -717,7 +717,7 @@
 				"needed_item": "Tyranocivite"
 			}
 		],
-		"abilities": ["Sand Stream", "Unnerve"]
+		"abilities": ["Sable Volant", "Tension"]
 	},
 	{
 		"no": 248,
@@ -742,6 +742,6 @@
 			"spe": 91
 		},
 		"megas": [],
-		"abilities": ["Sand Stream"]
+		"abilities": ["Sable Volant"]
 	}
 ]

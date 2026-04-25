@@ -22,7 +22,7 @@
 			"spe": 143
 		},
 		"megas": [],
-		"abilities": ["Overgrow", "Protean"]
+		"abilities": ["Engrais", "Protéen"]
 	},
 	{
 		"no": 911,
@@ -47,7 +47,7 @@
 			"spe": 86
 		},
 		"megas": [],
-		"abilities": ["Blaze", "Unaware"]
+		"abilities": ["Brasier", "Inconscient"]
 	},
 	{
 		"no": 914,
@@ -72,7 +72,7 @@
 			"spe": 105
 		},
 		"megas": [],
-		"abilities": ["Torrent", "Moxie"]
+		"abilities": ["Torrent", "Impudence"]
 	},
 	{
 		"no": 925,
@@ -97,7 +97,7 @@
 			"spe": 131
 		},
 		"megas": [],
-		"abilities": ["Friend Guard", "Cheek Pouch", "Technician"]
+		"abilities": ["Garde-Ami", "Bajoues", "Technicien"]
 	},
 	{
 		"no": 934,
@@ -122,7 +122,7 @@
 			"spe": 55
 		},
 		"megas": [],
-		"abilities": ["Purifying Salt", "Sturdy", "Clear Body"]
+		"abilities": ["Sel Purificateur", "Fermeté", "Corps Sain"]
 	},
 	{
 		"no": 936,
@@ -147,7 +147,7 @@
 			"spe": 95
 		},
 		"megas": [],
-		"abilities": ["Flash Fire", "Weak Armor"]
+		"abilities": ["Torche", "Armurouillée"]
 	},
 	{
 		"no": 937,
@@ -172,7 +172,7 @@
 			"spe": 105
 		},
 		"megas": [],
-		"abilities": ["Flash Fire", "Weak Armor"]
+		"abilities": ["Torche", "Armurouillée"]
 	},
 	{
 		"no": 939,
@@ -197,7 +197,7 @@
 			"spe": 65
 		},
 		"megas": [],
-		"abilities": ["Electromorphosis", "Static", "Damp"]
+		"abilities": ["Grecharge", "Statik", "Moiteur"]
 	},
 	{
 		"no": 952,
@@ -227,7 +227,7 @@
 				"needed_item": "Scovilainite"
 			}
 		],
-		"abilities": ["Chlorophyll", "Insomnia", "Moody"]
+		"abilities": ["Chlorophylle", "Insomnia", "Lunatique"]
 	},
 	{
 		"no": 952,
@@ -252,7 +252,7 @@
 			"spe": 95
 		},
 		"megas": [],
-		"abilities": ["Spicy Spray"]
+		"abilities": ["Habanéruption"]
 	},
 	{
 		"no": 956,
@@ -277,7 +277,7 @@
 			"spe": 125
 		},
 		"megas": [],
-		"abilities": ["Opportunist", "Frisk", "Speed Boost"]
+		"abilities": ["Opportuniste", "Fouille", "Turbo"]
 	},
 	{
 		"no": 959,
@@ -302,7 +302,7 @@
 			"spe": 114
 		},
 		"megas": [],
-		"abilities": ["Mold Breaker", "Own Tempo", "Pickpocket"]
+		"abilities": ["Brise Moule", "Tempo Perso", "Pickpocket"]
 	},
 	{
 		"no": 964,
@@ -327,7 +327,7 @@
 			"spe": 120
 		},
 		"megas": [],
-		"abilities": ["Zero to Hero"]
+		"abilities": ["Supermutation"]
 	},
 	{
 		"no": 964,
@@ -352,7 +352,7 @@
 			"spe": 120
 		},
 		"megas": [],
-		"abilities": ["Zero to Hero"]
+		"abilities": ["Supermutation"]
 	},
 	{
 		"no": 968,
@@ -377,7 +377,7 @@
 			"spe": 85
 		},
 		"megas": [],
-		"abilities": ["Earth Eater", "Sand Veil"]
+		"abilities": ["Absorbe-Terre", "Voile Sable"]
 	},
 	{
 		"no": 970,
@@ -407,7 +407,7 @@
 				"needed_item": "Floréclatite"
 			}
 		],
-		"abilities": ["Toxic Debris", "Corrosion"]
+		"abilities": ["Dépôt Toxique", "Corrosion"]
 	},
 	{
 		"no": 970,
@@ -432,7 +432,7 @@
 			"spe": 121
 		},
 		"megas": [],
-		"abilities": ["Adaptability"]
+		"abilities": ["Adaptabilité"]
 	},
 	{
 		"no": 981,
@@ -457,7 +457,7 @@
 			"spe": 80
 		},
 		"megas": [],
-		"abilities": ["Cud Chew", "Armor Tail", "Sap Sipper"]
+		"abilities": ["Ruminant", "Armure Caudale", "Herbivore"]
 	},
 	{
 		"no": 983,
@@ -482,7 +482,7 @@
 			"spe": 70
 		},
 		"megas": [],
-		"abilities": ["Defiant", "Supreme Overlord", "Pressure"]
+		"abilities": ["Acharné", "Général Suprême", "Pression"]
 	},
 	{
 		"no": 1013,
@@ -507,7 +507,7 @@
 			"spe": 90
 		},
 		"megas": [],
-		"abilities": ["Hospitality", "Heatproof"]
+		"abilities": ["Aux Petits Soins", "Ignifugé"]
 	},
 	{
 		"no": 1018,
@@ -532,7 +532,7 @@
 			"spe": 105
 		},
 		"megas": [],
-		"abilities": ["Stamina", "Sturdy", "Stalwart"]
+		"abilities": ["Endurance", "Fermeté", "Nerfs d'Acier"]
 	},
 	{
 		"no": 1019,
@@ -557,6 +557,6 @@
 			"spe": 64
 		},
 		"megas": [],
-		"abilities": ["Supersweet Syrup", "Regenerator", "Sticky Hold"]
+		"abilities": ["Nectar Mielleux", "Régé-Force", "Glu"]
 	}
 ]

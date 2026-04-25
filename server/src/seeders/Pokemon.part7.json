@@ -22,7 +22,7 @@
 			"spe": 90
 		},
 		"megas": [],
-		"abilities": ["Overgrow", "Long Reach"]
+		"abilities": ["Engrais", "Longue Portée"]
 	},
 	{
 		"no": 724,
@@ -47,7 +47,7 @@
 			"spe": 80
 		},
 		"megas": [],
-		"abilities": ["Overgrow", "Scrappy"]
+		"abilities": ["Engrais", "Querelleur"]
 	},
 	{
 		"no": 727,
@@ -72,7 +72,7 @@
 			"spe": 80
 		},
 		"megas": [],
-		"abilities": ["Blaze", "Intimidate"]
+		"abilities": ["Brasier", "Intimidation"]
 	},
 	{
 		"no": 730,
@@ -97,7 +97,7 @@
 			"spe": 80
 		},
 		"megas": [],
-		"abilities": ["Torrent", "Liquid Voice"]
+		"abilities": ["Torrent", "Hydrata-Son"]
 	},
 	{
 		"no": 733,
@@ -122,14 +122,14 @@
 			"spe": 80
 		},
 		"megas": [],
-		"abilities": ["Keen Eye", "Skill Link", "Sheer Force"]
+		"abilities": ["Regard Vif", "Multi-Coups", "Sans Limite"]
 	},
 	{
 		"no": 740,
 		"name": "Crabominable",
 		"name_en": "Crabominable",
 		"image": "sprites/740.png",
-		"types": ["Combat", "glace"],
+		"types": ["Combat", "Glace"],
 		"base_stats": {
 			"hp": 97,
 			"atk": 132,
@@ -152,14 +152,14 @@
 				"needed_item": "Crabominablite"
 			}
 		],
-		"abilities": ["Hyper Cutter", "Iron Fist", "Anger Point"]
+		"abilities": ["Hyper Cutter", "Poing de Fer", "Colérique"]
 	},
 	{
 		"no": 740,
 		"name": "Méga-Crabominable",
 		"name_en": "Mega Crabominable",
 		"image": "sprites/740-mega.png",
-		"types": ["Combat", "glace"],
+		"types": ["Combat", "Glace"],
 		"base_stats": {
 			"hp": 97,
 			"atk": 157,
@@ -177,7 +177,7 @@
 			"spe": 53
 		},
 		"megas": [],
-		"abilities": ["Iron Fist"]
+		"abilities": ["Poing de Fer"]
 	},
 	{
 		"no": 745,
@@ -202,7 +202,7 @@
 			"spe": 132
 		},
 		"megas": [],
-		"abilities": ["Keen Eye", "Sand Rush", "Steadfast"]
+		"abilities": ["Regard Vif", "Baigne Sable", "Impassible"]
 	},
 	{
 		"no": 745,
@@ -227,7 +227,7 @@
 			"spe": 102
 		},
 		"megas": [],
-		"abilities": ["Keen Eye", "Vital Spirit", "No Guard"]
+		"abilities": ["Regard Vif", "Esprit Vital", "Annule Garde"]
 	},
 	{
 		"no": 745,
@@ -252,7 +252,7 @@
 			"spe": 130
 		},
 		"megas": [],
-		"abilities": ["Tough Claws"]
+		"abilities": ["Griffe Dure"]
 	},
 	{
 		"no": 748,
@@ -277,7 +277,7 @@
 			"spe": 55
 		},
 		"megas": [],
-		"abilities": ["Merciless", "Limber", "Regenerator"]
+		"abilities": ["Cruauté", "Échauffement", "Régé-Force"]
 	},
 	{
 		"no": 750,
@@ -302,7 +302,7 @@
 			"spe": 55
 		},
 		"megas": [],
-		"abilities": ["Own Tempo", "Stamina", "Inner Focus"]
+		"abilities": ["Tempo Perso", "Endurance", "Attention"]
 	},
 	{
 		"no": 752,
@@ -327,7 +327,7 @@
 			"spe": 62
 		},
 		"megas": [],
-		"abilities": ["Water Bubble", "Water Absorb"]
+		"abilities": ["Aquabulle", "Absorbe-Eau"]
 	},
 	{
 		"no": 758,
@@ -352,7 +352,7 @@
 			"spe": 137
 		},
 		"megas": [],
-		"abilities": ["Corrosion", "Oblivious"]
+		"abilities": ["Corrosion", "Benêt"]
 	},
 	{
 		"no": 763,
@@ -377,7 +377,7 @@
 			"spe": 92
 		},
 		"megas": [],
-		"abilities": ["Leaf Guard", "Queenly Majesty", "Sweet Veil"]
+		"abilities": ["Feuille Garde", "Prestance Royale", "Gluco-Voile"]
 	},
 	{
 		"no": 765,
@@ -402,7 +402,7 @@
 			"spe": 80
 		},
 		"megas": [],
-		"abilities": ["Inner Focus", "Telepathy", "Symbiosis"]
+		"abilities": ["Attention", "Télépathe", "Symbiose"]
 	},
 	{
 		"no": 766,
@@ -427,7 +427,7 @@
 			"spe": 100
 		},
 		"megas": [],
-		"abilities": ["Receiver", "Defiant"]
+		"abilities": ["Receveur", "Acharné"]
 	},
 	{
 		"no": 778,
@@ -452,7 +452,7 @@
 			"spe": 116
 		},
 		"megas": [],
-		"abilities": ["Disguise"]
+		"abilities": ["Fantômasque"]
 	},
 	{
 		"no": 780,
@@ -482,7 +482,7 @@
 				"needed_item": "Draïeulite"
 			}
 		],
-		"abilities": ["Berserk", "Sap Sipper", "Cloud Nine"]
+		"abilities": ["Folle Furie", "Herbivore", "Ciel Gris"]
 	},
 	{
 		"no": 780,
@@ -507,7 +507,7 @@
 			"spe": 56
 		},
 		"megas": [],
-		"abilities": ["Berserk"]
+		"abilities": ["Folle Furie"]
 	},
 	{
 		"no": 784,
@@ -532,6 +532,6 @@
 			"spe": 105
 		},
 		"megas": [],
-		"abilities": ["Bulletproof", "Soundproof", "Overcoat"]
+		"abilities": ["Pare-Balles", "Anti-Bruit", "Envelocape"]
 	}
 ]

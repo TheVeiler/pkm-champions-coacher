@@ -22,7 +22,7 @@
 			"spe": 87
 		},
 		"megas": [],
-		"abilities": ["Pressure", "Unnerve", "Mirror Armor"]
+		"abilities": ["Pression", "Tension", "Armure Miroir"]
 	},
 	{
 		"no": 841,
@@ -47,7 +47,7 @@
 			"spe": 90
 		},
 		"megas": [],
-		"abilities": ["Ripen", "Gluttony", "Hustle"]
+		"abilities": ["Mûrissement", "Gloutonnerie", "Agitation"]
 	},
 	{
 		"no": 842,
@@ -72,7 +72,7 @@
 			"spe": 50
 		},
 		"megas": [],
-		"abilities": ["Ripen", "Gluttony", "Thick Fat"]
+		"abilities": ["Mûrissement", "Gloutonnerie", "Isograisse"]
 	},
 	{
 		"no": 844,
@@ -97,7 +97,7 @@
 			"spe": 91
 		},
 		"megas": [],
-		"abilities": ["Sand Spit", "Shed Skin", "Sand Veil"]
+		"abilities": ["Expul'Sable", "Mue", "Voile Sable"]
 	},
 	{
 		"no": 855,
@@ -122,7 +122,7 @@
 			"spe": 90
 		},
 		"megas": [],
-		"abilities": ["Weak Armor", "Cursed Body"]
+		"abilities": ["Armurouillée", "Corps Maudit"]
 	},
 	{
 		"no": 858,
@@ -147,14 +147,14 @@
 			"spe": 49
 		},
 		"megas": [],
-		"abilities": ["Healer", "Anticipation", "Magic Bounce"]
+		"abilities": ["Cœur Soin", "Anticipation", "Miroir Magik"]
 	},
 	{
 		"no": 866,
 		"name": "M. Glaquette",
 		"name_en": "Mr. Rime",
 		"image": "sprites/866.png",
-		"types": ["glace", "Psy"],
+		"types": ["Glace", "Psy"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 85,
@@ -172,7 +172,7 @@
 			"spe": 90
 		},
 		"megas": [],
-		"abilities": ["Tangled Feet", "Screen Cleaner", "Ice Body"]
+		"abilities": ["Pied Confus", "Brise-Barrière", "Corps Gel"]
 	},
 	{
 		"no": 867,
@@ -197,7 +197,7 @@
 			"spe": 50
 		},
 		"megas": [],
-		"abilities": ["Wandering Spirit"]
+		"abilities": ["Âme Vagabonde"]
 	},
 	{
 		"no": 869,
@@ -222,7 +222,7 @@
 			"spe": 84
 		},
 		"megas": [],
-		"abilities": ["Sweet Veil", "Aroma Veil"]
+		"abilities": ["Gluco-Voile", "Aroma-Voile"]
 	},
 	{
 		"no": 877,
@@ -247,7 +247,7 @@
 			"spe": 117
 		},
 		"megas": [],
-		"abilities": ["Hunger Switch"]
+		"abilities": ["Déclic Fringale"]
 	},
 	{
 		"no": 887,
@@ -272,7 +272,7 @@
 			"spe": 162
 		},
 		"megas": [],
-		"abilities": ["Clear Body", "Infiltrator", "Cursed Body"]
+		"abilities": ["Corps Sain", "Infiltration", "Corps Maudit"]
 	},
 	{
 		"no": 899,
@@ -297,7 +297,7 @@
 			"spe": 85
 		},
 		"megas": [],
-		"abilities": ["Intimidate", "Frisk", "Sap Sipper"]
+		"abilities": ["Intimidation", "Fouille", "Herbivore"]
 	},
 	{
 		"no": 900,
@@ -322,7 +322,7 @@
 			"spe": 105
 		},
 		"megas": [],
-		"abilities": ["Swarm", "Sheer Force", "Sharpness"]
+		"abilities": ["Essaim", "Sans Limite", "Incisif"]
 	},
 	{
 		"no": 902,
@@ -347,7 +347,7 @@
 			"spe": 98
 		},
 		"megas": [],
-		"abilities": ["Swift Swim", "Adaptability", "Mold Breaker"]
+		"abilities": ["Glissade", "Adaptabilité", "Brise Moule"]
 	},
 	{
 		"no": 902,
@@ -372,7 +372,7 @@
 			"spe": 98
 		},
 		"megas": [],
-		"abilities": ["Swift Swim", "Adaptability", "Mold Breaker"]
+		"abilities": ["Glissade", "Adaptabilité", "Brise Moule"]
 	},
 	{
 		"no": 903,
@@ -397,6 +397,6 @@
 			"spe": 140
 		},
 		"megas": [],
-		"abilities": ["Pressure", "Unburden", "Poison Touch"]
+		"abilities": ["Pression", "Délestage", "Toxitouche"]
 	}
 ]

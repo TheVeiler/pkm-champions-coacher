@@ -22,7 +22,7 @@
 			"spe": 85
 		},
 		"megas": [],
-		"abilities": ["Keen Eye", "Drizzle", "Rain Dish"]
+		"abilities": ["Regard Vif", "Crachin", "Cuvette"]
 	},
 	{
 		"no": 282,
@@ -52,7 +52,7 @@
 				"needed_item": "Gardevoirite"
 			}
 		],
-		"abilities": ["Synchronize", "Trace", "Telepathy"]
+		"abilities": ["Synchro", "Calque", "Télépathe"]
 	},
 	{
 		"no": 282,
@@ -77,7 +77,7 @@
 			"spe": 120
 		},
 		"megas": [],
-		"abilities": ["Pixilate"]
+		"abilities": ["Peau Féérique"]
 	},
 	{
 		"no": 302,
@@ -107,7 +107,7 @@
 				"needed_item": "Ténéfixite"
 			}
 		],
-		"abilities": ["Keen Eye", "Stall", "Prankster"]
+		"abilities": ["Regard Vif", "Frein", "Farceur"]
 	},
 	{
 		"no": 302,
@@ -132,7 +132,7 @@
 			"spe": 40
 		},
 		"megas": [],
-		"abilities": ["Magic Bounce"]
+		"abilities": ["Miroir Magik"]
 	},
 	{
 		"no": 306,
@@ -162,7 +162,7 @@
 				"needed_item": "Galekingite"
 			}
 		],
-		"abilities": ["Sturdy", "Rock Head", "Heavy Metal"]
+		"abilities": ["Fermeté", "Tête de Roc", "Heavy Metal"]
 	},
 	{
 		"no": 306,
@@ -187,7 +187,7 @@
 			"spe": 70
 		},
 		"megas": [],
-		"abilities": ["Filter"]
+		"abilities": ["Filtre"]
 	},
 	{
 		"no": 308,
@@ -217,7 +217,7 @@
 				"needed_item": "Charminite"
 			}
 		],
-		"abilities": ["Pure Power", "Telepathy"]
+		"abilities": ["Force Pure", "Télépathe"]
 	},
 	{
 		"no": 308,
@@ -242,7 +242,7 @@
 			"spe": 120
 		},
 		"megas": [],
-		"abilities": ["Pure Power"]
+		"abilities": ["Force Pure"]
 	},
 	{
 		"no": 310,
@@ -272,7 +272,7 @@
 				"needed_item": "Élecsprintite"
 			}
 		],
-		"abilities": ["Static", "Lightning Rod", "Minus"]
+		"abilities": ["Statik", "Paratonnerre", "Moins"]
 	},
 	{
 		"no": 310,
@@ -297,7 +297,7 @@
 			"spe": 155
 		},
 		"megas": [],
-		"abilities": ["Intimidate"]
+		"abilities": ["Intimidation"]
 	},
 	{
 		"no": 319,
@@ -327,7 +327,7 @@
 				"needed_item": "Sharpedite"
 			}
 		],
-		"abilities": ["Rough Skin", "Speed Boost"]
+		"abilities": ["Peau Dure", "Turbo"]
 	},
 	{
 		"no": 319,
@@ -352,7 +352,7 @@
 			"spe": 125
 		},
 		"megas": [],
-		"abilities": ["Strong Jaw"]
+		"abilities": ["Prognathe"]
 	},
 	{
 		"no": 323,
@@ -382,7 +382,7 @@
 				"needed_item": "Caméruptite"
 			}
 		],
-		"abilities": ["Magma Armor", "Solid Rock", "Anger Point"]
+		"abilities": ["Armumagma", "Solide Roc", "Colérique"]
 	},
 	{
 		"no": 323,
@@ -407,7 +407,7 @@
 			"spe": 40
 		},
 		"megas": [],
-		"abilities": ["Sheer Force"]
+		"abilities": ["Sans Limite"]
 	},
 	{
 		"no": 324,
@@ -432,7 +432,7 @@
 			"spe": 40
 		},
 		"megas": [],
-		"abilities": ["White Smoke", "Drought", "Shell Armor"]
+		"abilities": ["Écran Fumée", "Sécheresse", "Coque Armure"]
 	},
 	{
 		"no": 334,
@@ -462,7 +462,7 @@
 				"needed_item": "Altarite"
 			}
 		],
-		"abilities": ["Natural Cure", "Cloud Nine"]
+		"abilities": ["Médic Nature", "Ciel Gris"]
 	},
 	{
 		"no": 334,
@@ -487,7 +487,7 @@
 			"spe": 100
 		},
 		"megas": [],
-		"abilities": ["Pixilate"]
+		"abilities": ["Peau Féérique"]
 	},
 	{
 		"no": 350,
@@ -512,7 +512,7 @@
 			"spe": 101
 		},
 		"megas": [],
-		"abilities": ["Marvel Scale", "Competitive", "Cute Charm"]
+		"abilities": ["Écaille Spéciale", "Battant", "Joli Sourire"]
 	},
 	{
 		"no": 351,
@@ -537,7 +537,7 @@
 			"spe": 90
 		},
 		"megas": [],
-		"abilities": ["Forecast"]
+		"abilities": ["Météo"]
 	},
 	{
 		"no": 354,
@@ -567,7 +567,7 @@
 				"needed_item": "Branettite"
 			}
 		],
-		"abilities": ["Insomnia", "Frisk", "Cursed Body"]
+		"abilities": ["Insomnia", "Fouille", "Corps Maudit"]
 	},
 	{
 		"no": 354,
@@ -592,7 +592,7 @@
 			"spe": 95
 		},
 		"megas": [],
-		"abilities": ["Prankster"]
+		"abilities": ["Farceur"]
 	},
 	{
 		"no": 358,
@@ -622,7 +622,7 @@
 				"needed_item": "Éokite"
 			}
 		],
-		"abilities": ["Levitate"]
+		"abilities": ["Lévitation"]
 	},
 	{
 		"no": 358,
@@ -647,7 +647,7 @@
 			"spe": 85
 		},
 		"megas": [],
-		"abilities": ["Levitate"]
+		"abilities": ["Lévitation"]
 	},
 	{
 		"no": 359,
@@ -677,7 +677,7 @@
 				"needed_item": "Absolite"
 			}
 		],
-		"abilities": ["Pressure", "Super Luck", "Justified"]
+		"abilities": ["Pression", "Chanceux", "Cœur Noble"]
 	},
 	{
 		"no": 359,
@@ -702,14 +702,14 @@
 			"spe": 135
 		},
 		"megas": [],
-		"abilities": ["Magic Bounce"]
+		"abilities": ["Miroir Magik"]
 	},
 	{
 		"no": 362,
 		"name": "Oniglali",
 		"name_en": "Glalie",
 		"image": "sprites/362.png",
-		"types": ["glace"],
+		"types": ["Glace"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 80,
@@ -732,14 +732,14 @@
 				"needed_item": "Oniglalite"
 			}
 		],
-		"abilities": ["Inner Focus", "Ice Body", "Moody"]
+		"abilities": ["Attention", "Corps Gel", "Lunatique"]
 	},
 	{
 		"no": 362,
 		"name": "Méga-Oniglali",
 		"name_en": "Mega Glalie",
 		"image": "sprites/362-mega.png",
-		"types": ["glace"],
+		"types": ["Glace"],
 		"base_stats": {
 			"hp": 80,
 			"atk": 120,
@@ -757,6 +757,6 @@
 			"spe": 120
 		},
 		"megas": [],
-		"abilities": ["Refrigerate"]
+		"abilities": ["Peau Gelée"]
 	}
 ]

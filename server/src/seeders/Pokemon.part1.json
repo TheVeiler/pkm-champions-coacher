@@ -27,7 +27,7 @@
 				"needed_item": "Florizarrite"
 			}
 		],
-		"abilities": ["Overgrow", "Chlorophyll"]
+		"abilities": ["Engrais", "Chlorophylle"]
 	},
 	{
 		"no": 3,
@@ -52,7 +52,7 @@
 			"spe": 100
 		},
 		"megas": [],
-		"abilities": ["Thick Fat"]
+		"abilities": ["Isograisse"]
 	},
 	{
 		"no": 6,
@@ -86,7 +86,7 @@
 				"needed_item": "Dracaufite Y"
 			}
 		],
-		"abilities": ["Blaze", "Solar Power"]
+		"abilities": ["Brasier", "Force Soleil"]
 	},
 	{
 		"no": 6,
@@ -111,7 +111,7 @@
 			"spe": 120
 		},
 		"megas": [],
-		"abilities": ["Tough Claws"]
+		"abilities": ["Griffe Dure"]
 	},
 	{
 		"no": 6,
@@ -136,7 +136,7 @@
 			"spe": 120
 		},
 		"megas": [],
-		"abilities": ["Drought"]
+		"abilities": ["Sécheresse"]
 	},
 	{
 		"no": 9,
@@ -166,7 +166,7 @@
 				"needed_item": "Tortankite"
 			}
 		],
-		"abilities": ["Torrent", "Rain Dish"]
+		"abilities": ["Torrent", "Cuvette"]
 	},
 	{
 		"no": 9,
@@ -191,7 +191,7 @@
 			"spe": 98
 		},
 		"megas": [],
-		"abilities": ["Mega Launcher"]
+		"abilities": ["Méga Blaster"]
 	},
 	{
 		"no": 15,
@@ -221,7 +221,7 @@
 				"needed_item": "Dardargnite"
 			}
 		],
-		"abilities": ["Swarm", "Sniper"]
+		"abilities": ["Essaim", "Sniper"]
 	},
 	{
 		"no": 15,
@@ -246,7 +246,7 @@
 			"spe": 165
 		},
 		"megas": [],
-		"abilities": ["Adaptability"]
+		"abilities": ["Adaptabilité"]
 	},
 	{
 		"no": 18,
@@ -276,7 +276,7 @@
 				"needed_item": "Roucarnagite"
 			}
 		],
-		"abilities": ["Keen Eye", "Tangled Feet", "Big Pecks"]
+		"abilities": ["Regard Vif", "Pied Confus", "Cœur de Coq"]
 	},
 	{
 		"no": 18,
@@ -301,7 +301,7 @@
 			"spe": 141
 		},
 		"megas": [],
-		"abilities": ["No Guard"]
+		"abilities": ["Annule Garde"]
 	},
 	{
 		"no": 24,
@@ -326,7 +326,7 @@
 			"spe": 100
 		},
 		"megas": [],
-		"abilities": ["Intimidate", "Shed Skin", "Unnerve"]
+		"abilities": ["Intimidation", "Mue", "Tension"]
 	},
 	{
 		"no": 25,
@@ -351,7 +351,7 @@
 			"spe": 110
 		},
 		"megas": [],
-		"abilities": ["Static", "Lightning Rod"]
+		"abilities": ["Statik", "Paratonnerre"]
 	},
 	{
 		"no": 26,
@@ -376,7 +376,7 @@
 			"spe": 130
 		},
 		"megas": [],
-		"abilities": ["Static", "Lightning Rod"]
+		"abilities": ["Statik", "Paratonnerre"]
 	},
 	{
 		"no": 26,
@@ -401,7 +401,7 @@
 			"spe": 130
 		},
 		"megas": [],
-		"abilities": ["Surge Surfer"]
+		"abilities": ["Surf Caudal"]
 	},
 	{
 		"no": 36,
@@ -431,7 +431,7 @@
 				"needed_item": "Mélodelfite"
 			}
 		],
-		"abilities": ["Cute Charm", "Magic Guard", "Unaware"]
+		"abilities": ["Joli Sourire", "Garde Magik", "Inconscient"]
 	},
 	{
 		"no": 36,
@@ -456,7 +456,7 @@
 			"spe": 90
 		},
 		"megas": [],
-		"abilities": ["Magic Bounce"]
+		"abilities": ["Miroir Magik"]
 	},
 	{
 		"no": 38,
@@ -481,14 +481,14 @@
 			"spe": 120
 		},
 		"megas": [],
-		"abilities": ["Flash Fire", "Drought"]
+		"abilities": ["Torche", "Sécheresse"]
 	},
 	{
 		"no": 38,
 		"name": "Feunard d'Alola",
 		"name_en": "Alolan Ninetales",
 		"image": "sprites/38-regional-a.png",
-		"types": ["glace", "Fée"],
+		"types": ["Glace", "Fée"],
 		"base_stats": {
 			"hp": 73,
 			"atk": 67,
@@ -506,7 +506,7 @@
 			"spe": 129
 		},
 		"megas": [],
-		"abilities": ["Snow Cloak", "Snow Warning"]
+		"abilities": ["Rideau Neige", "Alerte Neige"]
 	},
 	{
 		"no": 59,
@@ -531,7 +531,7 @@
 			"spe": 115
 		},
 		"megas": [],
-		"abilities": ["Intimidate", "Flash Fire", "Justified"]
+		"abilities": ["Intimidation", "Torche", "Cœur Noble"]
 	},
 	{
 		"no": 59,
@@ -556,7 +556,7 @@
 			"spe": 110
 		},
 		"megas": [],
-		"abilities": ["Intimidate", "Flash Fire", "Rock Head"]
+		"abilities": ["Intimidation", "Torche", "Tête de Roc"]
 	},
 	{
 		"no": 65,
@@ -586,7 +586,7 @@
 				"needed_item": "Alakazamite"
 			}
 		],
-		"abilities": ["Synchronize", "Inner Focus", "Magic Guard"]
+		"abilities": ["Synchro", "Attention", "Garde Magik"]
 	},
 	{
 		"no": 65,
@@ -611,7 +611,7 @@
 			"spe": 170
 		},
 		"megas": [],
-		"abilities": ["Trace"]
+		"abilities": ["Calque"]
 	},
 	{
 		"no": 68,
@@ -636,7 +636,7 @@
 			"spe": 75
 		},
 		"megas": [],
-		"abilities": ["Guts", "No Guard", "Steadfast"]
+		"abilities": ["Cran", "Annule Garde", "Impassible"]
 	},
 	{
 		"no": 71,
@@ -666,7 +666,7 @@
 				"needed_item": "Empiflorite"
 			}
 		],
-		"abilities": ["Chlorophyll", "Gluttony"]
+		"abilities": ["Chlorophylle", "Gloutonnerie"]
 	},
 	{
 		"no": 71,
@@ -691,7 +691,7 @@
 			"spe": 90
 		},
 		"megas": [],
-		"abilities": ["Innards Out"]
+		"abilities": ["Expuls'Organes"]
 	},
 	{
 		"no": 80,
@@ -721,7 +721,7 @@
 				"needed_item": "Flagadossite"
 			}
 		],
-		"abilities": ["Oblivious", "Own Tempo", "Regenerator"]
+		"abilities": ["Benêt", "Tempo Perso", "Régé-Force"]
 	},
 	{
 		"no": 80,
@@ -746,7 +746,7 @@
 			"spe": 50
 		},
 		"megas": [],
-		"abilities": ["Shell Armor"]
+		"abilities": ["Coque Armure"]
 	},
 	{
 		"no": 80,
@@ -771,7 +771,7 @@
 			"spe": 50
 		},
 		"megas": [],
-		"abilities": ["Quick Draw", "Own Tempo", "Regenerator"]
+		"abilities": ["Tir Vif", "Tempo Perso", "Régé-Force"]
 	},
 	{
 		"no": 94,
@@ -801,7 +801,7 @@
 				"needed_item": "Ectoplasmite"
 			}
 		],
-		"abilities": ["Cursed Body"]
+		"abilities": ["Corps Maudit"]
 	},
 	{
 		"no": 94,
@@ -826,7 +826,7 @@
 			"spe": 150
 		},
 		"megas": [],
-		"abilities": ["Shadow Tag"]
+		"abilities": ["Marque Ombre"]
 	},
 	{
 		"no": 115,
@@ -856,7 +856,7 @@
 				"needed_item": "Kangourexite"
 			}
 		],
-		"abilities": ["Early Bird", "Scrappy", "Inner Focus"]
+		"abilities": ["Matinal", "Querelleur", "Attention"]
 	},
 	{
 		"no": 115,
@@ -881,7 +881,7 @@
 			"spe": 120
 		},
 		"megas": [],
-		"abilities": ["Parental Bond"]
+		"abilities": ["Amour Filial"]
 	},
 	{
 		"no": 121,
@@ -911,7 +911,7 @@
 				"needed_item": "Starossite"
 			}
 		],
-		"abilities": ["Illuminate", "Natural Cure", "Analytic"]
+		"abilities": ["Luminescence", "Médic Nature", "Analyste"]
 	},
 	{
 		"no": 121,
@@ -936,7 +936,7 @@
 			"spe": 140
 		},
 		"megas": [],
-		"abilities": ["Huge Power"]
+		"abilities": ["Coloforce"]
 	},
 	{
 		"no": 127,
@@ -966,7 +966,7 @@
 				"needed_item": "Scarabruite"
 			}
 		],
-		"abilities": ["Hyper Cutter", "Mold Breaker", "Moxie"]
+		"abilities": ["Hyper Cutter", "Brise Moule", "Impudence"]
 	},
 	{
 		"no": 127,
@@ -991,7 +991,7 @@
 			"spe": 125
 		},
 		"megas": [],
-		"abilities": ["Aerilate"]
+		"abilities": ["Peau Céleste"]
 	},
 	{
 		"no": 128,
@@ -1016,7 +1016,7 @@
 			"spe": 130
 		},
 		"megas": [],
-		"abilities": ["Intimidate", "Anger Point", "Sheer Force"]
+		"abilities": ["Intimidation", "Colérique", "Sans Limite"]
 	},
 	{
 		"no": 128,
@@ -1041,7 +1041,7 @@
 			"spe": 120
 		},
 		"megas": [],
-		"abilities": ["Intimidate", "Anger Point", "Cud Chew"]
+		"abilities": ["Intimidation", "Colérique", "Ruminant"]
 	},
 	{
 		"no": 128,
@@ -1066,7 +1066,7 @@
 			"spe": 120
 		},
 		"megas": [],
-		"abilities": ["Intimidate", "Anger Point", "Cud Chew"]
+		"abilities": ["Intimidation", "Colérique", "Ruminant"]
 	},
 	{
 		"no": 128,
@@ -1091,7 +1091,7 @@
 			"spe": 120
 		},
 		"megas": [],
-		"abilities": ["Intimidate", "Anger Point", "Cud Chew"]
+		"abilities": ["Intimidation", "Colérique", "Ruminant"]
 	},
 	{
 		"no": 130,
@@ -1121,7 +1121,7 @@
 				"needed_item": "Léviatorite"
 			}
 		],
-		"abilities": ["Intimidate", "Moxie"]
+		"abilities": ["Intimidation", "Impudence"]
 	},
 	{
 		"no": 130,
@@ -1146,7 +1146,7 @@
 			"spe": 101
 		},
 		"megas": [],
-		"abilities": ["Mold Breaker"]
+		"abilities": ["Brise Moule"]
 	},
 	{
 		"no": 132,
@@ -1171,7 +1171,7 @@
 			"spe": 68
 		},
 		"megas": [],
-		"abilities": ["Limber", "Imposter"]
+		"abilities": ["Échauffement", "Imposteur"]
 	},
 	{
 		"no": 134,
@@ -1196,7 +1196,7 @@
 			"spe": 85
 		},
 		"megas": [],
-		"abilities": ["Water Absorb", "Hydration"]
+		"abilities": ["Absorbe-Eau", "Hydratation"]
 	},
 	{
 		"no": 135,
@@ -1221,7 +1221,7 @@
 			"spe": 150
 		},
 		"megas": [],
-		"abilities": ["Volt Absorb", "Quick Feet"]
+		"abilities": ["Absorbe-Volt", "Pied Véloce"]
 	},
 	{
 		"no": 136,
@@ -1246,7 +1246,7 @@
 			"spe": 85
 		},
 		"megas": [],
-		"abilities": ["Flash Fire", "Guts"]
+		"abilities": ["Torche", "Cran"]
 	},
 	{
 		"no": 142,
@@ -1276,7 +1276,7 @@
 				"needed_item": "Ptéraïte"
 			}
 		],
-		"abilities": ["Rock Head", "Pressure", "Unnerve"]
+		"abilities": ["Tête de Roc", "Pression", "Tension"]
 	},
 	{
 		"no": 142,
@@ -1301,7 +1301,7 @@
 			"spe": 170
 		},
 		"megas": [],
-		"abilities": ["Tough Claws"]
+		"abilities": ["Griffe Dure"]
 	},
 	{
 		"no": 143,
@@ -1326,7 +1326,7 @@
 			"spe": 50
 		},
 		"megas": [],
-		"abilities": ["Immunity", "Thick Fat", "Gluttony"]
+		"abilities": ["Vaccin", "Isograisse", "Gloutonnerie"]
 	},
 	{
 		"no": 149,
@@ -1356,7 +1356,7 @@
 				"needed_item": "Dracolossite"
 			}
 		],
-		"abilities": ["Inner Focus", "Multiscale"]
+		"abilities": ["Attention", "Multiécaille"]
 	},
 	{
 		"no": 149,
@@ -1381,6 +1381,6 @@
 			"spe": 120
 		},
 		"megas": [],
-		"abilities": ["Multiscale"]
+		"abilities": ["Multiécaille"]
 	}
 ]

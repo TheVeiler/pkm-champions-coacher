@@ -22,7 +22,7 @@
 			"spe": 76
 		},
 		"megas": [],
-		"abilities": ["Overgrow", "Shell Armor"]
+		"abilities": ["Engrais", "Coque Armure"]
 	},
 	{
 		"no": 392,
@@ -47,7 +47,7 @@
 			"spe": 128
 		},
 		"megas": [],
-		"abilities": ["Blaze", "Iron Fist"]
+		"abilities": ["Brasier", "Poing de Fer"]
 	},
 	{
 		"no": 395,
@@ -72,7 +72,7 @@
 			"spe": 80
 		},
 		"megas": [],
-		"abilities": ["Torrent", "Competitive"]
+		"abilities": ["Torrent", "Battant"]
 	},
 	{
 		"no": 405,
@@ -97,7 +97,7 @@
 			"spe": 90
 		},
 		"megas": [],
-		"abilities": ["Rivalry", "Intimidate", "Guts"]
+		"abilities": ["Rivalité", "Intimidation", "Cran"]
 	},
 	{
 		"no": 407,
@@ -122,7 +122,7 @@
 			"spe": 110
 		},
 		"megas": [],
-		"abilities": ["Natural Cure", "Poison Point", "Technician"]
+		"abilities": ["Médic Nature", "Point Poison", "Technicien"]
 	},
 	{
 		"no": 409,
@@ -147,7 +147,7 @@
 			"spe": 78
 		},
 		"megas": [],
-		"abilities": ["Mold Breaker", "Sheer Force"]
+		"abilities": ["Brise Moule", "Sans Limite"]
 	},
 	{
 		"no": 411,
@@ -172,7 +172,7 @@
 			"spe": 50
 		},
 		"megas": [],
-		"abilities": ["Sturdy", "Soundproof"]
+		"abilities": ["Fermeté", "Anti-Bruit"]
 	},
 	{
 		"no": 428,
@@ -202,7 +202,7 @@
 				"needed_item": "Lockpinite"
 			}
 		],
-		"abilities": ["Cute Charm", "Klutz", "Limber"]
+		"abilities": ["Joli Sourire", "Maladresse", "Échauffement"]
 	},
 	{
 		"no": 428,
@@ -227,7 +227,7 @@
 			"spe": 155
 		},
 		"megas": [],
-		"abilities": ["Scrappy"]
+		"abilities": ["Querelleur"]
 	},
 	{
 		"no": 442,
@@ -252,7 +252,7 @@
 			"spe": 55
 		},
 		"megas": [],
-		"abilities": ["Pressure", "Infiltrator"]
+		"abilities": ["Pression", "Infiltration"]
 	},
 	{
 		"no": 445,
@@ -282,7 +282,7 @@
 				"needed_item": "Carchacrokite"
 			}
 		],
-		"abilities": ["Sand Veil", "Rough Skin"]
+		"abilities": ["Voile Sable", "Peau Dure"]
 	},
 	{
 		"no": 445,
@@ -307,7 +307,7 @@
 			"spe": 112
 		},
 		"megas": [],
-		"abilities": ["Sand Force"]
+		"abilities": ["Force Sable"]
 	},
 	{
 		"no": 448,
@@ -337,7 +337,7 @@
 				"needed_item": "Lucarite"
 			}
 		],
-		"abilities": ["Steadfast", "Inner Focus", "Justified"]
+		"abilities": ["Impassible", "Attention", "Cœur Noble"]
 	},
 	{
 		"no": 448,
@@ -362,7 +362,7 @@
 			"spe": 132
 		},
 		"megas": [],
-		"abilities": ["Adaptability"]
+		"abilities": ["Adaptabilité"]
 	},
 	{
 		"no": 450,
@@ -387,7 +387,7 @@
 			"spe": 67
 		},
 		"megas": [],
-		"abilities": ["Sand Stream", "Sand Force"]
+		"abilities": ["Sable Volant", "Force Sable"]
 	},
 	{
 		"no": 454,
@@ -412,14 +412,14 @@
 			"spe": 105
 		},
 		"megas": [],
-		"abilities": ["Anticipation", "Dry Skin", "Poison Touch"]
+		"abilities": ["Anticipation", "Peau Sèche", "Toxitouche"]
 	},
 	{
 		"no": 460,
 		"name": "Blizzaroi",
 		"name_en": "Abomasnow",
 		"image": "sprites/460.png",
-		"types": ["Plante", "glace"],
+		"types": ["Plante", "Glace"],
 		"base_stats": {
 			"hp": 90,
 			"atk": 92,
@@ -442,14 +442,14 @@
 				"needed_item": "Blizzarite"
 			}
 		],
-		"abilities": ["Snow Warning", "Soundproof"]
+		"abilities": ["Alerte Neige", "Anti-Bruit"]
 	},
 	{
 		"no": 460,
 		"name": "Méga-Blizzaroi",
 		"name_en": "Mega Abomasnow",
 		"image": "sprites/460-mega.png",
-		"types": ["Plante", "glace"],
+		"types": ["Plante", "Glace"],
 		"base_stats": {
 			"hp": 90,
 			"atk": 132,
@@ -467,14 +467,14 @@
 			"spe": 50
 		},
 		"megas": [],
-		"abilities": ["Snow Warning"]
+		"abilities": ["Alerte Neige"]
 	},
 	{
 		"no": 461,
 		"name": "Dimoret",
 		"name_en": "Weavile",
 		"image": "sprites/461.png",
-		"types": ["Ténèbres", "glace"],
+		"types": ["Ténèbres", "Glace"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 120,
@@ -492,7 +492,7 @@
 			"spe": 145
 		},
 		"megas": [],
-		"abilities": ["Pressure", "Pickpocket"]
+		"abilities": ["Pression", "Pickpocket"]
 	},
 	{
 		"no": 464,
@@ -517,7 +517,7 @@
 			"spe": 60
 		},
 		"megas": [],
-		"abilities": ["Lightning Rod", "Solid Rock", "Reckless"]
+		"abilities": ["Paratonnerre", "Solide Roc", "Téméraire"]
 	},
 	{
 		"no": 470,
@@ -542,14 +542,14 @@
 			"spe": 115
 		},
 		"megas": [],
-		"abilities": ["Leaf Guard", "Chlorophyll"]
+		"abilities": ["Feuille Garde", "Chlorophylle"]
 	},
 	{
 		"no": 471,
 		"name": "Givrali",
 		"name_en": "Glaceon",
 		"image": "sprites/471.png",
-		"types": ["glace"],
+		"types": ["Glace"],
 		"base_stats": {
 			"hp": 65,
 			"atk": 60,
@@ -567,7 +567,7 @@
 			"spe": 85
 		},
 		"megas": [],
-		"abilities": ["Snow Cloak", "Ice Body"]
+		"abilities": ["Rideau Neige", "Corps Gel"]
 	},
 	{
 		"no": 472,
@@ -592,14 +592,14 @@
 			"spe": 115
 		},
 		"megas": [],
-		"abilities": ["Hyper Cutter", "Sand Veil", "Poison Heal"]
+		"abilities": ["Hyper Cutter", "Voile Sable", "Soin Poison"]
 	},
 	{
 		"no": 473,
 		"name": "Mammochon",
 		"name_en": "Mamoswine",
 		"image": "sprites/473.png",
-		"types": ["glace", "Sol"],
+		"types": ["Glace", "Sol"],
 		"base_stats": {
 			"hp": 110,
 			"atk": 130,
@@ -617,7 +617,7 @@
 			"spe": 100
 		},
 		"megas": [],
-		"abilities": ["Oblivious", "Snow Cloak", "Thick Fat"]
+		"abilities": ["Benêt", "Rideau Neige", "Isograisse"]
 	},
 	{
 		"no": 475,
@@ -647,7 +647,7 @@
 				"needed_item": "Gallamite"
 			}
 		],
-		"abilities": ["Steadfast", "Sharpness", "Justified"]
+		"abilities": ["Impassible", "Incisif", "Cœur Noble"]
 	},
 	{
 		"no": 475,
@@ -672,14 +672,14 @@
 			"spe": 130
 		},
 		"megas": [],
-		"abilities": ["Inner Focus"]
+		"abilities": ["Attention"]
 	},
 	{
 		"no": 478,
 		"name": "Momartik",
 		"name_en": "Froslass",
 		"image": "sprites/478.png",
-		"types": ["glace", "Spectre"],
+		"types": ["Glace", "Spectre"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 80,
@@ -702,14 +702,14 @@
 				"needed_item": "Momartikite"
 			}
 		],
-		"abilities": ["Snow Cloak", "Cursed Body"]
+		"abilities": ["Rideau Neige", "Corps Maudit"]
 	},
 	{
 		"no": 478,
 		"name": "Méga-Momartik",
 		"name_en": "Mega Froslass",
 		"image": "sprites/478-mega.png",
-		"types": ["glace", "Spectre"],
+		"types": ["Glace", "Spectre"],
 		"base_stats": {
 			"hp": 70,
 			"atk": 80,
@@ -727,7 +727,7 @@
 			"spe": 140
 		},
 		"megas": [],
-		"abilities": ["Snow Warning"]
+		"abilities": ["Alerte Neige"]
 	},
 	{
 		"no": 479,
@@ -752,7 +752,7 @@
 			"spe": 111
 		},
 		"megas": [],
-		"abilities": ["Levitate"]
+		"abilities": ["Lévitation"]
 	},
 	{
 		"no": 479,
@@ -777,7 +777,7 @@
 			"spe": 106
 		},
 		"megas": [],
-		"abilities": ["Levitate"]
+		"abilities": ["Lévitation"]
 	},
 	{
 		"no": 479,
@@ -802,14 +802,14 @@
 			"spe": 106
 		},
 		"megas": [],
-		"abilities": ["Levitate"]
+		"abilities": ["Lévitation"]
 	},
 	{
 		"no": 479,
 		"name": "Motisma Froid",
 		"name_en": "Rotom-Frost",
 		"image": "sprites/479-frost.png",
-		"types": ["Électrik", "glace"],
+		"types": ["Électrik", "Glace"],
 		"base_stats": {
 			"hp": 50,
 			"atk": 65,
@@ -827,7 +827,7 @@
 			"spe": 106
 		},
 		"megas": [],
-		"abilities": ["Levitate"]
+		"abilities": ["Lévitation"]
 	},
 	{
 		"no": 479,
@@ -852,7 +852,7 @@
 			"spe": 106
 		},
 		"megas": [],
-		"abilities": ["Levitate"]
+		"abilities": ["Lévitation"]
 	},
 	{
 		"no": 479,
@@ -877,6 +877,6 @@
 			"spe": 106
 		},
 		"megas": [],
-		"abilities": ["Levitate"]
+		"abilities": ["Lévitation"]
 	}
 ]

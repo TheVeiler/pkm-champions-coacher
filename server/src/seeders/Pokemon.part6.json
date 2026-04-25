@@ -27,7 +27,7 @@
 				"needed_item": "Blindépiquite"
 			}
 		],
-		"abilities": ["Overgrow", "Bulletproof"]
+		"abilities": ["Engrais", "Pare-Balles"]
 	},
 	{
 		"no": 652,
@@ -52,7 +52,7 @@
 			"spe": 64
 		},
 		"megas": [],
-		"abilities": ["Bulletproof"]
+		"abilities": ["Pare-Balles"]
 	},
 	{
 		"no": 655,
@@ -82,7 +82,7 @@
 				"needed_item": "Goupelinite"
 			}
 		],
-		"abilities": ["Blaze", "Magician"]
+		"abilities": ["Brasier", "Magicien"]
 	},
 	{
 		"no": 655,
@@ -107,7 +107,7 @@
 			"spe": 154
 		},
 		"megas": [],
-		"abilities": ["Levitate"]
+		"abilities": ["Lévitation"]
 	},
 	{
 		"no": 658,
@@ -137,7 +137,7 @@
 				"needed_item": "Amphinolite"
 			}
 		],
-		"abilities": ["Battle Bond"]
+		"abilities": ["Synergie"]
 	},
 	{
 		"no": 658,
@@ -162,7 +162,7 @@
 			"spe": 162
 		},
 		"megas": [],
-		"abilities": ["Protean"]
+		"abilities": ["Protéen"]
 	},
 	{
 		"no": 660,
@@ -187,7 +187,7 @@
 			"spe": 98
 		},
 		"megas": [],
-		"abilities": ["Pickup", "Cheek Pouch", "Huge Power"]
+		"abilities": ["Ramassage", "Bajoues", "Coloforce"]
 	},
 	{
 		"no": 663,
@@ -212,7 +212,7 @@
 			"spe": 146
 		},
 		"megas": [],
-		"abilities": ["Flame Body", "Gale Wings"]
+		"abilities": ["Corps Ardent", "Ailes Bourrasque"]
 	},
 	{
 		"no": 666,
@@ -237,7 +237,7 @@
 			"spe": 109
 		},
 		"megas": [],
-		"abilities": ["Shield Dust", "Compound Eyes", "Friend Guard"]
+		"abilities": ["Écran Poudre", "Œil Composé", "Garde-Ami"]
 	},
 	{
 		"no": 670,
@@ -262,7 +262,7 @@
 			"spe": 112
 		},
 		"megas": [],
-		"abilities": ["Flower Veil", "Symbiosis"]
+		"abilities": ["Flora-Voile", "Symbiose"]
 	},
 	{
 		"no": 670,
@@ -287,7 +287,7 @@
 			"spe": 122
 		},
 		"megas": [],
-		"abilities": ["Fairy Aura"]
+		"abilities": ["Aura Féérique"]
 	},
 	{
 		"no": 671,
@@ -312,7 +312,7 @@
 			"spe": 95
 		},
 		"megas": [],
-		"abilities": ["Flower Veil", "Symbiosis"]
+		"abilities": ["Flora-Voile", "Symbiose"]
 	},
 	{
 		"no": 675,
@@ -337,7 +337,7 @@
 			"spe": 78
 		},
 		"megas": [],
-		"abilities": ["Iron Fist", "Mold Breaker", "Scrappy"]
+		"abilities": ["Poing de Fer", "Brise Moule", "Querelleur"]
 	},
 	{
 		"no": 676,
@@ -362,7 +362,7 @@
 			"spe": 122
 		},
 		"megas": [],
-		"abilities": ["Fur Coat"]
+		"abilities": ["Toison Épaisse"]
 	},
 	{
 		"no": 678,
@@ -387,7 +387,7 @@
 			"spe": 124
 		},
 		"megas": [],
-		"abilities": ["Keen Eye", "Infiltrator", "Prankster"]
+		"abilities": ["Regard Vif", "Infiltration", "Farceur"]
 	},
 	{
 		"no": 678,
@@ -412,7 +412,7 @@
 			"spe": 124
 		},
 		"megas": [],
-		"abilities": ["Keen Eye", "Infiltrator", "Competitive"]
+		"abilities": ["Regard Vif", "Infiltration", "Battant"]
 	},
 	{
 		"no": 678,
@@ -437,7 +437,7 @@
 			"spe": 144
 		},
 		"megas": [],
-		"abilities": ["Trace"]
+		"abilities": ["Calque"]
 	},
 	{
 		"no": 681,
@@ -462,7 +462,7 @@
 			"spe": 80
 		},
 		"megas": [],
-		"abilities": ["Stance Change"]
+		"abilities": ["Déclic Tactique"]
 	},
 	{
 		"no": 683,
@@ -487,7 +487,7 @@
 			"spe": 49
 		},
 		"megas": [],
-		"abilities": ["Healer", "Aroma Veil"]
+		"abilities": ["Cœur Soin", "Aroma-Voile"]
 	},
 	{
 		"no": 685,
@@ -512,7 +512,7 @@
 			"spe": 92
 		},
 		"megas": [],
-		"abilities": ["Sweet Veil", "Unburden"]
+		"abilities": ["Gluco-Voile", "Délestage"]
 	},
 	{
 		"no": 693,
@@ -537,7 +537,7 @@
 			"spe": 79
 		},
 		"megas": [],
-		"abilities": ["Mega Launcher"]
+		"abilities": ["Méga Blaster"]
 	},
 	{
 		"no": 695,
@@ -562,7 +562,7 @@
 			"spe": 129
 		},
 		"megas": [],
-		"abilities": ["Dry Skin", "Sand Veil", "Solar Power"]
+		"abilities": ["Peau Sèche", "Voile Sable", "Force Soleil"]
 	},
 	{
 		"no": 697,
@@ -587,14 +587,14 @@
 			"spe": 91
 		},
 		"megas": [],
-		"abilities": ["Strong Jaw", "Rock Head"]
+		"abilities": ["Prognathe", "Tête de Roc"]
 	},
 	{
 		"no": 699,
 		"name": "Dragmara",
 		"name_en": "Aurorus",
 		"image": "sprites/699.png",
-		"types": ["Roche", "glace"],
+		"types": ["Roche", "Glace"],
 		"base_stats": {
 			"hp": 123,
 			"atk": 77,
@@ -612,7 +612,7 @@
 			"spe": 78
 		},
 		"megas": [],
-		"abilities": ["Refrigerate", "Snow Warning"]
+		"abilities": ["Peau Gelée", "Alerte Neige"]
 	},
 	{
 		"no": 700,
@@ -637,7 +637,7 @@
 			"spe": 80
 		},
 		"megas": [],
-		"abilities": ["Cute Charm", "Pixilate"]
+		"abilities": ["Joli Sourire", "Peau Féérique"]
 	},
 	{
 		"no": 701,
@@ -667,7 +667,7 @@
 				"needed_item": "Brutalibrite"
 			}
 		],
-		"abilities": ["Limber", "Unburden", "Mold Breaker"]
+		"abilities": ["Échauffement", "Délestage", "Brise Moule"]
 	},
 	{
 		"no": 701,
@@ -692,7 +692,7 @@
 			"spe": 138
 		},
 		"megas": [],
-		"abilities": ["No Guard"]
+		"abilities": ["Annule Garde"]
 	},
 	{
 		"no": 702,
@@ -717,7 +717,7 @@
 			"spe": 121
 		},
 		"megas": [],
-		"abilities": ["Cheek Pouch", "Pickup", "Plus"]
+		"abilities": ["Bajoues", "Ramassage", "Plus"]
 	},
 	{
 		"no": 706,
@@ -742,7 +742,7 @@
 			"spe": 100
 		},
 		"megas": [],
-		"abilities": ["Sap Sipper", "Hydration", "Gooey"]
+		"abilities": ["Herbivore", "Hydratation", "Poisseux"]
 	},
 	{
 		"no": 706,
@@ -767,7 +767,7 @@
 			"spe": 80
 		},
 		"megas": [],
-		"abilities": ["Sap Sipper", "Shell Armor", "Gooey"]
+		"abilities": ["Herbivore", "Coque Armure", "Poisseux"]
 	},
 	{
 		"no": 707,
@@ -792,7 +792,7 @@
 			"spe": 95
 		},
 		"megas": [],
-		"abilities": ["Prankster", "Magician"]
+		"abilities": ["Farceur", "Magicien"]
 	},
 	{
 		"no": 709,
@@ -817,7 +817,7 @@
 			"spe": 76
 		},
 		"megas": [],
-		"abilities": ["Natural Cure", "Frisk", "Harvest"]
+		"abilities": ["Médic Nature", "Fouille", "Récolte"]
 	},
 	{
 		"no": 711,
@@ -842,7 +842,7 @@
 			"spe": 119
 		},
 		"megas": [],
-		"abilities": ["Pickup", "Frisk", "Insomnia"]
+		"abilities": ["Ramassage", "Fouille", "Insomnia"]
 	},
 	{
 		"no": 711,
@@ -867,7 +867,7 @@
 			"spe": 104
 		},
 		"megas": [],
-		"abilities": ["Pickup", "Frisk", "Insomnia"]
+		"abilities": ["Ramassage", "Fouille", "Insomnia"]
 	},
 	{
 		"no": 711,
@@ -892,7 +892,7 @@
 			"spe": 89
 		},
 		"megas": [],
-		"abilities": ["Pickup", "Frisk", "Insomnia"]
+		"abilities": ["Ramassage", "Fouille", "Insomnia"]
 	},
 	{
 		"no": 711,
@@ -917,14 +917,14 @@
 			"spe": 74
 		},
 		"megas": [],
-		"abilities": ["Pickup", "Frisk", "Insomnia"]
+		"abilities": ["Ramassage", "Fouille", "Insomnia"]
 	},
 	{
 		"no": 713,
 		"name": "Séracrawl",
 		"name_en": "Avalugg",
 		"image": "sprites/713.png",
-		"types": ["glace"],
+		"types": ["Glace"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 117,
@@ -942,14 +942,14 @@
 			"spe": 48
 		},
 		"megas": [],
-		"abilities": ["Own Tempo", "Ice Body", "Sturdy"]
+		"abilities": ["Tempo Perso", "Corps Gel", "Fermeté"]
 	},
 	{
 		"no": 713,
 		"name": "Séracrawl de Hisui",
 		"name_en": "Hisuian Avalugg",
 		"image": "sprites/713-regional-h.png",
-		"types": ["glace", "Roche"],
+		"types": ["Glace", "Roche"],
 		"base_stats": {
 			"hp": 95,
 			"atk": 127,
@@ -967,7 +967,7 @@
 			"spe": 58
 		},
 		"megas": [],
-		"abilities": ["Strong Jaw", "Ice Body", "Sturdy"]
+		"abilities": ["Prognathe", "Corps Gel", "Fermeté"]
 	},
 	{
 		"no": 715,
@@ -992,6 +992,6 @@
 			"spe": 143
 		},
 		"megas": [],
-		"abilities": ["Frisk", "Infiltrator", "Telepathy"]
+		"abilities": ["Fouille", "Infiltration", "Télépathe"]
 	}
 ]
