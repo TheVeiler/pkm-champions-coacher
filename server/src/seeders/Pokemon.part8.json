@@ -3,7 +3,7 @@
 		"no": 823,
 		"name": "Corvaillus",
 		"name_en": "Corviknight",
-		"image": "sprites/823.png",
+		"image": "pokemon/823.png",
 		"types": ["Vol", "Acier"],
 		"base_stats": {
 			"hp": 98,
@@ -28,7 +28,7 @@
 		"no": 841,
 		"name": "Pomdrapi",
 		"name_en": "Flapple",
-		"image": "sprites/841.png",
+		"image": "pokemon/841.png",
 		"types": ["Plante", "Dragon"],
 		"base_stats": {
 			"hp": 70,
@@ -53,7 +53,7 @@
 		"no": 842,
 		"name": "Dratatin",
 		"name_en": "Appletun",
-		"image": "sprites/842.png",
+		"image": "pokemon/842.png",
 		"types": ["Plante", "Dragon"],
 		"base_stats": {
 			"hp": 110,
@@ -78,7 +78,7 @@
 		"no": 844,
 		"name": "Dunaconda",
 		"name_en": "Sandaconda",
-		"image": "sprites/844.png",
+		"image": "pokemon/844.png",
 		"types": ["Sol"],
 		"base_stats": {
 			"hp": 72,
@@ -103,7 +103,7 @@
 		"no": 855,
 		"name": "Polthégeist",
 		"name_en": "Polteageist",
-		"image": "sprites/855.png",
+		"image": "pokemon/855.png",
 		"types": ["Spectre"],
 		"base_stats": {
 			"hp": 60,
@@ -128,7 +128,7 @@
 		"no": 858,
 		"name": "Sorcilence",
 		"name_en": "Hatterene",
-		"image": "sprites/858.png",
+		"image": "pokemon/858.png",
 		"types": ["Psy", "Fée"],
 		"base_stats": {
 			"hp": 57,
@@ -153,7 +153,7 @@
 		"no": 866,
 		"name": "M. Glaquette",
 		"name_en": "Mr. Rime",
-		"image": "sprites/866.png",
+		"image": "pokemon/866.png",
 		"types": ["Glace", "Psy"],
 		"base_stats": {
 			"hp": 80,
@@ -178,7 +178,7 @@
 		"no": 867,
 		"name": "Tutétékri",
 		"name_en": "Runerigus",
-		"image": "sprites/867.png",
+		"image": "pokemon/867.png",
 		"types": ["Sol", "Spectre"],
 		"base_stats": {
 			"hp": 58,
@@ -203,7 +203,7 @@
 		"no": 869,
 		"name": "Charmilly",
 		"name_en": "Alcremie",
-		"image": "sprites/869.png",
+		"image": "pokemon/869.png",
 		"types": ["Fée"],
 		"base_stats": {
 			"hp": 65,
@@ -228,7 +228,7 @@
 		"no": 877,
 		"name": "Morpeko",
 		"name_en": "Morpeko",
-		"image": "sprites/877.png",
+		"image": "pokemon/877.png",
 		"types": ["Électrik", "Ténèbres"],
 		"base_stats": {
 			"hp": 58,
@@ -253,7 +253,7 @@
 		"no": 887,
 		"name": "Lanssorien",
 		"name_en": "Dragapult",
-		"image": "sprites/887.png",
+		"image": "pokemon/887.png",
 		"types": ["Dragon", "Spectre"],
 		"base_stats": {
 			"hp": 88,
@@ -278,7 +278,7 @@
 		"no": 899,
 		"name": "Cerbyllin",
 		"name_en": "Wyrdeer",
-		"image": "sprites/899.png",
+		"image": "pokemon/899.png",
 		"types": ["Normal", "Psy"],
 		"base_stats": {
 			"hp": 103,
@@ -303,7 +303,7 @@
 		"no": 900,
 		"name": "Hachécateur",
 		"name_en": "Kleavor",
-		"image": "sprites/900.png",
+		"image": "pokemon/900.png",
 		"types": ["Insecte", "Roche"],
 		"base_stats": {
 			"hp": 70,
@@ -328,7 +328,7 @@
 		"no": 902,
 		"name": "Paragruel Mâle",
 		"name_en": "Male Basculegion",
-		"image": "sprites/902.png",
+		"image": "pokemon/902.png",
 		"types": ["Eau", "Spectre"],
 		"base_stats": {
 			"hp": 120,
@@ -353,7 +353,7 @@
 		"no": 902,
 		"name": "Paragruel Femelle",
 		"name_en": "Female Basculegion",
-		"image": "sprites/902-female.png",
+		"image": "pokemon/902-female.png",
 		"types": ["Eau", "Spectre"],
 		"base_stats": {
 			"hp": 120,
@@ -378,7 +378,7 @@
 		"no": 903,
 		"name": "Farfurex",
 		"name_en": "Sneasler",
-		"image": "sprites/903.png",
+		"image": "pokemon/903.png",
 		"types": ["Combat", "Poison"],
 		"base_stats": {
 			"hp": 80,

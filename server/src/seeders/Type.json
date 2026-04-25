@@ -1,102 +1,119 @@
 [
 	{
 		"name": "Normal",
+		"image": "type/Normal.svg",
 		"weakTo": ["Combat"],
 		"resists": [],
 		"immuneTo": ["Spectre"]
 	},
 	{
 		"name": "Feu",
+		"image": "type/Fire.svg",
 		"weakTo": ["Sol", "Roche", "Eau"],
 		"resists": ["Insecte", "Feu", "Plante", "Acier", "Glace", "Fée"],
 		"immuneTo": []
 	},
 	{
 		"name": "Combat",
+		"image": "type/Fighting.svg",
 		"weakTo": ["Vol", "Psy", "Fée"],
 		"resists": ["Roche", "Insecte", "Ténèbres"],
 		"immuneTo": []
 	},
 	{
 		"name": "Eau",
+		"image": "type/Water.svg",
 		"weakTo": ["Plante", "Électrik"],
 		"resists": ["Feu", "Eau", "Glace", "Acier"],
 		"immuneTo": []
 	},
 	{
 		"name": "Vol",
+		"image": "type/Flying.svg",
 		"weakTo": ["Roche", "Électrik", "Glace"],
 		"resists": ["Combat", "Insecte", "Plante"],
 		"immuneTo": ["Sol"]
 	},
 	{
 		"name": "Plante",
+		"image": "type/Grass.svg",
 		"weakTo": ["Vol", "Poison", "Insecte", "Feu", "Glace"],
 		"resists": ["Sol", "Eau", "Plante", "Électrik"],
 		"immuneTo": []
 	},
 	{
 		"name": "Poison",
+		"image": "type/Poison.svg",
 		"weakTo": ["Sol", "Psy"],
 		"resists": ["Combat", "Poison", "Plante", "Insecte", "Fée"],
 		"immuneTo": []
 	},
 	{
 		"name": "Électrik",
+		"image": "type/Electric.svg",
 		"weakTo": ["Sol"],
 		"resists": ["Vol", "Électrik", "Acier"],
 		"immuneTo": []
 	},
 	{
 		"name": "Sol",
+		"image": "type/Ground.svg",
 		"weakTo": ["Eau", "Plante", "Glace"],
 		"resists": ["Poison", "Roche"],
 		"immuneTo": ["Électrik"]
 	},
 	{
 		"name": "Psy",
+		"image": "type/Psychic.svg",
 		"weakTo": ["Insecte", "Spectre", "Ténèbres"],
 		"resists": ["Combat", "Psy"],
 		"immuneTo": []
 	},
 	{
 		"name": "Roche",
+		"image": "type/Rock.svg",
 		"weakTo": ["Combat", "Sol", "Eau", "Plante", "Acier"],
 		"resists": ["Normal", "Vol", "Poison", "Feu"],
 		"immuneTo": []
 	},
 	{
 		"name": "Glace",
+		"image": "type/Ice.svg",
 		"weakTo": ["Combat", "Roche", "Feu", "Acier"],
 		"resists": ["Glace"],
 		"immuneTo": []
 	},
 	{
 		"name": "Insecte",
+		"image": "type/Bug.svg",
 		"weakTo": ["Vol", "Roche", "Feu"],
 		"resists": ["Combat", "Sol", "Plante"],
 		"immuneTo": []
 	},
 	{
 		"name": "Dragon",
+		"image": "type/Dragon.svg",
 		"weakTo": ["Glace", "Dragon", "Fée"],
 		"resists": ["Feu", "Eau", "Plante", "Électrik"],
 		"immuneTo": []
 	},
 	{
 		"name": "Spectre",
+		"image": "type/Ghost.svg",
 		"weakTo": ["Spectre", "Ténèbres"],
 		"resists": ["Poison", "Insecte"],
 		"immuneTo": ["Normal", "Combat"]
 	},
 	{
 		"name": "Ténèbres",
+		"image": "type/Dark.svg",
 		"weakTo": ["Combat", "Insecte", "Fée"],
 		"resists": ["Spectre", "Ténèbres"],
 		"immuneTo": ["Psy"]
 	},
 	{
 		"name": "Acier",
+		"image": "type/Steel.svg",
 		"weakTo": ["Combat", "Sol", "Feu"],
 		"resists": [
 			"Normal",
@@ -114,6 +131,7 @@
 	},
 	{
 		"name": "Fée",
+		"image": "type/Fairy.svg",
 		"weakTo": ["Poison", "Acier"],
 		"resists": ["Combat", "Insecte", "Ténèbres"],
 		"immuneTo": ["Dragon"]

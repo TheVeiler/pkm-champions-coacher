@@ -1,18 +1,22 @@
 import { DataTypes } from "sequelize";
 
 export default {
-	name: {
+	pokemon: {
 		type: DataTypes.STRING,
 		allowNull: false,
 		primaryKey: true,
+		references: {
+			model: "Pokemons",
+			key: "name",
+		},
 	},
-	name_en: {
+	type: {
 		type: DataTypes.STRING,
 		allowNull: false,
-		unique: true,
-	},
-	description: {
-		type: DataTypes.TEXT,
-		allowNull: false,
+		primaryKey: true,
+		references: {
+			model: "Types",
+			key: "name",
+		},
 	},
 };

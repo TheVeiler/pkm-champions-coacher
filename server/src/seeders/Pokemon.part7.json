@@ -3,7 +3,7 @@
 		"no": 724,
 		"name": "Archéduc",
 		"name_en": "Decidueye",
-		"image": "sprites/724.png",
+		"image": "pokemon/724.png",
 		"types": ["Plante", "Spectre"],
 		"base_stats": {
 			"hp": 78,
@@ -28,7 +28,7 @@
 		"no": 724,
 		"name": "Archéduc de Hisui",
 		"name_en": "Hisuian Decidueye",
-		"image": "sprites/724-regional-h.png",
+		"image": "pokemon/724-regional-h.png",
 		"types": ["Plante", "Combat"],
 		"base_stats": {
 			"hp": 88,
@@ -53,7 +53,7 @@
 		"no": 727,
 		"name": "Félinferno",
 		"name_en": "Incineroar",
-		"image": "sprites/727.png",
+		"image": "pokemon/727.png",
 		"types": ["Feu", "Ténèbres"],
 		"base_stats": {
 			"hp": 95,
@@ -78,7 +78,7 @@
 		"no": 730,
 		"name": "Oratoria",
 		"name_en": "Primarina",
-		"image": "sprites/730.png",
+		"image": "pokemon/730.png",
 		"types": ["Eau", "Fée"],
 		"base_stats": {
 			"hp": 80,
@@ -103,7 +103,7 @@
 		"no": 733,
 		"name": "Bazoucan",
 		"name_en": "Toucannon",
-		"image": "sprites/733.png",
+		"image": "pokemon/733.png",
 		"types": ["Normal", "Vol"],
 		"base_stats": {
 			"hp": 80,
@@ -128,7 +128,7 @@
 		"no": 740,
 		"name": "Crabominable",
 		"name_en": "Crabominable",
-		"image": "sprites/740.png",
+		"image": "pokemon/740.png",
 		"types": ["Combat", "Glace"],
 		"base_stats": {
 			"hp": 97,
@@ -158,7 +158,7 @@
 		"no": 740,
 		"name": "Méga-Crabominable",
 		"name_en": "Mega Crabominable",
-		"image": "sprites/740-mega.png",
+		"image": "pokemon/740-mega.png",
 		"types": ["Combat", "Glace"],
 		"base_stats": {
 			"hp": 97,
@@ -183,7 +183,7 @@
 		"no": 745,
 		"name": "Lougaroc Diurne",
 		"name_en": "Midday Lycanroc",
-		"image": "sprites/745.png",
+		"image": "pokemon/745.png",
 		"types": ["Roche"],
 		"base_stats": {
 			"hp": 75,
@@ -208,7 +208,7 @@
 		"no": 745,
 		"name": "Lougaroc Nocturne",
 		"name_en": "Midnight Lycanroc",
-		"image": "sprites/745-midnight.png",
+		"image": "pokemon/745-midnight.png",
 		"types": ["Roche"],
 		"base_stats": {
 			"hp": 85,
@@ -233,7 +233,7 @@
 		"no": 745,
 		"name": "Lougaroc Crépusculaire",
 		"name_en": "Dusk Lycanroc",
-		"image": "sprites/745-dusk.png",
+		"image": "pokemon/745-dusk.png",
 		"types": ["Roche"],
 		"base_stats": {
 			"hp": 75,
@@ -258,7 +258,7 @@
 		"no": 748,
 		"name": "Prédastérie",
 		"name_en": "Toxapex",
-		"image": "sprites/748.png",
+		"image": "pokemon/748.png",
 		"types": ["Poison", "Eau"],
 		"base_stats": {
 			"hp": 50,
@@ -283,7 +283,7 @@
 		"no": 750,
 		"name": "Bourrinos",
 		"name_en": "Mudsdale",
-		"image": "sprites/750.png",
+		"image": "pokemon/750.png",
 		"types": ["Sol"],
 		"base_stats": {
 			"hp": 100,
@@ -308,7 +308,7 @@
 		"no": 752,
 		"name": "Tarenbulle",
 		"name_en": "Araquanid",
-		"image": "sprites/752.png",
+		"image": "pokemon/752.png",
 		"types": ["Eau", "Insecte"],
 		"base_stats": {
 			"hp": 68,
@@ -333,7 +333,7 @@
 		"no": 758,
 		"name": "Malamandre",
 		"name_en": "Salazzle",
-		"image": "sprites/758.png",
+		"image": "pokemon/758.png",
 		"types": ["Poison", "Feu"],
 		"base_stats": {
 			"hp": 68,
@@ -358,7 +358,7 @@
 		"no": 763,
 		"name": "Sucreine",
 		"name_en": "Tsareena",
-		"image": "sprites/763.png",
+		"image": "pokemon/763.png",
 		"types": ["Plante"],
 		"base_stats": {
 			"hp": 72,
@@ -383,7 +383,7 @@
 		"no": 765,
 		"name": "Gouroutan",
 		"name_en": "Oranguru",
-		"image": "sprites/765.png",
+		"image": "pokemon/765.png",
 		"types": ["Normal", "Psy"],
 		"base_stats": {
 			"hp": 90,
@@ -408,7 +408,7 @@
 		"no": 766,
 		"name": "Quartermac",
 		"name_en": "Passimian",
-		"image": "sprites/766.png",
+		"image": "pokemon/766.png",
 		"types": ["Combat"],
 		"base_stats": {
 			"hp": 100,
@@ -433,7 +433,7 @@
 		"no": 778,
 		"name": "Mimiqui",
 		"name_en": "Mimikyu",
-		"image": "sprites/778.png",
+		"image": "pokemon/778.png",
 		"types": ["Spectre", "Fée"],
 		"base_stats": {
 			"hp": 55,
@@ -458,7 +458,7 @@
 		"no": 780,
 		"name": "Draïeul",
 		"name_en": "Drampa",
-		"image": "sprites/780.png",
+		"image": "pokemon/780.png",
 		"types": ["Normal", "Dragon"],
 		"base_stats": {
 			"hp": 78,
@@ -488,7 +488,7 @@
 		"no": 780,
 		"name": "Méga-Draïeul",
 		"name_en": "Mega Drampa",
-		"image": "sprites/780-mega.png",
+		"image": "pokemon/780-mega.png",
 		"types": ["Normal", "Dragon"],
 		"base_stats": {
 			"hp": 78,
@@ -513,7 +513,7 @@
 		"no": 784,
 		"name": "Ékaïser",
 		"name_en": "Kommo-o",
-		"image": "sprites/784.png",
+		"image": "pokemon/784.png",
 		"types": ["Dragon", "Combat"],
 		"base_stats": {
 			"hp": 75,

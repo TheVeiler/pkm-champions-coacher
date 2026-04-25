@@ -3,7 +3,7 @@
 		"no": 3,
 		"name": "Florizarre",
 		"name_en": "Venusaur",
-		"image": "sprites/3.png",
+		"image": "pokemon/3.png",
 		"types": ["Plante", "Poison"],
 		"base_stats": {
 			"hp": 80,
@@ -33,7 +33,7 @@
 		"no": 3,
 		"name": "Méga-Florizarre",
 		"name_en": "Mega Venusaur",
-		"image": "sprites/3-mega.png",
+		"image": "pokemon/3-mega.png",
 		"types": ["Plante", "Poison"],
 		"base_stats": {
 			"hp": 80,
@@ -58,7 +58,7 @@
 		"no": 6,
 		"name": "Dracaufeu",
 		"name_en": "Charizard",
-		"image": "sprites/6.png",
+		"image": "pokemon/6.png",
 		"types": ["Feu", "Vol"],
 		"base_stats": {
 			"hp": 78,
@@ -92,7 +92,7 @@
 		"no": 6,
 		"name": "Méga-Dracaufeu X",
 		"name_en": "Mega Charizard X",
-		"image": "sprites/6-mega-x.png",
+		"image": "pokemon/6-mega-x.png",
 		"types": ["Feu", "Dragon"],
 		"base_stats": {
 			"hp": 78,
@@ -117,7 +117,7 @@
 		"no": 6,
 		"name": "Méga-Dracaufeu Y",
 		"name_en": "Mega Charizard Y",
-		"image": "sprites/6-mega-y.png",
+		"image": "pokemon/6-mega-y.png",
 		"types": ["Feu", "Vol"],
 		"base_stats": {
 			"hp": 78,
@@ -142,7 +142,7 @@
 		"no": 9,
 		"name": "Tortank",
 		"name_en": "Blastoise",
-		"image": "sprites/9.png",
+		"image": "pokemon/9.png",
 		"types": ["Eau"],
 		"base_stats": {
 			"hp": 79,
@@ -172,7 +172,7 @@
 		"no": 9,
 		"name": "Méga-Tortank",
 		"name_en": "Mega Blastoise",
-		"image": "sprites/9-mega.png",
+		"image": "pokemon/9-mega.png",
 		"types": ["Eau"],
 		"base_stats": {
 			"hp": 79,
@@ -197,7 +197,7 @@
 		"no": 15,
 		"name": "Dardargnan",
 		"name_en": "Beedrill",
-		"image": "sprites/15.png",
+		"image": "pokemon/15.png",
 		"types": ["Insecte", "Poison"],
 		"base_stats": {
 			"hp": 65,
@@ -227,7 +227,7 @@
 		"no": 15,
 		"name": "Méga-Dardargnan",
 		"name_en": "Mega Beedrill",
-		"image": "sprites/15-mega.png",
+		"image": "pokemon/15-mega.png",
 		"types": ["Insecte", "Poison"],
 		"base_stats": {
 			"hp": 65,
@@ -252,7 +252,7 @@
 		"no": 18,
 		"name": "Roucarnage",
 		"name_en": "Pidgeot",
-		"image": "sprites/18.png",
+		"image": "pokemon/18.png",
 		"types": ["Normal", "Vol"],
 		"base_stats": {
 			"hp": 83,
@@ -282,7 +282,7 @@
 		"no": 18,
 		"name": "Méga-Roucarnage",
 		"name_en": "Mega Pidgeot",
-		"image": "sprites/18-mega.png",
+		"image": "pokemon/18-mega.png",
 		"types": ["Normal", "Vol"],
 		"base_stats": {
 			"hp": 83,
@@ -307,7 +307,7 @@
 		"no": 24,
 		"name": "Arbok",
 		"name_en": "Arbok",
-		"image": "sprites/24.png",
+		"image": "pokemon/24.png",
 		"types": ["Poison"],
 		"base_stats": {
 			"hp": 60,
@@ -332,7 +332,7 @@
 		"no": 25,
 		"name": "Pikachu",
 		"name_en": "Pikachu",
-		"image": "sprites/25.png",
+		"image": "pokemon/25.png",
 		"types": ["Électrik"],
 		"base_stats": {
 			"hp": 35,
@@ -357,7 +357,7 @@
 		"no": 26,
 		"name": "Raichu",
 		"name_en": "Raichu",
-		"image": "sprites/26.png",
+		"image": "pokemon/26.png",
 		"types": ["Électrik"],
 		"base_stats": {
 			"hp": 60,
@@ -382,7 +382,7 @@
 		"no": 26,
 		"name": "Raichu d'Alola",
 		"name_en": "Alolan Raichu",
-		"image": "sprites/26-regional-a.png",
+		"image": "pokemon/26-regional-a.png",
 		"types": ["Électrik", "Psy"],
 		"base_stats": {
 			"hp": 60,
@@ -407,7 +407,7 @@
 		"no": 36,
 		"name": "Mélodelfe",
 		"name_en": "Clefable",
-		"image": "sprites/36.png",
+		"image": "pokemon/36.png",
 		"types": ["Fée"],
 		"base_stats": {
 			"hp": 95,
@@ -437,7 +437,7 @@
 		"no": 36,
 		"name": "Méga-Mélodelfe",
 		"name_en": "Mega Clefable",
-		"image": "sprites/36-mega.png",
+		"image": "pokemon/36-mega.png",
 		"types": ["Fée", "Vol"],
 		"base_stats": {
 			"hp": 95,
@@ -462,7 +462,7 @@
 		"no": 38,
 		"name": "Feunard",
 		"name_en": "Ninetales",
-		"image": "sprites/38.png",
+		"image": "pokemon/38.png",
 		"types": ["Feu"],
 		"base_stats": {
 			"hp": 73,
@@ -487,7 +487,7 @@
 		"no": 38,
 		"name": "Feunard d'Alola",
 		"name_en": "Alolan Ninetales",
-		"image": "sprites/38-regional-a.png",
+		"image": "pokemon/38-regional-a.png",
 		"types": ["Glace", "Fée"],
 		"base_stats": {
 			"hp": 73,
@@ -512,7 +512,7 @@
 		"no": 59,
 		"name": "Arcanin",
 		"name_en": "Arcanine",
-		"image": "sprites/59.png",
+		"image": "pokemon/59.png",
 		"types": ["Feu"],
 		"base_stats": {
 			"hp": 90,
@@ -537,7 +537,7 @@
 		"no": 59,
 		"name": "Arcanin de Hisui",
 		"name_en": "Hisuian Arcanine",
-		"image": "sprites/59-regional-h.png",
+		"image": "pokemon/59-regional-h.png",
 		"types": ["Feu", "Roche"],
 		"base_stats": {
 			"hp": 95,
@@ -562,7 +562,7 @@
 		"no": 65,
 		"name": "Alakazam",
 		"name_en": "Alakazam",
-		"image": "sprites/65.png",
+		"image": "pokemon/65.png",
 		"types": ["Psy"],
 		"base_stats": {
 			"hp": 55,
@@ -592,7 +592,7 @@
 		"no": 65,
 		"name": "Méga-Alakazam",
 		"name_en": "Mega Alakazam",
-		"image": "sprites/65-mega.png",
+		"image": "pokemon/65-mega.png",
 		"types": ["Psy"],
 		"base_stats": {
 			"hp": 55,
@@ -617,7 +617,7 @@
 		"no": 68,
 		"name": "Mackogneur",
 		"name_en": "Machamp",
-		"image": "sprites/68.png",
+		"image": "pokemon/68.png",
 		"types": ["Combat"],
 		"base_stats": {
 			"hp": 90,
@@ -642,7 +642,7 @@
 		"no": 71,
 		"name": "Empiflor",
 		"name_en": "Victreebel",
-		"image": "sprites/71.png",
+		"image": "pokemon/71.png",
 		"types": ["Plante", "Poison"],
 		"base_stats": {
 			"hp": 80,
@@ -672,7 +672,7 @@
 		"no": 71,
 		"name": "Méga-Empiflor",
 		"name_en": "Mega Victreebel",
-		"image": "sprites/71-mega.png",
+		"image": "pokemon/71-mega.png",
 		"types": ["Plante", "Poison"],
 		"base_stats": {
 			"hp": 80,
@@ -697,7 +697,7 @@
 		"no": 80,
 		"name": "Flagadoss",
 		"name_en": "Slowbro",
-		"image": "sprites/80.png",
+		"image": "pokemon/80.png",
 		"types": ["Eau", "Psy"],
 		"base_stats": {
 			"hp": 95,
@@ -727,7 +727,7 @@
 		"no": 80,
 		"name": "Méga-Flagadoss",
 		"name_en": "Mega Slowbro",
-		"image": "sprites/80-mega.png",
+		"image": "pokemon/80-mega.png",
 		"types": ["Eau", "Psy"],
 		"base_stats": {
 			"hp": 95,
@@ -752,7 +752,7 @@
 		"no": 80,
 		"name": "Flagadoss de Galar",
 		"name_en": "Galarian Slowbro",
-		"image": "sprites/80-regional-g.png",
+		"image": "pokemon/80-regional-g.png",
 		"types": ["Poison", "Psy"],
 		"base_stats": {
 			"hp": 95,
@@ -777,7 +777,7 @@
 		"no": 94,
 		"name": "Ectoplasma",
 		"name_en": "Gengar",
-		"image": "sprites/94.png",
+		"image": "pokemon/94.png",
 		"types": ["Spectre", "Poison"],
 		"base_stats": {
 			"hp": 60,
@@ -807,7 +807,7 @@
 		"no": 94,
 		"name": "Méga-Ectoplasma",
 		"name_en": "Mega Gengar",
-		"image": "sprites/94-mega.png",
+		"image": "pokemon/94-mega.png",
 		"types": ["Spectre", "Poison"],
 		"base_stats": {
 			"hp": 60,
@@ -832,7 +832,7 @@
 		"no": 115,
 		"name": "Kangourex",
 		"name_en": "Kangaskhan",
-		"image": "sprites/115.png",
+		"image": "pokemon/115.png",
 		"types": ["Normal"],
 		"base_stats": {
 			"hp": 105,
@@ -862,7 +862,7 @@
 		"no": 115,
 		"name": "Méga-Kangourex",
 		"name_en": "Mega Kangaskhan",
-		"image": "sprites/115-mega.png",
+		"image": "pokemon/115-mega.png",
 		"types": ["Normal"],
 		"base_stats": {
 			"hp": 105,
@@ -887,7 +887,7 @@
 		"no": 121,
 		"name": "Staross",
 		"name_en": "Starmie",
-		"image": "sprites/121.png",
+		"image": "pokemon/121.png",
 		"types": ["Eau", "Psy"],
 		"base_stats": {
 			"hp": 60,
@@ -917,7 +917,7 @@
 		"no": 121,
 		"name": "Méga-Staross",
 		"name_en": "Mega Starmie",
-		"image": "sprites/121-mega.png",
+		"image": "pokemon/121-mega.png",
 		"types": ["Eau", "Psy"],
 		"base_stats": {
 			"hp": 60,
@@ -942,7 +942,7 @@
 		"no": 127,
 		"name": "Scarabrute",
 		"name_en": "Pinsir",
-		"image": "sprites/127.png",
+		"image": "pokemon/127.png",
 		"types": ["Insecte"],
 		"base_stats": {
 			"hp": 65,
@@ -972,7 +972,7 @@
 		"no": 127,
 		"name": "Méga-Scarabrute",
 		"name_en": "Mega Pinsir",
-		"image": "sprites/127-mega.png",
+		"image": "pokemon/127-mega.png",
 		"types": ["Insecte", "Vol"],
 		"base_stats": {
 			"hp": 65,
@@ -997,7 +997,7 @@
 		"no": 128,
 		"name": "Tauros",
 		"name_en": "Tauros",
-		"image": "sprites/128.png",
+		"image": "pokemon/128.png",
 		"types": ["Normal"],
 		"base_stats": {
 			"hp": 75,
@@ -1022,7 +1022,7 @@
 		"no": 128,
 		"name": "Tauros Combatif de Paldéa",
 		"name_en": "Paldean Combat Tauros",
-		"image": "sprites/128-regional-p-combat.png",
+		"image": "pokemon/128-regional-p-combat.png",
 		"types": ["Combat"],
 		"base_stats": {
 			"hp": 75,
@@ -1047,7 +1047,7 @@
 		"no": 128,
 		"name": "Tauros Flamboyant de Paldéa",
 		"name_en": "Paldean Blaze Tauros",
-		"image": "sprites/128-regional-p-blaze.png",
+		"image": "pokemon/128-regional-p-blaze.png",
 		"types": ["Combat", "Feu"],
 		"base_stats": {
 			"hp": 75,
@@ -1072,7 +1072,7 @@
 		"no": 128,
 		"name": "Tauros Aquatique de Paldéa",
 		"name_en": "Paldean Aqua Tauros",
-		"image": "sprites/128-regional-p-aqua.png",
+		"image": "pokemon/128-regional-p-aqua.png",
 		"types": ["Combat", "Eau"],
 		"base_stats": {
 			"hp": 75,
@@ -1097,7 +1097,7 @@
 		"no": 130,
 		"name": "Léviator",
 		"name_en": "Gyarados",
-		"image": "sprites/130.png",
+		"image": "pokemon/130.png",
 		"types": ["Eau", "Vol"],
 		"base_stats": {
 			"hp": 95,
@@ -1127,7 +1127,7 @@
 		"no": 130,
 		"name": "Méga-Léviator",
 		"name_en": "Mega Gyarados",
-		"image": "sprites/130-mega.png",
+		"image": "pokemon/130-mega.png",
 		"types": ["Eau", "Ténèbres"],
 		"base_stats": {
 			"hp": 95,
@@ -1152,7 +1152,7 @@
 		"no": 132,
 		"name": "Métamorph",
 		"name_en": "Ditto",
-		"image": "sprites/132.png",
+		"image": "pokemon/132.png",
 		"types": ["Normal"],
 		"base_stats": {
 			"hp": 48,
@@ -1177,7 +1177,7 @@
 		"no": 134,
 		"name": "Aquali",
 		"name_en": "Vaporeon",
-		"image": "sprites/134.png",
+		"image": "pokemon/134.png",
 		"types": ["Eau"],
 		"base_stats": {
 			"hp": 130,
@@ -1202,7 +1202,7 @@
 		"no": 135,
 		"name": "Voltali",
 		"name_en": "Jolteon",
-		"image": "sprites/135.png",
+		"image": "pokemon/135.png",
 		"types": ["Électrik"],
 		"base_stats": {
 			"hp": 65,
@@ -1227,7 +1227,7 @@
 		"no": 136,
 		"name": "Pyroli",
 		"name_en": "Flareon",
-		"image": "sprites/136.png",
+		"image": "pokemon/136.png",
 		"types": ["Feu"],
 		"base_stats": {
 			"hp": 65,
@@ -1252,7 +1252,7 @@
 		"no": 142,
 		"name": "Ptéra",
 		"name_en": "Aerodactyl",
-		"image": "sprites/142.png",
+		"image": "pokemon/142.png",
 		"types": ["Roche", "Vol"],
 		"base_stats": {
 			"hp": 80,
@@ -1282,7 +1282,7 @@
 		"no": 142,
 		"name": "Méga-Ptéra",
 		"name_en": "Mega Aerodactyl",
-		"image": "sprites/142-mega.png",
+		"image": "pokemon/142-mega.png",
 		"types": ["Roche", "Vol"],
 		"base_stats": {
 			"hp": 80,
@@ -1307,7 +1307,7 @@
 		"no": 143,
 		"name": "Ronflex",
 		"name_en": "Snorlax",
-		"image": "sprites/143.png",
+		"image": "pokemon/143.png",
 		"types": ["Normal"],
 		"base_stats": {
 			"hp": 160,
@@ -1332,7 +1332,7 @@
 		"no": 149,
 		"name": "Dracolosse",
 		"name_en": "Dragonite",
-		"image": "sprites/149.png",
+		"image": "pokemon/149.png",
 		"types": ["Dragon", "Vol"],
 		"base_stats": {
 			"hp": 91,
@@ -1362,7 +1362,7 @@
 		"no": 149,
 		"name": "Méga-Dracolosse",
 		"name_en": "Mega Dragonite",
-		"image": "sprites/149-mega.png",
+		"image": "pokemon/149-mega.png",
 		"types": ["Dragon", "Vol"],
 		"base_stats": {
 			"hp": 91,

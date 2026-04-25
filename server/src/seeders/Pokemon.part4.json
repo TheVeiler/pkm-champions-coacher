@@ -3,7 +3,7 @@
 		"no": 389,
 		"name": "Torterra",
 		"name_en": "Torterra",
-		"image": "sprites/389.png",
+		"image": "pokemon/389.png",
 		"types": ["Plante", "Sol"],
 		"base_stats": {
 			"hp": 95,
@@ -28,7 +28,7 @@
 		"no": 392,
 		"name": "Simiabraz",
 		"name_en": "Infernape",
-		"image": "sprites/392.png",
+		"image": "pokemon/392.png",
 		"types": ["Feu", "Combat"],
 		"base_stats": {
 			"hp": 76,
@@ -53,7 +53,7 @@
 		"no": 395,
 		"name": "Pingoléon",
 		"name_en": "Empoleon",
-		"image": "sprites/395.png",
+		"image": "pokemon/395.png",
 		"types": ["Eau", "Acier"],
 		"base_stats": {
 			"hp": 84,
@@ -78,7 +78,7 @@
 		"no": 405,
 		"name": "Luxray",
 		"name_en": "Luxray",
-		"image": "sprites/405.png",
+		"image": "pokemon/405.png",
 		"types": ["Électrik"],
 		"base_stats": {
 			"hp": 80,
@@ -103,7 +103,7 @@
 		"no": 407,
 		"name": "Roserade",
 		"name_en": "Roserade",
-		"image": "sprites/407.png",
+		"image": "pokemon/407.png",
 		"types": ["Plante", "Poison"],
 		"base_stats": {
 			"hp": 60,
@@ -128,7 +128,7 @@
 		"no": 409,
 		"name": "Charkos",
 		"name_en": "Rampardos",
-		"image": "sprites/409.png",
+		"image": "pokemon/409.png",
 		"types": ["Roche"],
 		"base_stats": {
 			"hp": 97,
@@ -153,7 +153,7 @@
 		"no": 411,
 		"name": "Bastiodon",
 		"name_en": "Bastiodon",
-		"image": "sprites/411.png",
+		"image": "pokemon/411.png",
 		"types": ["Roche", "Acier"],
 		"base_stats": {
 			"hp": 60,
@@ -178,7 +178,7 @@
 		"no": 428,
 		"name": "Lockpin",
 		"name_en": "Lopunny",
-		"image": "sprites/428.png",
+		"image": "pokemon/428.png",
 		"types": ["Normal"],
 		"base_stats": {
 			"hp": 65,
@@ -208,7 +208,7 @@
 		"no": 428,
 		"name": "Méga-Lockpin",
 		"name_en": "Mega Lopunny",
-		"image": "sprites/428-mega.png",
+		"image": "pokemon/428-mega.png",
 		"types": ["Normal", "Combat"],
 		"base_stats": {
 			"hp": 65,
@@ -233,7 +233,7 @@
 		"no": 442,
 		"name": "Spiritomb",
 		"name_en": "Spiritomb",
-		"image": "sprites/442.png",
+		"image": "pokemon/442.png",
 		"types": ["Spectre", "Ténèbres"],
 		"base_stats": {
 			"hp": 50,
@@ -258,7 +258,7 @@
 		"no": 445,
 		"name": "Carchacrok",
 		"name_en": "Garchomp",
-		"image": "sprites/445.png",
+		"image": "pokemon/445.png",
 		"types": ["Dragon", "Sol"],
 		"base_stats": {
 			"hp": 108,
@@ -288,7 +288,7 @@
 		"no": 445,
 		"name": "Méga-Carchacrok",
 		"name_en": "Mega Garchomp",
-		"image": "sprites/445-mega.png",
+		"image": "pokemon/445-mega.png",
 		"types": ["Dragon", "Sol"],
 		"base_stats": {
 			"hp": 108,
@@ -313,7 +313,7 @@
 		"no": 448,
 		"name": "Lucario",
 		"name_en": "Lucario",
-		"image": "sprites/448.png",
+		"image": "pokemon/448.png",
 		"types": ["Combat", "Acier"],
 		"base_stats": {
 			"hp": 70,
@@ -343,7 +343,7 @@
 		"no": 448,
 		"name": "Méga-Lucario",
 		"name_en": "Mega Lucario",
-		"image": "sprites/448-mega.png",
+		"image": "pokemon/448-mega.png",
 		"types": ["Combat", "Acier"],
 		"base_stats": {
 			"hp": 70,
@@ -368,7 +368,7 @@
 		"no": 450,
 		"name": "Hippodocus",
 		"name_en": "Hippowdon",
-		"image": "sprites/450.png",
+		"image": "pokemon/450.png",
 		"types": ["Sol"],
 		"base_stats": {
 			"hp": 108,
@@ -393,7 +393,7 @@
 		"no": 454,
 		"name": "Coatox",
 		"name_en": "Toxicroak",
-		"image": "sprites/454.png",
+		"image": "pokemon/454.png",
 		"types": ["Poison", "Combat"],
 		"base_stats": {
 			"hp": 83,
@@ -418,7 +418,7 @@
 		"no": 460,
 		"name": "Blizzaroi",
 		"name_en": "Abomasnow",
-		"image": "sprites/460.png",
+		"image": "pokemon/460.png",
 		"types": ["Plante", "Glace"],
 		"base_stats": {
 			"hp": 90,
@@ -448,7 +448,7 @@
 		"no": 460,
 		"name": "Méga-Blizzaroi",
 		"name_en": "Mega Abomasnow",
-		"image": "sprites/460-mega.png",
+		"image": "pokemon/460-mega.png",
 		"types": ["Plante", "Glace"],
 		"base_stats": {
 			"hp": 90,
@@ -473,7 +473,7 @@
 		"no": 461,
 		"name": "Dimoret",
 		"name_en": "Weavile",
-		"image": "sprites/461.png",
+		"image": "pokemon/461.png",
 		"types": ["Ténèbres", "Glace"],
 		"base_stats": {
 			"hp": 70,
@@ -498,7 +498,7 @@
 		"no": 464,
 		"name": "Rhinastoc",
 		"name_en": "Rhyperior",
-		"image": "sprites/464.png",
+		"image": "pokemon/464.png",
 		"types": ["Sol", "Roche"],
 		"base_stats": {
 			"hp": 115,
@@ -523,7 +523,7 @@
 		"no": 470,
 		"name": "Phyllali",
 		"name_en": "Leafeon",
-		"image": "sprites/470.png",
+		"image": "pokemon/470.png",
 		"types": ["Plante"],
 		"base_stats": {
 			"hp": 65,
@@ -548,7 +548,7 @@
 		"no": 471,
 		"name": "Givrali",
 		"name_en": "Glaceon",
-		"image": "sprites/471.png",
+		"image": "pokemon/471.png",
 		"types": ["Glace"],
 		"base_stats": {
 			"hp": 65,
@@ -573,7 +573,7 @@
 		"no": 472,
 		"name": "Scorvol",
 		"name_en": "Gliscor",
-		"image": "sprites/472.png",
+		"image": "pokemon/472.png",
 		"types": ["Sol", "Vol"],
 		"base_stats": {
 			"hp": 75,
@@ -598,7 +598,7 @@
 		"no": 473,
 		"name": "Mammochon",
 		"name_en": "Mamoswine",
-		"image": "sprites/473.png",
+		"image": "pokemon/473.png",
 		"types": ["Glace", "Sol"],
 		"base_stats": {
 			"hp": 110,
@@ -623,7 +623,7 @@
 		"no": 475,
 		"name": "Gallame",
 		"name_en": "Gallade",
-		"image": "sprites/475.png",
+		"image": "pokemon/475.png",
 		"types": ["Psy", "Combat"],
 		"base_stats": {
 			"hp": 68,
@@ -653,7 +653,7 @@
 		"no": 475,
 		"name": "Méga-Gallame",
 		"name_en": "Mega Gallade",
-		"image": "sprites/475-mega.png",
+		"image": "pokemon/475-mega.png",
 		"types": ["Psy", "Combat"],
 		"base_stats": {
 			"hp": 68,
@@ -678,7 +678,7 @@
 		"no": 478,
 		"name": "Momartik",
 		"name_en": "Froslass",
-		"image": "sprites/478.png",
+		"image": "pokemon/478.png",
 		"types": ["Glace", "Spectre"],
 		"base_stats": {
 			"hp": 70,
@@ -708,7 +708,7 @@
 		"no": 478,
 		"name": "Méga-Momartik",
 		"name_en": "Mega Froslass",
-		"image": "sprites/478-mega.png",
+		"image": "pokemon/478-mega.png",
 		"types": ["Glace", "Spectre"],
 		"base_stats": {
 			"hp": 70,
@@ -733,7 +733,7 @@
 		"no": 479,
 		"name": "Motisma",
 		"name_en": "Rotom",
-		"image": "sprites/479.png",
+		"image": "pokemon/479.png",
 		"types": ["Électrik", "Spectre"],
 		"base_stats": {
 			"hp": 50,
@@ -758,7 +758,7 @@
 		"no": 479,
 		"name": "Motisma Chaleur",
 		"name_en": "Rotom-Heat",
-		"image": "sprites/479-heat.png",
+		"image": "pokemon/479-heat.png",
 		"types": ["Électrik", "Feu"],
 		"base_stats": {
 			"hp": 50,
@@ -783,7 +783,7 @@
 		"no": 479,
 		"name": "Motisma Lavage",
 		"name_en": "Rotom-Wash",
-		"image": "sprites/479-wash.png",
+		"image": "pokemon/479-wash.png",
 		"types": ["Électrik", "Eau"],
 		"base_stats": {
 			"hp": 50,
@@ -808,7 +808,7 @@
 		"no": 479,
 		"name": "Motisma Froid",
 		"name_en": "Rotom-Frost",
-		"image": "sprites/479-frost.png",
+		"image": "pokemon/479-frost.png",
 		"types": ["Électrik", "Glace"],
 		"base_stats": {
 			"hp": 50,
@@ -833,7 +833,7 @@
 		"no": 479,
 		"name": "Motisma Hélice",
 		"name_en": "Rotom-Fan",
-		"image": "sprites/479-fan.png",
+		"image": "pokemon/479-fan.png",
 		"types": ["Électrik", "Vol"],
 		"base_stats": {
 			"hp": 50,
@@ -858,7 +858,7 @@
 		"no": 479,
 		"name": "Motisma Tonte",
 		"name_en": "Rotom-Mow",
-		"image": "sprites/479-mow.png",
+		"image": "pokemon/479-mow.png",
 		"types": ["Électrik", "Plante"],
 		"base_stats": {
 			"hp": 50,

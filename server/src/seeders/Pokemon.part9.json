@@ -3,7 +3,7 @@
 		"no": 908,
 		"name": "Miascarade",
 		"name_en": "Meowscarada",
-		"image": "sprites/908.png",
+		"image": "pokemon/908.png",
 		"types": ["Plante", "Ténèbres"],
 		"base_stats": {
 			"hp": 76,
@@ -28,7 +28,7 @@
 		"no": 911,
 		"name": "Flâmigator",
 		"name_en": "Skeledirge",
-		"image": "sprites/911.png",
+		"image": "pokemon/911.png",
 		"types": ["Feu", "Spectre"],
 		"base_stats": {
 			"hp": 104,
@@ -53,7 +53,7 @@
 		"no": 914,
 		"name": "Palmaval",
 		"name_en": "Quaquaval",
-		"image": "sprites/914.png",
+		"image": "pokemon/914.png",
 		"types": ["Eau", "Combat"],
 		"base_stats": {
 			"hp": 85,
@@ -78,7 +78,7 @@
 		"no": 925,
 		"name": "Famignol",
 		"name_en": "Maushold",
-		"image": "sprites/925.png",
+		"image": "pokemon/925.png",
 		"types": ["Normal"],
 		"base_stats": {
 			"hp": 74,
@@ -103,7 +103,7 @@
 		"no": 934,
 		"name": "Gigansel",
 		"name_en": "Garganacl",
-		"image": "sprites/934.png",
+		"image": "pokemon/934.png",
 		"types": ["Roche"],
 		"base_stats": {
 			"hp": 100,
@@ -128,7 +128,7 @@
 		"no": 936,
 		"name": "Carmadura",
 		"name_en": "Armarouge",
-		"image": "sprites/936.png",
+		"image": "pokemon/936.png",
 		"types": ["Feu", "Psy"],
 		"base_stats": {
 			"hp": 85,
@@ -153,7 +153,7 @@
 		"no": 937,
 		"name": "Malvalame",
 		"name_en": "Ceruledge",
-		"image": "sprites/937.png",
+		"image": "pokemon/937.png",
 		"types": ["Feu", "Spectre"],
 		"base_stats": {
 			"hp": 75,
@@ -178,7 +178,7 @@
 		"no": 939,
 		"name": "Ampibidou",
 		"name_en": "Bellibolt",
-		"image": "sprites/939.png",
+		"image": "pokemon/939.png",
 		"types": ["Électrik"],
 		"base_stats": {
 			"hp": 109,
@@ -203,7 +203,7 @@
 		"no": 952,
 		"name": "Scovilain",
 		"name_en": "Scovillain",
-		"image": "sprites/952.png",
+		"image": "pokemon/952.png",
 		"types": ["Plante", "Feu"],
 		"base_stats": {
 			"hp": 65,
@@ -233,7 +233,7 @@
 		"no": 952,
 		"name": "Méga-Scovilain",
 		"name_en": "Mega Scovillain",
-		"image": "sprites/952-mega.png",
+		"image": "pokemon/952-mega.png",
 		"types": ["Plante", "Feu"],
 		"base_stats": {
 			"hp": 65,
@@ -258,7 +258,7 @@
 		"no": 956,
 		"name": "Cléopsytra",
 		"name_en": "Espathra",
-		"image": "sprites/956.png",
+		"image": "pokemon/956.png",
 		"types": ["Psy"],
 		"base_stats": {
 			"hp": 95,
@@ -283,7 +283,7 @@
 		"no": 959,
 		"name": "Forgelina",
 		"name_en": "Tinkaton",
-		"image": "sprites/959.png",
+		"image": "pokemon/959.png",
 		"types": ["Fée", "Acier"],
 		"base_stats": {
 			"hp": 85,
@@ -308,7 +308,7 @@
 		"no": 964,
 		"name": "Superdofin Ordinaire",
 		"name_en": "Palafin Zero",
-		"image": "sprites/964.png",
+		"image": "pokemon/964.png",
 		"types": ["Eau"],
 		"base_stats": {
 			"hp": 100,
@@ -333,7 +333,7 @@
 		"no": 964,
 		"name": "Superdofin Super",
 		"name_en": "Palafin Hero",
-		"image": "sprites/964-hero.png",
+		"image": "pokemon/964-hero.png",
 		"types": ["Eau"],
 		"base_stats": {
 			"hp": 100,
@@ -358,7 +358,7 @@
 		"no": 968,
 		"name": "Ferdeter",
 		"name_en": "Orthworm",
-		"image": "sprites/968.png",
+		"image": "pokemon/968.png",
 		"types": ["Acier"],
 		"base_stats": {
 			"hp": 70,
@@ -383,7 +383,7 @@
 		"no": 970,
 		"name": "Floréclat",
 		"name_en": "Glimmora",
-		"image": "sprites/970.png",
+		"image": "pokemon/970.png",
 		"types": ["Roche", "Poison"],
 		"base_stats": {
 			"hp": 83,
@@ -413,7 +413,7 @@
 		"no": 970,
 		"name": "Méga-Floréclat",
 		"name_en": "Mega Glimmora",
-		"image": "sprites/970-mega.png",
+		"image": "pokemon/970-mega.png",
 		"types": ["Roche", "Poison"],
 		"base_stats": {
 			"hp": 83,
@@ -438,7 +438,7 @@
 		"no": 981,
 		"name": "Farigiraf",
 		"name_en": "Farigiraf",
-		"image": "sprites/981.png",
+		"image": "pokemon/981.png",
 		"types": ["Normal", "Psy"],
 		"base_stats": {
 			"hp": 120,
@@ -463,7 +463,7 @@
 		"no": 983,
 		"name": "Scalpereur",
 		"name_en": "Kingambit",
-		"image": "sprites/983.png",
+		"image": "pokemon/983.png",
 		"types": ["Ténèbres", "Acier"],
 		"base_stats": {
 			"hp": 100,
@@ -488,7 +488,7 @@
 		"no": 1013,
 		"name": "Théffroyable",
 		"name_en": "Sinistcha",
-		"image": "sprites/1013.png",
+		"image": "pokemon/1013.png",
 		"types": ["Plante", "Spectre"],
 		"base_stats": {
 			"hp": 71,
@@ -513,7 +513,7 @@
 		"no": 1018,
 		"name": "Pondralugon",
 		"name_en": "Archaludon",
-		"image": "sprites/1018.png",
+		"image": "pokemon/1018.png",
 		"types": ["Acier", "Dragon"],
 		"base_stats": {
 			"hp": 90,
@@ -538,7 +538,7 @@
 		"no": 1019,
 		"name": "Pomdorochi",
 		"name_en": "Hydrapple",
-		"image": "sprites/1019.png",
+		"image": "pokemon/1019.png",
 		"types": ["Plante", "Dragon"],
 		"base_stats": {
 			"hp": 106,
