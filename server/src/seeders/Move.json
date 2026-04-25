@@ -2866,7 +2866,7 @@
 		"description": ""
 	},
 	{
-		"name": "",
+		"name": "Crash Brûlant",
 		"name_en": "Blazing Torque",
 		"type": "Feu",
 		"category": "Physique",
@@ -3214,7 +3214,7 @@
 		"description": ""
 	},
 	{
-		"name": "",
+		"name": "Crash Musclé",
 		"name_en": "Combat Torque",
 		"type": "Combat",
 		"category": "Physique",
@@ -4137,7 +4137,7 @@
 		"description": ""
 	},
 	{
-		"name": "",
+		"name": "Maléfice Sylvain",
 		"name_en": "Forest’s Curse",
 		"type": "Plante",
 		"category": "Statut",
@@ -4854,7 +4854,7 @@
 		"description": ""
 	},
 	{
-		"name": "",
+		"name": "Bouclier Royal",
 		"name_en": "King’s Shield",
 		"type": "Acier",
 		"category": "Statut",
@@ -4862,7 +4862,7 @@
 		"description": ""
 	},
 	{
-		"name": "",
+		"name": "Force Chtonienne",
 		"name_en": "Land’s Wrath",
 		"type": "Sol",
 		"category": "Physique",
@@ -5016,7 +5016,7 @@
 		"description": ""
 	},
 	{
-		"name": "",
+		"name": "Crash Magique",
 		"name_en": "Magical Torque",
 		"type": "Fée",
 		"category": "Physique",
@@ -5623,7 +5623,7 @@
 		"description": ""
 	},
 	{
-		"name": "",
+		"name": "Ire de la Nature",
 		"name_en": "Nature’s Madness",
 		"type": "Fée",
 		"category": "Spécial",
@@ -5687,7 +5687,7 @@
 		"description": ""
 	},
 	{
-		"name": "",
+		"name": "Crash Toxique",
 		"name_en": "Noxious Torque",
 		"type": "Poison",
 		"category": "Physique",
