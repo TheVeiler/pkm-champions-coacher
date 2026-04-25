@@ -2,703 +2,703 @@
 	{
 		"name": "Herbe Blanche",
 		"name_en": "White Herb",
-		"image": "items/214.png",
+		"image": "item/214.png",
 		"description": "Une fois par combat, ramène les stats du Pokémon à la normale lorsqu'elles ont été abaissées."
 	},
 	{
 		"name": "Mouchoir Choix",
 		"name_en": "Choice Scarf",
-		"image": "items/287.png",
+		"image": "item/287.png",
 		"description": "Multiplie par 1,5 la Vitesse du Pokémon, mais après avoir utilisé une capacité, il ne peut plus utiliser que celle-ci jusqu'à ce qu'il quitte le terrain."
 	},
 	{
 		"name": "Balle Lumière",
 		"name_en": "Light Ball",
-		"image": "items/236.png",
+		"image": "item/236.png",
 		"description": "Multiplie par 2 l'Attaque et l'Attaque Spéciale de Pikachu."
 	},
 	{
 		"name": "Mouchoir Soie",
 		"name_en": "Silk Scarf",
-		"image": "items/251.png",
+		"image": "item/251.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Normal du Pokémon."
 	},
 	{
 		"name": "Graine Miracle",
 		"name_en": "Miracle Seed",
-		"image": "items/239.png",
+		"image": "item/239.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Plante du Pokémon."
 	},
 	{
 		"name": "Charbon",
 		"name_en": "Charcoal",
-		"image": "items/249.png",
+		"image": "item/249.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Feu du Pokémon."
 	},
 	{
 		"name": "Eau Mystique",
 		"name_en": "Mystic Water",
-		"image": "items/243.png",
+		"image": "item/243.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Eau du Pokémon."
 	},
 	{
 		"name": "Aimant",
 		"name_en": "Magnet",
-		"image": "items/242.png",
+		"image": "item/242.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Électrik du Pokémon."
 	},
 	{
 		"name": "Poudre Argentée",
 		"name_en": "Silver Powder",
-		"image": "items/222.png",
+		"image": "item/222.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Insecte du Pokémon."
 	},
 	{
 		"name": "Bec Pointu",
 		"name_en": "Sharp Beak",
-		"image": "items/244.png",
+		"image": "item/244.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Vol du Pokémon."
 	},
 	{
 		"name": "Pierre Dure",
 		"name_en": "Hard Stone",
-		"image": "items/238.png",
+		"image": "item/238.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Roche du Pokémon."
 	},
 	{
 		"name": "Pic Venin",
 		"name_en": "Poison Barb",
-		"image": "items/245.png",
+		"image": "item/245.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Poison du Pokémon."
 	},
 	{
 		"name": "Sable Doux",
 		"name_en": "Soft Sand",
-		"image": "items/237.png",
+		"image": "item/237.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Sol du Pokémon."
 	},
 	{
 		"name": "Glace Éternelle",
 		"name_en": "Never-Melt Ice",
-		"image": "items/246.png",
+		"image": "item/246.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Glace du Pokémon."
 	},
 	{
 		"name": "Ceinture Noire",
 		"name_en": "Black Belt",
-		"image": "items/241.png",
+		"image": "item/241.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Combat du Pokémon."
 	},
 	{
 		"name": "Cuillère Tordue",
 		"name_en": "Twisted Spoon",
-		"image": "items/248.png",
+		"image": "item/248.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Psy du Pokémon."
 	},
 	{
 		"name": "Rune Sort",
 		"name_en": "Spell Tag",
-		"image": "items/247.png",
+		"image": "item/247.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Spectre du Pokémon."
 	},
 	{
 		"name": "Croc Dragon",
 		"name_en": "Dragon Fang",
-		"image": "items/250.png",
+		"image": "item/250.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Dragon du Pokémon."
 	},
 	{
 		"name": "Lunettes Noires",
 		"name_en": "Black Glasses",
-		"image": "items/240.png",
+		"image": "item/240.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Ténèbres du Pokémon."
 	},
 	{
 		"name": "Peau Métal",
 		"name_en": "Metal Coat",
-		"image": "items/233.png",
+		"image": "item/233.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Acier du Pokémon."
 	},
 	{
 		"name": "Plume Enchantée",
 		"name_en": "Fairy Feather",
-		"image": "items/2401.png",
+		"image": "item/2401.png",
 		"description": "Multiplie par 1,2 la puissance des capacités de type Fée du Pokémon."
 	},
 	{
 		"name": "Bandeau",
 		"name_en": "Focus Band",
-		"image": "items/230.png",
+		"image": "item/230.png",
 		"description": "Donne au Pokémon 10% de chances de résister avec 1 PV lorsqu'il subit des dégâts d'une capacité qui devrait le mettre K.O."
 	},
 	{
 		"name": "Ceinture Force",
 		"name_en": "Focus Sash",
-		"image": "items/275.png",
+		"image": "item/275.png",
 		"description": "Une fois par combat, permet au Pokémon de résister avec 1 PV s'il subit des dégâts d'une capacité qui devrait le mettre K.O. en un coup, quand ses PV sont au maximum."
 	},
 	{
 		"name": "Baie Zalis",
 		"name_en": "Chilan Berry",
-		"image": "items/200.png",
+		"image": "item/200.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité de type Normal subis par le Pokémon."
 	},
 	{
 		"name": "Baie Ratam",
 		"name_en": "Rindo Berry",
-		"image": "items/187.png",
+		"image": "item/187.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Plante subis par le Pokémon."
 	},
 	{
 		"name": "Baie Chocco",
 		"name_en": "Occa Berry",
-		"image": "items/184.png",
+		"image": "item/184.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Feu subis par le Pokémon."
 	},
 	{
 		"name": "Baie Pocpoc",
 		"name_en": "Passho Berry",
-		"image": "items/185.png",
+		"image": "item/185.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Eau subis par le Pokémon."
 	},
 	{
 		"name": "Baie Parma",
 		"name_en": "Wacan Berry",
-		"image": "items/186.png",
+		"image": "item/186.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Électrik subis par le Pokémon."
 	},
 	{
 		"name": "Baie Panga",
 		"name_en": "Tanga Berry",
-		"image": "items/194.png",
+		"image": "item/194.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Insecte subis par le Pokémon."
 	},
 	{
 		"name": "Baie Cobaba",
 		"name_en": "Coba Berry",
-		"image": "items/192.png",
+		"image": "item/192.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Vol subis par le Pokémon."
 	},
 	{
 		"name": "Baie Charti",
 		"name_en": "Charti Berry",
-		"image": "items/195.png",
+		"image": "item/195.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Roche subis par le Pokémon."
 	},
 	{
 		"name": "Baie Kébia",
 		"name_en": "Kebia Berry",
-		"image": "items/190.png",
+		"image": "item/190.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Poison subis par le Pokémon."
 	},
 	{
 		"name": "Baie Jouca",
 		"name_en": "Shuca Berry",
-		"image": "items/191.png",
+		"image": "item/191.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Sol subis par le Pokémon."
 	},
 	{
 		"name": "Baie Nanone",
 		"name_en": "Yache Berry",
-		"image": "items/188.png",
+		"image": "item/188.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Glace subis par le Pokémon."
 	},
 	{
 		"name": "Baie Pomroz",
 		"name_en": "Chople Berry",
-		"image": "items/189.png",
+		"image": "item/189.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Combat subis par le Pokémon."
 	},
 	{
 		"name": "Baie Yapap",
 		"name_en": "Payapa Berry",
-		"image": "items/193.png",
+		"image": "item/193.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Psy subis par le Pokémon."
 	},
 	{
 		"name": "Baie Sédra",
 		"name_en": "Kasib Berry",
-		"image": "items/196.png",
+		"image": "item/196.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Spectre subis par le Pokémon."
 	},
 	{
 		"name": "Baie Fraigo",
 		"name_en": "Haban Berry",
-		"image": "items/197.png",
+		"image": "item/197.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Dragon subis par le Pokémon."
 	},
 	{
 		"name": "Baie Lampou",
 		"name_en": "Colbur Berry",
-		"image": "items/198.png",
+		"image": "item/198.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Ténèbres subis par le Pokémon."
 	},
 	{
 		"name": "Baie Babiri",
 		"name_en": "Babiri Berry",
-		"image": "items/199.png",
+		"image": "item/199.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Acier subis par le Pokémon."
 	},
 	{
 		"name": "Baie Selro",
 		"name_en": "Roseli Berry",
-		"image": "items/686.png",
+		"image": "item/686.png",
 		"description": "Une fois par combat, réduit de moitié les dégâts d'une capacité super efficace de type Fée subis par le Pokémon."
 	},
 	{
 		"name": "Herbe Mental",
 		"name_en": "Mental Herb",
-		"image": "items/219.png",
+		"image": "item/219.png",
 		"description": "Une fois par combat, soigne la provocation, l'impossibilité de répétition des capacités, le blocage des capacités, le blocage des soins, l'état Attraction ou l'état Encore."
 	},
 	{
 		"name": "Restes",
 		"name_en": "Leftovers",
-		"image": "items/234.png",
+		"image": "item/234.png",
 		"description": "Restaure 1/16 des PV max du Pokémon à la fin de chaque tour."
 	},
 	{
 		"name": "Grelot Coque",
 		"name_en": "Shell Bell",
-		"image": "items/253.png",
+		"image": "item/253.png",
 		"description": "Lorsque le Pokémon inflige des dégâts à l'aide d'une capacité, il récupère des PV équivalents à 1/8 de ces dégâts."
 	},
 	{
 		"name": "Baie Ceriz",
 		"name_en": "Cheri Berry",
-		"image": "items/149.png",
+		"image": "item/149.png",
 		"description": "Une fois par combat, soigne la paralysie."
 	},
 	{
 		"name": "Baie Maron",
 		"name_en": "Chesto Berry",
-		"image": "items/150.png",
+		"image": "item/150.png",
 		"description": "Une fois par combat, soigne le sommeil."
 	},
 	{
 		"name": "Baie Pêcha",
 		"name_en": "Pecha Berry",
-		"image": "items/151.png",
+		"image": "item/151.png",
 		"description": "Une fois par combat, soigne le poison ou le poison grave."
 	},
 	{
 		"name": "Baie Fraive",
 		"name_en": "Rawst Berry",
-		"image": "items/152.png",
+		"image": "item/152.png",
 		"description": "Une fois par combat, soigne la brûlure."
 	},
 	{
 		"name": "Baie Willia",
 		"name_en": "Aspear Berry",
-		"image": "items/153.png",
+		"image": "item/153.png",
 		"description": "Une fois par combat, soigne le gel."
 	},
 	{
 		"name": "Baie Kika",
 		"name_en": "Persim Berry",
-		"image": "items/156.png",
+		"image": "item/156.png",
 		"description": "Une fois par combat, soigne la confusion."
 	},
 	{
 		"name": "Baie Prine",
 		"name_en": "Lum Berry",
-		"image": "items/157.png",
+		"image": "item/157.png",
 		"description": "Une fois par combat, soigne la paralysie."
 	},
 	{
 		"name": "Baie Mepo",
 		"name_en": "Leppa Berry",
-		"image": "items/154.png",
+		"image": "item/154.png",
 		"description": "Une fois par combat, restaure 10 PP d'une capacité lorsqu'ils sont réduits à 0."
 	},
 	{
 		"name": "Baie Oran",
 		"name_en": "Oran Berry",
-		"image": "items/155.png",
+		"image": "item/155.png",
 		"description": "Une fois par combat, restaure 10 PV du Pokémon lorsque ses PV restants sont inférieurs ou égaux à 50%."
 	},
 	{
 		"name": "Baie Sitrus",
 		"name_en": "Sitrus Berry",
-		"image": "items/158.png",
+		"image": "item/158.png",
 		"description": "Une fois par combat, restaure 1/4 des PV max du Pokémon lorsque ses PV restants sont inférieurs ou égaux à 50%."
 	},
 	{
 		"name": "Poudre Claire",
 		"name_en": "Bright Powder",
-		"image": "items/213.png",
+		"image": "item/213.png",
 		"description": "Multiplie par 0,9 la Précision des capacités des adversaires visant le Pokémon."
 	},
 	{
 		"name": "Vive Griffe",
 		"name_en": "Quick Claw",
-		"image": "items/217.png",
+		"image": "item/217.png",
 		"description": "Donne au Pokémon 20% de chances d'agir avant l'adversaire s'ils utilisent tous deux une capacité de même priorité."
 	},
 	{
 		"name": "Roche Royale",
 		"name_en": "King's Rock",
-		"image": "items/221.png",
+		"image": "item/221.png",
 		"description": "Donne au Pokémon 10% de chances d'apeurer les adversaires après leur avoir infligé des dégâts à l'aide d'une capacité."
 	},
 	{
 		"name": "Lentilscope",
 		"name_en": "Scope Lens",
-		"image": "items/232.png",
+		"image": "item/232.png",
 		"description": "Augmente de 1 cran le taux de critiques du Pokémon."
 	},
 	{
 		"name": "Florizarrite",
 		"name_en": "Venusaurite",
-		"image": "items/659.png",
+		"image": "item/659.png",
 		"description": "Objet à tenir permettant à Florizarre de méga-évoluer."
 	},
 	{
 		"name": "Dracaufite X",
 		"name_en": "Charizardite X",
-		"image": "items/660.png",
+		"image": "item/660.png",
 		"description": "Objet à tenir permettant à Dracaufeu de méga-évoluer en Méga-Dracaufeu X."
 	},
 	{
 		"name": "Dracaufite Y",
 		"name_en": "Charizardite Y",
-		"image": "items/678.png",
+		"image": "item/678.png",
 		"description": "Objet à tenir permettant à Dracaufeu de méga-évoluer en Méga-Dracaufeu Y."
 	},
 	{
 		"name": "Tortankite",
 		"name_en": "Blastoisinite",
-		"image": "items/661.png",
+		"image": "item/661.png",
 		"description": "Objet à tenir permettant à Tortank de méga-évoluer."
 	},
 	{
 		"name": "Dardargnite",
 		"name_en": "Beedrillite",
-		"image": "items/770.png",
+		"image": "item/770.png",
 		"description": "Objet à tenir permettant à Dardargnan de méga-évoluer."
 	},
 	{
 		"name": "Mélodelfite",
 		"name_en": "Clefablite",
-		"image": "items/2559.png",
+		"image": "item/2559.png",
 		"description": "Objet à tenir permettant à Mélodelfe de méga-évoluer."
 	},
 	{
 		"name": "Ectoplasmite",
 		"name_en": "Gengarite",
-		"image": "items/656.png",
+		"image": "item/656.png",
 		"description": "Objet à tenir permettant à Ectoplasma de méga-évoluer."
 	},
 	{
 		"name": "Kangourexite",
 		"name_en": "Kangaskhanite",
-		"image": "items/675.png",
+		"image": "item/675.png",
 		"description": "Objet à tenir permettant à Kangourex de méga-évoluer."
 	},
 	{
 		"name": "Léviatorite",
 		"name_en": "Gyaradosite",
-		"image": "items/676.png",
+		"image": "item/676.png",
 		"description": "Objet à tenir permettant à Léviator de méga-évoluer."
 	},
 	{
 		"name": "Dracolossite",
 		"name_en": "Dragoninite",
-		"image": "items/2562.png",
+		"image": "item/2562.png",
 		"description": "Objet à tenir permettant à Dracolosse de méga-évoluer."
 	},
 	{
 		"name": "Méganiumite",
 		"name_en": "Meganiumite",
-		"image": "items/2563.png",
+		"image": "item/2563.png",
 		"description": "Objet à tenir permettant à Méganium de méga-évoluer."
 	},
 	{
 		"name": "Steelixite",
 		"name_en": "Steelixite",
-		"image": "items/761.png",
+		"image": "item/761.png",
 		"description": "Objet à tenir permettant à Steelix de méga-évoluer."
 	},
 	{
 		"name": "Scarhinoïte",
 		"name_en": "Heracronite",
-		"image": "items/680.png",
+		"image": "item/680.png",
 		"description": "Objet à tenir permettant à Scarhino de méga-évoluer."
 	},
 	{
 		"name": "Tyranocivite",
 		"name_en": "Tyranitarite",
-		"image": "items/669.png",
+		"image": "item/669.png",
 		"description": "Objet à tenir permettant à Tyranocif de méga-évoluer."
 	},
 	{
 		"name": "Ténéfixite",
 		"name_en": "Sablenite",
-		"image": "items/754.png",
+		"image": "item/754.png",
 		"description": "Objet à tenir permettant à Ténéfix de méga-évoluer."
 	},
 	{
 		"name": "Galekingite",
 		"name_en": "Aggronite",
-		"image": "items/667.png",
+		"image": "item/667.png",
 		"description": "Objet à tenir permettant à Galeking de méga-évoluer."
 	},
 	{
 		"name": "Élecsprintite",
 		"name_en": "Manectite",
-		"image": "items/682.png",
+		"image": "item/682.png",
 		"description": "Objet à tenir permettant à Élecsprint de méga-évoluer."
 	},
 	{
 		"name": "Lockpinite",
 		"name_en": "Lopunnite",
-		"image": "items/768.png",
+		"image": "item/768.png",
 		"description": "Objet à tenir permettant à Lockpin de méga-évoluer."
 	},
 	{
 		"name": "Carchacrokite",
 		"name_en": "Garchompite",
-		"image": "items/683.png",
+		"image": "item/683.png",
 		"description": "Objet à tenir permettant à Carchacrok de méga-évoluer."
 	},
 	{
 		"name": "Blizzarite",
 		"name_en": "Abomasite",
-		"image": "items/674.png",
+		"image": "item/674.png",
 		"description": "Objet à tenir permettant à Blizzaroi de méga-évoluer."
 	},
 	{
 		"name": "Brutalibrite",
 		"name_en": "Hawluchanite",
-		"image": "items/2583.png",
+		"image": "item/2583.png",
 		"description": "Objet à tenir permettant à Brutalibré de méga-évoluer."
 	},
 	{
 		"name": "Draïeulite",
 		"name_en": "Drampanite",
-		"image": "items/2585.png",
+		"image": "item/2585.png",
 		"description": "Objet à tenir permettant à Draïeul de méga-évoluer."
 	},
 	{
 		"name": "Floréclatite",
 		"name_en": "Glimmoranite",
-		"image": "items/2650.png",
+		"image": "item/2650.png",
 		"description": "Objet à tenir permettant à Floréclat de méga-évoluer."
 	},
 	{
 		"name": "Roitiflamite",
 		"name_en": "Emboarite",
-		"image": "items/2569.png",
+		"image": "item/2569.png",
 		"description": "Objet à tenir permettant à Roitiflam de méga-évoluer."
 	},
 	{
 		"name": "Aligatueurite",
 		"name_en": "Feraligite",
-		"image": "items/2564.png",
+		"image": "item/2564.png",
 		"description": "Objet à tenir permettant à Aligatueur de méga-évoluer."
 	},
 	{
 		"name": "Roucarnagite",
 		"name_en": "Pidgeotite",
-		"image": "items/762.png",
+		"image": "item/762.png",
 		"description": "Objet à tenir permettant à Roucarnage de méga-évoluer."
 	},
 	{
 		"name": "Alakazamite",
 		"name_en": "Alakazite",
-		"image": "items/679.png",
+		"image": "item/679.png",
 		"description": "Objet à tenir permettant à Alakazam de méga-évoluer."
 	},
 	{
 		"name": "Empiflorite",
 		"name_en": "Victreebelite",
-		"image": "items/2560.png",
+		"image": "item/2560.png",
 		"description": "Objet à tenir permettant à Empiflor de méga-évoluer."
 	},
 	{
 		"name": "Flagadossite",
 		"name_en": "Slowbronite",
-		"image": "items/760.png",
+		"image": "item/760.png",
 		"description": "Objet à tenir permettant à Flagadoss de méga-évoluer."
 	},
 	{
 		"name": "Starossite",
 		"name_en": "Starminite",
-		"image": "items/2561.png",
+		"image": "item/2561.png",
 		"description": "Objet à tenir permettant à Staross de méga-évoluer."
 	},
 	{
 		"name": "Scarabruite",
 		"name_en": "Pinsirite",
-		"image": "items/671.png",
+		"image": "item/671.png",
 		"description": "Objet à tenir permettant à Scarabrute de méga-évoluer."
 	},
 	{
 		"name": "Ptéraïte",
 		"name_en": "Aerodactylite",
-		"image": "items/672.png",
+		"image": "item/672.png",
 		"description": "Objet à tenir permettant à Ptéra de méga-évoluer."
 	},
 	{
 		"name": "Pharamapite",
 		"name_en": "Ampharosite",
-		"image": "items/658.png",
+		"image": "item/658.png",
 		"description": "Objet à tenir permettant à Pharamp de méga-évoluer."
 	},
 	{
 		"name": "Cizayoxite",
 		"name_en": "Scizorite",
-		"image": "items/670.png",
+		"image": "item/670.png",
 		"description": "Objet à tenir permettant à Cizayox de méga-évoluer."
 	},
 	{
 		"name": "Airmurite",
 		"name_en": "Skarmorite",
-		"image": "items/2565.png",
+		"image": "item/2565.png",
 		"description": "Objet à tenir permettant à Airmure de méga-évoluer."
 	},
 	{
 		"name": "Démolossite",
 		"name_en": "Houndoominite",
-		"image": "items/666.png",
+		"image": "item/666.png",
 		"description": "Objet à tenir permettant à Démolosse de méga-évoluer."
 	},
 	{
 		"name": "Gardevoirite",
 		"name_en": "Gardevoirite",
-		"image": "items/657.png",
+		"image": "item/657.png",
 		"description": "Objet à tenir permettant à Gardevoir de méga-évoluer."
 	},
 	{
 		"name": "Charminite",
 		"name_en": "Medichamite",
-		"image": "items/665.png",
+		"image": "item/665.png",
 		"description": "Objet à tenir permettant à Charmina de méga-évoluer."
 	},
 	{
 		"name": "Sharpedite",
 		"name_en": "Sharpedonite",
-		"image": "items/759.png",
+		"image": "item/759.png",
 		"description": "Objet à tenir permettant à Sharpedo de méga-évoluer."
 	},
 	{
 		"name": "Caméruptite",
 		"name_en": "Cameruptite",
-		"image": "items/767.png",
+		"image": "item/767.png",
 		"description": "Objet à tenir permettant à Camérupt de méga-évoluer."
 	},
 	{
 		"name": "Altarite",
 		"name_en": "Altarianite",
-		"image": "items/755.png",
+		"image": "item/755.png",
 		"description": "Objet à tenir permettant à Altaria de méga-évoluer."
 	},
 	{
 		"name": "Branettite",
 		"name_en": "Banettite",
-		"image": "items/668.png",
+		"image": "item/668.png",
 		"description": "Objet à tenir permettant à Branette de méga-évoluer."
 	},
 	{
 		"name": "Éokite",
 		"name_en": "Chimechite",
-		"image": "items/2637.png",
+		"image": "item/2637.png",
 		"description": "Objet à tenir permettant à Éoko de méga-évoluer."
 	},
 	{
 		"name": "Absolite",
 		"name_en": "Absolite",
-		"image": "items/677.png",
+		"image": "item/677.png",
 		"description": "Objet à tenir permettant à Absol de méga-évoluer."
 	},
 	{
 		"name": "Oniglalite",
 		"name_en": "Glalitite",
-		"image": "items/763.png",
+		"image": "item/763.png",
 		"description": "Objet à tenir permettant à Oniglali de méga-évoluer."
 	},
 	{
 		"name": "Lucarite",
 		"name_en": "Lucarionite",
-		"image": "items/673.png",
+		"image": "item/673.png",
 		"description": "Objet à tenir permettant à Lucario de méga-évoluer."
 	},
 	{
 		"name": "Gallamite",
 		"name_en": "Galladite",
-		"image": "items/756.png",
+		"image": "item/756.png",
 		"description": "Objet à tenir permettant à Gallame de méga-évoluer."
 	},
 	{
 		"name": "Momartikite",
 		"name_en": "Froslassite",
-		"image": "items/2566.png",
+		"image": "item/2566.png",
 		"description": "Objet à tenir permettant à Momartik de méga-évoluer."
 	},
 	{
 		"name": "Minotaupite",
 		"name_en": "Excadrite",
-		"image": "items/2570.png",
+		"image": "item/2570.png",
 		"description": "Objet à tenir permettant à Minotaupe de méga-évoluer."
 	},
 	{
 		"name": "Nanméouïte",
 		"name_en": "Audinite",
-		"image": "items/757.png",
+		"image": "item/757.png",
 		"description": "Objet à tenir permettant à Nanméoui de méga-évoluer."
 	},
 	{
 		"name": "Lugulabrite",
 		"name_en": "Chandelurite",
-		"image": "items/2574.png",
+		"image": "item/2574.png",
 		"description": "Objet à tenir permettant à Lugulabre de méga-évoluer."
 	},
 	{
 		"name": "Golemastokite",
 		"name_en": "Golurkite",
-		"image": "items/2642.png",
+		"image": "item/2642.png",
 		"description": "Objet à tenir permettant à Golemastoc de méga-évoluer."
 	},
 	{
 		"name": "Mistigrixite",
 		"name_en": "Meowsticite",
-		"image": "items/2643.png",
+		"image": "item/2643.png",
 		"description": "Objet à tenir permettant à Mistigrix de méga-évoluer."
 	},
 	{
 		"name": "Crabominablite",
 		"name_en": "Crabominite",
-		"image": "items/2644.png",
+		"image": "item/2644.png",
 		"description": "Objet à tenir permettant à Crabominable de méga-évoluer."
 	},
 	{
 		"name": "Scovilainite",
 		"name_en": "Scovillainite",
-		"image": "items/2647.png",
+		"image": "item/2647.png",
 		"description": "Objet à tenir permettant à Scovilain de méga-évoluer."
 	},
 	{
 		"name": "Goupelinite",
 		"name_en": "Delphoxite",
-		"image": "items/2576.png",
+		"image": "item/2576.png",
 		"description": "Objet à tenir permettant à Goupelin de méga-évoluer."
 	},
 	{
 		"name": "Blindépiquite",
 		"name_en": "Chesnaughtite",
-		"image": "items/2575.png",
+		"image": "item/2575.png",
 		"description": "Objet à tenir permettant à Blindépique de méga-évoluer."
 	},
 	{
 		"name": "Amphinolite",
 		"name_en": "Greninjite",
-		"image": "items/2577.png",
+		"image": "item/2577.png",
 		"description": "Objet à tenir permettant à Amphinobi de méga-évoluer."
 	},
 	{
 		"name": "Floettite",
 		"name_en": "Floettite",
-		"image": "items/2579.png",
+		"image": "item/2579.png",
 		"description": "Objet à tenir permettant à Floette de méga-évoluer."
 	}
 ]
