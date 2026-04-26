@@ -224,7 +224,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Scovilain",
-				"needed_item": "Scovilainite"
+				"stone": "Scovilainite"
 			}
 		],
 		"abilities": ["Chlorophylle", "Insomnia", "Lunatique"]
@@ -404,7 +404,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Floréclat",
-				"needed_item": "Floréclatite"
+				"stone": "Floréclatite"
 			}
 		],
 		"abilities": ["Dépôt Toxique", "Corrosion"]

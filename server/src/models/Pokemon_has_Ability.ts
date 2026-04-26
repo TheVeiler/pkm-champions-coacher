@@ -1,19 +1,14 @@
 import { DataTypes } from "sequelize";
 
 export default {
-	attacking: {
+	pokemon: {
 		type: DataTypes.STRING,
 		allowNull: false,
 		primaryKey: true,
 	},
-	defending: {
+	ability: {
 		type: DataTypes.STRING,
 		allowNull: false,
 		primaryKey: true,
-	},
-	efficiency: {
-		type: DataTypes.INTEGER,
-		allowNull: false,
-		default: 1,
 	},
 };

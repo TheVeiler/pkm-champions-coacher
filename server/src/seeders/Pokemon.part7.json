@@ -149,7 +149,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Crabominable",
-				"needed_item": "Crabominablite"
+				"stone": "Crabominablite"
 			}
 		],
 		"abilities": ["Hyper Cutter", "Poing de Fer", "Colérique"]
@@ -479,7 +479,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Draïeul",
-				"needed_item": "Draïeulite"
+				"stone": "Draïeulite"
 			}
 		],
 		"abilities": ["Folle Furie", "Herbivore", "Ciel Gris"]

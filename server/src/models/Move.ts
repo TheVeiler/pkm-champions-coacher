@@ -18,10 +18,6 @@ export default {
 	type: {
 		type: DataTypes.STRING,
 		allowNull: false,
-		references: {
-			model: "Types",
-			key: "name",
-		},
 	},
 	power: {
 		type: DataTypes.INTEGER,

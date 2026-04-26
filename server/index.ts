@@ -3,7 +3,7 @@ import path from "node:path";
 import express from "express";
 import cors from "cors";
 
-// import { TypeEfficiency } from "./src/models/index.js";
+import { Pokemon, Type } from "./src/models/index.js";
 
 const app = express();
 const server = http.createServer(app);
@@ -14,16 +14,19 @@ app.set("frontDir", path.resolve(process.env.PATH_TO_APP ?? "", "client/dist"));
 app.use(cors());
 app.use(express.json());
 
-// app.use(async (req, res, next) => {
-// 	const te = await TypeEfficiency.findAll({
-// 		where: {
-// 			defending: "fée",
-// 		},
-// 	});
-// 	console.log(JSON.stringify(te, null, 2));
+app.use(async (req, res, next) => {
+	const zard = await Pokemon.findByPk("Dracaufeu", {
+		include: [
+			{
+				model: Type,
+			},
+		],
+	});
 
-// 	next();
-// });
+	console.log(zard?.dataValues);
+
+	next();
+});
 
 switch (process.env.NODE_ENV) {
 	case "development":

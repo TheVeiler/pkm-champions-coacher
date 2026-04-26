@@ -24,7 +24,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Florizarre",
-				"needed_item": "Florizarrite"
+				"stone": "Florizarrite"
 			}
 		],
 		"abilities": ["Engrais", "Chlorophylle"]
@@ -79,11 +79,11 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Dracaufeu X",
-				"needed_item": "Dracaufite X"
+				"stone": "Dracaufite X"
 			},
 			{
 				"pokemon": "Méga-Dracaufeu Y",
-				"needed_item": "Dracaufite Y"
+				"stone": "Dracaufite Y"
 			}
 		],
 		"abilities": ["Brasier", "Force Soleil"]
@@ -163,7 +163,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Tortank",
-				"needed_item": "Tortankite"
+				"stone": "Tortankite"
 			}
 		],
 		"abilities": ["Torrent", "Cuvette"]
@@ -218,7 +218,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Dardargnan",
-				"needed_item": "Dardargnite"
+				"stone": "Dardargnite"
 			}
 		],
 		"abilities": ["Essaim", "Sniper"]
@@ -273,7 +273,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Roucarnage",
-				"needed_item": "Roucarnagite"
+				"stone": "Roucarnagite"
 			}
 		],
 		"abilities": ["Regard Vif", "Pied Confus", "Cœur de Coq"]
@@ -428,7 +428,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Mélodelfe",
-				"needed_item": "Mélodelfite"
+				"stone": "Mélodelfite"
 			}
 		],
 		"abilities": ["Joli Sourire", "Garde Magik", "Inconscient"]
@@ -583,7 +583,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Alakazam",
-				"needed_item": "Alakazamite"
+				"stone": "Alakazamite"
 			}
 		],
 		"abilities": ["Synchro", "Attention", "Garde Magik"]
@@ -663,7 +663,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Empiflor",
-				"needed_item": "Empiflorite"
+				"stone": "Empiflorite"
 			}
 		],
 		"abilities": ["Chlorophylle", "Gloutonnerie"]
@@ -718,7 +718,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Flagadoss",
-				"needed_item": "Flagadossite"
+				"stone": "Flagadossite"
 			}
 		],
 		"abilities": ["Benêt", "Tempo Perso", "Régé-Force"]
@@ -798,7 +798,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Ectoplasma",
-				"needed_item": "Ectoplasmite"
+				"stone": "Ectoplasmite"
 			}
 		],
 		"abilities": ["Corps Maudit"]
@@ -853,7 +853,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Kangourex",
-				"needed_item": "Kangourexite"
+				"stone": "Kangourexite"
 			}
 		],
 		"abilities": ["Matinal", "Querelleur", "Attention"]
@@ -908,7 +908,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Staross",
-				"needed_item": "Starossite"
+				"stone": "Starossite"
 			}
 		],
 		"abilities": ["Luminescence", "Médic Nature", "Analyste"]
@@ -963,7 +963,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Scarabrute",
-				"needed_item": "Scarabruite"
+				"stone": "Scarabruite"
 			}
 		],
 		"abilities": ["Hyper Cutter", "Brise Moule", "Impudence"]
@@ -1118,7 +1118,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Léviator",
-				"needed_item": "Léviatorite"
+				"stone": "Léviatorite"
 			}
 		],
 		"abilities": ["Intimidation", "Impudence"]
@@ -1273,7 +1273,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Ptéra",
-				"needed_item": "Ptéraïte"
+				"stone": "Ptéraïte"
 			}
 		],
 		"abilities": ["Tête de Roc", "Pression", "Tension"]
@@ -1353,7 +1353,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Dracolosse",
-				"needed_item": "Dracolossite"
+				"stone": "Dracolossite"
 			}
 		],
 		"abilities": ["Attention", "Multiécaille"]

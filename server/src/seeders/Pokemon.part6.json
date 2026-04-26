@@ -24,7 +24,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Blindépique",
-				"needed_item": "Blindépiquite"
+				"stone": "Blindépiquite"
 			}
 		],
 		"abilities": ["Engrais", "Pare-Balles"]
@@ -79,7 +79,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Goupelin",
-				"needed_item": "Goupelinite"
+				"stone": "Goupelinite"
 			}
 		],
 		"abilities": ["Brasier", "Magicien"]
@@ -134,7 +134,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Amphinobi",
-				"needed_item": "Amphinolite"
+				"stone": "Amphinolite"
 			}
 		],
 		"abilities": ["Synergie"]
@@ -664,7 +664,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Brutalibré",
-				"needed_item": "Brutalibrite"
+				"stone": "Brutalibrite"
 			}
 		],
 		"abilities": ["Échauffement", "Délestage", "Brise Moule"]

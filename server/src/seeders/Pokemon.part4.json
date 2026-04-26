@@ -199,7 +199,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Lockpin",
-				"needed_item": "Lockpinite"
+				"stone": "Lockpinite"
 			}
 		],
 		"abilities": ["Joli Sourire", "Maladresse", "Échauffement"]
@@ -279,7 +279,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Carchacrok",
-				"needed_item": "Carchacrokite"
+				"stone": "Carchacrokite"
 			}
 		],
 		"abilities": ["Voile Sable", "Peau Dure"]
@@ -334,7 +334,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Lucario",
-				"needed_item": "Lucarite"
+				"stone": "Lucarite"
 			}
 		],
 		"abilities": ["Impassible", "Attention", "Cœur Noble"]
@@ -439,7 +439,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Blizzaroi",
-				"needed_item": "Blizzarite"
+				"stone": "Blizzarite"
 			}
 		],
 		"abilities": ["Alerte Neige", "Anti-Bruit"]
@@ -644,7 +644,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Gallame",
-				"needed_item": "Gallamite"
+				"stone": "Gallamite"
 			}
 		],
 		"abilities": ["Impassible", "Incisif", "Cœur Noble"]
@@ -699,7 +699,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Momartik",
-				"needed_item": "Momartikite"
+				"stone": "Momartikite"
 			}
 		],
 		"abilities": ["Rideau Neige", "Corps Maudit"]

@@ -49,7 +49,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Gardevoir",
-				"needed_item": "Gardevoirite"
+				"stone": "Gardevoirite"
 			}
 		],
 		"abilities": ["Synchro", "Calque", "Télépathe"]
@@ -104,7 +104,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Ténéfix",
-				"needed_item": "Ténéfixite"
+				"stone": "Ténéfixite"
 			}
 		],
 		"abilities": ["Regard Vif", "Frein", "Farceur"]
@@ -159,7 +159,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Galeking",
-				"needed_item": "Galekingite"
+				"stone": "Galekingite"
 			}
 		],
 		"abilities": ["Fermeté", "Tête de Roc", "Heavy Metal"]
@@ -214,7 +214,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Charmina",
-				"needed_item": "Charminite"
+				"stone": "Charminite"
 			}
 		],
 		"abilities": ["Force Pure", "Télépathe"]
@@ -269,7 +269,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Élecsprint",
-				"needed_item": "Élecsprintite"
+				"stone": "Élecsprintite"
 			}
 		],
 		"abilities": ["Statik", "Paratonnerre", "Moins"]
@@ -324,7 +324,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Sharpedo",
-				"needed_item": "Sharpedite"
+				"stone": "Sharpedite"
 			}
 		],
 		"abilities": ["Peau Dure", "Turbo"]
@@ -379,7 +379,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Camérupt",
-				"needed_item": "Caméruptite"
+				"stone": "Caméruptite"
 			}
 		],
 		"abilities": ["Armumagma", "Solide Roc", "Colérique"]
@@ -459,7 +459,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Altaria",
-				"needed_item": "Altarite"
+				"stone": "Altarite"
 			}
 		],
 		"abilities": ["Médic Nature", "Ciel Gris"]
@@ -564,7 +564,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Branette",
-				"needed_item": "Branettite"
+				"stone": "Branettite"
 			}
 		],
 		"abilities": ["Insomnia", "Fouille", "Corps Maudit"]
@@ -619,7 +619,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Éoko",
-				"needed_item": "Éokite"
+				"stone": "Éokite"
 			}
 		],
 		"abilities": ["Lévitation"]
@@ -674,7 +674,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Absol",
-				"needed_item": "Absolite"
+				"stone": "Absolite"
 			}
 		],
 		"abilities": ["Pression", "Chanceux", "Cœur Noble"]
@@ -729,7 +729,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Oniglali",
-				"needed_item": "Oniglalite"
+				"stone": "Oniglalite"
 			}
 		],
 		"abilities": ["Attention", "Corps Gel", "Lunatique"]

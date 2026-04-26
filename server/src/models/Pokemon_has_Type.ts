@@ -5,18 +5,10 @@ export default {
 		type: DataTypes.STRING,
 		allowNull: false,
 		primaryKey: true,
-		references: {
-			model: "Pokemons",
-			key: "name",
-		},
 	},
 	type: {
 		type: DataTypes.STRING,
 		allowNull: false,
 		primaryKey: true,
-		references: {
-			model: "Types",
-			key: "name",
-		},
 	},
 };

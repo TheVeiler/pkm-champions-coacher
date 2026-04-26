@@ -1,4 +1,4 @@
-import { Pokemon } from "../models/index.js";
+import { Pokemon_has_Ability } from "../models/index.js";
 
 import jsonPart1 from "./Pokemon.part1.json" with { type: "json" };
 import jsonPart2 from "./Pokemon.part2.json" with { type: "json" };
@@ -25,27 +25,10 @@ const jsonPokemons = [
 export default {
 	up: async () => {
 		try {
-			await Pokemon.bulkCreate(
-				jsonPokemons.map(({ no, name, name_en, image, base_stats, real_stats }) => ({
-					no,
-					name,
-					name_en,
-					image,
-
-					base_hp: base_stats.hp,
-					base_atk: base_stats.atk,
-					base_def: base_stats.def,
-					base_spatk: base_stats.spatk,
-					base_spdef: base_stats.spdef,
-					base_spe: base_stats.spe,
-
-					real_hp: real_stats.hp,
-					real_atk: real_stats.atk,
-					real_def: real_stats.def,
-					real_spatk: real_stats.spatk,
-					real_spdef: real_stats.spdef,
-					real_spe: real_stats.spe,
-				})),
+			await Pokemon_has_Ability.bulkCreate(
+				jsonPokemons
+					.map(({ name, abilities }) => abilities.map((ability) => ({ pokemon: name, ability })))
+					.flat(),
 			);
 		} catch (e) {
 			console.error(e);

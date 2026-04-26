@@ -49,7 +49,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Roitiflam",
-				"needed_item": "Roitiflamite"
+				"stone": "Roitiflamite"
 			}
 		],
 		"abilities": ["Brasier", "Téméraire"]
@@ -279,7 +279,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Minotaupe",
-				"needed_item": "Minotaupite"
+				"stone": "Minotaupite"
 			}
 		],
 		"abilities": ["Baigne Sable", "Force Sable", "Brise Moule"]
@@ -333,7 +333,8 @@
 		},
 		"megas": [
 			{
-				"pokemon": "Méga-Nanméouïe"
+				"pokemon": "Méga-Nanméouïe",
+                "stone": "Nanméouïte"
 			}
 		],
 		"abilities": ["Cœur Soin", "Régé-Force", "Maladresse"]
@@ -638,7 +639,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Lugulabre",
-				"needed_item": "Lugulabrite"
+				"stone": "Lugulabrite"
 			}
 		],
 		"abilities": ["Torche", "Corps Ardent", "Infiltration"]
@@ -768,7 +769,7 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Golemastoc",
-				"needed_item": "Golemastokite"
+				"stone": "Golemastokite"
 			}
 		],
 		"abilities": ["Poing de Fer", "Maladresse", "Annule Garde"]
