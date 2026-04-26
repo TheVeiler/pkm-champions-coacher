@@ -1,6 +1,6 @@
 import { Type_Efficiency } from "../models/index.js";
 
-import jsonTypes from "./Type.json" with { type: "json" };
+import jsonTypes from "../data/Type.json" with { type: "json" };
 
 export default {
 	up: async () => {

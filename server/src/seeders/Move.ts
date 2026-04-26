@@ -1,6 +1,6 @@
 import { Move } from "../models/index.js";
 
-import jsonMoves from "./Move.json" with { type: "json" };
+import jsonMoves from "../data/Move.json" with { type: "json" };
 
 export default {
 	up: async () => {

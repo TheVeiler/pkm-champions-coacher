@@ -1,6 +1,6 @@
 import { Item } from "../models/index.js";
 
-import jsonItems from "./Item.json" with { type: "json" };
+import jsonItems from "../data/Item.json" with { type: "json" };
 
 export default {
 	up: async () => {

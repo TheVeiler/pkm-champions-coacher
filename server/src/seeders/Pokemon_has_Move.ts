@@ -1,14 +1,14 @@
 import { Pokemon_has_Move } from "../models/index.js";
 
-import jsonPart1 from "./Pokemon.part1.json" with { type: "json" };
-import jsonPart2 from "./Pokemon.part2.json" with { type: "json" };
-import jsonPart3 from "./Pokemon.part3.json" with { type: "json" };
-import jsonPart4 from "./Pokemon.part4.json" with { type: "json" };
-import jsonPart5 from "./Pokemon.part5.json" with { type: "json" };
-import jsonPart6 from "./Pokemon.part6.json" with { type: "json" };
-import jsonPart7 from "./Pokemon.part7.json" with { type: "json" };
-import jsonPart8 from "./Pokemon.part8.json" with { type: "json" };
-import jsonPart9 from "./Pokemon.part9.json" with { type: "json" };
+import jsonPart1 from "../data/Pokemon.part1.json" with { type: "json" };
+import jsonPart2 from "../data/Pokemon.part2.json" with { type: "json" };
+import jsonPart3 from "../data/Pokemon.part3.json" with { type: "json" };
+import jsonPart4 from "../data/Pokemon.part4.json" with { type: "json" };
+import jsonPart5 from "../data/Pokemon.part5.json" with { type: "json" };
+import jsonPart6 from "../data/Pokemon.part6.json" with { type: "json" };
+import jsonPart7 from "../data/Pokemon.part7.json" with { type: "json" };
+import jsonPart8 from "../data/Pokemon.part8.json" with { type: "json" };
+import jsonPart9 from "../data/Pokemon.part9.json" with { type: "json" };
 
 const jsonPokemons = [
 	...jsonPart1,

@@ -1,6 +1,6 @@
 import { Nature } from "../models/index.js";
 
-import jsonNatures from "./Nature.json" with { type: "json" };
+import jsonNatures from "../data/Nature.json" with { type: "json" };
 
 export default {
 	up: async () => {

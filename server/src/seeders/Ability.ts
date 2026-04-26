@@ -1,6 +1,6 @@
 import { Ability } from "../models/index.js";
 
-import jsonAbilities from "./Ability.json" with { type: "json" };
+import jsonAbilities from "../data/Ability.json" with { type: "json" };
 
 export default {
 	up: async () => {
