@@ -5,6 +5,8 @@
 		"name_en": "Meowscarada",
 		"image": "pokemon/908.png",
 		"types": ["Plante", "Ténèbres"],
+		"abilities": ["Engrais", "Protéen"],
+		"moves": [],
 		"base_stats": {
 			"hp": 76,
 			"atk": 110,
@@ -21,8 +23,7 @@
 			"spdef": 90,
 			"spe": 143
 		},
-		"megas": [],
-		"abilities": ["Engrais", "Protéen"]
+		"megas": []
 	},
 	{
 		"no": 911,
@@ -30,6 +31,8 @@
 		"name_en": "Skeledirge",
 		"image": "pokemon/911.png",
 		"types": ["Feu", "Spectre"],
+		"abilities": ["Brasier", "Inconscient"],
+		"moves": [],
 		"base_stats": {
 			"hp": 104,
 			"atk": 75,
@@ -46,8 +49,7 @@
 			"spdef": 95,
 			"spe": 86
 		},
-		"megas": [],
-		"abilities": ["Brasier", "Inconscient"]
+		"megas": []
 	},
 	{
 		"no": 914,
@@ -55,6 +57,8 @@
 		"name_en": "Quaquaval",
 		"image": "pokemon/914.png",
 		"types": ["Eau", "Combat"],
+		"abilities": ["Torrent", "Impudence"],
+		"moves": [],
 		"base_stats": {
 			"hp": 85,
 			"atk": 120,
@@ -71,8 +75,7 @@
 			"spdef": 95,
 			"spe": 105
 		},
-		"megas": [],
-		"abilities": ["Torrent", "Impudence"]
+		"megas": []
 	},
 	{
 		"no": 925,
@@ -80,6 +83,8 @@
 		"name_en": "Maushold",
 		"image": "pokemon/925.png",
 		"types": ["Normal"],
+		"abilities": ["Garde-Ami", "Bajoues", "Technicien"],
+		"moves": [],
 		"base_stats": {
 			"hp": 74,
 			"atk": 75,
@@ -96,8 +101,7 @@
 			"spdef": 95,
 			"spe": 131
 		},
-		"megas": [],
-		"abilities": ["Garde-Ami", "Bajoues", "Technicien"]
+		"megas": []
 	},
 	{
 		"no": 934,
@@ -105,6 +109,8 @@
 		"name_en": "Garganacl",
 		"image": "pokemon/934.png",
 		"types": ["Roche"],
+		"abilities": ["Sel Purificateur", "Fermeté", "Corps Sain"],
+		"moves": [],
 		"base_stats": {
 			"hp": 100,
 			"atk": 100,
@@ -121,8 +127,7 @@
 			"spdef": 110,
 			"spe": 55
 		},
-		"megas": [],
-		"abilities": ["Sel Purificateur", "Fermeté", "Corps Sain"]
+		"megas": []
 	},
 	{
 		"no": 936,
@@ -130,6 +135,8 @@
 		"name_en": "Armarouge",
 		"image": "pokemon/936.png",
 		"types": ["Feu", "Psy"],
+		"abilities": ["Torche", "Armurouillée"],
+		"moves": [],
 		"base_stats": {
 			"hp": 85,
 			"atk": 60,
@@ -146,8 +153,7 @@
 			"spdef": 100,
 			"spe": 95
 		},
-		"megas": [],
-		"abilities": ["Torche", "Armurouillée"]
+		"megas": []
 	},
 	{
 		"no": 937,
@@ -155,6 +161,8 @@
 		"name_en": "Ceruledge",
 		"image": "pokemon/937.png",
 		"types": ["Feu", "Spectre"],
+		"abilities": ["Torche", "Armurouillée"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 125,
@@ -171,8 +179,7 @@
 			"spdef": 120,
 			"spe": 105
 		},
-		"megas": [],
-		"abilities": ["Torche", "Armurouillée"]
+		"megas": []
 	},
 	{
 		"no": 939,
@@ -180,6 +187,8 @@
 		"name_en": "Bellibolt",
 		"image": "pokemon/939.png",
 		"types": ["Électrik"],
+		"abilities": ["Grecharge", "Statik", "Moiteur"],
+		"moves": [],
 		"base_stats": {
 			"hp": 109,
 			"atk": 64,
@@ -196,8 +205,7 @@
 			"spdef": 103,
 			"spe": 65
 		},
-		"megas": [],
-		"abilities": ["Grecharge", "Statik", "Moiteur"]
+		"megas": []
 	},
 	{
 		"no": 952,
@@ -205,6 +213,8 @@
 		"name_en": "Scovillain",
 		"image": "pokemon/952.png",
 		"types": ["Plante", "Feu"],
+		"abilities": ["Chlorophylle", "Insomnia", "Lunatique"],
+		"moves": [],
 		"base_stats": {
 			"hp": 65,
 			"atk": 108,
@@ -226,8 +236,7 @@
 				"pokemon": "Méga-Scovilain",
 				"stone": "Scovilainite"
 			}
-		],
-		"abilities": ["Chlorophylle", "Insomnia", "Lunatique"]
+		]
 	},
 	{
 		"no": 952,
@@ -235,6 +244,8 @@
 		"name_en": "Mega Scovillain",
 		"image": "pokemon/952-mega.png",
 		"types": ["Plante", "Feu"],
+		"abilities": ["Habanéruption"],
+		"moves": [],
 		"base_stats": {
 			"hp": 65,
 			"atk": 138,
@@ -251,8 +262,7 @@
 			"spdef": 105,
 			"spe": 95
 		},
-		"megas": [],
-		"abilities": ["Habanéruption"]
+		"megas": []
 	},
 	{
 		"no": 956,
@@ -260,6 +270,8 @@
 		"name_en": "Espathra",
 		"image": "pokemon/956.png",
 		"types": ["Psy"],
+		"abilities": ["Opportuniste", "Fouille", "Turbo"],
+		"moves": [],
 		"base_stats": {
 			"hp": 95,
 			"atk": 60,
@@ -276,8 +288,7 @@
 			"spdef": 80,
 			"spe": 125
 		},
-		"megas": [],
-		"abilities": ["Opportuniste", "Fouille", "Turbo"]
+		"megas": []
 	},
 	{
 		"no": 959,
@@ -285,6 +296,8 @@
 		"name_en": "Tinkaton",
 		"image": "pokemon/959.png",
 		"types": ["Fée", "Acier"],
+		"abilities": ["Brise Moule", "Tempo Perso", "Pickpocket"],
+		"moves": [],
 		"base_stats": {
 			"hp": 85,
 			"atk": 75,
@@ -301,8 +314,7 @@
 			"spdef": 125,
 			"spe": 114
 		},
-		"megas": [],
-		"abilities": ["Brise Moule", "Tempo Perso", "Pickpocket"]
+		"megas": []
 	},
 	{
 		"no": 964,
@@ -310,6 +322,8 @@
 		"name_en": "Palafin Zero",
 		"image": "pokemon/964.png",
 		"types": ["Eau"],
+		"abilities": ["Supermutation"],
+		"moves": [],
 		"base_stats": {
 			"hp": 100,
 			"atk": 70,
@@ -326,8 +340,7 @@
 			"spdef": 82,
 			"spe": 120
 		},
-		"megas": [],
-		"abilities": ["Supermutation"]
+		"megas": []
 	},
 	{
 		"no": 964,
@@ -335,6 +348,8 @@
 		"name_en": "Palafin Hero",
 		"image": "pokemon/964-hero.png",
 		"types": ["Eau"],
+		"abilities": ["Supermutation"],
+		"moves": [],
 		"base_stats": {
 			"hp": 100,
 			"atk": 160,
@@ -351,8 +366,7 @@
 			"spdef": 107,
 			"spe": 120
 		},
-		"megas": [],
-		"abilities": ["Supermutation"]
+		"megas": []
 	},
 	{
 		"no": 968,
@@ -360,6 +374,8 @@
 		"name_en": "Orthworm",
 		"image": "pokemon/968.png",
 		"types": ["Acier"],
+		"abilities": ["Absorbe-Terre", "Voile Sable"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 85,
@@ -376,8 +392,7 @@
 			"spdef": 75,
 			"spe": 85
 		},
-		"megas": [],
-		"abilities": ["Absorbe-Terre", "Voile Sable"]
+		"megas": []
 	},
 	{
 		"no": 970,
@@ -385,6 +400,8 @@
 		"name_en": "Glimmora",
 		"image": "pokemon/970.png",
 		"types": ["Roche", "Poison"],
+		"abilities": ["Dépôt Toxique", "Corrosion"],
+		"moves": [],
 		"base_stats": {
 			"hp": 83,
 			"atk": 55,
@@ -406,8 +423,7 @@
 				"pokemon": "Méga-Floréclat",
 				"stone": "Floréclatite"
 			}
-		],
-		"abilities": ["Dépôt Toxique", "Corrosion"]
+		]
 	},
 	{
 		"no": 970,
@@ -415,6 +431,8 @@
 		"name_en": "Mega Glimmora",
 		"image": "pokemon/970-mega.png",
 		"types": ["Roche", "Poison"],
+		"abilities": ["Adaptabilité"],
+		"moves": [],
 		"base_stats": {
 			"hp": 83,
 			"atk": 90,
@@ -431,8 +449,7 @@
 			"spdef": 116,
 			"spe": 121
 		},
-		"megas": [],
-		"abilities": ["Adaptabilité"]
+		"megas": []
 	},
 	{
 		"no": 981,
@@ -440,6 +457,8 @@
 		"name_en": "Farigiraf",
 		"image": "pokemon/981.png",
 		"types": ["Normal", "Psy"],
+		"abilities": ["Ruminant", "Armure Caudale", "Herbivore"],
+		"moves": [],
 		"base_stats": {
 			"hp": 120,
 			"atk": 90,
@@ -456,8 +475,7 @@
 			"spdef": 90,
 			"spe": 80
 		},
-		"megas": [],
-		"abilities": ["Ruminant", "Armure Caudale", "Herbivore"]
+		"megas": []
 	},
 	{
 		"no": 983,
@@ -465,6 +483,8 @@
 		"name_en": "Kingambit",
 		"image": "pokemon/983.png",
 		"types": ["Ténèbres", "Acier"],
+		"abilities": ["Acharné", "Général Suprême", "Pression"],
+		"moves": [],
 		"base_stats": {
 			"hp": 100,
 			"atk": 135,
@@ -481,8 +501,7 @@
 			"spdef": 105,
 			"spe": 70
 		},
-		"megas": [],
-		"abilities": ["Acharné", "Général Suprême", "Pression"]
+		"megas": []
 	},
 	{
 		"no": 1013,
@@ -490,6 +509,8 @@
 		"name_en": "Sinistcha",
 		"image": "pokemon/1013.png",
 		"types": ["Plante", "Spectre"],
+		"abilities": ["Aux Petits Soins", "Ignifugé"],
+		"moves": [],
 		"base_stats": {
 			"hp": 71,
 			"atk": 60,
@@ -506,8 +527,7 @@
 			"spdef": 100,
 			"spe": 90
 		},
-		"megas": [],
-		"abilities": ["Aux Petits Soins", "Ignifugé"]
+		"megas": []
 	},
 	{
 		"no": 1018,
@@ -515,6 +535,8 @@
 		"name_en": "Archaludon",
 		"image": "pokemon/1018.png",
 		"types": ["Acier", "Dragon"],
+		"abilities": ["Endurance", "Fermeté", "Nerfs d'Acier"],
+		"moves": [],
 		"base_stats": {
 			"hp": 90,
 			"atk": 105,
@@ -531,8 +553,7 @@
 			"spdef": 85,
 			"spe": 105
 		},
-		"megas": [],
-		"abilities": ["Endurance", "Fermeté", "Nerfs d'Acier"]
+		"megas": []
 	},
 	{
 		"no": 1019,
@@ -540,6 +561,8 @@
 		"name_en": "Hydrapple",
 		"image": "pokemon/1019.png",
 		"types": ["Plante", "Dragon"],
+		"abilities": ["Nectar Mielleux", "Régé-Force", "Glu"],
+		"moves": [],
 		"base_stats": {
 			"hp": 106,
 			"atk": 80,
@@ -556,7 +579,6 @@
 			"spdef": 100,
 			"spe": 64
 		},
-		"megas": [],
-		"abilities": ["Nectar Mielleux", "Régé-Force", "Glu"]
+		"megas": []
 	}
 ]

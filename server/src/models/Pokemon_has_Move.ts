@@ -1,18 +1,14 @@
 import { DataTypes } from "sequelize";
 
 export default {
-	base_pokemon: {
+	pokemon: {
 		type: DataTypes.STRING,
 		allowNull: false,
 		primaryKey: true,
 	},
-	stone: {
+	move: {
 		type: DataTypes.STRING,
 		allowNull: true,
 		primaryKey: true,
-	},
-	mega_pokemon: {
-		type: DataTypes.STRING,
-		allowNull: false,
 	},
 };

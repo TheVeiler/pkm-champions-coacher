@@ -5,6 +5,8 @@
 		"name_en": "Serperior",
 		"image": "pokemon/497.png",
 		"types": ["Plante"],
+		"abilities": ["Engrais", "Contestation"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 75,
@@ -21,8 +23,7 @@
 			"spdef": 115,
 			"spe": 133
 		},
-		"megas": [],
-		"abilities": ["Engrais", "Contestation"]
+		"megas": []
 	},
 	{
 		"no": 500,
@@ -30,6 +31,8 @@
 		"name_en": "Emboar",
 		"image": "pokemon/500.png",
 		"types": ["Feu", "Combat"],
+		"abilities": ["Brasier", "Téméraire"],
+		"moves": [],
 		"base_stats": {
 			"hp": 110,
 			"atk": 123,
@@ -51,8 +54,7 @@
 				"pokemon": "Méga-Roitiflam",
 				"stone": "Roitiflamite"
 			}
-		],
-		"abilities": ["Brasier", "Téméraire"]
+		]
 	},
 	{
 		"no": 500,
@@ -60,6 +62,8 @@
 		"name_en": "Mega Emboar",
 		"image": "pokemon/500-mega.png",
 		"types": ["Feu", "Combat"],
+		"abilities": ["Brise Moule"],
+		"moves": [],
 		"base_stats": {
 			"hp": 110,
 			"atk": 148,
@@ -76,8 +80,7 @@
 			"spdef": 130,
 			"spe": 95
 		},
-		"megas": [],
-		"abilities": ["Brise Moule"]
+		"megas": []
 	},
 	{
 		"no": 503,
@@ -85,6 +88,8 @@
 		"name_en": "Samurott",
 		"image": "pokemon/503.png",
 		"types": ["Eau"],
+		"abilities": ["Torrent", "Coque Armure"],
+		"moves": [],
 		"base_stats": {
 			"hp": 95,
 			"atk": 100,
@@ -101,8 +106,7 @@
 			"spdef": 90,
 			"spe": 90
 		},
-		"megas": [],
-		"abilities": ["Torrent", "Coque Armure"]
+		"megas": []
 	},
 	{
 		"no": 503,
@@ -110,6 +114,8 @@
 		"name_en": "Hisuian Samurott",
 		"image": "pokemon/503-regional-h.png",
 		"types": ["Eau", "Ténèbres"],
+		"abilities": ["Torrent", "Incisif"],
+		"moves": [],
 		"base_stats": {
 			"hp": 90,
 			"atk": 108,
@@ -126,8 +132,7 @@
 			"spdef": 85,
 			"spe": 105
 		},
-		"megas": [],
-		"abilities": ["Torrent", "Incisif"]
+		"megas": []
 	},
 	{
 		"no": 505,
@@ -135,6 +140,8 @@
 		"name_en": "Watchog",
 		"image": "pokemon/505.png",
 		"types": ["Normal"],
+		"abilities": ["Luminescence", "Regard Vif", "Analyste"],
+		"moves": [],
 		"base_stats": {
 			"hp": 60,
 			"atk": 85,
@@ -151,8 +158,7 @@
 			"spdef": 89,
 			"spe": 97
 		},
-		"megas": [],
-		"abilities": ["Luminescence", "Regard Vif", "Analyste"]
+		"megas": []
 	},
 	{
 		"no": 510,
@@ -160,6 +166,8 @@
 		"name_en": "Liepard",
 		"image": "pokemon/510.png",
 		"types": ["Ténèbres"],
+		"abilities": ["Échauffement", "Délestage", "Farceur"],
+		"moves": [],
 		"base_stats": {
 			"hp": 64,
 			"atk": 88,
@@ -176,8 +184,7 @@
 			"spdef": 70,
 			"spe": 126
 		},
-		"megas": [],
-		"abilities": ["Échauffement", "Délestage", "Farceur"]
+		"megas": []
 	},
 	{
 		"no": 512,
@@ -185,6 +192,8 @@
 		"name_en": "Simisage",
 		"image": "pokemon/512.png",
 		"types": ["Plante"],
+		"abilities": ["Gloutonnerie", "Engrais"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 98,
@@ -201,8 +210,7 @@
 			"spdef": 83,
 			"spe": 121
 		},
-		"megas": [],
-		"abilities": ["Gloutonnerie", "Engrais"]
+		"megas": []
 	},
 	{
 		"no": 514,
@@ -210,6 +218,8 @@
 		"name_en": "Simisear",
 		"image": "pokemon/514.png",
 		"types": ["Feu"],
+		"abilities": ["Gloutonnerie", "Brasier"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 98,
@@ -226,8 +236,7 @@
 			"spdef": 83,
 			"spe": 121
 		},
-		"megas": [],
-		"abilities": ["Gloutonnerie", "Brasier"]
+		"megas": []
 	},
 	{
 		"no": 516,
@@ -235,6 +244,8 @@
 		"name_en": "Simipour",
 		"image": "pokemon/516.png",
 		"types": ["Eau"],
+		"abilities": ["Gloutonnerie", "Torrent"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 98,
@@ -251,8 +262,7 @@
 			"spdef": 83,
 			"spe": 121
 		},
-		"megas": [],
-		"abilities": ["Gloutonnerie", "Torrent"]
+		"megas": []
 	},
 	{
 		"no": 530,
@@ -260,6 +270,8 @@
 		"name_en": "Excadrill",
 		"image": "pokemon/530.png",
 		"types": ["Sol", "Acier"],
+		"abilities": ["Baigne Sable", "Force Sable", "Brise Moule"],
+		"moves": [],
 		"base_stats": {
 			"hp": 110,
 			"atk": 135,
@@ -281,8 +293,7 @@
 				"pokemon": "Méga-Minotaupe",
 				"stone": "Minotaupite"
 			}
-		],
-		"abilities": ["Baigne Sable", "Force Sable", "Brise Moule"]
+		]
 	},
 	{
 		"no": 530,
@@ -290,6 +301,8 @@
 		"name_en": "Mega Excadrill",
 		"image": "pokemon/530-mega.png",
 		"types": ["Sol", "Acier"],
+		"abilities": ["Transperceuse"],
+		"moves": [],
 		"base_stats": {
 			"hp": 110,
 			"atk": 165,
@@ -306,8 +319,7 @@
 			"spdef": 85,
 			"spe": 123
 		},
-		"megas": [],
-		"abilities": ["Transperceuse"]
+		"megas": []
 	},
 	{
 		"no": 531,
@@ -315,6 +327,8 @@
 		"name_en": "Audino",
 		"image": "pokemon/531.png",
 		"types": ["Normal"],
+		"abilities": ["Cœur Soin", "Régé-Force", "Maladresse"],
+		"moves": [],
 		"base_stats": {
 			"hp": 103,
 			"atk": 60,
@@ -334,10 +348,9 @@
 		"megas": [
 			{
 				"pokemon": "Méga-Nanméouïe",
-                "stone": "Nanméouïte"
+				"stone": "Nanméouïte"
 			}
-		],
-		"abilities": ["Cœur Soin", "Régé-Force", "Maladresse"]
+		]
 	},
 	{
 		"no": 531,
@@ -345,6 +358,8 @@
 		"name_en": "Mega Audino",
 		"image": "pokemon/531-mega.png",
 		"types": ["Normal", "Fée"],
+		"abilities": ["Cœur Soin"],
+		"moves": [],
 		"base_stats": {
 			"hp": 103,
 			"atk": 60,
@@ -361,8 +376,7 @@
 			"spdef": 146,
 			"spe": 70
 		},
-		"megas": [],
-		"abilities": ["Cœur Soin"]
+		"megas": []
 	},
 	{
 		"no": 534,
@@ -370,6 +384,8 @@
 		"name_en": "Conkeldurr",
 		"image": "pokemon/534.png",
 		"types": ["Combat"],
+		"abilities": ["Cran", "Sans Limite", "Poing de Fer"],
+		"moves": [],
 		"base_stats": {
 			"hp": 105,
 			"atk": 140,
@@ -386,8 +402,7 @@
 			"spdef": 85,
 			"spe": 65
 		},
-		"megas": [],
-		"abilities": ["Cran", "Sans Limite", "Poing de Fer"]
+		"megas": []
 	},
 	{
 		"no": 547,
@@ -395,6 +410,8 @@
 		"name_en": "Whimsicott",
 		"image": "pokemon/547.png",
 		"types": ["Plante", "Fée"],
+		"abilities": ["Farceur", "Infiltration", "Chlorophylle"],
+		"moves": [],
 		"base_stats": {
 			"hp": 60,
 			"atk": 67,
@@ -411,8 +428,7 @@
 			"spdef": 95,
 			"spe": 136
 		},
-		"megas": [],
-		"abilities": ["Farceur", "Infiltration", "Chlorophylle"]
+		"megas": []
 	},
 	{
 		"no": 553,
@@ -420,6 +436,8 @@
 		"name_en": "Krookodile",
 		"image": "pokemon/553.png",
 		"types": ["Sol", "Ténèbres"],
+		"abilities": ["Intimidation", "Impudence", "Colérique"],
+		"moves": [],
 		"base_stats": {
 			"hp": 95,
 			"atk": 117,
@@ -436,8 +454,7 @@
 			"spdef": 90,
 			"spe": 112
 		},
-		"megas": [],
-		"abilities": ["Intimidation", "Impudence", "Colérique"]
+		"megas": []
 	},
 	{
 		"no": 563,
@@ -445,6 +462,8 @@
 		"name_en": "Cofagrigus",
 		"image": "pokemon/563.png",
 		"types": ["Spectre"],
+		"abilities": ["Momie"],
+		"moves": [],
 		"base_stats": {
 			"hp": 58,
 			"atk": 50,
@@ -461,8 +480,7 @@
 			"spdef": 125,
 			"spe": 50
 		},
-		"megas": [],
-		"abilities": ["Momie"]
+		"megas": []
 	},
 	{
 		"no": 569,
@@ -470,6 +488,8 @@
 		"name_en": "Garbodor",
 		"image": "pokemon/569.png",
 		"types": ["Poison"],
+		"abilities": ["Puanteur", "Armurouillée", "Boom Final"],
+		"moves": [],
 		"base_stats": {
 			"hp": 80,
 			"atk": 95,
@@ -486,8 +506,7 @@
 			"spdef": 102,
 			"spe": 95
 		},
-		"megas": [],
-		"abilities": ["Puanteur", "Armurouillée", "Boom Final"]
+		"megas": []
 	},
 	{
 		"no": 571,
@@ -495,6 +514,8 @@
 		"name_en": "Zoroark",
 		"image": "pokemon/571.png",
 		"types": ["Ténèbres"],
+		"abilities": ["Illusion"],
+		"moves": [],
 		"base_stats": {
 			"hp": 60,
 			"atk": 105,
@@ -511,8 +532,7 @@
 			"spdef": 80,
 			"spe": 125
 		},
-		"megas": [],
-		"abilities": ["Illusion"]
+		"megas": []
 	},
 	{
 		"no": 571,
@@ -520,6 +540,8 @@
 		"name_en": "Hisuian Zoroark",
 		"image": "pokemon/571-regional-h.png",
 		"types": ["Normal", "Spectre"],
+		"abilities": ["Illusion"],
+		"moves": [],
 		"base_stats": {
 			"hp": 55,
 			"atk": 100,
@@ -536,8 +558,7 @@
 			"spdef": 80,
 			"spe": 130
 		},
-		"megas": [],
-		"abilities": ["Illusion"]
+		"megas": []
 	},
 	{
 		"no": 579,
@@ -545,6 +566,8 @@
 		"name_en": "Reuniclus",
 		"image": "pokemon/579.png",
 		"types": ["Psy"],
+		"abilities": ["Envelocape", "Garde Magik", "Régé-Force"],
+		"moves": [],
 		"base_stats": {
 			"hp": 110,
 			"atk": 65,
@@ -561,8 +584,7 @@
 			"spdef": 105,
 			"spe": 50
 		},
-		"megas": [],
-		"abilities": ["Envelocape", "Garde Magik", "Régé-Force"]
+		"megas": []
 	},
 	{
 		"no": 584,
@@ -570,6 +592,8 @@
 		"name_en": "Vanilluxe",
 		"image": "pokemon/584.png",
 		"types": ["Glace"],
+		"abilities": ["Corps Gel", "Alerte Neige", "Armurouillée"],
+		"moves": [],
 		"base_stats": {
 			"hp": 71,
 			"atk": 95,
@@ -586,8 +610,7 @@
 			"spdef": 115,
 			"spe": 99
 		},
-		"megas": [],
-		"abilities": ["Corps Gel", "Alerte Neige", "Armurouillée"]
+		"megas": []
 	},
 	{
 		"no": 587,
@@ -595,6 +618,8 @@
 		"name_en": "Emolga",
 		"image": "pokemon/587.png",
 		"types": ["Électrik", "Vol"],
+		"abilities": ["Statik", "Motorisé"],
+		"moves": [],
 		"base_stats": {
 			"hp": 55,
 			"atk": 75,
@@ -611,8 +636,7 @@
 			"spdef": 80,
 			"spe": 123
 		},
-		"megas": [],
-		"abilities": ["Statik", "Motorisé"]
+		"megas": []
 	},
 	{
 		"no": 609,
@@ -620,6 +644,8 @@
 		"name_en": "Chandelure",
 		"image": "pokemon/609.png",
 		"types": ["Spectre", "Feu"],
+		"abilities": ["Torche", "Corps Ardent", "Infiltration"],
+		"moves": [],
 		"base_stats": {
 			"hp": 60,
 			"atk": 55,
@@ -641,8 +667,7 @@
 				"pokemon": "Méga-Lugulabre",
 				"stone": "Lugulabrite"
 			}
-		],
-		"abilities": ["Torche", "Corps Ardent", "Infiltration"]
+		]
 	},
 	{
 		"no": 609,
@@ -650,6 +675,8 @@
 		"name_en": "Mega Chandelure",
 		"image": "pokemon/609-mega.png",
 		"types": ["Spectre", "Feu"],
+		"abilities": ["Infiltration"],
+		"moves": [],
 		"base_stats": {
 			"hp": 60,
 			"atk": 75,
@@ -666,8 +693,7 @@
 			"spdef": 130,
 			"spe": 110
 		},
-		"megas": [],
-		"abilities": ["Infiltration"]
+		"megas": []
 	},
 	{
 		"no": 614,
@@ -675,6 +701,8 @@
 		"name_en": "Beartic",
 		"image": "pokemon/614.png",
 		"types": ["Glace"],
+		"abilities": ["Rideau Neige", "Chasse-Neige", "Glissade"],
+		"moves": [],
 		"base_stats": {
 			"hp": 95,
 			"atk": 130,
@@ -691,8 +719,7 @@
 			"spdef": 100,
 			"spe": 70
 		},
-		"megas": [],
-		"abilities": ["Rideau Neige", "Chasse-Neige", "Glissade"]
+		"megas": []
 	},
 	{
 		"no": 618,
@@ -700,6 +727,8 @@
 		"name_en": "Stunfisk",
 		"image": "pokemon/618.png",
 		"types": ["Sol", "Électrik"],
+		"abilities": ["Statik", "Échauffement", "Voile Sable"],
+		"moves": [],
 		"base_stats": {
 			"hp": 109,
 			"atk": 66,
@@ -716,8 +745,7 @@
 			"spdef": 119,
 			"spe": 52
 		},
-		"megas": [],
-		"abilities": ["Statik", "Échauffement", "Voile Sable"]
+		"megas": []
 	},
 	{
 		"no": 618,
@@ -725,6 +753,8 @@
 		"name_en": "Galarian Stunfisk",
 		"image": "pokemon/618-regional-g.png",
 		"types": ["Sol", "Acier"],
+		"abilities": ["Mimétisme"],
+		"moves": [],
 		"base_stats": {
 			"hp": 109,
 			"atk": 81,
@@ -741,8 +771,7 @@
 			"spdef": 104,
 			"spe": 52
 		},
-		"megas": [],
-		"abilities": ["Mimétisme"]
+		"megas": []
 	},
 	{
 		"no": 623,
@@ -750,6 +779,8 @@
 		"name_en": "Golurk",
 		"image": "pokemon/623.png",
 		"types": ["Sol", "Spectre"],
+		"abilities": ["Poing de Fer", "Maladresse", "Annule Garde"],
+		"moves": [],
 		"base_stats": {
 			"hp": 89,
 			"atk": 124,
@@ -771,8 +802,7 @@
 				"pokemon": "Méga-Golemastoc",
 				"stone": "Golemastokite"
 			}
-		],
-		"abilities": ["Poing de Fer", "Maladresse", "Annule Garde"]
+		]
 	},
 	{
 		"no": 623,
@@ -780,6 +810,8 @@
 		"name_en": "Mega Golurk",
 		"image": "pokemon/623-mega.png",
 		"types": ["Sol", "Spectre"],
+		"abilities": ["Poing Invisible"],
+		"moves": [],
 		"base_stats": {
 			"hp": 89,
 			"atk": 159,
@@ -796,8 +828,7 @@
 			"spdef": 125,
 			"spe": 75
 		},
-		"megas": [],
-		"abilities": ["Poing Invisible"]
+		"megas": []
 	},
 	{
 		"no": 635,
@@ -805,6 +836,8 @@
 		"name_en": "Hydreigon",
 		"image": "pokemon/635.png",
 		"types": ["Ténèbres", "Dragon"],
+		"abilities": ["Lévitation"],
+		"moves": [],
 		"base_stats": {
 			"hp": 92,
 			"atk": 105,
@@ -821,8 +854,7 @@
 			"spdef": 110,
 			"spe": 118
 		},
-		"megas": [],
-		"abilities": ["Lévitation"]
+		"megas": []
 	},
 	{
 		"no": 637,
@@ -830,6 +862,8 @@
 		"name_en": "Volcarona",
 		"image": "pokemon/637.png",
 		"types": ["Insecte", "Feu"],
+		"abilities": ["Corps Ardent", "Essaim"],
+		"moves": [],
 		"base_stats": {
 			"hp": 85,
 			"atk": 60,
@@ -846,7 +880,6 @@
 			"spdef": 125,
 			"spe": 120
 		},
-		"megas": [],
-		"abilities": ["Corps Ardent", "Essaim"]
+		"megas": []
 	}
 ]

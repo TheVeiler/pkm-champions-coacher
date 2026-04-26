@@ -5,6 +5,8 @@
 		"name_en": "Decidueye",
 		"image": "pokemon/724.png",
 		"types": ["Plante", "Spectre"],
+		"abilities": ["Engrais", "Longue Portée"],
+		"moves": [],
 		"base_stats": {
 			"hp": 78,
 			"atk": 107,
@@ -21,8 +23,7 @@
 			"spdef": 120,
 			"spe": 90
 		},
-		"megas": [],
-		"abilities": ["Engrais", "Longue Portée"]
+		"megas": []
 	},
 	{
 		"no": 724,
@@ -30,6 +31,8 @@
 		"name_en": "Hisuian Decidueye",
 		"image": "pokemon/724-regional-h.png",
 		"types": ["Plante", "Combat"],
+		"abilities": ["Engrais", "Querelleur"],
+		"moves": [],
 		"base_stats": {
 			"hp": 88,
 			"atk": 112,
@@ -46,8 +49,7 @@
 			"spdef": 115,
 			"spe": 80
 		},
-		"megas": [],
-		"abilities": ["Engrais", "Querelleur"]
+		"megas": []
 	},
 	{
 		"no": 727,
@@ -55,6 +57,8 @@
 		"name_en": "Incineroar",
 		"image": "pokemon/727.png",
 		"types": ["Feu", "Ténèbres"],
+		"abilities": ["Brasier", "Intimidation"],
+		"moves": [],
 		"base_stats": {
 			"hp": 95,
 			"atk": 115,
@@ -71,8 +75,7 @@
 			"spdef": 110,
 			"spe": 80
 		},
-		"megas": [],
-		"abilities": ["Brasier", "Intimidation"]
+		"megas": []
 	},
 	{
 		"no": 730,
@@ -80,6 +83,8 @@
 		"name_en": "Primarina",
 		"image": "pokemon/730.png",
 		"types": ["Eau", "Fée"],
+		"abilities": ["Torrent", "Hydrata-Son"],
+		"moves": [],
 		"base_stats": {
 			"hp": 80,
 			"atk": 74,
@@ -96,8 +101,7 @@
 			"spdef": 136,
 			"spe": 80
 		},
-		"megas": [],
-		"abilities": ["Torrent", "Hydrata-Son"]
+		"megas": []
 	},
 	{
 		"no": 733,
@@ -105,6 +109,8 @@
 		"name_en": "Toucannon",
 		"image": "pokemon/733.png",
 		"types": ["Normal", "Vol"],
+		"abilities": ["Regard Vif", "Multi-Coups", "Sans Limite"],
+		"moves": [],
 		"base_stats": {
 			"hp": 80,
 			"atk": 120,
@@ -121,8 +127,7 @@
 			"spdef": 95,
 			"spe": 80
 		},
-		"megas": [],
-		"abilities": ["Regard Vif", "Multi-Coups", "Sans Limite"]
+		"megas": []
 	},
 	{
 		"no": 740,
@@ -130,6 +135,8 @@
 		"name_en": "Crabominable",
 		"image": "pokemon/740.png",
 		"types": ["Combat", "Glace"],
+		"abilities": ["Hyper Cutter", "Poing de Fer", "Colérique"],
+		"moves": [],
 		"base_stats": {
 			"hp": 97,
 			"atk": 132,
@@ -151,8 +158,7 @@
 				"pokemon": "Méga-Crabominable",
 				"stone": "Crabominablite"
 			}
-		],
-		"abilities": ["Hyper Cutter", "Poing de Fer", "Colérique"]
+		]
 	},
 	{
 		"no": 740,
@@ -160,6 +166,8 @@
 		"name_en": "Mega Crabominable",
 		"image": "pokemon/740-mega.png",
 		"types": ["Combat", "Glace"],
+		"abilities": ["Poing de Fer"],
+		"moves": [],
 		"base_stats": {
 			"hp": 97,
 			"atk": 157,
@@ -176,8 +184,7 @@
 			"spdef": 127,
 			"spe": 53
 		},
-		"megas": [],
-		"abilities": ["Poing de Fer"]
+		"megas": []
 	},
 	{
 		"no": 745,
@@ -185,6 +192,8 @@
 		"name_en": "Midday Lycanroc",
 		"image": "pokemon/745.png",
 		"types": ["Roche"],
+		"abilities": ["Regard Vif", "Baigne Sable", "Impassible"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 115,
@@ -201,8 +210,7 @@
 			"spdef": 85,
 			"spe": 132
 		},
-		"megas": [],
-		"abilities": ["Regard Vif", "Baigne Sable", "Impassible"]
+		"megas": []
 	},
 	{
 		"no": 745,
@@ -210,6 +218,8 @@
 		"name_en": "Midnight Lycanroc",
 		"image": "pokemon/745-midnight.png",
 		"types": ["Roche"],
+		"abilities": ["Regard Vif", "Esprit Vital", "Annule Garde"],
+		"moves": [],
 		"base_stats": {
 			"hp": 85,
 			"atk": 115,
@@ -226,8 +236,7 @@
 			"spdef": 95,
 			"spe": 102
 		},
-		"megas": [],
-		"abilities": ["Regard Vif", "Esprit Vital", "Annule Garde"]
+		"megas": []
 	},
 	{
 		"no": 745,
@@ -235,6 +244,8 @@
 		"name_en": "Dusk Lycanroc",
 		"image": "pokemon/745-dusk.png",
 		"types": ["Roche"],
+		"abilities": ["Griffe Dure"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 117,
@@ -251,8 +262,7 @@
 			"spdef": 85,
 			"spe": 130
 		},
-		"megas": [],
-		"abilities": ["Griffe Dure"]
+		"megas": []
 	},
 	{
 		"no": 748,
@@ -260,6 +270,8 @@
 		"name_en": "Toxapex",
 		"image": "pokemon/748.png",
 		"types": ["Poison", "Eau"],
+		"abilities": ["Cruauté", "Échauffement", "Régé-Force"],
+		"moves": [],
 		"base_stats": {
 			"hp": 50,
 			"atk": 63,
@@ -276,8 +288,7 @@
 			"spdef": 162,
 			"spe": 55
 		},
-		"megas": [],
-		"abilities": ["Cruauté", "Échauffement", "Régé-Force"]
+		"megas": []
 	},
 	{
 		"no": 750,
@@ -285,6 +296,8 @@
 		"name_en": "Mudsdale",
 		"image": "pokemon/750.png",
 		"types": ["Sol"],
+		"abilities": ["Tempo Perso", "Endurance", "Attention"],
+		"moves": [],
 		"base_stats": {
 			"hp": 100,
 			"atk": 125,
@@ -301,8 +314,7 @@
 			"spdef": 105,
 			"spe": 55
 		},
-		"megas": [],
-		"abilities": ["Tempo Perso", "Endurance", "Attention"]
+		"megas": []
 	},
 	{
 		"no": 752,
@@ -310,6 +322,8 @@
 		"name_en": "Araquanid",
 		"image": "pokemon/752.png",
 		"types": ["Eau", "Insecte"],
+		"abilities": ["Aquabulle", "Absorbe-Eau"],
+		"moves": [],
 		"base_stats": {
 			"hp": 68,
 			"atk": 70,
@@ -326,8 +340,7 @@
 			"spdef": 152,
 			"spe": 62
 		},
-		"megas": [],
-		"abilities": ["Aquabulle", "Absorbe-Eau"]
+		"megas": []
 	},
 	{
 		"no": 758,
@@ -335,6 +348,8 @@
 		"name_en": "Salazzle",
 		"image": "pokemon/758.png",
 		"types": ["Poison", "Feu"],
+		"abilities": ["Corrosion", "Benêt"],
+		"moves": [],
 		"base_stats": {
 			"hp": 68,
 			"atk": 64,
@@ -351,8 +366,7 @@
 			"spdef": 80,
 			"spe": 137
 		},
-		"megas": [],
-		"abilities": ["Corrosion", "Benêt"]
+		"megas": []
 	},
 	{
 		"no": 763,
@@ -360,6 +374,8 @@
 		"name_en": "Tsareena",
 		"image": "pokemon/763.png",
 		"types": ["Plante"],
+		"abilities": ["Feuille Garde", "Prestance Royale", "Gluco-Voile"],
+		"moves": [],
 		"base_stats": {
 			"hp": 72,
 			"atk": 120,
@@ -376,8 +392,7 @@
 			"spdef": 118,
 			"spe": 92
 		},
-		"megas": [],
-		"abilities": ["Feuille Garde", "Prestance Royale", "Gluco-Voile"]
+		"megas": []
 	},
 	{
 		"no": 765,
@@ -385,6 +400,8 @@
 		"name_en": "Oranguru",
 		"image": "pokemon/765.png",
 		"types": ["Normal", "Psy"],
+		"abilities": ["Attention", "Télépathe", "Symbiose"],
+		"moves": [],
 		"base_stats": {
 			"hp": 90,
 			"atk": 60,
@@ -401,8 +418,7 @@
 			"spdef": 130,
 			"spe": 80
 		},
-		"megas": [],
-		"abilities": ["Attention", "Télépathe", "Symbiose"]
+		"megas": []
 	},
 	{
 		"no": 766,
@@ -410,6 +426,8 @@
 		"name_en": "Passimian",
 		"image": "pokemon/766.png",
 		"types": ["Combat"],
+		"abilities": ["Receveur", "Acharné"],
+		"moves": [],
 		"base_stats": {
 			"hp": 100,
 			"atk": 120,
@@ -426,8 +444,7 @@
 			"spdef": 80,
 			"spe": 100
 		},
-		"megas": [],
-		"abilities": ["Receveur", "Acharné"]
+		"megas": []
 	},
 	{
 		"no": 778,
@@ -435,6 +452,8 @@
 		"name_en": "Mimikyu",
 		"image": "pokemon/778.png",
 		"types": ["Spectre", "Fée"],
+		"abilities": ["Fantômasque"],
+		"moves": [],
 		"base_stats": {
 			"hp": 55,
 			"atk": 90,
@@ -451,8 +470,7 @@
 			"spdef": 125,
 			"spe": 116
 		},
-		"megas": [],
-		"abilities": ["Fantômasque"]
+		"megas": []
 	},
 	{
 		"no": 780,
@@ -460,6 +478,8 @@
 		"name_en": "Drampa",
 		"image": "pokemon/780.png",
 		"types": ["Normal", "Dragon"],
+		"abilities": ["Folle Furie", "Herbivore", "Ciel Gris"],
+		"moves": [],
 		"base_stats": {
 			"hp": 78,
 			"atk": 60,
@@ -481,8 +501,7 @@
 				"pokemon": "Méga-Draïeul",
 				"stone": "Draïeulite"
 			}
-		],
-		"abilities": ["Folle Furie", "Herbivore", "Ciel Gris"]
+		]
 	},
 	{
 		"no": 780,
@@ -490,6 +509,8 @@
 		"name_en": "Mega Drampa",
 		"image": "pokemon/780-mega.png",
 		"types": ["Normal", "Dragon"],
+		"abilities": ["Folle Furie"],
+		"moves": [],
 		"base_stats": {
 			"hp": 78,
 			"atk": 85,
@@ -506,8 +527,7 @@
 			"spdef": 136,
 			"spe": 56
 		},
-		"megas": [],
-		"abilities": ["Folle Furie"]
+		"megas": []
 	},
 	{
 		"no": 784,
@@ -515,6 +535,8 @@
 		"name_en": "Kommo-o",
 		"image": "pokemon/784.png",
 		"types": ["Dragon", "Combat"],
+		"abilities": ["Pare-Balles", "Anti-Bruit", "Envelocape"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 110,
@@ -531,7 +553,6 @@
 			"spdef": 125,
 			"spe": 105
 		},
-		"megas": [],
-		"abilities": ["Pare-Balles", "Anti-Bruit", "Envelocape"]
+		"megas": []
 	}
 ]

@@ -1,4 +1,4 @@
-import { Pokemon_has_Mega } from "../models/index.js";
+import { Pokemon_has_Move } from "../models/index.js";
 
 import jsonPart1 from "./Pokemon.part1.json" with { type: "json" };
 import jsonPart2 from "./Pokemon.part2.json" with { type: "json" };
@@ -25,15 +25,9 @@ const jsonPokemons = [
 export default {
 	up: async () => {
 		try {
-			await Pokemon_has_Mega.bulkCreate(
+			await Pokemon_has_Move.bulkCreate(
 				jsonPokemons
-					.map(({ name, megas }) =>
-						megas.map(({ pokemon, stone }) => ({
-							base_pokemon: name,
-							mega_pokemon: pokemon,
-							stone: stone,
-						})),
-					)
+					.map(({ name, moves }) => moves.map((move) => ({ pokemon: name, move })))
 					.flat(),
 			);
 		} catch (e) {

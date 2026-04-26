@@ -5,6 +5,8 @@
 		"name_en": "Meganium",
 		"image": "pokemon/154.png",
 		"types": ["Plante"],
+		"abilities": ["Engrais", "Feuille Garde"],
+		"moves": [],
 		"base_stats": {
 			"hp": 80,
 			"atk": 82,
@@ -26,8 +28,7 @@
 				"pokemon": "Méga-Méganium",
 				"stone": "Méganiumite"
 			}
-		],
-		"abilities": ["Engrais", "Feuille Garde"]
+		]
 	},
 	{
 		"no": 154,
@@ -35,6 +36,8 @@
 		"name_en": "Mega Meganium",
 		"image": "pokemon/154-mega.png",
 		"types": ["Plante", "Fée"],
+		"abilities": ["Méga-Soleil"],
+		"moves": [],
 		"base_stats": {
 			"hp": 80,
 			"atk": 92,
@@ -51,8 +54,7 @@
 			"spdef": 135,
 			"spe": 100
 		},
-		"megas": [],
-		"abilities": ["Méga-Soleil"]
+		"megas": []
 	},
 	{
 		"no": 157,
@@ -60,6 +62,8 @@
 		"name_en": "Typhlosion",
 		"image": "pokemon/157.png",
 		"types": ["Feu"],
+		"abilities": ["Brasier", "Torche"],
+		"moves": [],
 		"base_stats": {
 			"hp": 78,
 			"atk": 84,
@@ -76,8 +80,7 @@
 			"spdef": 105,
 			"spe": 120
 		},
-		"megas": [],
-		"abilities": ["Brasier", "Torche"]
+		"megas": []
 	},
 	{
 		"no": 157,
@@ -85,6 +88,8 @@
 		"name_en": "Hisuian Typhlosion",
 		"image": "pokemon/157-regional-h.png",
 		"types": ["Feu", "Spectre"],
+		"abilities": ["Brasier", "Fouille"],
+		"moves": [],
 		"base_stats": {
 			"hp": 73,
 			"atk": 84,
@@ -101,8 +106,7 @@
 			"spdef": 105,
 			"spe": 115
 		},
-		"megas": [],
-		"abilities": ["Brasier", "Fouille"]
+		"megas": []
 	},
 	{
 		"no": 160,
@@ -110,6 +114,8 @@
 		"name_en": "Feraligatr",
 		"image": "pokemon/160.png",
 		"types": ["Eau"],
+		"abilities": ["Torrent", "Sans Limite"],
+		"moves": [],
 		"base_stats": {
 			"hp": 85,
 			"atk": 105,
@@ -131,8 +137,7 @@
 				"pokemon": "Méga-Aligatueur",
 				"stone": "Aligatueurite"
 			}
-		],
-		"abilities": ["Torrent", "Sans Limite"]
+		]
 	},
 	{
 		"no": 160,
@@ -140,6 +145,8 @@
 		"name_en": "Mega Feraligatr",
 		"image": "pokemon/160-mega.png",
 		"types": ["Eau", "Dragon"],
+		"abilities": ["Peau Draconique"],
+		"moves": [],
 		"base_stats": {
 			"hp": 85,
 			"atk": 160,
@@ -156,8 +163,7 @@
 			"spdef": 113,
 			"spe": 98
 		},
-		"megas": [],
-		"abilities": ["Peau Draconique"]
+		"megas": []
 	},
 	{
 		"no": 168,
@@ -165,6 +171,8 @@
 		"name_en": "Ariados",
 		"image": "pokemon/168.png",
 		"types": ["Insecte", "Poison"],
+		"abilities": ["Essaim", "Insomnia", "Sniper"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 90,
@@ -181,8 +189,7 @@
 			"spdef": 90,
 			"spe": 60
 		},
-		"megas": [],
-		"abilities": ["Essaim", "Insomnia", "Sniper"]
+		"megas": []
 	},
 	{
 		"no": 181,
@@ -190,6 +197,8 @@
 		"name_en": "Ampharos",
 		"image": "pokemon/181.png",
 		"types": ["Électrik"],
+		"abilities": ["Statik", "Plus"],
+		"moves": [],
 		"base_stats": {
 			"hp": 90,
 			"atk": 75,
@@ -211,8 +220,7 @@
 				"pokemon": "Méga-Pharamp",
 				"stone": "Pharamapite"
 			}
-		],
-		"abilities": ["Statik", "Plus"]
+		]
 	},
 	{
 		"no": 181,
@@ -220,6 +228,8 @@
 		"name_en": "Mega Ampharos",
 		"image": "pokemon/181-mega.png",
 		"types": ["Électrik", "Dragon"],
+		"abilities": ["Brise Moule"],
+		"moves": [],
 		"base_stats": {
 			"hp": 90,
 			"atk": 95,
@@ -236,8 +246,7 @@
 			"spdef": 130,
 			"spe": 65
 		},
-		"megas": [],
-		"abilities": ["Brise Moule"]
+		"megas": []
 	},
 	{
 		"no": 184,
@@ -245,6 +254,8 @@
 		"name_en": "Azumarill",
 		"image": "pokemon/184.png",
 		"types": ["Eau", "Fée"],
+		"abilities": ["Isograisse", "Coloforce", "Herbivore"],
+		"moves": [],
 		"base_stats": {
 			"hp": 100,
 			"atk": 50,
@@ -261,8 +272,7 @@
 			"spdef": 100,
 			"spe": 70
 		},
-		"megas": [],
-		"abilities": ["Isograisse", "Coloforce", "Herbivore"]
+		"megas": []
 	},
 	{
 		"no": 186,
@@ -270,6 +280,8 @@
 		"name_en": "Politoed",
 		"image": "pokemon/186.png",
 		"types": ["Eau"],
+		"abilities": ["Absorbe-Eau", "Moiteur", "Crachin"],
+		"moves": [],
 		"base_stats": {
 			"hp": 90,
 			"atk": 75,
@@ -286,8 +298,7 @@
 			"spdef": 120,
 			"spe": 90
 		},
-		"megas": [],
-		"abilities": ["Absorbe-Eau", "Moiteur", "Crachin"]
+		"megas": []
 	},
 	{
 		"no": 196,
@@ -295,6 +306,8 @@
 		"name_en": "Espeon",
 		"image": "pokemon/196.png",
 		"types": ["Psy"],
+		"abilities": ["Synchro", "Miroir Magik"],
+		"moves": [],
 		"base_stats": {
 			"hp": 65,
 			"atk": 65,
@@ -311,8 +324,7 @@
 			"spdef": 115,
 			"spe": 130
 		},
-		"megas": [],
-		"abilities": ["Synchro", "Miroir Magik"]
+		"megas": []
 	},
 	{
 		"no": 197,
@@ -320,6 +332,8 @@
 		"name_en": "Umbreon",
 		"image": "pokemon/197.png",
 		"types": ["Ténèbres"],
+		"abilities": ["Synchro", "Attention"],
+		"moves": [],
 		"base_stats": {
 			"hp": 95,
 			"atk": 65,
@@ -336,8 +350,7 @@
 			"spdef": 150,
 			"spe": 85
 		},
-		"megas": [],
-		"abilities": ["Synchro", "Attention"]
+		"megas": []
 	},
 	{
 		"no": 199,
@@ -345,6 +358,8 @@
 		"name_en": "Slowking",
 		"image": "pokemon/199.png",
 		"types": ["Eau", "Psy"],
+		"abilities": ["Benêt", "Tempo Perso", "Régé-Force"],
+		"moves": [],
 		"base_stats": {
 			"hp": 95,
 			"atk": 75,
@@ -361,8 +376,7 @@
 			"spdef": 130,
 			"spe": 50
 		},
-		"megas": [],
-		"abilities": ["Benêt", "Tempo Perso", "Régé-Force"]
+		"megas": []
 	},
 	{
 		"no": 199,
@@ -370,6 +384,8 @@
 		"name_en": "Galarian Slowking",
 		"image": "pokemon/199-regional-g.png",
 		"types": ["Poison", "Psy"],
+		"abilities": ["Breuvage Suspect", "Tempo Perso", "Régé-Force"],
+		"moves": [],
 		"base_stats": {
 			"hp": 95,
 			"atk": 65,
@@ -386,8 +402,7 @@
 			"spdef": 130,
 			"spe": 50
 		},
-		"megas": [],
-		"abilities": ["Breuvage Suspect", "Tempo Perso", "Régé-Force"]
+		"megas": []
 	},
 	{
 		"no": 205,
@@ -395,6 +410,8 @@
 		"name_en": "Forretress",
 		"image": "pokemon/205.png",
 		"types": ["Insecte", "Acier"],
+		"abilities": ["Fermeté", "Envelocape"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 90,
@@ -411,8 +428,7 @@
 			"spdef": 80,
 			"spe": 60
 		},
-		"megas": [],
-		"abilities": ["Fermeté", "Envelocape"]
+		"megas": []
 	},
 	{
 		"no": 208,
@@ -420,6 +436,8 @@
 		"name_en": "Steelix",
 		"image": "pokemon/208.png",
 		"types": ["Acier", "Sol"],
+		"abilities": ["Tête de Roc", "Fermeté", "Sans Limite"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 85,
@@ -441,8 +459,7 @@
 				"pokemon": "Méga-Steelix",
 				"stone": "Steelixite"
 			}
-		],
-		"abilities": ["Tête de Roc", "Fermeté", "Sans Limite"]
+		]
 	},
 	{
 		"no": 208,
@@ -450,6 +467,8 @@
 		"name_en": "Mega Steelix",
 		"image": "pokemon/208-mega.png",
 		"types": ["Acier", "Sol"],
+		"abilities": ["Force Sable"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 125,
@@ -466,8 +485,7 @@
 			"spdef": 115,
 			"spe": 50
 		},
-		"megas": [],
-		"abilities": ["Force Sable"]
+		"megas": []
 	},
 	{
 		"no": 212,
@@ -475,6 +493,8 @@
 		"name_en": "Scizor",
 		"image": "pokemon/212.png",
 		"types": ["Insecte", "Acier"],
+		"abilities": ["Essaim", "Technicien", "Light Metal"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 130,
@@ -496,8 +516,7 @@
 				"pokemon": "Méga-Cizayox",
 				"stone": "Cizayoxite"
 			}
-		],
-		"abilities": ["Essaim", "Technicien", "Light Metal"]
+		]
 	},
 	{
 		"no": 212,
@@ -505,6 +524,8 @@
 		"name_en": "Mega Scizor",
 		"image": "pokemon/212-mega.png",
 		"types": ["Insecte", "Acier"],
+		"abilities": ["Technicien"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 150,
@@ -521,8 +542,7 @@
 			"spdef": 120,
 			"spe": 95
 		},
-		"megas": [],
-		"abilities": ["Technicien"]
+		"megas": []
 	},
 	{
 		"no": 214,
@@ -530,6 +550,8 @@
 		"name_en": "Heracross",
 		"image": "pokemon/214.png",
 		"types": ["Insecte", "Combat"],
+		"abilities": ["Essaim", "Cran", "Impudence"],
+		"moves": [],
 		"base_stats": {
 			"hp": 80,
 			"atk": 125,
@@ -551,8 +573,7 @@
 				"pokemon": "Méga-Scarhino",
 				"stone": "Scarhinoïte"
 			}
-		],
-		"abilities": ["Essaim", "Cran", "Impudence"]
+		]
 	},
 	{
 		"no": 214,
@@ -560,6 +581,8 @@
 		"name_en": "Mega Heracross",
 		"image": "pokemon/214-mega.png",
 		"types": ["Insecte", "Combat"],
+		"abilities": ["Multi-Coups"],
+		"moves": [],
 		"base_stats": {
 			"hp": 80,
 			"atk": 185,
@@ -576,8 +599,7 @@
 			"spdef": 125,
 			"spe": 95
 		},
-		"megas": [],
-		"abilities": ["Multi-Coups"]
+		"megas": []
 	},
 	{
 		"no": 227,
@@ -585,6 +607,8 @@
 		"name_en": "Skarmory",
 		"image": "pokemon/227.png",
 		"types": ["Acier", "Vol"],
+		"abilities": ["Regard Vif", "Fermeté", "Armurouillée"],
+		"moves": [],
 		"base_stats": {
 			"hp": 65,
 			"atk": 80,
@@ -606,8 +630,7 @@
 				"pokemon": "Méga-Airmure",
 				"stone": "Airmurite"
 			}
-		],
-		"abilities": ["Regard Vif", "Fermeté", "Armurouillée"]
+		]
 	},
 	{
 		"no": 227,
@@ -615,6 +638,8 @@
 		"name_en": "Mega Skarmory",
 		"image": "pokemon/227-mega.png",
 		"types": ["Acier", "Vol"],
+		"abilities": ["Nerfs d'Acier"],
+		"moves": [],
 		"base_stats": {
 			"hp": 65,
 			"atk": 140,
@@ -631,8 +656,7 @@
 			"spdef": 120,
 			"spe": 130
 		},
-		"megas": [],
-		"abilities": ["Nerfs d'Acier"]
+		"megas": []
 	},
 	{
 		"no": 229,
@@ -640,6 +664,8 @@
 		"name_en": "Houndoom",
 		"image": "pokemon/229.png",
 		"types": ["Ténèbres", "Feu"],
+		"abilities": ["Matinal", "Torche", "Tension"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 90,
@@ -661,8 +687,7 @@
 				"pokemon": "Méga-Démolosse",
 				"stone": "Démolossite"
 			}
-		],
-		"abilities": ["Matinal", "Torche", "Tension"]
+		]
 	},
 	{
 		"no": 229,
@@ -670,6 +695,8 @@
 		"name_en": "Mega Houndoom",
 		"image": "pokemon/229-mega.png",
 		"types": ["Ténèbres", "Feu"],
+		"abilities": ["Force Soleil"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 90,
@@ -686,8 +713,7 @@
 			"spdef": 110,
 			"spe": 135
 		},
-		"megas": [],
-		"abilities": ["Force Soleil"]
+		"megas": []
 	},
 	{
 		"no": 248,
@@ -695,6 +721,8 @@
 		"name_en": "Tyranitar",
 		"image": "pokemon/248.png",
 		"types": ["Roche", "Ténèbres"],
+		"abilities": ["Sable Volant", "Tension"],
+		"moves": [],
 		"base_stats": {
 			"hp": 100,
 			"atk": 134,
@@ -716,8 +744,7 @@
 				"pokemon": "Méga-Tyranocif",
 				"stone": "Tyranocivite"
 			}
-		],
-		"abilities": ["Sable Volant", "Tension"]
+		]
 	},
 	{
 		"no": 248,
@@ -725,6 +752,8 @@
 		"name_en": "Mega Tyranitar",
 		"image": "pokemon/248-mega.png",
 		"types": ["Roche", "Ténèbres"],
+		"abilities": ["Sable Volant"],
+		"moves": [],
 		"base_stats": {
 			"hp": 100,
 			"atk": 164,
@@ -741,7 +770,6 @@
 			"spdef": 140,
 			"spe": 91
 		},
-		"megas": [],
-		"abilities": ["Sable Volant"]
+		"megas": []
 	}
 ]

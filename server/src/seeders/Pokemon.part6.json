@@ -5,6 +5,8 @@
 		"name_en": "Chesnaught",
 		"image": "pokemon/652.png",
 		"types": ["Plante", "Combat"],
+		"abilities": ["Engrais", "Pare-Balles"],
+		"moves": [],
 		"base_stats": {
 			"hp": 88,
 			"atk": 107,
@@ -26,8 +28,7 @@
 				"pokemon": "Méga-Blindépique",
 				"stone": "Blindépiquite"
 			}
-		],
-		"abilities": ["Engrais", "Pare-Balles"]
+		]
 	},
 	{
 		"no": 652,
@@ -35,6 +36,8 @@
 		"name_en": "Mega Chesnaught",
 		"image": "pokemon/652-mega.png",
 		"types": ["Plante", "Combat"],
+		"abilities": ["Pare-Balles"],
+		"moves": [],
 		"base_stats": {
 			"hp": 88,
 			"atk": 137,
@@ -51,8 +54,7 @@
 			"spdef": 135,
 			"spe": 64
 		},
-		"megas": [],
-		"abilities": ["Pare-Balles"]
+		"megas": []
 	},
 	{
 		"no": 655,
@@ -60,6 +62,8 @@
 		"name_en": "Delphox",
 		"image": "pokemon/655.png",
 		"types": ["Feu", "Psy"],
+		"abilities": ["Brasier", "Magicien"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 69,
@@ -81,8 +85,7 @@
 				"pokemon": "Méga-Goupelin",
 				"stone": "Goupelinite"
 			}
-		],
-		"abilities": ["Brasier", "Magicien"]
+		]
 	},
 	{
 		"no": 655,
@@ -90,6 +93,8 @@
 		"name_en": "Mega Delphox",
 		"image": "pokemon/655-mega.png",
 		"types": ["Feu", "Psy"],
+		"abilities": ["Lévitation"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 69,
@@ -106,8 +111,7 @@
 			"spdef": 145,
 			"spe": 154
 		},
-		"megas": [],
-		"abilities": ["Lévitation"]
+		"megas": []
 	},
 	{
 		"no": 658,
@@ -115,6 +119,8 @@
 		"name_en": "Greninja",
 		"image": "pokemon/658.png",
 		"types": ["Eau", "Ténèbres"],
+		"abilities": ["Synergie"],
+		"moves": [],
 		"base_stats": {
 			"hp": 72,
 			"atk": 95,
@@ -136,8 +142,7 @@
 				"pokemon": "Méga-Amphinobi",
 				"stone": "Amphinolite"
 			}
-		],
-		"abilities": ["Synergie"]
+		]
 	},
 	{
 		"no": 658,
@@ -145,6 +150,8 @@
 		"name_en": "Mega Greninja",
 		"image": "pokemon/658-mega.png",
 		"types": ["Eau", "Ténèbres"],
+		"abilities": ["Protéen"],
+		"moves": [],
 		"base_stats": {
 			"hp": 72,
 			"atk": 125,
@@ -161,8 +168,7 @@
 			"spdef": 101,
 			"spe": 162
 		},
-		"megas": [],
-		"abilities": ["Protéen"]
+		"megas": []
 	},
 	{
 		"no": 660,
@@ -170,6 +176,8 @@
 		"name_en": "Diggersby",
 		"image": "pokemon/660.png",
 		"types": ["Normal", "Sol"],
+		"abilities": ["Ramassage", "Bajoues", "Coloforce"],
+		"moves": [],
 		"base_stats": {
 			"hp": 85,
 			"atk": 56,
@@ -186,8 +194,7 @@
 			"spdef": 97,
 			"spe": 98
 		},
-		"megas": [],
-		"abilities": ["Ramassage", "Bajoues", "Coloforce"]
+		"megas": []
 	},
 	{
 		"no": 663,
@@ -195,6 +202,8 @@
 		"name_en": "Talonflame",
 		"image": "pokemon/663.png",
 		"types": ["Feu", "Vol"],
+		"abilities": ["Corps Ardent", "Ailes Bourrasque"],
+		"moves": [],
 		"base_stats": {
 			"hp": 78,
 			"atk": 81,
@@ -211,8 +220,7 @@
 			"spdef": 89,
 			"spe": 146
 		},
-		"megas": [],
-		"abilities": ["Corps Ardent", "Ailes Bourrasque"]
+		"megas": []
 	},
 	{
 		"no": 666,
@@ -220,6 +228,8 @@
 		"name_en": "Vivillon",
 		"image": "pokemon/666.png",
 		"types": ["Insecte", "Vol"],
+		"abilities": ["Écran Poudre", "Œil Composé", "Garde-Ami"],
+		"moves": [],
 		"base_stats": {
 			"hp": 80,
 			"atk": 52,
@@ -236,8 +246,7 @@
 			"spdef": 70,
 			"spe": 109
 		},
-		"megas": [],
-		"abilities": ["Écran Poudre", "Œil Composé", "Garde-Ami"]
+		"megas": []
 	},
 	{
 		"no": 670,
@@ -245,6 +254,8 @@
 		"name_en": "Eternal Floette",
 		"image": "pokemon/670-eternal.png",
 		"types": ["Fée"],
+		"abilities": ["Flora-Voile", "Symbiose"],
+		"moves": [],
 		"base_stats": {
 			"hp": 74,
 			"atk": 65,
@@ -261,8 +272,7 @@
 			"spdef": 148,
 			"spe": 112
 		},
-		"megas": [],
-		"abilities": ["Flora-Voile", "Symbiose"]
+		"megas": []
 	},
 	{
 		"no": 670,
@@ -270,6 +280,8 @@
 		"name_en": "Mega Floette",
 		"image": "pokemon/670-mega.png",
 		"types": ["Fée"],
+		"abilities": ["Aura Féérique"],
+		"moves": [],
 		"base_stats": {
 			"hp": 74,
 			"atk": 85,
@@ -286,8 +298,7 @@
 			"spdef": 168,
 			"spe": 122
 		},
-		"megas": [],
-		"abilities": ["Aura Féérique"]
+		"megas": []
 	},
 	{
 		"no": 671,
@@ -295,6 +306,8 @@
 		"name_en": "Florges",
 		"image": "pokemon/671.png",
 		"types": ["Fée"],
+		"abilities": ["Flora-Voile", "Symbiose"],
+		"moves": [],
 		"base_stats": {
 			"hp": 78,
 			"atk": 65,
@@ -311,8 +324,7 @@
 			"spdef": 174,
 			"spe": 95
 		},
-		"megas": [],
-		"abilities": ["Flora-Voile", "Symbiose"]
+		"megas": []
 	},
 	{
 		"no": 675,
@@ -320,6 +332,8 @@
 		"name_en": "Pangoro",
 		"image": "pokemon/675.png",
 		"types": ["Combat", "Ténèbres"],
+		"abilities": ["Poing de Fer", "Brise Moule", "Querelleur"],
+		"moves": [],
 		"base_stats": {
 			"hp": 95,
 			"atk": 124,
@@ -336,8 +350,7 @@
 			"spdef": 91,
 			"spe": 78
 		},
-		"megas": [],
-		"abilities": ["Poing de Fer", "Brise Moule", "Querelleur"]
+		"megas": []
 	},
 	{
 		"no": 676,
@@ -345,6 +358,8 @@
 		"name_en": "Furfrou",
 		"image": "pokemon/676.png",
 		"types": ["Normal"],
+		"abilities": ["Toison Épaisse"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 80,
@@ -361,8 +376,7 @@
 			"spdef": 110,
 			"spe": 122
 		},
-		"megas": [],
-		"abilities": ["Toison Épaisse"]
+		"megas": []
 	},
 	{
 		"no": 678,
@@ -370,6 +384,8 @@
 		"name_en": "Male Meowstic",
 		"image": "pokemon/678-male.png",
 		"types": ["Psy"],
+		"abilities": ["Regard Vif", "Infiltration", "Farceur"],
+		"moves": [],
 		"base_stats": {
 			"hp": 74,
 			"atk": 48,
@@ -386,8 +402,7 @@
 			"spdef": 101,
 			"spe": 124
 		},
-		"megas": [],
-		"abilities": ["Regard Vif", "Infiltration", "Farceur"]
+		"megas": []
 	},
 	{
 		"no": 678,
@@ -395,6 +410,8 @@
 		"name_en": "Female Meowstic",
 		"image": "pokemon/678-female.png",
 		"types": ["Psy"],
+		"abilities": ["Regard Vif", "Infiltration", "Battant"],
+		"moves": [],
 		"base_stats": {
 			"hp": 74,
 			"atk": 48,
@@ -411,8 +428,7 @@
 			"spdef": 101,
 			"spe": 124
 		},
-		"megas": [],
-		"abilities": ["Regard Vif", "Infiltration", "Battant"]
+		"megas": []
 	},
 	{
 		"no": 678,
@@ -420,6 +436,8 @@
 		"name_en": "Mega Meowstic",
 		"image": "pokemon/678-mega.png",
 		"types": ["Psy"],
+		"abilities": ["Calque"],
+		"moves": [],
 		"base_stats": {
 			"hp": 74,
 			"atk": 48,
@@ -436,8 +454,7 @@
 			"spdef": 121,
 			"spe": 144
 		},
-		"megas": [],
-		"abilities": ["Calque"]
+		"megas": []
 	},
 	{
 		"no": 681,
@@ -445,6 +462,8 @@
 		"name_en": "Aegislash",
 		"image": "pokemon/681.png",
 		"types": ["Acier", "Spectre"],
+		"abilities": ["Déclic Tactique"],
+		"moves": [],
 		"base_stats": {
 			"hp": 60,
 			"atk": 50,
@@ -461,8 +480,7 @@
 			"spdef": 160,
 			"spe": 80
 		},
-		"megas": [],
-		"abilities": ["Déclic Tactique"]
+		"megas": []
 	},
 	{
 		"no": 683,
@@ -470,6 +488,8 @@
 		"name_en": "Aromatisse",
 		"image": "pokemon/683.png",
 		"types": ["Fée"],
+		"abilities": ["Cœur Soin", "Aroma-Voile"],
+		"moves": [],
 		"base_stats": {
 			"hp": 101,
 			"atk": 72,
@@ -486,8 +506,7 @@
 			"spdef": 109,
 			"spe": 49
 		},
-		"megas": [],
-		"abilities": ["Cœur Soin", "Aroma-Voile"]
+		"megas": []
 	},
 	{
 		"no": 685,
@@ -495,6 +514,8 @@
 		"name_en": "Slurpuff",
 		"image": "pokemon/685.png",
 		"types": ["Fée"],
+		"abilities": ["Gluco-Voile", "Délestage"],
+		"moves": [],
 		"base_stats": {
 			"hp": 82,
 			"atk": 80,
@@ -511,8 +532,7 @@
 			"spdef": 95,
 			"spe": 92
 		},
-		"megas": [],
-		"abilities": ["Gluco-Voile", "Délestage"]
+		"megas": []
 	},
 	{
 		"no": 693,
@@ -520,6 +540,8 @@
 		"name_en": "Clawitzer",
 		"image": "pokemon/693.png",
 		"types": ["Eau"],
+		"abilities": ["Méga Blaster"],
+		"moves": [],
 		"base_stats": {
 			"hp": 71,
 			"atk": 73,
@@ -536,8 +558,7 @@
 			"spdef": 109,
 			"spe": 79
 		},
-		"megas": [],
-		"abilities": ["Méga Blaster"]
+		"megas": []
 	},
 	{
 		"no": 695,
@@ -545,6 +566,8 @@
 		"name_en": "Heliolisk",
 		"image": "pokemon/695.png",
 		"types": ["Électrik", "Normal"],
+		"abilities": ["Peau Sèche", "Voile Sable", "Force Soleil"],
+		"moves": [],
 		"base_stats": {
 			"hp": 62,
 			"atk": 55,
@@ -561,8 +584,7 @@
 			"spdef": 114,
 			"spe": 129
 		},
-		"megas": [],
-		"abilities": ["Peau Sèche", "Voile Sable", "Force Soleil"]
+		"megas": []
 	},
 	{
 		"no": 697,
@@ -570,6 +592,8 @@
 		"name_en": "Tyrantrum",
 		"image": "pokemon/697.png",
 		"types": ["Roche", "Dragon"],
+		"abilities": ["Prognathe", "Tête de Roc"],
+		"moves": [],
 		"base_stats": {
 			"hp": 82,
 			"atk": 121,
@@ -586,8 +610,7 @@
 			"spdef": 79,
 			"spe": 91
 		},
-		"megas": [],
-		"abilities": ["Prognathe", "Tête de Roc"]
+		"megas": []
 	},
 	{
 		"no": 699,
@@ -595,6 +618,8 @@
 		"name_en": "Aurorus",
 		"image": "pokemon/699.png",
 		"types": ["Roche", "Glace"],
+		"abilities": ["Peau Gelée", "Alerte Neige"],
+		"moves": [],
 		"base_stats": {
 			"hp": 123,
 			"atk": 77,
@@ -611,8 +636,7 @@
 			"spdef": 112,
 			"spe": 78
 		},
-		"megas": [],
-		"abilities": ["Peau Gelée", "Alerte Neige"]
+		"megas": []
 	},
 	{
 		"no": 700,
@@ -620,6 +644,8 @@
 		"name_en": "Sylveon",
 		"image": "pokemon/700.png",
 		"types": ["Fée"],
+		"abilities": ["Joli Sourire", "Peau Féérique"],
+		"moves": [],
 		"base_stats": {
 			"hp": 95,
 			"atk": 65,
@@ -636,8 +662,7 @@
 			"spdef": 150,
 			"spe": 80
 		},
-		"megas": [],
-		"abilities": ["Joli Sourire", "Peau Féérique"]
+		"megas": []
 	},
 	{
 		"no": 701,
@@ -645,6 +670,8 @@
 		"name_en": "Hawlucha",
 		"image": "pokemon/701.png",
 		"types": ["Combat", "Vol"],
+		"abilities": ["Échauffement", "Délestage", "Brise Moule"],
+		"moves": [],
 		"base_stats": {
 			"hp": 78,
 			"atk": 92,
@@ -666,8 +693,7 @@
 				"pokemon": "Méga-Brutalibré",
 				"stone": "Brutalibrite"
 			}
-		],
-		"abilities": ["Échauffement", "Délestage", "Brise Moule"]
+		]
 	},
 	{
 		"no": 701,
@@ -675,6 +701,8 @@
 		"name_en": "Mega Hawlucha",
 		"image": "pokemon/701-mega.png",
 		"types": ["Combat", "Vol"],
+		"abilities": ["Annule Garde"],
+		"moves": [],
 		"base_stats": {
 			"hp": 78,
 			"atk": 137,
@@ -691,8 +719,7 @@
 			"spdef": 113,
 			"spe": 138
 		},
-		"megas": [],
-		"abilities": ["Annule Garde"]
+		"megas": []
 	},
 	{
 		"no": 702,
@@ -700,6 +727,8 @@
 		"name_en": "Dedenne",
 		"image": "pokemon/702.png",
 		"types": ["Électrik", "Fée"],
+		"abilities": ["Bajoues", "Ramassage", "Plus"],
+		"moves": [],
 		"base_stats": {
 			"hp": 67,
 			"atk": 58,
@@ -716,8 +745,7 @@
 			"spdef": 87,
 			"spe": 121
 		},
-		"megas": [],
-		"abilities": ["Bajoues", "Ramassage", "Plus"]
+		"megas": []
 	},
 	{
 		"no": 706,
@@ -725,6 +753,8 @@
 		"name_en": "Goodra",
 		"image": "pokemon/706.png",
 		"types": ["Dragon"],
+		"abilities": ["Herbivore", "Hydratation", "Poisseux"],
+		"moves": [],
 		"base_stats": {
 			"hp": 90,
 			"atk": 100,
@@ -741,8 +771,7 @@
 			"spdef": 170,
 			"spe": 100
 		},
-		"megas": [],
-		"abilities": ["Herbivore", "Hydratation", "Poisseux"]
+		"megas": []
 	},
 	{
 		"no": 706,
@@ -750,6 +779,8 @@
 		"name_en": "Hisuian Goodra",
 		"image": "pokemon/706-regional-h.png",
 		"types": ["Acier", "Dragon"],
+		"abilities": ["Herbivore", "Coque Armure", "Poisseux"],
+		"moves": [],
 		"base_stats": {
 			"hp": 80,
 			"atk": 100,
@@ -766,8 +797,7 @@
 			"spdef": 170,
 			"spe": 80
 		},
-		"megas": [],
-		"abilities": ["Herbivore", "Coque Armure", "Poisseux"]
+		"megas": []
 	},
 	{
 		"no": 707,
@@ -775,6 +805,8 @@
 		"name_en": "Klefki",
 		"image": "pokemon/707.png",
 		"types": ["Acier", "Fée"],
+		"abilities": ["Farceur", "Magicien"],
+		"moves": [],
 		"base_stats": {
 			"hp": 57,
 			"atk": 80,
@@ -791,8 +823,7 @@
 			"spdef": 107,
 			"spe": 95
 		},
-		"megas": [],
-		"abilities": ["Farceur", "Magicien"]
+		"megas": []
 	},
 	{
 		"no": 709,
@@ -800,6 +831,8 @@
 		"name_en": "Trevenant",
 		"image": "pokemon/709.png",
 		"types": ["Spectre", "Plante"],
+		"abilities": ["Médic Nature", "Fouille", "Récolte"],
+		"moves": [],
 		"base_stats": {
 			"hp": 85,
 			"atk": 110,
@@ -816,8 +849,7 @@
 			"spdef": 102,
 			"spe": 76
 		},
-		"megas": [],
-		"abilities": ["Médic Nature", "Fouille", "Récolte"]
+		"megas": []
 	},
 	{
 		"no": 711,
@@ -825,6 +857,8 @@
 		"name_en": "Gourgeist-S",
 		"image": "pokemon/711-small.png",
 		"types": ["Spectre", "Plante"],
+		"abilities": ["Ramassage", "Fouille", "Insomnia"],
+		"moves": [],
 		"base_stats": {
 			"hp": 55,
 			"atk": 85,
@@ -841,8 +875,7 @@
 			"spdef": 95,
 			"spe": 119
 		},
-		"megas": [],
-		"abilities": ["Ramassage", "Fouille", "Insomnia"]
+		"megas": []
 	},
 	{
 		"no": 711,
@@ -850,6 +883,8 @@
 		"name_en": "Gourgeist-M",
 		"image": "pokemon/711.png",
 		"types": ["Spectre", "Plante"],
+		"abilities": ["Ramassage", "Fouille", "Insomnia"],
+		"moves": [],
 		"base_stats": {
 			"hp": 65,
 			"atk": 90,
@@ -866,8 +901,7 @@
 			"spdef": 95,
 			"spe": 104
 		},
-		"megas": [],
-		"abilities": ["Ramassage", "Fouille", "Insomnia"]
+		"megas": []
 	},
 	{
 		"no": 711,
@@ -875,6 +909,8 @@
 		"name_en": "Gourgeist-L",
 		"image": "pokemon/711-large.png",
 		"types": ["Spectre", "Plante"],
+		"abilities": ["Ramassage", "Fouille", "Insomnia"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 95,
@@ -891,8 +927,7 @@
 			"spdef": 95,
 			"spe": 89
 		},
-		"megas": [],
-		"abilities": ["Ramassage", "Fouille", "Insomnia"]
+		"megas": []
 	},
 	{
 		"no": 711,
@@ -900,6 +935,8 @@
 		"name_en": "Gourgeist-XL",
 		"image": "pokemon/711-super.png",
 		"types": ["Spectre", "Plante"],
+		"abilities": ["Ramassage", "Fouille", "Insomnia"],
+		"moves": [],
 		"base_stats": {
 			"hp": 85,
 			"atk": 100,
@@ -916,8 +953,7 @@
 			"spdef": 95,
 			"spe": 74
 		},
-		"megas": [],
-		"abilities": ["Ramassage", "Fouille", "Insomnia"]
+		"megas": []
 	},
 	{
 		"no": 713,
@@ -925,6 +961,8 @@
 		"name_en": "Avalugg",
 		"image": "pokemon/713.png",
 		"types": ["Glace"],
+		"abilities": ["Tempo Perso", "Corps Gel", "Fermeté"],
+		"moves": [],
 		"base_stats": {
 			"hp": 95,
 			"atk": 117,
@@ -941,8 +979,7 @@
 			"spdef": 66,
 			"spe": 48
 		},
-		"megas": [],
-		"abilities": ["Tempo Perso", "Corps Gel", "Fermeté"]
+		"megas": []
 	},
 	{
 		"no": 713,
@@ -950,6 +987,8 @@
 		"name_en": "Hisuian Avalugg",
 		"image": "pokemon/713-regional-h.png",
 		"types": ["Glace", "Roche"],
+		"abilities": ["Prognathe", "Corps Gel", "Fermeté"],
+		"moves": [],
 		"base_stats": {
 			"hp": 95,
 			"atk": 127,
@@ -966,8 +1005,7 @@
 			"spdef": 56,
 			"spe": 58
 		},
-		"megas": [],
-		"abilities": ["Prognathe", "Corps Gel", "Fermeté"]
+		"megas": []
 	},
 	{
 		"no": 715,
@@ -975,6 +1013,8 @@
 		"name_en": "Noivern",
 		"image": "pokemon/715.png",
 		"types": ["Vol", "Dragon"],
+		"abilities": ["Fouille", "Infiltration", "Télépathe"],
+		"moves": [],
 		"base_stats": {
 			"hp": 85,
 			"atk": 70,
@@ -991,7 +1031,6 @@
 			"spdef": 100,
 			"spe": 143
 		},
-		"megas": [],
-		"abilities": ["Fouille", "Infiltration", "Télépathe"]
+		"megas": []
 	}
 ]

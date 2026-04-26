@@ -5,6 +5,8 @@
 		"name_en": "Torterra",
 		"image": "pokemon/389.png",
 		"types": ["Plante", "Sol"],
+		"abilities": ["Engrais", "Coque Armure"],
+		"moves": [],
 		"base_stats": {
 			"hp": 95,
 			"atk": 109,
@@ -21,8 +23,7 @@
 			"spdef": 105,
 			"spe": 76
 		},
-		"megas": [],
-		"abilities": ["Engrais", "Coque Armure"]
+		"megas": []
 	},
 	{
 		"no": 392,
@@ -30,6 +31,8 @@
 		"name_en": "Infernape",
 		"image": "pokemon/392.png",
 		"types": ["Feu", "Combat"],
+		"abilities": ["Brasier", "Poing de Fer"],
+		"moves": [],
 		"base_stats": {
 			"hp": 76,
 			"atk": 104,
@@ -46,8 +49,7 @@
 			"spdef": 91,
 			"spe": 128
 		},
-		"megas": [],
-		"abilities": ["Brasier", "Poing de Fer"]
+		"megas": []
 	},
 	{
 		"no": 395,
@@ -55,6 +57,8 @@
 		"name_en": "Empoleon",
 		"image": "pokemon/395.png",
 		"types": ["Eau", "Acier"],
+		"abilities": ["Torrent", "Battant"],
+		"moves": [],
 		"base_stats": {
 			"hp": 84,
 			"atk": 86,
@@ -71,8 +75,7 @@
 			"spdef": 121,
 			"spe": 80
 		},
-		"megas": [],
-		"abilities": ["Torrent", "Battant"]
+		"megas": []
 	},
 	{
 		"no": 405,
@@ -80,6 +83,8 @@
 		"name_en": "Luxray",
 		"image": "pokemon/405.png",
 		"types": ["Électrik"],
+		"abilities": ["Rivalité", "Intimidation", "Cran"],
+		"moves": [],
 		"base_stats": {
 			"hp": 80,
 			"atk": 120,
@@ -96,8 +101,7 @@
 			"spdef": 99,
 			"spe": 90
 		},
-		"megas": [],
-		"abilities": ["Rivalité", "Intimidation", "Cran"]
+		"megas": []
 	},
 	{
 		"no": 407,
@@ -105,6 +109,8 @@
 		"name_en": "Roserade",
 		"image": "pokemon/407.png",
 		"types": ["Plante", "Poison"],
+		"abilities": ["Médic Nature", "Point Poison", "Technicien"],
+		"moves": [],
 		"base_stats": {
 			"hp": 60,
 			"atk": 70,
@@ -121,8 +127,7 @@
 			"spdef": 125,
 			"spe": 110
 		},
-		"megas": [],
-		"abilities": ["Médic Nature", "Point Poison", "Technicien"]
+		"megas": []
 	},
 	{
 		"no": 409,
@@ -130,6 +135,8 @@
 		"name_en": "Rampardos",
 		"image": "pokemon/409.png",
 		"types": ["Roche"],
+		"abilities": ["Brise Moule", "Sans Limite"],
+		"moves": [],
 		"base_stats": {
 			"hp": 97,
 			"atk": 165,
@@ -146,8 +153,7 @@
 			"spdef": 70,
 			"spe": 78
 		},
-		"megas": [],
-		"abilities": ["Brise Moule", "Sans Limite"]
+		"megas": []
 	},
 	{
 		"no": 411,
@@ -155,6 +161,8 @@
 		"name_en": "Bastiodon",
 		"image": "pokemon/411.png",
 		"types": ["Roche", "Acier"],
+		"abilities": ["Fermeté", "Anti-Bruit"],
+		"moves": [],
 		"base_stats": {
 			"hp": 60,
 			"atk": 52,
@@ -171,8 +179,7 @@
 			"spdef": 158,
 			"spe": 50
 		},
-		"megas": [],
-		"abilities": ["Fermeté", "Anti-Bruit"]
+		"megas": []
 	},
 	{
 		"no": 428,
@@ -180,6 +187,8 @@
 		"name_en": "Lopunny",
 		"image": "pokemon/428.png",
 		"types": ["Normal"],
+		"abilities": ["Joli Sourire", "Maladresse", "Échauffement"],
+		"moves": [],
 		"base_stats": {
 			"hp": 65,
 			"atk": 76,
@@ -201,8 +210,7 @@
 				"pokemon": "Méga-Lockpin",
 				"stone": "Lockpinite"
 			}
-		],
-		"abilities": ["Joli Sourire", "Maladresse", "Échauffement"]
+		]
 	},
 	{
 		"no": 428,
@@ -210,6 +218,8 @@
 		"name_en": "Mega Lopunny",
 		"image": "pokemon/428-mega.png",
 		"types": ["Normal", "Combat"],
+		"abilities": ["Querelleur"],
+		"moves": [],
 		"base_stats": {
 			"hp": 65,
 			"atk": 136,
@@ -226,8 +236,7 @@
 			"spdef": 116,
 			"spe": 155
 		},
-		"megas": [],
-		"abilities": ["Querelleur"]
+		"megas": []
 	},
 	{
 		"no": 442,
@@ -235,6 +244,8 @@
 		"name_en": "Spiritomb",
 		"image": "pokemon/442.png",
 		"types": ["Spectre", "Ténèbres"],
+		"abilities": ["Pression", "Infiltration"],
+		"moves": [],
 		"base_stats": {
 			"hp": 50,
 			"atk": 92,
@@ -251,8 +262,7 @@
 			"spdef": 128,
 			"spe": 55
 		},
-		"megas": [],
-		"abilities": ["Pression", "Infiltration"]
+		"megas": []
 	},
 	{
 		"no": 445,
@@ -260,6 +270,8 @@
 		"name_en": "Garchomp",
 		"image": "pokemon/445.png",
 		"types": ["Dragon", "Sol"],
+		"abilities": ["Voile Sable", "Peau Dure"],
+		"moves": [],
 		"base_stats": {
 			"hp": 108,
 			"atk": 130,
@@ -281,8 +293,7 @@
 				"pokemon": "Méga-Carchacrok",
 				"stone": "Carchacrokite"
 			}
-		],
-		"abilities": ["Voile Sable", "Peau Dure"]
+		]
 	},
 	{
 		"no": 445,
@@ -290,6 +301,8 @@
 		"name_en": "Mega Garchomp",
 		"image": "pokemon/445-mega.png",
 		"types": ["Dragon", "Sol"],
+		"abilities": ["Force Sable"],
+		"moves": [],
 		"base_stats": {
 			"hp": 108,
 			"atk": 170,
@@ -306,8 +319,7 @@
 			"spdef": 115,
 			"spe": 112
 		},
-		"megas": [],
-		"abilities": ["Force Sable"]
+		"megas": []
 	},
 	{
 		"no": 448,
@@ -315,6 +327,8 @@
 		"name_en": "Lucario",
 		"image": "pokemon/448.png",
 		"types": ["Combat", "Acier"],
+		"abilities": ["Impassible", "Attention", "Cœur Noble"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 110,
@@ -336,8 +350,7 @@
 				"pokemon": "Méga-Lucario",
 				"stone": "Lucarite"
 			}
-		],
-		"abilities": ["Impassible", "Attention", "Cœur Noble"]
+		]
 	},
 	{
 		"no": 448,
@@ -345,6 +358,8 @@
 		"name_en": "Mega Lucario",
 		"image": "pokemon/448-mega.png",
 		"types": ["Combat", "Acier"],
+		"abilities": ["Adaptabilité"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 145,
@@ -361,8 +376,7 @@
 			"spdef": 90,
 			"spe": 132
 		},
-		"megas": [],
-		"abilities": ["Adaptabilité"]
+		"megas": []
 	},
 	{
 		"no": 450,
@@ -370,6 +384,8 @@
 		"name_en": "Hippowdon",
 		"image": "pokemon/450.png",
 		"types": ["Sol"],
+		"abilities": ["Sable Volant", "Force Sable"],
+		"moves": [],
 		"base_stats": {
 			"hp": 108,
 			"atk": 112,
@@ -386,8 +402,7 @@
 			"spdef": 92,
 			"spe": 67
 		},
-		"megas": [],
-		"abilities": ["Sable Volant", "Force Sable"]
+		"megas": []
 	},
 	{
 		"no": 454,
@@ -395,6 +410,8 @@
 		"name_en": "Toxicroak",
 		"image": "pokemon/454.png",
 		"types": ["Poison", "Combat"],
+		"abilities": ["Anticipation", "Peau Sèche", "Toxitouche"],
+		"moves": [],
 		"base_stats": {
 			"hp": 83,
 			"atk": 106,
@@ -411,8 +428,7 @@
 			"spdef": 85,
 			"spe": 105
 		},
-		"megas": [],
-		"abilities": ["Anticipation", "Peau Sèche", "Toxitouche"]
+		"megas": []
 	},
 	{
 		"no": 460,
@@ -420,6 +436,8 @@
 		"name_en": "Abomasnow",
 		"image": "pokemon/460.png",
 		"types": ["Plante", "Glace"],
+		"abilities": ["Alerte Neige", "Anti-Bruit"],
+		"moves": [],
 		"base_stats": {
 			"hp": 90,
 			"atk": 92,
@@ -441,8 +459,7 @@
 				"pokemon": "Méga-Blizzaroi",
 				"stone": "Blizzarite"
 			}
-		],
-		"abilities": ["Alerte Neige", "Anti-Bruit"]
+		]
 	},
 	{
 		"no": 460,
@@ -450,6 +467,8 @@
 		"name_en": "Mega Abomasnow",
 		"image": "pokemon/460-mega.png",
 		"types": ["Plante", "Glace"],
+		"abilities": ["Alerte Neige"],
+		"moves": [],
 		"base_stats": {
 			"hp": 90,
 			"atk": 132,
@@ -466,8 +485,7 @@
 			"spdef": 125,
 			"spe": 50
 		},
-		"megas": [],
-		"abilities": ["Alerte Neige"]
+		"megas": []
 	},
 	{
 		"no": 461,
@@ -475,6 +493,8 @@
 		"name_en": "Weavile",
 		"image": "pokemon/461.png",
 		"types": ["Ténèbres", "Glace"],
+		"abilities": ["Pression", "Pickpocket"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 120,
@@ -491,8 +511,7 @@
 			"spdef": 105,
 			"spe": 145
 		},
-		"megas": [],
-		"abilities": ["Pression", "Pickpocket"]
+		"megas": []
 	},
 	{
 		"no": 464,
@@ -500,6 +519,8 @@
 		"name_en": "Rhyperior",
 		"image": "pokemon/464.png",
 		"types": ["Sol", "Roche"],
+		"abilities": ["Paratonnerre", "Solide Roc", "Téméraire"],
+		"moves": [],
 		"base_stats": {
 			"hp": 115,
 			"atk": 140,
@@ -516,8 +537,7 @@
 			"spdef": 75,
 			"spe": 60
 		},
-		"megas": [],
-		"abilities": ["Paratonnerre", "Solide Roc", "Téméraire"]
+		"megas": []
 	},
 	{
 		"no": 470,
@@ -525,6 +545,8 @@
 		"name_en": "Leafeon",
 		"image": "pokemon/470.png",
 		"types": ["Plante"],
+		"abilities": ["Feuille Garde", "Chlorophylle"],
+		"moves": [],
 		"base_stats": {
 			"hp": 65,
 			"atk": 110,
@@ -541,8 +563,7 @@
 			"spdef": 85,
 			"spe": 115
 		},
-		"megas": [],
-		"abilities": ["Feuille Garde", "Chlorophylle"]
+		"megas": []
 	},
 	{
 		"no": 471,
@@ -550,6 +571,8 @@
 		"name_en": "Glaceon",
 		"image": "pokemon/471.png",
 		"types": ["Glace"],
+		"abilities": ["Rideau Neige", "Corps Gel"],
+		"moves": [],
 		"base_stats": {
 			"hp": 65,
 			"atk": 60,
@@ -566,8 +589,7 @@
 			"spdef": 115,
 			"spe": 85
 		},
-		"megas": [],
-		"abilities": ["Rideau Neige", "Corps Gel"]
+		"megas": []
 	},
 	{
 		"no": 472,
@@ -575,6 +597,8 @@
 		"name_en": "Gliscor",
 		"image": "pokemon/472.png",
 		"types": ["Sol", "Vol"],
+		"abilities": ["Hyper Cutter", "Voile Sable", "Soin Poison"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 95,
@@ -591,8 +615,7 @@
 			"spdef": 95,
 			"spe": 115
 		},
-		"megas": [],
-		"abilities": ["Hyper Cutter", "Voile Sable", "Soin Poison"]
+		"megas": []
 	},
 	{
 		"no": 473,
@@ -600,6 +623,8 @@
 		"name_en": "Mamoswine",
 		"image": "pokemon/473.png",
 		"types": ["Glace", "Sol"],
+		"abilities": ["Benêt", "Rideau Neige", "Isograisse"],
+		"moves": [],
 		"base_stats": {
 			"hp": 110,
 			"atk": 130,
@@ -616,8 +641,7 @@
 			"spdef": 80,
 			"spe": 100
 		},
-		"megas": [],
-		"abilities": ["Benêt", "Rideau Neige", "Isograisse"]
+		"megas": []
 	},
 	{
 		"no": 475,
@@ -625,6 +649,8 @@
 		"name_en": "Gallade",
 		"image": "pokemon/475.png",
 		"types": ["Psy", "Combat"],
+		"abilities": ["Impassible", "Incisif", "Cœur Noble"],
+		"moves": [],
 		"base_stats": {
 			"hp": 68,
 			"atk": 125,
@@ -646,8 +672,7 @@
 				"pokemon": "Méga-Gallame",
 				"stone": "Gallamite"
 			}
-		],
-		"abilities": ["Impassible", "Incisif", "Cœur Noble"]
+		]
 	},
 	{
 		"no": 475,
@@ -655,6 +680,8 @@
 		"name_en": "Mega Gallade",
 		"image": "pokemon/475-mega.png",
 		"types": ["Psy", "Combat"],
+		"abilities": ["Attention"],
+		"moves": [],
 		"base_stats": {
 			"hp": 68,
 			"atk": 165,
@@ -671,8 +698,7 @@
 			"spdef": 135,
 			"spe": 130
 		},
-		"megas": [],
-		"abilities": ["Attention"]
+		"megas": []
 	},
 	{
 		"no": 478,
@@ -680,6 +706,8 @@
 		"name_en": "Froslass",
 		"image": "pokemon/478.png",
 		"types": ["Glace", "Spectre"],
+		"abilities": ["Rideau Neige", "Corps Maudit"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 80,
@@ -701,8 +729,7 @@
 				"pokemon": "Méga-Momartik",
 				"stone": "Momartikite"
 			}
-		],
-		"abilities": ["Rideau Neige", "Corps Maudit"]
+		]
 	},
 	{
 		"no": 478,
@@ -710,6 +737,8 @@
 		"name_en": "Mega Froslass",
 		"image": "pokemon/478-mega.png",
 		"types": ["Glace", "Spectre"],
+		"abilities": ["Alerte Neige"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 80,
@@ -726,8 +755,7 @@
 			"spdef": 120,
 			"spe": 140
 		},
-		"megas": [],
-		"abilities": ["Alerte Neige"]
+		"megas": []
 	},
 	{
 		"no": 479,
@@ -735,6 +763,8 @@
 		"name_en": "Rotom",
 		"image": "pokemon/479.png",
 		"types": ["Électrik", "Spectre"],
+		"abilities": ["Lévitation"],
+		"moves": [],
 		"base_stats": {
 			"hp": 50,
 			"atk": 50,
@@ -751,8 +781,7 @@
 			"spdef": 97,
 			"spe": 111
 		},
-		"megas": [],
-		"abilities": ["Lévitation"]
+		"megas": []
 	},
 	{
 		"no": 479,
@@ -760,6 +789,8 @@
 		"name_en": "Rotom-Heat",
 		"image": "pokemon/479-heat.png",
 		"types": ["Électrik", "Feu"],
+		"abilities": ["Lévitation"],
+		"moves": [],
 		"base_stats": {
 			"hp": 50,
 			"atk": 65,
@@ -776,8 +807,7 @@
 			"spdef": 127,
 			"spe": 106
 		},
-		"megas": [],
-		"abilities": ["Lévitation"]
+		"megas": []
 	},
 	{
 		"no": 479,
@@ -785,6 +815,8 @@
 		"name_en": "Rotom-Wash",
 		"image": "pokemon/479-wash.png",
 		"types": ["Électrik", "Eau"],
+		"abilities": ["Lévitation"],
+		"moves": [],
 		"base_stats": {
 			"hp": 50,
 			"atk": 65,
@@ -801,8 +833,7 @@
 			"spdef": 127,
 			"spe": 106
 		},
-		"megas": [],
-		"abilities": ["Lévitation"]
+		"megas": []
 	},
 	{
 		"no": 479,
@@ -810,6 +841,8 @@
 		"name_en": "Rotom-Frost",
 		"image": "pokemon/479-frost.png",
 		"types": ["Électrik", "Glace"],
+		"abilities": ["Lévitation"],
+		"moves": [],
 		"base_stats": {
 			"hp": 50,
 			"atk": 65,
@@ -826,8 +859,7 @@
 			"spdef": 127,
 			"spe": 106
 		},
-		"megas": [],
-		"abilities": ["Lévitation"]
+		"megas": []
 	},
 	{
 		"no": 479,
@@ -835,6 +867,8 @@
 		"name_en": "Rotom-Fan",
 		"image": "pokemon/479-fan.png",
 		"types": ["Électrik", "Vol"],
+		"abilities": ["Lévitation"],
+		"moves": [],
 		"base_stats": {
 			"hp": 50,
 			"atk": 65,
@@ -851,8 +885,7 @@
 			"spdef": 127,
 			"spe": 106
 		},
-		"megas": [],
-		"abilities": ["Lévitation"]
+		"megas": []
 	},
 	{
 		"no": 479,
@@ -860,6 +893,8 @@
 		"name_en": "Rotom-Mow",
 		"image": "pokemon/479-mow.png",
 		"types": ["Électrik", "Plante"],
+		"abilities": ["Lévitation"],
+		"moves": [],
 		"base_stats": {
 			"hp": 50,
 			"atk": 65,
@@ -876,7 +911,6 @@
 			"spdef": 127,
 			"spe": 106
 		},
-		"megas": [],
-		"abilities": ["Lévitation"]
+		"megas": []
 	}
 ]

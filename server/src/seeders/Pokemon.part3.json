@@ -5,6 +5,8 @@
 		"name_en": "Pelipper",
 		"image": "pokemon/279.png",
 		"types": ["Eau", "Vol"],
+		"abilities": ["Regard Vif", "Crachin", "Cuvette"],
+		"moves": [],
 		"base_stats": {
 			"hp": 60,
 			"atk": 50,
@@ -21,8 +23,7 @@
 			"spdef": 90,
 			"spe": 85
 		},
-		"megas": [],
-		"abilities": ["Regard Vif", "Crachin", "Cuvette"]
+		"megas": []
 	},
 	{
 		"no": 282,
@@ -30,6 +31,8 @@
 		"name_en": "Gardevoir",
 		"image": "pokemon/282.png",
 		"types": ["Psy", "Fée"],
+		"abilities": ["Synchro", "Calque", "Télépathe"],
+		"moves": [],
 		"base_stats": {
 			"hp": 68,
 			"atk": 65,
@@ -51,8 +54,7 @@
 				"pokemon": "Méga-Gardevoir",
 				"stone": "Gardevoirite"
 			}
-		],
-		"abilities": ["Synchro", "Calque", "Télépathe"]
+		]
 	},
 	{
 		"no": 282,
@@ -60,6 +62,8 @@
 		"name_en": "Mega Gardevoir",
 		"image": "pokemon/282-mega.png",
 		"types": ["Psy", "Fée"],
+		"abilities": ["Peau Féérique"],
+		"moves": [],
 		"base_stats": {
 			"hp": 68,
 			"atk": 85,
@@ -76,8 +80,7 @@
 			"spdef": 155,
 			"spe": 120
 		},
-		"megas": [],
-		"abilities": ["Peau Féérique"]
+		"megas": []
 	},
 	{
 		"no": 302,
@@ -85,6 +88,8 @@
 		"name_en": "Sableye",
 		"image": "pokemon/302.png",
 		"types": ["Ténèbres", "Spectre"],
+		"abilities": ["Regard Vif", "Frein", "Farceur"],
+		"moves": [],
 		"base_stats": {
 			"hp": 50,
 			"atk": 75,
@@ -106,8 +111,7 @@
 				"pokemon": "Méga-Ténéfix",
 				"stone": "Ténéfixite"
 			}
-		],
-		"abilities": ["Regard Vif", "Frein", "Farceur"]
+		]
 	},
 	{
 		"no": 302,
@@ -115,6 +119,8 @@
 		"name_en": "Mega Sableye",
 		"image": "pokemon/302-mega.png",
 		"types": ["Ténèbres", "Spectre"],
+		"abilities": ["Miroir Magik"],
+		"moves": [],
 		"base_stats": {
 			"hp": 50,
 			"atk": 85,
@@ -131,8 +137,7 @@
 			"spdef": 135,
 			"spe": 40
 		},
-		"megas": [],
-		"abilities": ["Miroir Magik"]
+		"megas": []
 	},
 	{
 		"no": 306,
@@ -140,6 +145,8 @@
 		"name_en": "Aggron",
 		"image": "pokemon/306.png",
 		"types": ["Acier", "Roche"],
+		"abilities": ["Fermeté", "Tête de Roc", "Heavy Metal"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 110,
@@ -161,8 +168,7 @@
 				"pokemon": "Méga-Galeking",
 				"stone": "Galekingite"
 			}
-		],
-		"abilities": ["Fermeté", "Tête de Roc", "Heavy Metal"]
+		]
 	},
 	{
 		"no": 306,
@@ -170,6 +176,8 @@
 		"name_en": "Mega Aggron",
 		"image": "pokemon/306-mega.png",
 		"types": ["Acier"],
+		"abilities": ["Filtre"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 140,
@@ -186,8 +194,7 @@
 			"spdef": 100,
 			"spe": 70
 		},
-		"megas": [],
-		"abilities": ["Filtre"]
+		"megas": []
 	},
 	{
 		"no": 308,
@@ -195,6 +202,8 @@
 		"name_en": "Medicham",
 		"image": "pokemon/308.png",
 		"types": ["Combat", "Psy"],
+		"abilities": ["Force Pure", "Télépathe"],
+		"moves": [],
 		"base_stats": {
 			"hp": 60,
 			"atk": 60,
@@ -216,8 +225,7 @@
 				"pokemon": "Méga-Charmina",
 				"stone": "Charminite"
 			}
-		],
-		"abilities": ["Force Pure", "Télépathe"]
+		]
 	},
 	{
 		"no": 308,
@@ -225,6 +233,8 @@
 		"name_en": "Mega Medicham",
 		"image": "pokemon/308-mega.png",
 		"types": ["Combat", "Psy"],
+		"abilities": ["Force Pure"],
+		"moves": [],
 		"base_stats": {
 			"hp": 60,
 			"atk": 100,
@@ -241,8 +251,7 @@
 			"spdef": 105,
 			"spe": 120
 		},
-		"megas": [],
-		"abilities": ["Force Pure"]
+		"megas": []
 	},
 	{
 		"no": 310,
@@ -250,6 +259,8 @@
 		"name_en": "Manectric",
 		"image": "pokemon/310.png",
 		"types": ["Électrik"],
+		"abilities": ["Statik", "Paratonnerre", "Moins"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 75,
@@ -271,8 +282,7 @@
 				"pokemon": "Méga-Élecsprint",
 				"stone": "Élecsprintite"
 			}
-		],
-		"abilities": ["Statik", "Paratonnerre", "Moins"]
+		]
 	},
 	{
 		"no": 310,
@@ -280,6 +290,8 @@
 		"name_en": "Mega Manectric",
 		"image": "pokemon/310-mega.png",
 		"types": ["Électrik"],
+		"abilities": ["Intimidation"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 75,
@@ -296,8 +308,7 @@
 			"spdef": 100,
 			"spe": 155
 		},
-		"megas": [],
-		"abilities": ["Intimidation"]
+		"megas": []
 	},
 	{
 		"no": 319,
@@ -305,6 +316,8 @@
 		"name_en": "Sharpedo",
 		"image": "pokemon/319.png",
 		"types": ["Eau", "Ténèbres"],
+		"abilities": ["Peau Dure", "Turbo"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 120,
@@ -326,8 +339,7 @@
 				"pokemon": "Méga-Sharpedo",
 				"stone": "Sharpedite"
 			}
-		],
-		"abilities": ["Peau Dure", "Turbo"]
+		]
 	},
 	{
 		"no": 319,
@@ -335,6 +347,8 @@
 		"name_en": "Mega Sharpedo",
 		"image": "pokemon/319-mega.png",
 		"types": ["Eau", "Ténèbres"],
+		"abilities": ["Prognathe"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 140,
@@ -351,8 +365,7 @@
 			"spdef": 85,
 			"spe": 125
 		},
-		"megas": [],
-		"abilities": ["Prognathe"]
+		"megas": []
 	},
 	{
 		"no": 323,
@@ -360,6 +373,8 @@
 		"name_en": "Camerupt",
 		"image": "pokemon/323.png",
 		"types": ["Feu", "Sol"],
+		"abilities": ["Armumagma", "Solide Roc", "Colérique"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 100,
@@ -381,8 +396,7 @@
 				"pokemon": "Méga-Camérupt",
 				"stone": "Caméruptite"
 			}
-		],
-		"abilities": ["Armumagma", "Solide Roc", "Colérique"]
+		]
 	},
 	{
 		"no": 323,
@@ -390,6 +404,8 @@
 		"name_en": "Mega Camerupt",
 		"image": "pokemon/323-mega.png",
 		"types": ["Feu", "Sol"],
+		"abilities": ["Sans Limite"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 120,
@@ -406,8 +422,7 @@
 			"spdef": 125,
 			"spe": 40
 		},
-		"megas": [],
-		"abilities": ["Sans Limite"]
+		"megas": []
 	},
 	{
 		"no": 324,
@@ -415,6 +430,8 @@
 		"name_en": "Torkoal",
 		"image": "pokemon/324.png",
 		"types": ["Feu"],
+		"abilities": ["Écran Fumée", "Sécheresse", "Coque Armure"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 85,
@@ -431,8 +448,7 @@
 			"spdef": 90,
 			"spe": 40
 		},
-		"megas": [],
-		"abilities": ["Écran Fumée", "Sécheresse", "Coque Armure"]
+		"megas": []
 	},
 	{
 		"no": 334,
@@ -440,6 +456,8 @@
 		"name_en": "Altaria",
 		"image": "pokemon/334.png",
 		"types": ["Dragon", "Vol"],
+		"abilities": ["Médic Nature", "Ciel Gris"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 70,
@@ -461,8 +479,7 @@
 				"pokemon": "Méga-Altaria",
 				"stone": "Altarite"
 			}
-		],
-		"abilities": ["Médic Nature", "Ciel Gris"]
+		]
 	},
 	{
 		"no": 334,
@@ -470,6 +487,8 @@
 		"name_en": "Mega Altaria",
 		"image": "pokemon/334-mega.png",
 		"types": ["Dragon", "Fée"],
+		"abilities": ["Peau Féérique"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 110,
@@ -486,8 +505,7 @@
 			"spdef": 125,
 			"spe": 100
 		},
-		"megas": [],
-		"abilities": ["Peau Féérique"]
+		"megas": []
 	},
 	{
 		"no": 350,
@@ -495,6 +513,8 @@
 		"name_en": "Milotic",
 		"image": "pokemon/350.png",
 		"types": ["Eau"],
+		"abilities": ["Écaille Spéciale", "Battant", "Joli Sourire"],
+		"moves": [],
 		"base_stats": {
 			"hp": 95,
 			"atk": 60,
@@ -511,8 +531,7 @@
 			"spdef": 145,
 			"spe": 101
 		},
-		"megas": [],
-		"abilities": ["Écaille Spéciale", "Battant", "Joli Sourire"]
+		"megas": []
 	},
 	{
 		"no": 351,
@@ -520,6 +539,8 @@
 		"name_en": "Castform",
 		"image": "pokemon/351.png",
 		"types": ["Normal"],
+		"abilities": ["Météo"],
+		"moves": [],
 		"base_stats": {
 			"hp": 70,
 			"atk": 70,
@@ -536,8 +557,7 @@
 			"spdef": 90,
 			"spe": 90
 		},
-		"megas": [],
-		"abilities": ["Météo"]
+		"megas": []
 	},
 	{
 		"no": 354,
@@ -545,6 +565,8 @@
 		"name_en": "Banette",
 		"image": "pokemon/354.png",
 		"types": ["Spectre"],
+		"abilities": ["Insomnia", "Fouille", "Corps Maudit"],
+		"moves": [],
 		"base_stats": {
 			"hp": 64,
 			"atk": 115,
@@ -566,8 +588,7 @@
 				"pokemon": "Méga-Branette",
 				"stone": "Branettite"
 			}
-		],
-		"abilities": ["Insomnia", "Fouille", "Corps Maudit"]
+		]
 	},
 	{
 		"no": 354,
@@ -575,6 +596,8 @@
 		"name_en": "Mega Banette",
 		"image": "pokemon/354-mega.png",
 		"types": ["Spectre"],
+		"abilities": ["Farceur"],
+		"moves": [],
 		"base_stats": {
 			"hp": 64,
 			"atk": 165,
@@ -591,8 +614,7 @@
 			"spdef": 103,
 			"spe": 95
 		},
-		"megas": [],
-		"abilities": ["Farceur"]
+		"megas": []
 	},
 	{
 		"no": 358,
@@ -600,6 +622,8 @@
 		"name_en": "Chimecho",
 		"image": "pokemon/358.png",
 		"types": ["Psy"],
+		"abilities": ["Lévitation"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 50,
@@ -621,8 +645,7 @@
 				"pokemon": "Méga-Éoko",
 				"stone": "Éokite"
 			}
-		],
-		"abilities": ["Lévitation"]
+		]
 	},
 	{
 		"no": 358,
@@ -630,6 +653,8 @@
 		"name_en": "Mega Chimecho",
 		"image": "pokemon/358-mega.png",
 		"types": ["Psy", "Acier"],
+		"abilities": ["Lévitation"],
+		"moves": [],
 		"base_stats": {
 			"hp": 75,
 			"atk": 50,
@@ -646,8 +671,7 @@
 			"spdef": 140,
 			"spe": 85
 		},
-		"megas": [],
-		"abilities": ["Lévitation"]
+		"megas": []
 	},
 	{
 		"no": 359,
@@ -655,6 +679,8 @@
 		"name_en": "Absol",
 		"image": "pokemon/359.png",
 		"types": ["Ténèbres"],
+		"abilities": ["Pression", "Chanceux", "Cœur Noble"],
+		"moves": [],
 		"base_stats": {
 			"hp": 65,
 			"atk": 130,
@@ -676,8 +702,7 @@
 				"pokemon": "Méga-Absol",
 				"stone": "Absolite"
 			}
-		],
-		"abilities": ["Pression", "Chanceux", "Cœur Noble"]
+		]
 	},
 	{
 		"no": 359,
@@ -685,6 +710,8 @@
 		"name_en": "Mega Absol",
 		"image": "pokemon/359-mega.png",
 		"types": ["Ténèbres"],
+		"abilities": ["Miroir Magik"],
+		"moves": [],
 		"base_stats": {
 			"hp": 65,
 			"atk": 150,
@@ -701,8 +728,7 @@
 			"spdef": 80,
 			"spe": 135
 		},
-		"megas": [],
-		"abilities": ["Miroir Magik"]
+		"megas": []
 	},
 	{
 		"no": 362,
@@ -710,6 +736,8 @@
 		"name_en": "Glalie",
 		"image": "pokemon/362.png",
 		"types": ["Glace"],
+		"abilities": ["Attention", "Corps Gel", "Lunatique"],
+		"moves": [],
 		"base_stats": {
 			"hp": 80,
 			"atk": 80,
@@ -731,8 +759,7 @@
 				"pokemon": "Méga-Oniglali",
 				"stone": "Oniglalite"
 			}
-		],
-		"abilities": ["Attention", "Corps Gel", "Lunatique"]
+		]
 	},
 	{
 		"no": 362,
@@ -740,6 +767,8 @@
 		"name_en": "Mega Glalie",
 		"image": "pokemon/362-mega.png",
 		"types": ["Glace"],
+		"abilities": ["Peau Gelée"],
+		"moves": [],
 		"base_stats": {
 			"hp": 80,
 			"atk": 120,
@@ -756,7 +785,6 @@
 			"spdef": 100,
 			"spe": 120
 		},
-		"megas": [],
-		"abilities": ["Peau Gelée"]
+		"megas": []
 	}
 ]
